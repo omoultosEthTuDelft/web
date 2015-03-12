@@ -1,6 +1,6 @@
 body {
-  padding-top: 70px;
-  padding-bottom: 30px;
+  font-size: 140%;
+  padding-bottom: 10px;
 }
 
 .theme-dropdown .dropdown-menu {
@@ -16,9 +16,69 @@ body {
 /* Customize container */
 @media (min-width: 768px) {
   .container {
-    max-width: 730px;
+    max-width: 780px;
   }
 }
 .container-narrow > hr {
   margin: 30px 0;
 }
+
+.row {
+  padding-top: 10px;
+}
+
+.navbar-nav > li > a {padding-top: 8px !important; padding-bottom: 8px !important;}
+
+.navbar { 
+  min-height: 30px !important;
+  max-width: 780px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+
+h1, h2 { border-bottom: 1px solid #C0C0C0 }
+
+h3, h4 { border-bottom: 1px dotted #D3D3D3 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

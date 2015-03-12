@@ -3,6 +3,9 @@
   <head>
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta charset="UTF-8">
+
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <link href="css/bootstrap-theme.css" rel="stylesheet">
@@ -17,18 +20,19 @@
     <![endif]-->
 
     <meta name="keywords" content="about,Αστέριος,Κατσιφοδήμος,Asterios,Katsifodimos,INRIA,Saclay,Paris,Chalkidiki,University,of,Cyprus,UCY,TU,Berlin,technische,universität,berlin"/>
-
-
   </head>
-  <body>
 
-    <div class="container">
+
+<body>
+
+ <div class="container">
     {{ content }}
-    </div>
     <hr>
-    <p class="text-center text-muted" style=""><small>&copy; Asterios Katsifodimos | Last Update: {{ site.time | date_to_string }}</small></p>
+</div>
+    
+    <p class="text-center text-muted" style=""><small>&copy; Asterios Katsifodimos &nbsp; | &nbsp; Last Update: {{ site.time | date_to_string }}</small></p>
 
-    <!-- ------------ REST OF INCLUDES -------------- -->
+    <!-- - - - - - - - REST OF INCLUDES - - - - - - - - -->
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://code.jquery.com/jquery.js"></script>
