@@ -1,6 +1,6 @@
 all:
 	jekyll build
 sync:
-	 rsync --progress --delete -r _site/* asteriosk@sshgate.tu-berlin.de:public_html/
+	 rsync --progress --delete -r _site/* root@asteriosk.gr:/var/www/asteriosk.gr/
 preview:
 	jekyll serve --watch --baseurl ''
