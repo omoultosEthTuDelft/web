@@ -21,14 +21,18 @@ Assistant Professor, <a href="http://www.tudelft.nl/">Delft University of Techno
 
 
 
-Before joining TU Delft, I was part of the <a href="https://icn.sap.com">SAP Innovation Center</a> in Berlin, working on scale-out architectures for machine learning inference and training. Before SAP, I was a senior researcher at the <a href="http://www.dima.tu-berlin.de/menue/database_systems_and_information_management_group/?no_cache=1">database systems group</a> in TU Berlin, headed by <a href="https://www.dima.tu-berlin.de/menue/staff/volker_markl/">Volker Markl</a>. I received my PhD from <a href="http://www.inria.fr/saclay/">INRIA Saclay</a> &amp; <a href="http://www.u-psud.fr" >Universite Paris-Sud</a> in 2013, under the supervision of <a href="http://www-rocq.inria.fr/~manolesc/">Ioana Manolescu</a>. Prior to that, I was a member of the High Performance Computing systems Lab (<a href="http://grid.ucy.ac.cy">HPCL</a>), at the University of Cyprus, working with <a href="http://www.cs.ucy.ac.cy/~mdd/">Marios Dikaiakos</a>.
+Before joining TU Delft, I spent a year with the <a href="https://icn.sap.com">SAP Innovation Center</a> in Berlin, working on scale-out architectures for machine learning inference and training. Before SAP, I was a senior researcher at the <a href="http://www.dima.tu-berlin.de/menue/database_systems_and_information_management_group/?no_cache=1">database systems group</a> in TU Berlin, headed by <a href="https://www.dima.tu-berlin.de/menue/staff/volker_markl/">Volker Markl</a>. I received my PhD from <a href="http://www.inria.fr/saclay/">INRIA Saclay</a> &amp; <a href="http://www.u-psud.fr" >Universite Paris-Sud</a> in 2013, under the supervision of <a href="http://www-rocq.inria.fr/~manolesc/">Ioana Manolescu</a>. Prior to that, I was a member of the High Performance Computing systems Lab (<a href="http://grid.ucy.ac.cy">HPCL</a>), at the University of Cyprus, working with <a href="http://www.cs.ucy.ac.cy/~mdd/">Marios Dikaiakos</a>.
 </p>
 
 <p style="text-align: justify;">
-My research interests include scalable data management, Big Data analytics systems, database language models, materialized views, query optimization, and distributed systems. <br><br></p>
+I mainly work in the broad area of scalable data management, more specifically on Big (streaming) Data analytics systems, database language models, and query optimization. <br><br></p>
+
+<div class="alert alert-info" role="alert" markdown="1">
+  I am searching for a **motivated postdoc** to help me setup a new research lab and take over responsibilities at Delft Data Science! More information <a href="jobs.html">here</a>. 
+</div>
+
 
 <h4>Contact</h4>
-
 
 <div class="col-sm-5">
 <h5> <span class="fa fa-map-marker"></span> Address</h5>
@@ -56,18 +60,20 @@ A.LASTNAME@tudelft.nl<br>
 <div class="row-fluid">
     <div id="news" class="row">
     <div style="text-align: justify;" class="col-sm-12">
-    <h4>News</h4>
-    <ul>
+<h4>News</h4>
 
-    <li><i>August 2017</i>: BlockJoin, a technique for joining massive datasets producing distributed block-partitioned matrices, will be presented in next year's VLDB 2018.</li>
+<section markdown="1">
+- August 2017: BlockJoin, a technique for joining massive datasets producing distributed block-partitioned matrices, will be presented in next year's **VLDB 2018**.
+- June 2017: At **SoCC 2017** we are presenting our work on SENSE, a framework for sensor-data gathering.
+- August 2016: We will present Cutty, a technique for sharing aggregates among user-defined (sliding) window functions in streaming systems, at **CIKM 2016**.
+- March 2016: We published a short overview of <a href="http://flink.apache.org">Apache Flink</a> in the **IEEE Data Engineering Bulletin** (<a href="./assets/publications/flink-deb.pdf">pdf</a>).
+- February 2016: Our paper on Emma, was accepted for publication at SIGMOD 2015, and will be demonstrated in SIGMOD 2016. Emma received the 2016 <strong>ACM SIGMOD Research Highlights Award</strong>! More information  <a href="https://sigmodrecord.org/issues/sigmod-record-march-2016-awards/">here</a>.
+</section>
 
-    <li><i>June 2017</i>: At SoCC 2017 we are presenting our work on SENSE, a framework for sensor-data gathering.</li>
+    
 
-    <li><i>August 2016</i>: We will present Cutty, a technique for sharing aggregates among user-defined (sliding) window functions in streaming systems, at CIKM 2016.</li>
 
-    <li><i>March 2016</i>: We published a short overview of <a href="http://flink.apache.org">Apache Flink</a> in the IEEE Data Engineering Bulletin (<a href="./assets/publications/flink-deb.pdf">pdf</a>).</li>
 
-    <li><i>February 2016</i>: Our paper on Emma, was accepted for publication at SIGMOD 2015, and will be demonstrated in SIGMOD 2016. Emma received the 2016 <strong>ACM SIGMOD Research Highlights Award</strong>! More information  <a href="https://sigmodrecord.org/issues/sigmod-record-march-2016-awards/">here</a>.</li>
 
 <!--     <li>I am organizing <a href="http://danac.org">DanaC: Workshop for Data Analytics at sCale</a>  at SIGMOD 2015. Consider submitting a paper by March 20, 2015, or attending on Sunday 31st May in Melbourne!</li>
 
@@ -80,7 +86,7 @@ A.LASTNAME@tudelft.nl<br>
     <li>Our paper on Delta, a novel, scalable publish/subscribe platform was accepted in <a href="http://www.vldb.org/2014/">VLDB 2014</a>.</li>
       
     <li>I defended my <a href="assets/publications/phd.thesis.pdf">PhD thesis</a> on July 3rd, 2013.</li> -->
-    </ul>
+    <!-- </ul> -->
     </div>
     </div>
 </div>

@@ -63,9 +63,9 @@ publications:
 <h4>{{pub.title}}</h4>
 {% else %}
  <dt><span class="label label-primary">{{ pub.label }}</span><br/>
-    {% if pub('pdf')? %}<a href="{{ pub.pdf }}" class="btn btn-default btn-xs"><i class="fa fa-download"></i>&nbsp;PDF</a>{% endif %}
-    {% if pub('poster')? %}<a href="{{ pub.poster }}" class="btn btn-default btn-xs"><i class="fa fa-download"></i>&nbsp;Poster</a>{% endif %}
-    {% if pub('slides')? %}<a href="{{ pub.slides }}" class="btn btn-default btn-xs"><i class="fa fa-download"></i>&nbsp;Slides</a>{% endif %}
+    {% if pub('pdf')? %}<a href="/{{ pub.pdf }}" class="btn btn-default btn-xs"><i class="fa fa-download"></i>&nbsp;PDF</a>{% endif %}
+    {% if pub('poster')? %}<a href="/{{ pub.poster }}" class="btn btn-default btn-xs"><i class="fa fa-download"></i>&nbsp;Poster</a>{% endif %}
+    {% if pub('slides')? %}<a href="/{{ pub.slides }}" class="btn btn-default btn-xs"><i class="fa fa-download"></i>&nbsp;Slides</a>{% endif %}
 	</dt>
   <dd>
     <strong>"{{ pub.title }}"</strong>: {{ pub.authors }}. {{pub.venue}}. 
