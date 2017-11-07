@@ -55,24 +55,26 @@ publications:
 
 <div id="publications" class="row">
 <div style="text-align: justify;" class="col-sm-12">
-<h3>Publications</h3>
+<h5>Publications</h5>
 
-<dl class="dl-horizontal">
 {% for pub in page.publications %}
 {% if pub('section')? %}
-<h4>{{pub.title}}</h4>
+<h6>{{pub.title}}</h6>
 {% else %}
- <dt><span class="label label-primary">{{ pub.label }}</span><br/>
-    {% if pub('pdf')? %}<a href="/{{ pub.pdf }}" class="btn btn-default btn-xs"><i class="fa fa-download"></i>&nbsp;PDF</a>{% endif %}
-    {% if pub('poster')? %}<a href="/{{ pub.poster }}" class="btn btn-default btn-xs"><i class="fa fa-download"></i>&nbsp;Poster</a>{% endif %}
-    {% if pub('slides')? %}<a href="/{{ pub.slides }}" class="btn btn-default btn-xs"><i class="fa fa-download"></i>&nbsp;Slides</a>{% endif %}
+&nbsp;
+<dl class="row">
+ <dt class="col-sm-3"><span class="badge badge-pill badge-default">{{ pub.label }}</span><br/>
+    {% if pub('pdf')? %}<a href="/{{ pub.pdf }}" class="badge badge-warning" role="button"><i class="fa fa-download"></i>&nbsp;PDF</a>{% endif %}
+    {% if pub('poster')? %}<a href="/{{ pub.poster }}" class="badge badge-warning" role="button"><i class="fa fa-download"></i>&nbsp;Poster</a>{% endif %}
+    {% if pub('slides')? %}<a href="/{{ pub.slides }}" class="badge badge-warning" role="button"><i class="fa fa-download"></i>&nbsp;Slides</a>{% endif %}
 	</dt>
-  <dd>
+  <dd class="col-sm-9">
     <strong>"{{ pub.title }}"</strong>: {{ pub.authors }}. {{pub.venue}}. 
   </dd>
+</dl>
 {% endif %}
 {% endfor %}
-</dl>
+
 </div>
 
 

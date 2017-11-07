@@ -3,8 +3,9 @@ layout: default
 title: "Open Position | Asterios Katsifodimos"
 ---
 
-
-#### Postdoc position at TU Delft
+<br/>
+	
+###### Postdoc position at TU Delft
 
 **Data Management with applications on Scalable ML and Stream Analytics**
 <br/>

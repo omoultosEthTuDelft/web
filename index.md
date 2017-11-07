@@ -7,19 +7,14 @@ title: "Asterios Katsifodimos | Assistant Professor, TU Delft"
 
 
 <div id="top" class="row">
-<div class="col-sm-8">
-<h3> Asterios Katsifodimos </h3>
+<div class="col-sm-9">
+<!-- <h3> Asterios Katsifodimos </h3> -->
 
 <p class="lead" style="font-size: 130%">
 Assistant Professor, <a href="http://www.tudelft.nl/">Delft University of Technology (TU Delft)</a>.<br>Member of the <a href="http://www.wis.ewi.tudelft.nl/">Web Information Systems group</a>.
 </p>
 
 <p style="text-align: justify;">
-
-
-<!-- Asterios Katsifodimos is an assistant professor at TU Delft. Prior to that, he worked at the SAP Innovation Center in Berlin, designing and implementing scale-out data management architectures for SAP's Leonardo ML foundation. Before joining SAP, Asterios spent three years as a senior researcher with the database systems group in TU Berlin led by Prof. Volker Markl, working on language models and systems for scalable analytics. Asterios received his PhD from INRIA Saclay & Universite Paris-Sud in 2013 for his work on distributed database architectures based on materialised views, under the supervision of Ioana Manolescu. During his MSc studies, Asterios was a researcher at the High Performance Computing systems Lab (HPCL, now LINC), at the University of Cyprus, led by Marios Dikaiakos. More information and a full list of publications can be found in his personal website: http://asterios.katsifodimos.com. -->
-
-
 
 Before joining TU Delft, I spent a year with the <a href="https://icn.sap.com">SAP Innovation Center</a> in Berlin, working on scale-out architectures for machine learning inference and training. Before SAP, I was a senior researcher at the <a href="http://www.dima.tu-berlin.de/menue/database_systems_and_information_management_group/?no_cache=1">database systems group</a> in TU Berlin, headed by <a href="https://www.dima.tu-berlin.de/menue/staff/volker_markl/">Volker Markl</a>. I received my PhD from <a href="http://www.inria.fr/saclay/">INRIA Saclay</a> &amp; <a href="http://www.u-psud.fr" >Universite Paris-Sud</a> in 2013, under the supervision of <a href="http://www-rocq.inria.fr/~manolesc/">Ioana Manolescu</a>. Prior to that, I was a member of the High Performance Computing systems Lab (<a href="http://grid.ucy.ac.cy">HPCL</a>), at the University of Cyprus, working with <a href="http://www.cs.ucy.ac.cy/~mdd/">Marios Dikaiakos</a>.
 </p>
@@ -31,36 +26,43 @@ I mainly work in the broad area of scalable data management, more specifically o
   I am searching for a **motivated postdoc** to help me setup a new research lab and take over responsibilities at Delft Data Science! More information <a href="jobs.html">here</a>. 
 </div>
 
+</div>
 
-<h4>Contact</h4>
+<div class="col-md-3">
+<br/>
+      <img src="assets/asterios.katsifodimos-2015-color.jpg" class="img-thumbnail" alt="Asterios Kαtsifodimos - Αστέριος Κατσιφοδήμος">
 
-<div class="col-sm-5">
-<h5> <span class="fa fa-map-marker"></span> Address</h5>
+</div>
+
+
+<div class="row col-sm-12">
+
+<!-- <h4>Contact</h4> -->
+<br/>
+<div class="col-sm-4">
+<h6> <span class="fa fa-map-marker"></span> Address</h6>
 Office HB.08.140 (8th floor)<br/>
 Mekelweg 4<br/>
 2628 CD Delft<br/>
 Netherlands
 </div>
 
-<div class="col-sm-6">
-<h5> <span class="fa fa-envelope"></span> e-mail</h5>
+<div class="col-sm-3">
+<h6> <span class="fa fa-envelope"></span> e-mail</h6>
 A.LASTNAME@tudelft.nl<br>
 </div>
 
 </div>
 
-<div class="col-sm-3">
-<br/>
-      <img src="assets/asterios.katsifodimos-2015-color.jpg" class="img-thumbnail" alt="Asterios Kαtsifodimos - Αστέριος Κατσιφοδήμος">
 </div>
-</div>
+
 
 
 <!-- - - - - - - - - - - - - - - - -->
 <div class="row-fluid">
     <div id="news" class="row">
     <div style="text-align: justify;" class="col-sm-12">
-<h4>News</h4>
+<h5>News</h5>
 
 <section markdown="1">
 - August 2017: BlockJoin, a technique for joining massive datasets producing distributed block-partitioned matrices, will be presented in next year's **VLDB 2018**.
