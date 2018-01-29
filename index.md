@@ -37,9 +37,9 @@ I mainly work in the broad area of scalable data management, more specifically o
 A.LASTNAME@tudelft.nl
 <br/><br/>
 <h6> <span class="fa fa-map-marker"></span> Address</h6>
-Office HB.08.140 (8th floor)<br/>
-Mekelweg 4<br/>
-2628 CD Delft<br/>
+Office VBM6 W4.740 (4th floor)<br/>
+Van Mourik Broekmanweg 6<br/>
+2628XE Delft<br/>
 Netherlands
 </div>
 
