@@ -48,9 +48,6 @@ Netherlands
 
 
 
-
-
-
 <!-- - - - - - - - - - - - - - - - -->
 <div class="row-fluid">
     <div id="news" class="row">
