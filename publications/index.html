@@ -5,12 +5,14 @@ publications:
 #  - { section: true, title: "International Journals" }
 
   - { section: true, title: "2018" }
-  - { label: "ICDE", title: "Benchmarking Distributed Stream Data Processing Systems", authors: "Jeyhun Karimov, Tilmann Rabl, Asterios Katsifodimos, Roman Samarev, Henri Heiskanen, Volker Markl", venue: "To appear in the Proceedings of the International Conference on Data Engineering (ICDE)"}
-  - { label: "ICDE", title: "Scotty: Efficient Window Aggregation for out-of-order Stream Processing", authors: "Jonas Traub, Philipp Grulich, Alejandro Rodriguez Cuellar, Sebastian Breß, Asterios Katsifodimos, Tilmann Rabl, Volker Markl", venue: "To appear in the Proceedings of the International Conference on Data Engineering (ICDE)"}
+  - { label: "IEEE ICDE", title: "Benchmarking Distributed Stream Data Processing Systems", authors: "Jeyhun Karimov, Tilmann Rabl, Asterios Katsifodimos, Roman Samarev, Henri Heiskanen, Volker Markl", venue: "To appear in the Proceedings of the International Conference on Data Engineering (ICDE)", pdf: "assets/publications/icde18-benchmarks.pdf"}
+  - { label: "IEEE ICDE", title: "Scotty: Efficient Window Aggregation for out-of-order Stream Processing", authors: "Jonas Traub, Philipp Grulich, Alejandro Rodriguez Cuellar, Sebastian Breß, Asterios Katsifodimos, Tilmann Rabl, Volker Markl", venue: "To appear in the Proceedings of the International Conference on Data Engineering (ICDE)", pdf: "assets/publications/icde18-scotty.pdf"}
+  - { label: "Encyc. Big Data", title: "Stream Window Aggregation Semantics and Optimization", authors: "Paris Carbone, Asterios Katsifodimos, Seif Haridi", venue: "Chapter in the Encyclopedia of Big Data, Springer", pdf: "assets/publications/window-semantics-encyclopediaBigDAta18.pdf"}
+  
 
   - { section: true, title: "2017" }
   - { label: "VLDB", title: "BlockJoin: Efficient Matrix Partitioning Through Joins", authors: "Andreas Kunft, Asterios Katsifodimos, Sebastian Schelter, Tilmann Rabl, Volker Markl", venue: "In the Proceedings of the VLDB Endowment, Vol. 10, No. 13 ( to be presented in VLDB 2018)", pdf: "assets/publications/blockjoin-pvldb17.pdf"}
-  - { label: "ACM SoCC", title: "Optimized On-Demand Data Streaming from Sensor Nodes", authors: "Jonas Traub, Sebastian Breß, Tilmann Rabl, Asterios Katsifodimos, Volker Markl", venue: "To appear in the 8th ACM Symposium on Cloud Computing 2017 (SoCC '17')", pdf: "assets/publications/sense-socc17.pdf"}
+  - { label: "ACM SoCC", title: "Optimized On-Demand Data Streaming from Sensor Nodes", authors: "Jonas Traub, Sebastian Breß, Tilmann Rabl, Asterios Katsifodimos, Volker Markl", venue: "In the poceedings of the 8th ACM Symposium on Cloud Computing 2017 (SoCC '17')", pdf: "assets/publications/sense-socc17.pdf"}
   - { label: "Elsevier Big Data Handbook", title: "Large-Scale Data Stream Processing Systems", authors: "Paris Carbone, Gábor E. Gévay, Gábor Hermann, Asterios Katsifodimos, Juan Soto, Volker Markl, Seif Haridi", venue: "Book chapter on Large-Scale Data Stream Processing Systems, part of the Handbook of Big Data Technologies 2017 (Elsevier): 219-260"}
   
   - { section: true, title: "2016" }
@@ -45,6 +47,7 @@ publications:
   - { label: "Springer J. of Grid Comp.", title: "Searching for Software on the EGEE Infrastructure", authors: "G. Pallis, A. Katsifodimos, M. D. Dikaiakos", venue: "In the Springer Journal of Grid Computing, Volume 8, Number 2, September 2010", pdf: "assets/publications/gcj10.pdf"}
   - { label: "EGEE User Forum", title: "Visualizing the Dynamics of e-Science social networks", authors: "A. Katsifodimos, J.D Fekete, A. Caddy, C. Germain-Renaud", venue: "In the 5th EGEE User Forum, April 12-15, 2010, Uppsala, Sweden", poster: "assets/publications/posters/egeeuf5_esciencesocialnetworks.pdf"}
 
+
   - { section: true, title: "2009" }
   - { label: "MSc Thesis", title: "Minersoft: Searching Software Resources in large-scale Grid and Cloud Infrastructures", authors: "A. Katsifodimos", venue: "Master Thesis, Computer Science Department, University of Cyprus, September 2009", pdf: "assets/publications/msc.thesis.pdf", slides: "assets/presentations/msc.thesis.21-09-2009.ppt"}
   - { label: "IEEE/WIC/ACM Web Intelligence", title: "Effective Keyword search for Software Resources installed in Large-scale Grid Infrastructures", authors: "G. Pallis, A. Katsifodimos, M.D. Dikaiakos", venue: "In the 2009 IEEE/WIC/ACM International Conference on Web Intelligence (WI '09), 15-18 September 2009, Milan Italy", pdf: "assets/publications/wi2009.pdf"}
@@ -62,14 +65,14 @@ publications:
 
 {% for pub in page.publications %}
 {% if pub('section')? %}
-<h6>{{pub.title}}</h6>
+<h6><strong>{{pub.title}}</strong></h6>
 {% else %}
 &nbsp;
 <dl class="row">
- <dt class="col-sm-3"><span class="badge badge-pill badge-default">{{ pub.label }}</span><br/>
-    {% if pub('pdf')? %}<a href="/{{ pub.pdf }}" class="badge badge-warning" role="button"><i class="fa fa-download"></i>&nbsp;PDF</a>{% endif %}
-    {% if pub('poster')? %}<a href="/{{ pub.poster }}" class="badge badge-warning" role="button"><i class="fa fa-download"></i>&nbsp;Poster</a>{% endif %}
-    {% if pub('slides')? %}<a href="/{{ pub.slides }}" class="badge badge-warning" role="button"><i class="fa fa-download"></i>&nbsp;Slides</a>{% endif %}
+ <dt class="col-sm-3"><h6><span class="badge badge-success" role="button">{{ pub.label }}</span></h6><br/>
+    {% if pub('pdf')? %}<a href="/{{ pub.pdf }}" class="badge badge-pill  badge-warning" role="button"><i class="fa fa-download"></i>&nbsp;PDF</a>{% endif %}
+    {% if pub('poster')? %}<a href="/{{ pub.poster }}" class="badge badge-pill  badge-info" role="button"><i class="fa fa-download"></i>&nbsp;Poster</a>{% endif %}
+    {% if pub('slides')? %}<a href="/{{ pub.slides }}" class="badge badge-pill badge-primary" role="button"><i class="fa fa-download"></i>&nbsp;Slides</a>{% endif %}
 	</dt>
   <dd class="col-sm-9">
     <strong>"{{ pub.title }}"</strong>: {{ pub.authors }}. {{pub.venue}}. 

@@ -14,25 +14,27 @@ I regularly serve in the program committees of VLDB, SIGMOD and ICDE and I am th
 
 You can find more information below.
 
+###### Chair and Organizer
+- Local Organizations Chair of <a href="http://sigmod2019.org">SIGMOD 2019</a> (will be held in Amsterdam!)
+- Track chair for Programming Models and Runtime Systems in <a href="http://www.ccgrid2019.org/">ccGrid 2019</a>
+- <a href="http://danac.org">DanaC: Workshop for Data Analytics at Scale</a> 2015 (SIGMOD Workshop)
+- <a href="http://www.sigmod2014.org/danac/">DanaC: Workshop for Data Analytics in the Cloud</a> 2014 (SIGMOD Workshop)
 
 ###### Program Committee Member
-
-- VLDB 2018 
+- ICDE 2019
+- VLDB 2018
 - ACM SIGMOD 2018 
-- IEEE ICDE 2018 
-- ACM SIGMOD 2017  
+- IEEE ICDE 2018
+- ACM SIGMOD 2017
+- ACM CIKM 2017
 - VLDB 2017
+- IEEE ICDE 2017
 - IEEE ICDE 2016 (PhD Symposium)
 - ACM SIGMOD 2016
 - WBDB 2015
 - VLDB 2015
 - SSDBM 2014
 - ACM CIKM 2014
-  
-###### PC Chair and Organizer
-- <a href="http://danac.org">DanaC: Workshop for Data Analytics at Scale</a> 2015 (SIGMOD Workshop)
-- <a href="http://www.sigmod2014.org/danac/">DanaC: Workshop for Data Analytics in the Cloud</a> 2014 (SIGMOD Workshop)
-
 
 ###### External Reviewer
 
