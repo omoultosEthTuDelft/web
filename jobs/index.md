@@ -7,7 +7,7 @@ title: "Open Position | Asterios Katsifodimos"
 	
 #### Postdoc position
 <br/>
-##### (Big) Data Management with applications on Scalable ML and Stream Analytics
+##### (Big) Data Management with applications on Scalable ML and/or Stream Analytics
 <br/>
 **Position Duration**: Two years with possibility of extension (four years total).
 <br/>
@@ -20,7 +20,7 @@ The ideal candidate is an ambitious researcher who has recently obtained a PhD i
 
 #### PhD scholarships
 <br/>
-##### PhD in (Big) Data Management
+##### PhD in the broad area of (Big) Data Management and Stream Processing
 <br/>
 **Position Duration**: Five+ years.
 <br/>
