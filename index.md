@@ -27,7 +27,7 @@ I work in the broad area of scalable data management; more specifically on Big D
 I am the information director of <a href="https://sigmodrecord.org/">SIGMOD Record</a>, a <a href="http://sigmod2019.org/officers">local organization chair of SIGMOD 2019</a> and I regularly <a href="/service">serve in the program committees</a> of ICDE/SIGMOD and VLDB.<br><br></p>
 
 <div class="alert alert-warning" role="alert" markdown="1">
-  I am searching for **motivated postdocs** to take up responsibilities at our team and the Delft Data Science! More information on the position <a href="/jobs/">here</a>. 
+  I am searching for motivated **postdocs, PhD students and research engineers**! More information on the position <a href="/jobs/">here</a>. 
 </div>
 
 </div>
@@ -59,7 +59,7 @@ Netherlands
 <h5>News</h5>
 
 <section markdown="1">
-- December 2018: A poster paper was accepted at ICDE 2019, and a full-paper at EDBT 2019. 
+- December 2018: A poster paper was accepted at ICDE 2019, as well as a full-paper and a vision paper at EDBT 2019. 
 - March 2018: I serve as a **local organization chair** of SIGMOD 2019 which will be held in Amsterdam in 2019!
 - January 2018: **Two papers** were accepted in next year's **ICDE 2018** in Paris. One on benchmarking stream procesing engines, and one on aggregating out-of-order streams. 
 - August 2017: **BlockJoin**, a technique for joining massive datasets producing distributed block-partitioned matrices, will be presented in next year's **VLDB 2018**.

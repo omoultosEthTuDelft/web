@@ -4,7 +4,24 @@ title: "Open Position | Asterios Katsifodimos"
 ---
 
 <br/>
-	
+
+#### Two PhD Positions in Data Management
+
+<br/>
+**Position Duration**: Four years.
+<br/>
+**Application Deadline**: February 15, 2019 (the position might be filled as soon as candidates are found)
+<br/>
+**Expected start date**: ASAP
+
+**Job Description**:
+TU Delft is seeking two motivated PhD students to work on a project funded by a large industrial partner. The goal of this project is to bring AI and real-time decision making closer to where the data is produced, harnessing the power of locally trained models for privacy-aware sensing at the edge. The project will employ two fully-funded PhDs who will perform research in the  area of Human-Centered Artificial Intelligence, with focus on data management, machine learning, and crowd computing. Successful candidates will  i) develop novel federated (active) machine learning methods and systems optimized for edge devices and ii)  novel crowd computing methods for privacy-aware content annotation that take into account local and contextual properties of the sensed environment.
+
+The PhDs will be co-supervised by Alesandro Bozzon (PI, Associate Professor), Asterios Katsifodimos (Assistant Professor) and Christoph Lofi (Assistant Professor). Candidates who are at the end of their Master thesis (scheduled their defense soon) are encouraged to get in contact with us. 
+
+Candidates who are at the end of their Master thesis are also encouraged to get in contact with us.
+<br/>
+
 #### Postdoc position
 <br/>
 ##### (Big) Data Management with applications on Scalable ML and/or Stream Analytics
@@ -18,26 +35,32 @@ We are seeking a motivated postdoctoral researcher to work on data management wi
 
 The ideal candidate is an ambitious researcher who has recently obtained a PhD in the broad area of databases/data management, distributed systems, or scalable machine learning, with publications in the top venues of their field. We seek candidates who love putting their research results into practice and are open to investigate new research directions.
 
-#### PhD scholarships
+
+
+#### Research Engineer position
 <br/>
-##### PhD in the broad area of (Big) Data Management and Stream Processing
+##### Supporting (Big) Data Management with applications on Scalable ML and/or Stream Analytics
 <br/>
-**Position Duration**: Five+ years.
+**Position Duration**: Two years with possibility of extension.
 <br/>
 **Expected start date**: ASAP
 
 **Job Description**:
-TU Delft is seeking motivated PhD candidates to support its teaching and research activities starting in the new academic year. The PhD positions will be fully funded and will require that the candidates will be participating in co-designing and teaching bachelor level courses, recruiting and managing teaching assistants, overseeing lab work, and creating and evaluating exercises. Furthermore, PhD students will be involved in supervising bachelor and master students related to their research thesis projects.
+We are seeking a motivated engineer to work on data management with applications to scalable machine learning and/or stream analytics, in the context of the Delft Data Science (DDS) institute. DDS has strong ties to both academia and industry. Researech engineers at DDS will be expected to lead the development of open-source software and take part in international collaborations with companies and research institutes.
 
-At the Web Information Systems group (http://www.wis.ewi.tudelft.nl/) is seeking candidates interested *specifically in data management research* (e.g., Big Data processing, Database Personalization, Querying Languages, Query Processing, Information Extraction, etc.). Candidates who are not interested in data management research are strongly discouraged from contacting our group.
+We seek candidates who love seing research work being used in practice, and at the same time enjoy software development and extremely challenging problems.
+<br/><br/>
 
-Candidates who are at the end of their Master thesis (scheduled their defense on or before July/August 2018) are also encouraged to get in contact with us.
 
-#### How to Apply
-Please send your CV to Asterios Katsifodimos (Assistant Professor, A.Katsifodimos@tudelft.nl) and Geert-Jan Houben (Full Professor and head of the Web Information Systems group, g.j.p.m.houben@tudelft.nl). Please prefix your email's subject with "[DDS Postdoc/PhD Application]".
+### How to Apply
+Please send your CV with a *short* paragraph describing yourself to Asterios Katsifodimos (a.katsifodimos@tudelft.nl), prefixing your email’s subject with [PhD Application].
 
 #### About TU Delft
 TU Delft is one of the leading engineering schools in Europe. It is the largest and oldest Dutch public technological university and counts as one of the best universities for engineering and technology worldwide, typically seen within the top 20.
 
 **The city of Delft**:
 Delft is a lively, medieval city full of students, located 10 minutes away from either Rotterdam and the Hague, one hour away from Amsterdam, and two hours away from Brussels.
+
+<br/>
+
+
