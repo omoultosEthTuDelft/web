@@ -10,16 +10,15 @@ title: "Open Position | Asterios Katsifodimos"
 <br/>
 **Position Duration**: Four years.
 <br/>
-**Application Deadline**: February 15, 2019 (the position might be filled as soon as candidates are found)
+**Application Deadline**: February 30, 2019 (the position might be filled as soon as candidates are found)
 <br/>
 **Expected start date**: ASAP
 
 **Job Description**:
-TU Delft is seeking two motivated PhD students to work on a project funded by a large industrial partner. The goal of this project is to bring AI and real-time decision making closer to where the data is produced, harnessing the power of locally trained models for privacy-aware sensing at the edge. The project will employ two fully-funded PhDs who will perform research in the  area of Human-Centered Artificial Intelligence, with focus on data management, machine learning, and crowd computing. Successful candidates will  i) develop novel federated (active) machine learning methods and systems optimized for edge devices and ii)  novel crowd computing methods for privacy-aware content annotation that take into account local and contextual properties of the sensed environment.
+TU Delft is seeking two motivated PhD students to work on a project funded by a large industrial partner. The goal of this project is to bring AI and real-time decision making closer to where the data is produced, harnessing the power of locally trained models for privacy-aware sensing at the edge. The project will employ two fully-funded PhDs who will perform research with focus on data management, machine learning, and crowd computing. Successful candidates will develop novel federated (active) systems and for ML at the edge, as well as optimization methods  for ML training and inference on edge devices.
 
-The PhDs will be co-supervised by Alesandro Bozzon (PI, Associate Professor), Asterios Katsifodimos (Assistant Professor) and Christoph Lofi (Assistant Professor). Candidates who are at the end of their Master thesis (scheduled their defense soon) are encouraged to get in contact with us. 
+Candidates who are at the end of their Master thesis (scheduled their defense soon) are encouraged to get in contact with us. 
 
-Candidates who are at the end of their Master thesis are also encouraged to get in contact with us.
 <br/>
 
 #### Postdoc position
@@ -46,7 +45,7 @@ The ideal candidate is an ambitious researcher who has recently obtained a PhD i
 **Expected start date**: ASAP
 
 **Job Description**:
-We are seeking a motivated engineer to work on data management with applications to scalable machine learning and/or stream analytics, in the context of the Delft Data Science (DDS) institute. DDS has strong ties to both academia and industry. Researech engineers at DDS will be expected to lead the development of open-source software and take part in international collaborations with companies and research institutes.
+We are seeking a motivated engineer to work on data management systems in the context of the Delft Data Science (DDS) institute. DDS has strong ties to both academia and industry. Researech engineers at DDS will be expected to lead the development of open-source software and take part in international collaborations with companies and research institutes.
 
 We seek candidates who love seing research work being used in practice, and at the same time enjoy software development and extremely challenging problems.
 <br/><br/>
