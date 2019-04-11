@@ -1,36 +1,46 @@
 ---
 layout: default
-title: "Open Position | Asterios Katsifodimos"
+title: "Open Positions | Asterios Katsifodimos"
 ---
 
 <br/>
 
-#### Two PhD Positions in Data Management
+#### PhD Position in ML-assisted Data Integration
 
 <br/>
 **Position Duration**: Four years.
 <br/>
-**Application Deadline**: February 30, 2019 (the position might be filled as soon as candidates are found)
+**Expected start date**: ASAP
+
+**Job Description**:
+We are seeking a motivated PhD student to work on a project funded by a large industrial partner. The goal of this project is to bring ML and data integration together in order to (semi)-automatically integrate thousands of enterprise data sources (logs, databases, text, spreadsheets). The project will employ a fully-funded PhD who will perform research with focus in the intersection of distributed data management, machine learning, and data integration.
+
+Candidates who are at the end of their Master thesis (scheduled their defense soon) are encouraged to get in contact with us.
+
+<br/>
+
+#### PhD Position in Real-time AI at the Edge
+
+<br/>
+**Position Duration**: Four years.
 <br/>
 **Expected start date**: ASAP
 
 **Job Description**:
-TU Delft is seeking two motivated PhD students to work on a project funded by a large industrial partner. The goal of this project is to bring AI and real-time decision making closer to where the data is produced, harnessing the power of locally trained models for privacy-aware sensing at the edge. The project will employ two fully-funded PhDs who will perform research with focus on data management, machine learning, and crowd computing. Successful candidates will develop novel federated (active) systems and for ML at the edge, as well as optimization methods  for ML training and inference on edge devices.
+We are seeking a motivated PhD student to work on a project funded by a large industrial partner. The goal of this project is to bring AI and real-time decision-making closer to where the data is produced, harnessing the power of locally trained models for privacy-aware sensing at the edge. The project will employ a fully-funded PhD who will perform research with focus in the intersection of distributed data management, machine learning, and crowd computing.
 
-Candidates who are at the end of their Master thesis (scheduled their defense soon) are encouraged to get in contact with us. 
+Candidates who are at the end of their Master thesis (scheduled their defense soon) are encouraged to get in contact with us.
 
 <br/>
 
-#### Postdoc position
+#### Postdoc in Stream Processing and/or Scalable ML
 <br/>
-##### (Big) Data Management with applications on Scalable ML and/or Stream Analytics
-<br/>
-**Position Duration**: Two years with possibility of extension (four years total).
+**Position Duration**: Two years with possibility of extension.
 <br/>
 **Expected start date**: ASAP
 
 **Job Description**:
-We are seeking a motivated postdoctoral researcher to work on data management with applications to scalable machine learning and/or stream analytics, in the context of the Delft Data Science (DDS) institute. DDS has strong ties to both academia and industry. Postdoctoral researchers at DDS will be expected to publish papers in top venues, to take part in international collaborations with companies and research institutes, seek funding, and lead the development of open-source software.
+We are seeking a motivated postdoctoral researcher to work on scalable data management with focus on scalable machine learning and/or stream processing, in the context of the Delft Data Science (DDS). DDS has strong ties to both academia and industry. Postdoctoral researchers at DDS will be expected to publish papers in top venues, to take part in international collaborations with companies and research institutes, seek funding, and lead the development of open-source software.
 
 The ideal candidate is an ambitious researcher who has recently obtained a PhD in the broad area of databases/data management, distributed systems, or scalable machine learning, with publications in the top venues of their field. We seek candidates who love putting their research results into practice and are open to investigate new research directions.
 
@@ -38,7 +48,7 @@ The ideal candidate is an ambitious researcher who has recently obtained a PhD i
 
 #### Research Engineer position
 <br/>
-##### Supporting (Big) Data Management with applications on Scalable ML and/or Stream Analytics
+##### Supporting Stream Processing and/or Scalable ML
 <br/>
 **Position Duration**: Two years with possibility of extension.
 <br/>
