@@ -62,6 +62,7 @@ Netherlands
 <h5>News</h5>
 
 <section markdown="1">
+- May 2019:  We are presenting a demo in this year's VLDB on how to execute stateful functions in the cloud, using streaming dataflows (<a href="/assets/publications/stateful-functions.pdf">pdf</a>).
 - March 2019:  We received the <strong>best paper award from EDBT 2019</strong> for our paper "Efficient Window Aggregation with General Stream Slicing"!
 - January 2019:  One full-paper and one vision paper at <strong>EDBT 2019</strong>.
 - December 2018: A poster paper was accepted at <strong>ICDE 2019</strong>.
