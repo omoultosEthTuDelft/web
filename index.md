@@ -20,8 +20,7 @@ Before joining TU Delft, I spent a year with the <a href="https://icn.sap.com">S
 </p>
 
 <p style="text-align: justify;">
-I work in the broad area of scalable data management; more specifically on Big Data analytics and management, stream processing, database language models, and query optimization. I work with <a href="http://mariosfragkoulis.gr/">Marios Fragkoulis</a> (postdoc) and <a href="https://ckoutras.github.io/">Christos Koutras</a> (PhD student, co-advised with Christoph Lofi).</p>
-
+I work in the broad area of scalable data management; more specifically on data management and analysis, stream processing, systems for scalable AI/ML, and data integration. I work with <a href="http://mariosfragkoulis.gr/">Marios Fragkoulis</a> (postdoc) and <a href="https://ckoutras.github.io/">Christos Koutras</a> (PhD student, co-advised with Christoph Lofi).</p>
 
 <p style="text-align: justify;">
 I am the information director of <a href="https://sigmodrecord.org/">SIGMOD Record</a>, a <a href="http://sigmod2019.org/officers">local organization chair of SIGMOD 2019</a> and I regularly <a href="/service">serve in the program committees</a> of ICDE/SIGMOD and VLDB.<br><br></p>
@@ -62,7 +61,7 @@ Netherlands
 <h5>News</h5>
 
 <section markdown="1">
-- May 2019:  We are presenting a demo in this year's VLDB on how to execute stateful functions in the cloud, using streaming dataflows (<a href="/assets/publications/stateful-functions.pdf">pdf</a>).
+- June 2019:  We are presenting a demo in this year's **VLDB** on how to execute  **stateful functions in the cloud**, using streaming dataflows (<a href="/assets/publications/stateful-functions.pdf">pdf</a>), as well as a paper on how to optimize ML pipelines using both linear and relational algebra.
 - March 2019:  We received the <strong>best paper award from EDBT 2019</strong> for our paper "Efficient Window Aggregation with General Stream Slicing"!
 - January 2019:  One full-paper and one vision paper at <strong>EDBT 2019</strong>.
 - December 2018: A poster paper was accepted at <strong>ICDE 2019</strong>.
