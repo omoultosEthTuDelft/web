@@ -9,7 +9,7 @@ title: "Asterios Katsifodimos | Assistant Professor, TU Delft"
 
 <section markdown="1">
 
-I regularly serve in the program committees of VLDB, SIGMOD and ICDE and I was the information Director of the <a href="http://www.sigmod.org/publications/sigmod-record/">SIGMOD Record</a> journal for roughly 7 years. I have organized the workshop on Data Analytics at sCale (DanaC) on 2014 and 2015. I was a member of the <a href="http://event.cwi.nl/SIGMOD-RWE/2010/">ACM SIGMOD 2010 Repeatability &amp; Workability Evaluation</a> committee in 2010. 
+I regularly serve in the program committees of VLDB, SIGMOD and ICDE and I was the information Director of the <a href="http://www.sigmod.org/publications/sigmod-record/">SIGMOD Record</a> journal for roughly 7 years. I have organized the workshop on Data Analytics at sCale (DanaC) on 2014 and 2015. I was a member of the <a href="https://reproducibility.sigmod.org">Repeatability &amp; Workability Evaluation</a> committee in 2010 and 2021. 
 
 You can find detailed information below.
 
@@ -21,9 +21,9 @@ You can find detailed information below.
 - <a href="http://www.sigmod2014.org/danac/">DanaC: Workshop for Data Analytics in the Cloud</a> 2014 (SIGMOD Workshop)
 
 ###### Program Committee Member
-- (P)VLDB 2015,2017, 2018, 2021
-- ACM SIGMOD 2016, 2017, 2018 
-- IEEE ICDE 2016, 2017, 2018, 2019
+- (P)VLDB 2015,2017, 2018, 2020, 2021
+- ACM SIGMOD 2016, 2017, 2018, 2020, 2021
+- IEEE ICDE 2016, 2017, 2018, 2019, 2021
 - ACM CIKM 2014, 2017
 - EDBT 2020, 2021
 - WBDB 2015
