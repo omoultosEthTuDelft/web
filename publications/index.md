@@ -2,9 +2,11 @@
 layout: default
 title: "Asterios Katsifodimos | Assistant Professor, TU Delft"
 publications:
-#  - { section: true, title: "International Journals" }
-
-
+  - { section: true, title: "2021" }
+  - { label: "ICDE", title: "Valentine: Evaluating Matching Techniques for Dataset Discovery", authors: "Christos Koutras, George Siachamis, Andra Ionescu, Kyriakos Psarakis, Jerry Brons,  Marios Fragkoulis, Christoph Lofi, Angela Bonifati, Asterios Katsifodimos", venue: "In the Proceedings of the 2021 IEEE International Conference on Data Engineering (ICDE)"}
+  - { section: true, title: "2020" }
+  - { label: "SIGMOD", title: "Beyond Analytics: The Evolution of Stream Processing Systems", authors: "Paris Carbone, Marios Fragkoulis, Vasiliki Kalavri, Asterios Katsifodimos", venue: "In the Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data (tutorial)"}
+  - { label: "SEAS @EDBT", title: "REMA: Graph Embeddings-based Relational Schema Matching", authors: "Christos Koutras, Marios Fragkoulis, Asterios Katsifodimos, Christoph Lofi", venue: "SEA Data workshop colocated with EDBT 2020"}
   - { section: true, title: "2019" }
   - { label: "VLDB", title: "Stateful Functions as a Service in Action", authors: "Adil Akhter, Marios Fragkoulis, Asterios Katsifodimos", venue: "In the Proceedings of the 45th International Conference on Very Large Data Bases (VLDB) 2019 (demo track)" , pdf: "assets/publications/stateful-functions.pdf"}
   - { label: "VLDB", title: "An Intermediate Representation for Optimizing Machine Learning Pipelines", authors: "Andreas Kunft, Asterios Katsifodimos, Sebastian Schelter, Sebastian Bress, Tilmann Rabl, Volker Markl", venue: "In the Proceedings of the 45th International Conference on Very Large Data Bases (VLDB) 2019", pdf: "assets/publications/end-to-end-ml-pipelines.pdf"} 

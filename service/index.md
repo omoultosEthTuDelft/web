@@ -9,23 +9,23 @@ title: "Asterios Katsifodimos | Assistant Professor, TU Delft"
 
 <section markdown="1">
 
+I regularly serve in the program committees of VLDB, SIGMOD and ICDE and I was the information Director of the <a href="http://www.sigmod.org/publications/sigmod-record/">SIGMOD Record</a> journal for roughly 7 years. I have organized the workshop on Data Analytics at sCale (DanaC) on 2014 and 2015. I was a member of the <a href="http://event.cwi.nl/SIGMOD-RWE/2010/">ACM SIGMOD 2010 Repeatability &amp; Workability Evaluation</a> committee in 2010. 
 
-I regularly serve in the program committees of VLDB, SIGMOD and ICDE and I am the information Director of the <a href="http://www.sigmod.org/publications/sigmod-record/">SIGMOD Record</a> journal since June 2013. I have organized the workshop on Data Analytics at sCale (DanaC) on 2014 and 2015. I was a member of the <a href="http://event.cwi.nl/SIGMOD-RWE/2010/">ACM SIGMOD 2010 Repeatability &amp; Workability Evaluation</a> committee in 2010. 
-
-You can find more information below.
+You can find detailed information below.
 
 ###### Chair and Organizer
+- Proceedings Chair of <a href="http://sigmod2021.org">SIGMOD 2021</a>
 - Local Organizations Chair of <a href="http://sigmod2019.org">SIGMOD 2019</a> (will be held in Amsterdam!)
 - Track chair for Programming Models and Runtime Systems in <a href="http://www.ccgrid2019.org/">ccGrid 2019</a>
 - <a href="http://danac.org">DanaC: Workshop for Data Analytics at Scale</a> 2015 (SIGMOD Workshop)
 - <a href="http://www.sigmod2014.org/danac/">DanaC: Workshop for Data Analytics in the Cloud</a> 2014 (SIGMOD Workshop)
 
 ###### Program Committee Member
-- VLDB 2015,2017, 2018
+- (P)VLDB 2015,2017, 2018, 2021
 - ACM SIGMOD 2016, 2017, 2018 
 - IEEE ICDE 2016, 2017, 2018, 2019
 - ACM CIKM 2014, 2017
-- EDBT 2020
+- EDBT 2020, 2021
 - WBDB 2015
 - SSDBM 2014
 

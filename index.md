@@ -16,18 +16,15 @@ Assistant Professor, <a href="http://www.tudelft.nl/">Delft University of Techno
 
 <p style="text-align: justify;">
 
-Before joining TU Delft, I spent a year with the <a href="https://icn.sap.com">SAP Innovation Center</a> in Berlin, working on scale-out architectures for machine learning inference and training. Before SAP, I was a senior researcher at the <a href="http://www.dima.tu-berlin.de/menue/database_systems_and_information_management_group/?no_cache=1">database systems group</a> in TU Berlin, headed by <a href="https://www.dima.tu-berlin.de/menue/staff/volker_markl/">Volker Markl</a>. I received my PhD from <a href="http://www.inria.fr/saclay/">INRIA Saclay</a> &amp; <a href="http://www.u-psud.fr" >Universite Paris-Sud</a> in 2013, under the supervision of <a href="http://www-rocq.inria.fr/~manolesc/">Ioana Manolescu</a>. Prior to that, I was a member of the High Performance Computing systems Lab (<a href="http://grid.ucy.ac.cy">HPCL</a>), at the University of Cyprus, working with <a href="http://www.cs.ucy.ac.cy/~mdd/">Marios Dikaiakos</a>.
+Before joining TU Delft, I spent a year with the <a href="https://icn.sap.com">SAP Innovation Center</a> in Berlin, working on scalable architectures for machine learning inference and training. Before SAP, I was a postdoc at the <a href="http://www.dima.tu-berlin.de/menue/database_systems_and_information_management_group/?no_cache=1">database systems group</a> in TU Berlin, headed by <a href="https://www.dima.tu-berlin.de/menue/staff/volker_markl/">Volker Markl</a>. I received my PhD from <a href="http://www.inria.fr/saclay/">INRIA Saclay</a> &amp; <a href="http://www.u-psud.fr" >Universite Paris-Sud</a> in 2013, supervised by <a href="http://www-rocq.inria.fr/~manolesc/">Ioana Manolescu</a>. Prior to that, I was a member of the High Performance Computing systems Lab (<a href="http://grid.ucy.ac.cy">HPCL</a>), at the University of Cyprus, working with <a href="http://www.cs.ucy.ac.cy/~mdd/">Marios Dikaiakos</a>.
 </p>
 
 <p style="text-align: justify;">
-I work in the broad area of scalable data management; more specifically on data management and analysis, stream processing, systems for scalable AI/ML, and data integration. I work with <a href="http://mariosfragkoulis.gr/">Marios Fragkoulis</a> (postdoc) and <a href="https://ckoutras.github.io/">Christos Koutras</a> (PhD student, co-advised with Christoph Lofi).</p>
+I work in the broad area of scalable data management; more specifically on data management and analysis, stream processing, systems for scalable AI/ML, and data integration. <!-- I work with <a href="http://mariosfragkoulis.gr/">Marios Fragkoulis</a> (postdoc) and <a href="https://ckoutras.github.io/">Christos Koutras</a> (PhD student, co-advised with Christoph Lofi). --></p>
 
-<p style="text-align: justify;">
-I am the information director of <a href="https://sigmodrecord.org/">SIGMOD Record</a>, a <a href="http://sigmod2019.org/officers">local organization chair of SIGMOD 2019</a> and I regularly <a href="/service">serve in the program committees</a> of ICDE/SIGMOD and VLDB.<br><br></p>
-
-<div class="alert alert-warning" role="alert" markdown="1">
+<!-- <div class="alert alert-warning" role="alert" markdown="1">
   I am searching for motivated **postdocs, PhD students and research engineers**! More information on the positions <a href="/jobs/">here</a>. 
-</div>
+</div> -->
 
 </div>
 
@@ -45,13 +42,9 @@ Van Mourik Broekmanweg 6<br/>
 2628XE Delft<br/>
 Netherlands
 
-
-
 </div>
 
-
 </div>
-
 
 
 <!-- - - - - - - - - - - - - - - - -->
@@ -61,17 +54,15 @@ Netherlands
 <h5>News</h5>
 
 <section markdown="1">
+- February 2021: <a href="https://delftdata.github.io/valentine">Valentine</a> will be presented in this year's ICDE 2021. 
+- October 2020: We have implemented the schema matching algorithms of the last 20 years and <a href="https://delftdata.github.io/valentine">released them on Github</a> in order to create a benchmark. We offer datasets with ground truth too!
+- April 2020: We will present a tutorial on <a href="https://streaming-research.github.io/Tutorial-SIGMOD-2020/"> the evolution of stream processing systems</a> during the last two decades, in SIGMOD 2020. 
+- March 2020: Christos will be presenting our work on <a href="http://ceur-ws.org/Vol-2578/SEAData5.pdf">using embeddings for schema matching</a> in the SEAS workshop at EDBT 2020.
 - June 2019:  We are presenting a demo in this year's **VLDB** on how to execute  **stateful functions in the cloud**, using streaming dataflows (<a href="/assets/publications/stateful-functions.pdf">pdf</a>), as well as a paper on how to optimize ML pipelines using both linear and relational algebra.
 - March 2019:  We received the <strong>best paper award from EDBT 2019</strong> for our paper "Efficient Window Aggregation with General Stream Slicing"!
 - January 2019:  One full-paper and one vision paper at <strong>EDBT 2019</strong>.
 - December 2018: A poster paper was accepted at <strong>ICDE 2019</strong>.
 - March 2018: I serve as a **local organization chair** of SIGMOD 2019 which will be held in Amsterdam in 2019!
-- January 2018: **Two papers** were accepted in next year's **ICDE 2018** in Paris. One on benchmarking stream procesing engines, and one on aggregating out-of-order streams. 
-- August 2017: **BlockJoin**, a technique for joining massive datasets producing distributed block-partitioned matrices, will be presented in next year's **VLDB 2018**.
-- June 2017: At **SoCC 2017** we are presenting our work on SENSE, a framework for sensor-data gathering.
-- August 2016: We will present **Cutty**, a technique for sharing aggregates among user-defined (sliding) window functions in streaming systems, at **CIKM 2016**.
-- March 2016: We published a short overview of <a href="http://flink.apache.org">Apache Flink</a> in the **IEEE Data Engineering Bulletin** (<a href="./assets/publications/flink-deb.pdf">pdf</a>).
-- February 2016: Our paper on Emma, was accepted for publication at SIGMOD 2015, and will be demonstrated in SIGMOD 2016. Emma received the 2016 <strong>ACM SIGMOD Research Highlights Award</strong>! More information  <a href="https://sigmodrecord.org/issues/sigmod-record-march-2016-awards/">here</a>.
 </section>
     </div>
 
@@ -83,7 +74,6 @@ Netherlands
     </div>
   
 </div>  
-
 
 
 
