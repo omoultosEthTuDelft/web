@@ -26,6 +26,26 @@ I work in the broad area of scalable data management; more specifically on data 
   I am searching for motivated **postdocs, PhD students and research engineers**! More information on the positions <a href="/jobs/">here</a>. 
 </div> -->
 
+
+
+
+<div style="text-align: justify;" class="col-sm-8">
+<h5>Postdocs</h5>
+<section markdown="1">
+- [Marios Fragkoulis](http://mariosfragkoulis.gr)
+- [Rihan Hai](https://scholar.google.de/citations?user=vD8M9R0AAAAJ&hl=en) 
+</section>
+
+<h5>PhD Students</h5>
+<section markdown="1">
+- [Christos Koutras](https://ckoutras.github.io) (with C. Lofi)
+- [Ziyu Li](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/ziyu-li) (with A. Bozzon)
+- [Georgios Siachamis](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/georgios-siachamis)
+- [Andra Ionescu](https://andraionescu.github.io) 
+- [Kyriakos Psarakis](https://twitter.com/kpsarakis)
+</section>
+</div>
+
 </div>
 
 <div class="col-md-4">
@@ -45,6 +65,10 @@ Netherlands
 </div>
 
 </div>
+
+
+
+
 
 
 <!-- - - - - - - - - - - - - - - - -->

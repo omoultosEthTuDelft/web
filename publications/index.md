@@ -3,6 +3,7 @@ layout: default
 title: "Asterios Katsifodimos | Assistant Professor, TU Delft"
 publications:
   - { section: true, title: "2021" }
+  - { label: "SIGMOD", title: "Clonos: Consistent Causal Recovery for Highly-Available Streaming Dataflows", authors: "Pedro Fortunato Silvestre, Marios Fragkoulis, Diomidis Spinellis, Asterios Katsifodimos", venue: "In the Proceedings of the 2021 ACM SIGMOD International Conference on the Management of Data"}
   - { label: "ICDE", title: "Valentine: Evaluating Matching Techniques for Dataset Discovery", authors: "Christos Koutras, George Siachamis, Andra Ionescu, Kyriakos Psarakis, Jerry Brons,  Marios Fragkoulis, Christoph Lofi, Angela Bonifati, Asterios Katsifodimos", venue: "In the Proceedings of the 2021 IEEE International Conference on Data Engineering (ICDE)"}
   - { section: true, title: "2020" }
   - { label: "SIGMOD", title: "Beyond Analytics: The Evolution of Stream Processing Systems", authors: "Paris Carbone, Marios Fragkoulis, Vasiliki Kalavri, Asterios Katsifodimos", venue: "In the Proceedings of the 2020 ACM SIGMOD International Conference on Management of Data (tutorial)"}
