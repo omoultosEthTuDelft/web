@@ -67,10 +67,6 @@ Netherlands
 </div>
 
 
-
-
-
-
 <!-- - - - - - - - - - - - - - - - -->
 <div class="row-fluid">
     <div id="news" class="row">
@@ -78,6 +74,7 @@ Netherlands
 <h5>News</h5>
 
 <section markdown="1">
+- March 2021: <a href="assets/publications/clonos-sigmod2021.pdf">Clonos</a>, a fault-tolerance scheme for stream processing will be presented in this year's SIGMOD 2021. 
 - February 2021: <a href="https://delftdata.github.io/valentine">Valentine</a> will be presented in this year's ICDE 2021. 
 - October 2020: We have implemented the schema matching algorithms of the last 20 years and <a href="https://delftdata.github.io/valentine">released them on Github</a> in order to create a benchmark. We offer datasets with ground truth too!
 - April 2020: We will present a tutorial on <a href="https://streaming-research.github.io/Tutorial-SIGMOD-2020/"> the evolution of stream processing systems</a> during the last two decades, in SIGMOD 2020. 
