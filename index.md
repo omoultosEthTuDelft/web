@@ -42,7 +42,7 @@ I work in the broad area of scalable data management; more specifically on data 
 - [Ziyu Li](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/ziyu-li) (with A. Bozzon)
 - [Georgios Siachamis](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/georgios-siachamis)
 - [Andra Ionescu](https://andraionescu.github.io) 
-- [Kyriakos Psarakis](https://twitter.com/kpsarakis)
+- [Kyriakos Psarakis](https://kpsarakis.github.io/)
 </section>
 </div>
 
