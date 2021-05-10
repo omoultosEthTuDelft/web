@@ -5,4 +5,4 @@ sync:
 preview:
 	jekyll serve --watch --baseurl ''
 install:
-	sudo gem install rouge kramdown jekyll
+	sudo gem install bundler rouge kramdown jekyll webrick

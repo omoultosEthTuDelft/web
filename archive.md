@@ -1,0 +1,6 @@
+- January 2018: **Two papers** were accepted in next year's **ICDE 2018** in Paris. One on benchmarking stream procesing engines, and one on aggregating out-of-order streams. 
+- August 2017: **BlockJoin**, a technique for joining massive datasets producing distributed block-partitioned matrices, will be presented in next year's **VLDB 2018**.
+- June 2017: At **SoCC 2017** we are presenting our work on SENSE, a framework for sensor-data gathering.
+- August 2016: We will present **Cutty**, a technique for sharing aggregates among user-defined (sliding) window functions in streaming systems, at **CIKM 2016**.
+- March 2016: We published a short overview of <a href="http://flink.apache.org">Apache Flink</a> in the **IEEE Data Engineering Bulletin** (<a href="./assets/publications/flink-deb.pdf">pdf</a>).
+- February 2016: Our paper on Emma, was accepted for publication at SIGMOD 2015, and will be demonstrated in SIGMOD 2016. Emma received the 2016 <strong>ACM SIGMOD Research Highlights Award</strong>! More information  <a href="https://sigmodrecord.org/issues/sigmod-record-march-2016-awards/">here</a>. 
