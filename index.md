@@ -11,7 +11,7 @@ title: "Asterios Katsifodimos | Assistant Professor, TU Delft"
 <!-- <h3> Asterios Katsifodimos </h3> -->
 
 <p class="lead" style="font-size: 130%">
-Assistant Professor, <a href="http://www.tudelft.nl/">Delft University of Technology (TU Delft)</a>.<br>Member of the <a href="http://www.wis.ewi.tudelft.nl/">Web Information Systems group</a>.
+Assistant Professor, <a href="http://www.tudelft.nl/">TU Delft</a>.<br>Member of the <a href="http://www.wis.ewi.tudelft.nl/">Web Information Systems group</a>.
 </p>
 
 <p style="text-align: justify;">
