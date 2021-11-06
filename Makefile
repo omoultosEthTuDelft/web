@@ -5,4 +5,4 @@ sync:
 preview:
 	jekyll serve --watch --baseurl ''
 install:
-	sudo gem install bundler rouge kramdown jekyll webrick
+	sudo gem install github-pages
