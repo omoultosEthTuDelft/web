@@ -74,16 +74,17 @@ Netherlands
 <h5>News</h5>
 
 <section markdown="1">
+- October 2021: I have prepared a <a href="https://www.youtube.com/watch?v=jMmEDPGeh0w">video</a> for this year's Flink Forward. I pretty much describe what I am up to in the last couple of years.
 - August 2021: <a href="https://delftdata.github.io/valentine">Valentine</a> was presented in this year's ICDE 2021 and demoed in VLDB 2021. 
 - June 2021: We received the best <a href="https://dl.acm.org/doi/10.1145/3465480.3466920">paper</a> award in <a href="https://2021.debs.org">ACM DEBS 2021</a>, for our work on <a href="https://github.com/delftdata/flink-statefun-transactions">implementing</a> implementing transactions on Flink's Statefun. 
 - March 2021: <a href="assets/publications/clonos-sigmod2021.pdf">Clonos</a>, a fault-tolerance scheme for stream processing will be presented in this year's SIGMOD 2021. 
 - October 2020: We have implemented the schema matching algorithms of the last 20 years and <a href="https://delftdata.github.io/valentine">released them on Github</a> in order to create a benchmark. We offer datasets with ground truth too!
 - April 2020: We will present a tutorial on <a href="https://streaming-research.github.io/Tutorial-SIGMOD-2020/"> the evolution of stream processing systems</a> during the last two decades, in SIGMOD 2020. 
 - March 2020: Christos will be presenting our work on <a href="http://ceur-ws.org/Vol-2578/SEAData5.pdf">using embeddings for schema matching</a> in the SEAS workshop at EDBT 2020.
-- June 2019:  We are presenting a demo in this year's **VLDB** on how to execute  **stateful functions in the cloud**, using streaming dataflows (<a href="/assets/publications/stateful-functions.pdf">pdf</a>), as well as a paper on how to optimize ML pipelines using both linear and relational algebra.
-- March 2019:  We received the <strong>best paper award from EDBT 2019</strong> for our paper "Efficient Window Aggregation with General Stream Slicing"!
-- January 2019:  One full-paper and one vision paper at <strong>EDBT 2019</strong>.
-- December 2018: A poster paper was accepted at <strong>ICDE 2019</strong>.
+- June 2019:  We are presenting a demo in this year's VLDB on how to execute  stateful functions in the cloud, using streaming dataflows (<a href="/assets/publications/stateful-functions.pdf">pdf</a>), as well as a paper on how to optimize ML pipelines using both linear and relational algebra.
+- March 2019:  We received the best paper award from EDBT 2019 for our paper "Efficient Window Aggregation with General Stream Slicing"!
+- January 2019:  One full-paper and one vision paper at EDBT 2019.
+- December 2018: A poster paper was accepted at ICDE 2019.
 - March 2018: I serve as a **local organization chair** of SIGMOD 2019 which will be held in Amsterdam in 2019!
 </section>
     </div>
