@@ -3,4 +3,4 @@ all:
 preview:
 	jekyll serve --watch --baseurl ''
 install:
-	sudo gem install github-pages
+	sudo gem install github-pages faraday
