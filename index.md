@@ -8,10 +8,12 @@ title: "Othonas Moultos | Assistant Professor, TU Delft"
 
 <div id="top" class="row">
 <div class="col-sm-8">
-<!-- <h3> Asterios Katsifodimos </h3> -->
+<!-- <h3> Othonas Moultos </h3> -->
 
 <p class="lead" style="font-size: 130%">
-Assistant Professor, <a href="http://www.tudelft.nl/">TU Delft</a>.<br>Member of the <a href="http://www.wis.ewi.tudelft.nl/">Web Information Systems group</a>.
+Assistant Professor, <a href="https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/">Engineering Thermodynamics</a>.
+
+Department of <a href="hhttps://www.tudelft.nl/3me/over/afdelingen/process-energy">Process & Energy</a>, <a href="https://www.tudelft.nl/3me/">Mechanical Engineering Faculty</a>, <a href="http://www.tudelft.nl/">Delft University of Technology</a>
 </p>
 
 <p style="text-align: justify;">
@@ -54,13 +56,13 @@ OTHIONAS WORKS ON BLAH BA <!-- I work with <a href="http://mariosfragkoulis.gr/"
 <br/><br/>
 <!-- <div class="col-sm-3"> -->
 <h6> <span class="fa fa-envelope"></span> e-mail</h6>
-A.LASTNAME@tudelft.nl
+o.moultos@tudelft.nl
 <br/><br/>
 <h6> <span class="fa fa-map-marker"></span> Address</h6>
-Office VBM6 4.E.080 (4th floor)<br/>
-Van Mourik Broekmanweg 6<br/>
-2628XE Delft<br/>
-Netherlands
+Building 34K - Office 0.250<br/>
+Leeghwaterstraat 39<br/>
+2628CB Delft<br/>
+The Netherlands
 
 </div>
 
