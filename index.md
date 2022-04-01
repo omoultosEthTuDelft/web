@@ -20,7 +20,7 @@ Before joining TU Delft, I spent a year with the <a href="https://icn.sap.com">S
 </p>
 
 <p style="text-align: justify;">
-I work in the broad area of scalable data management; more specifically on data management and analysis, stream processing, systems for scalable AI/ML, and data integration. <!-- I work with <a href="http://mariosfragkoulis.gr/">Marios Fragkoulis</a> (postdoc) and <a href="https://ckoutras.github.io/">Christos Koutras</a> (PhD student, co-advised with Christoph Lofi). --></p>
+OTHIONAS WORKS ON BLAH BA <!-- I work with <a href="http://mariosfragkoulis.gr/">Marios Fragkoulis</a> (postdoc) and <a href="https://ckoutras.github.io/">Christos Koutras</a> (PhD student, co-advised with Christoph Lofi). --></p>
 
 <!-- <div class="alert alert-warning" role="alert" markdown="1">
   I am searching for motivated **postdocs, PhD students and research engineers**! More information on the positions <a href="/jobs/">here</a>. 
