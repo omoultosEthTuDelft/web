@@ -50,7 +50,7 @@ OTHIONAS WORKS ON BLAH BA <!-- I work with <a href="http://mariosfragkoulis.gr/"
 
 <div class="col-md-4">
 <br/>
-      <img src="assets/asterios.katsifodimos.jpg" class="img-thumbnail" alt="Asterios Kαtsifodimos - Αστέριος Κατσιφοδήμος">
+      <img src="assets/photoOtto.jpg" class="img-thumbnail" alt="Asterios Kαtsifodimos - Αστέριος Κατσιφοδήμος">
 <br/><br/>
 <!-- <div class="col-sm-3"> -->
 <h6> <span class="fa fa-envelope"></span> e-mail</h6>
