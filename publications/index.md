@@ -4,7 +4,9 @@ title: "Othonas Moultos | Assistant Professor, TU Delft"
 publications:
   - { section: true, title: "2014" }
   # - { label: "VLDB  '14", title: "Delta: Scalable Data Dissemination under Capacity Constraints", authors: "K.Karanasos, A. Katsifodimos, I. Manolescu", venue: "In the Proceedings of the VLDB Endowment (PVLDB) 2013, Vol.7 No. 4. Also appeared in VLDB 2014, 1-5 September 2014, Hangzhou, China", pdf: "assets/publications/delta.vldb2014.pdf", extended: "assets/publications/delta.report.2013.pdf",poster: "assets/publications/posters/delta-poster-vldb2014.pdf"}
- - { label: "ACS I&EC Research", title: "Electroreduction of CO2/CO to C2 Products: Process Modeling, Downstream Separation, System Integration, and Economic Analysis", authors: "Othonas A. Moultos", venue: "Industrial & Engineering Chemistry Research", pdf: "assets/publications/64.Ramdin_IECR_2021_60_17862", extended: "assets/publications/64.Ramdin_IECR_2021_60_17862"}
+  - { label: "ACS I&EC Research", title: "Electroreduction of CO2/CO to C2 Products: Process Modeling, Downstream Separation, System Integration, and Economic Analysis", authors: "Òthonas A. Moultos", venue: "Industrial & Engineering Chemistry Research", pdf: "assets/publications/64.Ramdin_IECR_2021_60_17862.pdf"}
+
+
  
 
 ---
