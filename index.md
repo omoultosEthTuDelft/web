@@ -10,19 +10,25 @@ title: "Othonas Moultos | Assistant Professor, TU Delft"
 <div class="col-sm-8">
 <!-- <h3> Othonas Moultos </h3> -->
 
-<p class="lead" style="font-size: 130%">
-Assistant Professor, <a href="https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/">Engineering Thermodynamics</a>.
-
-Department of <a href="hhttps://www.tudelft.nl/3me/over/afdelingen/process-energy">Process & Energy</a>, <a href="https://www.tudelft.nl/3me/">Mechanical Engineering Faculty</a>, <a href="http://www.tudelft.nl/">Delft University of Technology</a>
+<p class="lead" style="font-size: 130%"><strong>
+Assistant Professor, <a href="https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/">Engineering Thermodynamics</a>. Department of <a href="hhttps://www.tudelft.nl/3me/over/afdelingen/process-energy">Process & Energy</a>, <a href="https://www.tudelft.nl/3me/">Mechanical Engineering Faculty</a>, <a href="http://www.tudelft.nl/">Delft University of Technology</a>.</strong>
 </p>
 
 <p style="text-align: justify;">
 
-Before joining TU Delft, I spent a year with the <a href="https://icn.sap.com">SAP Innovation Center</a> in Berlin, working on scalable architectures for machine learning inference and training. Before SAP, I was a postdoc at the <a href="http://www.dima.tu-berlin.de/menue/database_systems_and_information_management_group/?no_cache=1">database systems group</a> in TU Berlin, headed by <a href="https://www.dima.tu-berlin.de/menue/staff/volker_markl/">Volker Markl</a>. I received my PhD from <a href="http://www.inria.fr/saclay/">INRIA Saclay</a> &amp; <a href="http://www.u-psud.fr" >Universite Paris-Sud</a> in 2013, supervised by <a href="http://www-rocq.inria.fr/~manolesc/">Ioana Manolescu</a>. Prior to that, I was a member of the High Performance Computing systems Lab (<a href="http://grid.ucy.ac.cy">HPCL</a>), at the University of Cyprus, working with <a href="http://www.cs.ucy.ac.cy/~mdd/">Marios Dikaiakos</a>.
+Before joining TU Delft, I was a research scientist at the <a href="https://www.qatar.tamu.edu/programs/chemical-engineering">Chemical Engineering Program</a> of Texas A&M University at Qatar in the group of <a href="https://www.qatar.tamu.edu/programs/chemical-engineering/faculty-and-staff/dr.-ioannis-economou">Prof. Ioannis Economou</a> working on molecular modeling of chemical mixtures relevant to CCUS proccesses. In 2014, I spent time as a postdoc in the group of <a href="https://cbe.princeton.edu/people/athanassios-panagiotopoulos">Prof. Athanassios Panagiotopoulos</a> at <a href="https://cbe.princeton.edu">Princeton University</a>. In 2013, I obtained a PhD in Physical Chemistry of Polymers from the <a href="https://www.uoi.gr/en/">University of Ioannina</a> supervised by <a href="https://chem.uoi.gr/en/meli-dep/vlachos-konstantinos/">Prof. Costas Vlahos</a>. In 2008, I graduated with an Engineering Diploma in <a href="http://www.materials.uoi.gr/en/">Materials Engineering</a> from the same university.
 </p>
 
+
+<h5>My research</h5>
 <p style="text-align: justify;">
-OTHIONAS WORKS ON BLAH BA <!-- I work with <a href="http://mariosfragkoulis.gr/">Marios Fragkoulis</a> (postdoc) and <a href="https://ckoutras.github.io/">Christos Koutras</a> (PhD student, co-advised with Christoph Lofi). --></p>
+
+Fossil fuels not only cause significant harm to the environment but are also becoming more and more expensive to produce as the resources are slowly getting depleted. I strongly believe that technologies for producing sustainable energy are the only way to move forward, and the challenging role of mechanical engineers is to devise and optimize such technologies. An important part of this challenge is the lack of deep understanding of the relations between the chemical constitution of molecules with their observed macroscopic behavior. To this end, my research and teaching activities revolve around the application of molecular thermodynamics to Process & Energy Engineering in order to create such relations, and also to provide predictions for various thermophysical properties at conditions inaccessible to experiment. I currently focus on two research lines: 
+(i) The energy line, in which I investigate hydrogen storage, purification and transportation, and environmentally-friendly solvents for carbon dioxide capture and utilization. 
+(ii) The process line, in which I study sustainable adsorbents for the removal of contaminants from water. My work requires large-scale high-performance computing involving a number of powerful molecular simulation methods such as on-the-fly calculations of thermodynamic and transport properties of fluids using molecular dynamics, and phase-, adsorption- and reaction-equilibria using advanced Monte Carlo sampling. My research aims to provide insight at both the fundamental and the application level. To achieve this, I actively collaborate with companies such as TOTAL, HyET Hydrogen and DMT Environmental Tech.
+</p>
+
+
 
 <!-- <div class="alert alert-warning" role="alert" markdown="1">
   I am searching for motivated **postdocs, PhD students and research engineers**! More information on the positions <a href="/jobs/">here</a>. 
@@ -32,19 +38,18 @@ OTHIONAS WORKS ON BLAH BA <!-- I work with <a href="http://mariosfragkoulis.gr/"
 
 
 <div style="text-align: justify;" class="col-sm-8">
-<h5>Postdocs</h5>
+<!-- <h5>Postdocs</h5>
 <section markdown="1">
 - [Marios Fragkoulis](http://mariosfragkoulis.gr)
 - [Rihan Hai](https://scholar.google.de/citations?user=vD8M9R0AAAAJ&hl=en) 
-</section>
+</section> -->
 
 <h5>PhD Students</h5>
 <section markdown="1">
-- [Christos Koutras](https://ckoutras.github.io) (with C. Lofi)
-- [Ziyu Li](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/ziyu-li) (with A. Bozzon)
-- [Georgios Siachamis](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/web-information-systems/people/georgios-siachamis)
-- [Andra Ionescu](https://andraionescu.github.io) 
-- [Kyriakos Psarakis](https://kpsarakis.github.io/)
+- [Máté Erdös](https://scholar.google.com/citations?user=TOKYbtYAAAAJ&hl=en)
+- [Hirad Seyed Salehi](https://scholar.google.com/citations?user=_zAZdskAAAAJ&hl=en) 
+- [Mert Polat](https://scholar.google.com/citations?user=iNQ80VEAAAAJ&hl=en)
+- [Parsa Habibi](https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/parsa-habibi) 
 </section>
 </div>
 
@@ -77,16 +82,6 @@ The Netherlands
 
 <section markdown="1">
 - October 2021: I have prepared a <a href="https://www.youtube.com/watch?v=jMmEDPGeh0w">video</a> for this year's Flink Forward. I pretty much describe what I am up to in the last couple of years.
-- August 2021: <a href="https://delftdata.github.io/valentine">Valentine</a> was presented in this year's ICDE 2021 and demoed in VLDB 2021. 
-- June 2021: We received the best <a href="https://dl.acm.org/doi/10.1145/3465480.3466920">paper</a> award in <a href="https://2021.debs.org">ACM DEBS 2021</a>, for our work on <a href="https://github.com/delftdata/flink-statefun-transactions">implementing</a> implementing transactions on Flink's Statefun. 
-- March 2021: <a href="assets/publications/clonos-sigmod2021.pdf">Clonos</a>, a fault-tolerance scheme for stream processing will be presented in this year's SIGMOD 2021. 
-- October 2020: We have implemented the schema matching algorithms of the last 20 years and <a href="https://delftdata.github.io/valentine">released them on Github</a> in order to create a benchmark. We offer datasets with ground truth too!
-- April 2020: We will present a tutorial on <a href="https://streaming-research.github.io/Tutorial-SIGMOD-2020/"> the evolution of stream processing systems</a> during the last two decades, in SIGMOD 2020. 
-- March 2020: Christos will be presenting our work on <a href="http://ceur-ws.org/Vol-2578/SEAData5.pdf">using embeddings for schema matching</a> in the SEAS workshop at EDBT 2020.
-- June 2019:  We are presenting a demo in this year's VLDB on how to execute  stateful functions in the cloud, using streaming dataflows (<a href="/assets/publications/stateful-functions.pdf">pdf</a>), as well as a paper on how to optimize ML pipelines using both linear and relational algebra.
-- March 2019:  We received the best paper award from EDBT 2019 for our paper "Efficient Window Aggregation with General Stream Slicing"!
-- January 2019:  One full-paper and one vision paper at EDBT 2019.
-- December 2018: A poster paper was accepted at ICDE 2019.
 - March 2018: I serve as a **local organization chair** of SIGMOD 2019 which will be held in Amsterdam in 2019!
 </section>
     </div>
