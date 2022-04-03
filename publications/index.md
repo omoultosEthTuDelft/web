@@ -4,7 +4,7 @@ title: "Othonas Moultos | Assistant Professor, TU Delft"
 publications:
   - { section: true, title: "2014" }
   # - { label: "VLDB  '14", title: "Delta: Scalable Data Dissemination under Capacity Constraints", authors: "K.Karanasos, A. Katsifodimos, I. Manolescu", venue: "In the Proceedings of the VLDB Endowment (PVLDB) 2013, Vol.7 No. 4. Also appeared in VLDB 2014, 1-5 September 2014, Hangzhou, China", pdf: "assets/publications/delta.vldb2014.pdf", extended: "assets/publications/delta.report.2013.pdf",poster: "assets/publications/posters/delta-poster-vldb2014.pdf"}
-  - { label: "ACS I&EC Research", title: "Electroreduction of CO2/CO to C2 Products: Process Modeling, Downstream Separation, System Integration, and Economic Analysis", authors: "Òthonas A. Moultos", venue: "Industrial & Engineering Chemistry Research", pdf: "assets/publications/64.Ramdin_IECR_2021_60_17862.pdf"}
+  - { label: "I&EC Research ACS", title: "Electroreduction of CO2/CO to C2 Products: Process Modeling, Downstream Separation, System Integration, and Economic Analysis", authors: "Òthonas A. Moultos", venue: "Industrial & Engineering Chemistry Research", pdf: "assets/publications/64.Ramdin_IECR_2021_60_17862.pdf", SI: "assets/publications/64.Ramdin_IECR_2021_60_17862_SI.pdf", bib: "assets/publications/64.Ramdin_IECR_2021_60_17862.bib"}
 
 
  
@@ -25,6 +25,8 @@ publications:
  <dt class="col-sm-3"><h6><span class="badge badge-success" role="button">{{ pub.label }}</span></h6><br/>
     {% if pub('pdf')? %}<a href="{{ site.url}}/{{ pub.pdf }}" class="badge badge-pill  badge-warning" role="button"><i class="fa fa-download"></i>&nbsp;PDF</a>{% endif %}
     {% if pub('poster')? %}<a href="{{ site.url}}/{{ pub.poster }}" class="badge badge-pill  badge-info" role="button"><i class="fa fa-download"></i>&nbsp;Poster</a>{% endif %}
+    {% if pub('SI')? %}<a href="{{ site.url}}/{{ pub.SI }}" class="badge badge-pill  badge-info" role="button"><i class="fa fa-download"></i>&nbsp;SI</a>{% endif %}
+    {% if pub('bib')? %}<a href="{{ site.url}}/{{ pub.bib }}" class="badge badge-pill  badge-info" role="button"><i class="fa fa-download"></i>&nbsp;bib</a>{% endif %}
     {% if pub('slides')? %}<a href="{{ site.url}}/{{ pub.slides }}" class="badge badge-pill badge-primary" role="button"><i class="fa fa-download"></i>&nbsp;Slides</a>{% endif %}
 	</dt>
   <dd class="col-sm-9">
