@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Othonas Moultos | Assistant Professor, TU Delft"
+title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 ---
 
 <!-- - - - - - - - - - - - - - - - -->
@@ -22,10 +22,9 @@ Before joining TU Delft, I was a research scientist at the <a href="https://www.
 
 <h5>My research</h5>
 <p style="text-align: justify;">
-
-Fossil fuels not only cause significant harm to the environment but are also becoming more and more expensive to produce as the resources are slowly getting depleted. I strongly believe that technologies for producing sustainable energy are the only way to move forward, and the challenging role of mechanical engineers is to devise and optimize such technologies. An important part of this challenge is the lack of deep understanding of the relations between the chemical constitution of molecules with their observed macroscopic behavior. To this end, my research and teaching activities revolve around the application of molecular thermodynamics to Process & Energy Engineering in order to create such relations, and also to provide predictions for various thermophysical properties at conditions inaccessible to experiment. I currently focus on two research lines: 
+Fossil fuels not only cause significant harm to the environment but are also becoming more and more expensive to produce as the resources are slowly getting depleted or due to political reasons. I strongly believe that technologies for producing sustainable energy are the only way to move forward, and the challenging role of engineers is to devise and optimize such technologies. My research and teaching activities revolve around the application of molecular thermodynamics to Process & Energy Engineering in order to accelarate the transition to a more sustainabl future. I currently focus on two research lines: 
 (i) The energy line, in which I investigate hydrogen storage, purification and transportation, and environmentally-friendly solvents for carbon dioxide capture and utilization. 
-(ii) The process line, in which I study sustainable adsorbents for the removal of contaminants from water. My work requires large-scale high-performance computing involving a number of powerful molecular simulation methods such as on-the-fly calculations of thermodynamic and transport properties of fluids using molecular dynamics, and phase-, adsorption- and reaction-equilibria using advanced Monte Carlo sampling. My research aims to provide insight at both the fundamental and the application level. To achieve this, I actively collaborate with companies such as TOTAL, HyET Hydrogen and DMT Environmental Tech.
+(ii) The process line, in which I study sustainable adsorbents for the removal of contaminants from water. My work requires large-scale high-performance computing and involves a number of powerful molecular simulation methods such as on-the-fly calculations of thermodynamic and transport properties of fluids using molecular dynamics, and phase-, adsorption- and reaction-equilibria using advanced Monte Carlo sampling. My research aims to provide insight at both the fundamental and the application level. To achieve this, I actively collaborate with partners such as <a href="https://totalenergies.com">TotalEnergies</a>, <a href="https://hyethydrogen.com">HyET Hydrogen</a>, <a href="https://sites.google.com/xintcglobal.com/xintcglobal">XiNTC</a>, <a href="https://www.tno.nl/nl/">TNO</a>, and <a href="https://www.dmt-et.com">DMT Environmental Tech</a>.
 </p>
 
 
@@ -57,7 +56,7 @@ Fossil fuels not only cause significant harm to the environment but are also bec
 
 <div class="col-md-4">
 <br/>
-      <img src="assets/photoOtto.jpg" class="img-thumbnail" alt="Asterios Kαtsifodimos - Αστέριος Κατσιφοδήμος">
+      <img src="assets/photoOtto.jpg" class="img-thumbnail" alt="Othonas Moultos - Όθωνας Μούλτος">
 <br/><br/>
 <!-- <div class="col-sm-3"> -->
 <h6> <span class="fa fa-envelope"></span> e-mail</h6>
@@ -81,8 +80,11 @@ The Netherlands
 <h5>News</h5>
 
 <section markdown="1">
-- October 2021: I have prepared a <a href="https://www.youtube.com/watch?v=jMmEDPGeh0w">video</a> for this year's Flink Forward. I pretty much describe what I am up to in the last couple of years.
-- March 2018: I serve as a **local organization chair** of SIGMOD 2019 which will be held in Amsterdam in 2019!
+- 
+- September 2021: Otto is featured as an <a href="https://www.tudelft.nl/2021/tu-delft-process-technology-institute/dr-othon-moultos-is-featured-as-an-emerging-investigator-in-the-journal-of-chemical-physics">Emerging Investigator in the Journal of Chemical Physics</a> with the article <a href="https://aip.scitation.org/doi/full/10.1063/5.0062408">Vapor pressures and vapor phase compositions of choline chloride urea and choline chloride ethylene glycol deep eutectic solvents from molecular simulation</a>, which is also featured as an Editor's pick!
+
+
+
 </section>
     </div>
 
