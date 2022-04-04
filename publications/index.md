@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Othonas Moultos | Assistant Professor, TU Delft"
+
 publications:
   - { section: true, title: "2014" }
   # - { label: "VLDB  '14", title: "Delta: Scalable Data Dissemination under Capacity Constraints", authors: "K.Karanasos, A. Katsifodimos, I. Manolescu", venue: "In the Proceedings of the VLDB Endowment (PVLDB) 2013, Vol.7 No. 4. Also appeared in VLDB 2014, 1-5 September 2014, Hangzhou, China", pdf: "assets/publications/delta.vldb2014.pdf", extended: "assets/publications/delta.report.2013.pdf",poster: "assets/publications/posters/delta-poster-vldb2014.pdf"}

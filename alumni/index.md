@@ -9,8 +9,8 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 
 <section markdown="1">
 
-- [Seyed Hossein Jamali](https://www.linkedin.com/in/shjamali/?originalSubdomain=nl), 2015-2020. <strong> Transport properties of fluids: Methodology and force field development using molecular dynamics simulations</strong>. Now at [Van Oord](http://www.vanoord.com/).
-- [Noura Dawass](https://www.linkedin.com/in/noura-dawass-115358216/?originalSubdomain=qa), 2016-2021. <strong> Kirkwood-Buff integrals from molecular simulations</strong>. Now at [TAMUQ](https://www.qatar.tamu.edu/programs/chemical-engineering/).
+- [Seyed Hossein Jamali](https://www.linkedin.com/in/shjamali/?originalSubdomain=nl), 2015-2020. <strong> <a href="theses/SeyedJamali.pdf">Transport properties of fluids: Methodology and force field development using molecular dynamics simulations</a></strong>. Now at [Van Oord](http://www.vanoord.com/).
+- [Noura Dawass](https://www.linkedin.com/in/noura-dawass-115358216/?originalSubdomain=qa), 2016-2021. <strong><a href="theses/NouraDawass.pdf">Kirkwood-Buff integrals from molecular simulations</a></strong>. Now at [TAMUQ](https://www.qatar.tamu.edu/programs/chemical-engineering/).
 
 </section>
 

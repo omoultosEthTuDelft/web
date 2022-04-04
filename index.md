@@ -43,13 +43,13 @@ Fossil fuels not only cause significant harm to the environment but are also bec
 - [Rihan Hai](https://scholar.google.de/citations?user=vD8M9R0AAAAJ&hl=en) 
 </section> -->
 
-<h5>PhD Students</h5>
+<!-- <h5>PhD Students</h5>
 <section markdown="1">
 - [Máté Erdös](https://scholar.google.com/citations?user=TOKYbtYAAAAJ&hl=en)
 - [Hirad Seyed Salehi](https://scholar.google.com/citations?user=_zAZdskAAAAJ&hl=en) 
 - [Mert Polat](https://scholar.google.com/citations?user=iNQ80VEAAAAJ&hl=en)
 - [Parsa Habibi](https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/parsa-habibi) 
-</section>
+</section> -->
 </div>
 
 </div>
