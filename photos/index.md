@@ -24,8 +24,10 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
      <!--  <img src="../assets/photoOtto.jpg" class="img-thumbnail" alt="Othonas Moultos - Όθωνας Μούλτος" align="left">  --> 
 <img src="photos/kunal.jpg" width="500" height="auto" class="float-img"  /> 
 <p> MSc gratuation of Kunal Mavani (TU Delft, July 2021) </p>
-
-
+<br/><br/>
+     <!--  <img src="../assets/photoOtto.jpg" class="img-thumbnail" alt="Othonas Moultos - Όθωνας Μούλτος" align="left">  --> 
+<img src="photos/NourasDefence.jpg" width="700" height="auto" class="float-img"  /> 
+<p> PhD Defence of Noura Dawass (TU Delft, June 2021) </p>
 <br/><br/>
 
 
