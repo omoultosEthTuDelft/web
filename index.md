@@ -80,6 +80,8 @@ o.moultos@tudelft.nl
 <h6> <span class="fa fa-google"></span><a href="https://scholar.google.ca/citations?user=r6fFwkQAAAAJ&hl=en"> scholar</a> </h6>
 <!-- <br/> -->
 <h6> <span class="fa fa-linkedin"></span><a href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge"> Linkedin</a> </h6>
+<!-- <br/> -->
+<h6> <span class="fa fa-researchgate"></span><a href="https://www.researchgate.net/profile/Othon-Moultos/2"> ResearchGate</a> </h6>
 
 <br/><br/>
 
