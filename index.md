@@ -16,7 +16,9 @@ Assistant Professor, <a href="https://www.tudelft.nl/3me/over/afdelingen/process
 
 <p style="text-align: justify;">
 
-Before joining TU Delft, I was a research scientist at the <a href="https://www.qatar.tamu.edu/programs/chemical-engineering">Chemical Engineering Program</a> of Texas A&M University at Qatar in the group of <a href="https://www.qatar.tamu.edu/programs/chemical-engineering/faculty-and-staff/dr.-ioannis-economou">Prof. Ioannis Economou</a> working on molecular modeling of chemical mixtures relevant to CCUS proccesses. In 2014, I spent time as a postdoc in the group of <a href="https://cbe.princeton.edu/people/athanassios-panagiotopoulos">Prof. Athanassios Panagiotopoulos</a> at <a href="https://cbe.princeton.edu">Princeton University</a>. In 2013, I obtained a PhD in Physical Chemistry of Polymers from the <a href="https://www.uoi.gr/en/">University of Ioannina</a> supervised by <a href="https://chem.uoi.gr/en/meli-dep/vlachos-konstantinos/">Prof. Costas Vlahos</a>. In 2008, I graduated with an Engineering Diploma in <a href="http://www.materials.uoi.gr/en/">Materials Engineering</a> from the same university.
+<!-- Before joining TU Delft, I was a research scientist at the <a href="https://www.qatar.tamu.edu/programs/chemical-engineering">Chemical Engineering Program</a> of Texas A&M University at Qatar in the group of <a href="https://www.qatar.tamu.edu/programs/chemical-engineering/faculty-and-staff/dr.-ioannis-economou">Prof. Ioannis Economou</a> working on molecular modeling of chemical mixtures relevant to CCUS proccesses. In 2014, I spent time as a postdoc in the group of <a href="https://cbe.princeton.edu/people/athanassios-panagiotopoulos">Prof. Athanassios Panagiotopoulos</a> at <a href="https://cbe.princeton.edu">Princeton University</a>. In 2013, I obtained a PhD in Physical Chemistry of Polymers from the <a href="https://www.uoi.gr/en/">University of Ioannina</a> supervised by <a href="https://chem.uoi.gr/en/meli-dep/vlachos-konstantinos/">Prof. Costas Vlahos</a>. In 2008, I graduated with an Engineering Diploma in <a href="http://www.materials.uoi.gr/en/">Materials Engineering</a> from the same university. -->
+
+Before joining TU Delft, I worked on molecular modeling of chemical mixtures relevant to CCUS proccesses under the supervision of <a href="https://www.qatar.tamu.edu/programs/chemical-engineering/faculty-and-staff/dr.-ioannis-economou">Prof. Ioannis Economou</a> (<a href="https://www.qatar.tamu.edu/programs/chemical-engineering">Chem. Eng. TAMUQ</a>, Qatar) and <a href="https://cbe.princeton.edu/people/athanassios-panagiotopoulos">Prof. Athanassios Panagiotopoulos</a> (<a href="https://cbe.princeton.edu">Chem. Eng. Princeton</a>, USA). In 2013, I obtained a PhD in Physical Chemistry of Polymers from <a href="https://www.uoi.gr/en/">UOI</a>, Greece (supervisor <a href="https://chem.uoi.gr/en/meli-dep/vlachos-konstantinos/">Prof. Costas Vlahos</a>). In 2008, I graduated with an Engineering Diploma in <a href="http://www.materials.uoi.gr/en/">Materials Engineering</a> from the same university.
 </p>
 
 <h5>My research</h5>
@@ -81,8 +83,8 @@ o.moultos@tudelft.nl
 <!-- <br/> -->
 <h6> <span class="fa fa-linkedin"></span><a href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge"> Linkedin</a> </h6>
 <!-- <br/> -->
-<h6> <span class="fa fa-researchgate"></span><a href="https://www.researchgate.net/profile/Othon-Moultos/2"> ResearchGate</a> </h6>
-
+<!-- <h6> <span class="fa fa-researchgate"></span><a href="https://www.researchgate.net/profile/Othon-Moultos/2"> ResearchGate</a> </h6>
+ -->
 <br/><br/>
 
 
@@ -102,10 +104,10 @@ o.moultos@tudelft.nl
 <h5>News</h5>
 
 <section markdown="1">
-
-- September 2021: Otto is featured as an <a href="https://www.tudelft.nl/2021/tu-delft-process-technology-institute/dr-othon-moultos-is-featured-as-an-emerging-investigator-in-the-journal-of-chemical-physics">Emerging Investigator in the Journal of Chemical Physics</a> with the article <a href="https://aip.scitation.org/doi/full/10.1063/5.0062408">Vapor pressures and vapor phase compositions of choline chloride urea and choline chloride ethylene glycol deep eutectic solvents from molecular simulation</a>, which is also featured as an Editor's pick!
-
-
+- February 2022: Welcome to the group <a href="https://www.linkedin.com/in/caspervandergeest/?originalSubdomain=nl"> Casper</a>! 
+- September 2021: Otto is featured as an Emerging Investigator in the Journal of Chemical Physics with the article <a href="https://aip.scitation.org/doi/full/10.1063/5.0062408">Vapor pressures and vapor phase compositions of choline chloride urea and choline chloride ethylene glycol deep eutectic solvents from molecular simulation</a>, which is also featured as an Editor's pick. <a href="https://www.tudelft.nl/2021/tu-delft-process-technology-institute/dr-othon-moultos-is-featured-as-an-emerging-investigator-in-the-journal-of-chemical-physics">Short story here</a>.
+- July 2021: Our article on the <a href="https://pubs.acs.org/doi/10.1021/acs.jced.1c00300?ref=pdf">diffusivities of hydrogen and oxygen in water</a> is selected as Editor's choice in ACS Journal of Chemical and Engineering Data. 
+- March 2021: Our article on the <a href="https://pubs.acs.org/doi/10.1021/acs.jced.1c00020?ref=pdf">thermodynamic properties of compressed hydrogen/water mixtures</a> is selected as Editor's choice in ACS Journal of Chemical and Engineering Data. 
 
 </section>
     </div>
