@@ -19,7 +19,6 @@ Assistant Professor, <a href="https://www.tudelft.nl/3me/over/afdelingen/process
 Before joining TU Delft, I was a research scientist at the <a href="https://www.qatar.tamu.edu/programs/chemical-engineering">Chemical Engineering Program</a> of Texas A&M University at Qatar in the group of <a href="https://www.qatar.tamu.edu/programs/chemical-engineering/faculty-and-staff/dr.-ioannis-economou">Prof. Ioannis Economou</a> working on molecular modeling of chemical mixtures relevant to CCUS proccesses. In 2014, I spent time as a postdoc in the group of <a href="https://cbe.princeton.edu/people/athanassios-panagiotopoulos">Prof. Athanassios Panagiotopoulos</a> at <a href="https://cbe.princeton.edu">Princeton University</a>. In 2013, I obtained a PhD in Physical Chemistry of Polymers from the <a href="https://www.uoi.gr/en/">University of Ioannina</a> supervised by <a href="https://chem.uoi.gr/en/meli-dep/vlachos-konstantinos/">Prof. Costas Vlahos</a>. In 2008, I graduated with an Engineering Diploma in <a href="http://www.materials.uoi.gr/en/">Materials Engineering</a> from the same university.
 </p>
 
-
 <h5>My research</h5>
 <p style="text-align: justify;">
 Fossil fuels not only cause significant harm to the environment but are also becoming more and more expensive to produce as the resources are slowly getting depleted or due to political reasons. I strongly believe that technologies for producing sustainable energy are the only way to move forward, and the challenging role of engineers is to devise and optimize such technologies. My research and teaching activities revolve around the application of molecular thermodynamics to Process & Energy Engineering in order to accelarate the transition to a more sustainabl future. I currently focus on two research lines: 
@@ -58,20 +57,39 @@ Fossil fuels not only cause significant harm to the environment but are also bec
 <br/>
       <img src="assets/photoOtto.jpg" class="img-thumbnail" alt="Othonas Moultos - Όθωνας Μούλτος">
 <br/><br/>
+
 <!-- <div class="col-sm-3"> -->
-<h6> <span class="fa fa-envelope"></span> e-mail</h6>
-o.moultos@tudelft.nl
-<br/><br/>
+
 <h6> <span class="fa fa-map-marker"></span> Address</h6>
 Building 34K - Office 0.250<br/>
 Leeghwaterstraat 39<br/>
 2628CB Delft<br/>
 The Netherlands
 
-</div>
+<br/><br/>
+<h6> <span class="fa fa-envelope"></span> e-mail</h6>
+o.moultos@tudelft.nl
+
+<br/><br/>
+<h6> <span class="fa fa-github"></span><a href="https://github.com/omoultosEthTuDelft"> github</a> </h6>
+
+<br/><br/>
+<h6> <span class="fa fa-google></span><a href="https://github.com/omoultosEthTuDelft"> github</a> </h6>
+
+
+<br/><br/>
+ <a href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+
+ <a href="https://scholar.google.ca/citations?user=r6fFwkQAAAAJ&hl=en"><i class="fa fa-google" aria-hidden="true">scholar</i></a>
+
+
+
 
 </div>
 
+</div>
+
+              
 
 <!-- - - - - - - - - - - - - - - - -->
 <div class="row-fluid">
@@ -80,7 +98,7 @@ The Netherlands
 <h5>News</h5>
 
 <section markdown="1">
-- 
+
 - September 2021: Otto is featured as an <a href="https://www.tudelft.nl/2021/tu-delft-process-technology-institute/dr-othon-moultos-is-featured-as-an-emerging-investigator-in-the-journal-of-chemical-physics">Emerging Investigator in the Journal of Chemical Physics</a> with the article <a href="https://aip.scitation.org/doi/full/10.1063/5.0062408">Vapor pressures and vapor phase compositions of choline chloride urea and choline chloride ethylene glycol deep eutectic solvents from molecular simulation</a>, which is also featured as an Editor's pick!
 
 
