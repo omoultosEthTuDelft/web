@@ -87,10 +87,6 @@ o.moultos@tudelft.nl
  -->
 <br/><br/>
 
-
-
-
-
 </div>
 
 </div>
@@ -100,7 +96,7 @@ o.moultos@tudelft.nl
 <!-- - - - - - - - - - - - - - - - -->
 <div class="row-fluid">
     <div id="news" class="row">
-    <div style="text-align: justify;" class="col-sm-8">
+    <div style="text-align: justify;" class="col-sm-11">
 <h5>News</h5>
 
 <section markdown="1">
