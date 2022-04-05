@@ -67,20 +67,22 @@ Leeghwaterstraat 39<br/>
 The Netherlands
 
 <br/><br/>
+<h6> <span class="fa fa-phone"></span> Phone</h6>
++ 31 (0) 15 27 81 307
+<br/><br/>
 <h6> <span class="fa fa-envelope"></span> e-mail</h6>
 o.moultos@tudelft.nl
 
 <br/><br/>
 <h6> <span class="fa fa-github"></span><a href="https://github.com/omoultosEthTuDelft"> github</a> </h6>
 
+<!-- <br/> -->
+<h6> <span class="fa fa-google"></span><a href="https://scholar.google.ca/citations?user=r6fFwkQAAAAJ&hl=en"> scholar</a> </h6>
+<!-- <br/> -->
+<h6> <span class="fa fa-linkedin"></span><a href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge"> Linkedin</a> </h6>
+
 <br/><br/>
-<h6> <span class="fa fa-google></span><a href="https://github.com/omoultosEthTuDelft"> github</a> </h6>
 
-
-<br/><br/>
- <a href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-
- <a href="https://scholar.google.ca/citations?user=r6fFwkQAAAAJ&hl=en"><i class="fa fa-google" aria-hidden="true">scholar</i></a>
 
 
 
