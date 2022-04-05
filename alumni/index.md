@@ -25,7 +25,8 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 - [Sander Korver](https://www.linkedin.com/in/sander-korver-b00a6496), 2019-2020. <strong> Machine learning and thermodynamic modeling for fingerprint analysis of gasoline used in arson</strong>. Now at [Versatec Energy Consultants](https://versatec.nl).
 - [Grevil Colaco](https://www.linkedin.com/in/grevilcolaco/?originalSubdomain=nl), 2019-2020. <strong> Monte Carlo simulations of NOx adsorption on zeolites</strong>. Now at [CGI](https://www.cgi.com/en).
 - [Tijin Hanno Geo Saji](https://www.linkedin.com/in/tijin-saji-b0a5/?originalSubdomain=nl), 2020-2021. <strong> Ab initio simulations of materials for hydrogen storage</strong>. 
-- [Kunal Mavani](https://www.linkedin.com/in/kunal-mavani/?originalSubdomain=nl), 2020-2021. <strong> Molecular simulation of CO2 diffusivity in Krytox oils</strong>. Now at []().
+- [Kunal Mavani](https://www.linkedin.com/in/kunal-mavani/?originalSubdomain=nl), 2020-2021. <strong> <a href="../assets/publications/59.Tsimpanogiannis_JCED_2021_66_3226.pdf">Molecular simulation of CO2 diffusivity in Krytox oils</a></strong>. Now at []().
+- [Samadarshi Maity](https://www.linkedin.com/in/samadarshi-maity-9621b6115/), 2020-2021 (Honors project). <strong> Hydrogen and oxygen diffusivity in gas, liquid, and supercritical water</strong>. Now at [Universiteit Leiden](https://www.universiteitleiden.nl/en).
 - [Jilles Langeveld](https://www.linkedin.com/in/jilles-langeveld/?originalSubdomain=nl), 2021. <strong> CO2 capture with deep eutectic solvents</strong>. Now at [Techniplan Adviseurs](http://www.techniplan.nl).
 </section>
 
@@ -40,12 +41,12 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 
 </section>
 
-<h5>Visitors and Interns</h5>
+<!-- <h5>Visitors and Interns</h5>
 <section markdown="1">
 
 - [Zsolt Csaszar](https://www.linkedin.com/in/zsolt-csaszar/?originalSubdomain=nl), 2016-2017. <strong> Monte Carlo simulations of the phase equilibria of light/heavy hydrocarbon mixtures</strong>. Now at [ASML](https://www.asml.com/en).
 
-</section>
+</section> -->
 
 </div>
 </div>

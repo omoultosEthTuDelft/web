@@ -2,9 +2,8 @@
 layout: default
 title: "Othonas Moultos | Assistant Professor, TU Delft"
 
+
 publications:
-  - { section: true, title: "2014" }
-  # - { label: "VLDB  '14", title: "Delta: Scalable Data Dissemination under Capacity Constraints", authors: "K.Karanasos, A. Katsifodimos, I. Manolescu", venue: "In the Proceedings of the VLDB Endowment (PVLDB) 2013, Vol.7 No. 4. Also appeared in VLDB 2014, 1-5 September 2014, Hangzhou, China", pdf: "assets/publications/delta.vldb2014.pdf", extended: "assets/publications/delta.report.2013.pdf",poster: "assets/publications/posters/delta-poster-vldb2014.pdf"}
   - { label: "I&EC Research", 
     title: "Electroreduction of CO2/CO to C2 Products: Process Modeling, Downstream Separation, System Integration, and Economic Analysis", 
     authors: "Mahinder Ramdin, Bert De Mot, Andrew R. T. Morrison, Tom Breugelmans, Leo J. P. van den Broeke, J. P. Martin Trusler, Ruud Kortlever, Wiebren de Jong, Othonas A. Moultos, Penny Xiao, Paul A. Webley, and Thijs J. H. Vlugt", 
@@ -16,10 +15,16 @@ publications:
     title: "Interfacial Properties of Hydrophobic Deep Eutectic Solvents with Water", 
     authors: "Hirad S. Salehi, Othonas A. Moultos, and Thijs J. H. Vlugt", 
     venue: "Journal of Physical Chemistry B (2021) 125, 12303", 
-    pdf: "assets/publications/63.Salehi_JPCB_125_12303.pdf", 
-    SI: "assets/publications/SI/63.Salehi_JPCB_125_12303_SI.pdf ", 
+    pdf: "assets/publications/63.Salehi_JPCB_2021_125_12303.pdf", 
+    SI: "assets/publications/SI/63.Salehi_JPCB_2021_125_12303_SI.pdf ", 
     bib: "assets/publications/bib/63.Salehi_JPCB_125_12303.bib"}
-
+  - { label: "JCED", 
+    title: "Engineering Model for Predicting the Intradiffusion Coefficients of Hydrogen and Oxygen in Vapor, Liquid, and Supercritical Water based on Molecular Dynamics Simulations",
+    authors: "Ioannis N. Tsimpanogiannis, Samadarshi Maity, Alper T. Celebi, and Othonas A. Moultos", 
+    venue: "Journal of Chemical & Engineering Data (2021) 66, 3226", 
+    pdf: "assets/publications/59.Tsimpanogiannis_JCED_2021_66_3226.pdf", 
+    SI: "assets/publications/SI/59.Tsimpanogiannis_JCED_2021_66_3226_SI.pdf", 
+    bib: "assets/publications/bib/63.Salehi_JPCB_125_12303.bib"}
  
 
 ---
@@ -50,7 +55,6 @@ publications:
 {% endfor %}
 
 </div>
-
 
 
 
