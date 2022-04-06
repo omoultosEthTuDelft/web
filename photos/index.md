@@ -26,7 +26,7 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 <p> MSc gratuation of Kunal Mavani (TU Delft, July 2021) </p>
 <br/><br/>
      <!--  <img src="../assets/photoOtto.jpg" class="img-thumbnail" alt="Othonas Moultos - Όθωνας Μούλτος" align="left">  --> 
-<img src="photos/NourasDefence.jpg" width="700" height="auto" class="float-img"  /> 
+<img src="photos/nourasDefence.jpg" width="700" height="auto" class="float-img"  /> 
 <p> PhD Defence of Noura Dawass (TU Delft, June 2021) </p>
 <br/><br/>
 
