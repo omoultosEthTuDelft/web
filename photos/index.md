@@ -29,6 +29,10 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 <img src="photos/nourasDefence.jpg" width="700" height="auto" class="float-img"  /> 
 <p> PhD Defence of Noura Dawass (TU Delft, June 2021) </p>
 <br/><br/>
+     <!--  <img src="../assets/photoOtto.jpg" class="img-thumbnail" alt="Othonas Moultos - Όθωνας Μούλτος" align="left">  --> 
+<img src="photos/trondheim_group.jpg" width="700" height="auto" class="float-img"  /> 
+<p> From our visit to Porelab/NTNU names  (Trondheim, April 2022) </p>
+<br/><br/>
 
 
 
