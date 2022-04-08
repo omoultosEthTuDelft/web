@@ -13,7 +13,8 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 }
 </style>
 
-<div class="col-md-9">
+<div id="top" class="row">
+<div class="col-md-8">
 <br/>
      <!--  <img src="../assets/photoOtto.jpg" class="img-thumbnail" alt="Othonas Moultos - Όθωνας Μούλτος" align="left">  --> 
 <img src="photos/trondheim_group.jpg" width="700" height="auto" class="float-img"  /> 
@@ -27,6 +28,7 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 <br/><br/>
      <!--  <img src="../assets/photoOtto.jpg" class="img-thumbnail" alt="Othonas Moultos - Όθωνας Μούλτος" align="left">  --> 
 <img src="photos/kunal.jpg" width="500" height="auto" class="float-img"  /> 
+<br/>
 <p> MSc gratuation of Kunal Mavani (TU Delft, July 2021) </p>
 <br/><br/>
      <!--  <img src="../assets/photoOtto.jpg" class="img-thumbnail" alt="Othonas Moultos - Όθωνας Μούλτος" align="left">  --> 
@@ -36,5 +38,6 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 
 
 
+</div>
 
 </div>
