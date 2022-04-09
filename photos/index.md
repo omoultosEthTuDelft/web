@@ -1,5 +1,5 @@
 ---
- layout: default
+ layout: defaultNoFooter
  title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 ---
 
@@ -11,7 +11,7 @@ div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
-  width: 180px;
+  width: 200px;
 }
 
 div.gallery:hover {
