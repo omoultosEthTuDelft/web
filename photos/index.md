@@ -1,11 +1,12 @@
 ---
- layout: defaultNoFooter
+ layout: default
  title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 ---
 
 
 <html>
 <head>
+
 <style>
 div.gallery {
   margin: 5px;
@@ -31,9 +32,13 @@ div.desc {
 </head>
 <body>
 
+<div class="row">
+<!-- <div class="col-sm-14"> -->
+<br/>
+
 <div class="gallery">
   <a target="_blank" href="photos/trondheim_group.jpg">
-    <img src="photos/trondheim_group.jpg" alt="Cinque Terre" width="600" height="auto">
+    <img src="photos/trondheim_group.jpg" alt="Cinque Terre" width="500" height="auto">
   </a>
   <div class="desc">From our visit to Porelab/NTNU. People from left to right: Ke Xu, Otto, Parsa Habibi, Mert Polat, Bin Fang (Trondheim, April 2022)</div>
 </div>
@@ -61,10 +66,12 @@ div.desc {
 
 <div class="gallery">
   <a target="_blank" href="photos/nourasDefence.jpg">
-    <img src="photos/nourasDefence.jpg" alt="Mountains" width="800" height="auto">
+    <img src="photos/nourasDefence.jpg" alt="Mountains" width="600" height="auto">
   </a>
   <div class="desc">PhD Defence of Noura Dawass (TU Delft, June 2021)</div>
 </div>
 
+<!-- </div> -->
+</div>
 </body>
 </html>

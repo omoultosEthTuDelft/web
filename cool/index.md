@@ -4,13 +4,13 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 ---
 
 <style>
-.float-img {
+/*.float-img {
      float:  left; 
      margin-right: 10px; 
      margin-bottom: 5px; 
      border: solid black 1px; 
      padding: 2px 
-}
+}*/
 </style>
 
 <div class="col-md-9">
