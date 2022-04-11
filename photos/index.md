@@ -73,6 +73,13 @@ div.desc {
 </div>
 
 <div class="gallery">
+  <a target="_blank" href="photos/thermo2019.jpg">
+    <img src="photos/thermo2019.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc">Lunch during the Thermodynamics 2019 conference. People from left to right: Ioannis Tsimpanogiannis, Ioannis Economou, Claire McCabe, Peter Cummings, Amparo Galindo, Chrisa Economou, Otto, Ilias Nikolaidis (Punta Umbria, Spain, June 2019)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/notreDame.jpg">
     <img src="photos/notreDame.jpg" alt="Mountains" width="600" height="auto">
   </a>
@@ -87,10 +94,24 @@ div.desc {
 </div>
 
 <div class="gallery">
+  <a target="_blank" href="photos/poreLabNoura.jpg">
+    <img src="photos/poreLabNoura.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc">With Keichi Kuboyama and Noura Dawass from our visit to Porelab/NTNU. (Trondheim, Norway, March 2019)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/london2018.jpg">
     <img src="photos/london2018.jpg" alt="Mountains" width="600" height="auto">
   </a>
   <div class="desc">With Max Döpke (left) and Máté Erdös (right) from our visit to UCL (London, September 2018)</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="photos/zsolt2017.jpg">
+    <img src="photos/zsolt2017.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc">MSc gratuation of Zsolt Csaszar (TU Delft, October 2017)</div>
 </div>
 
 <div class="gallery">
