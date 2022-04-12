@@ -135,6 +135,23 @@ div.desc {
   <div class="desc">With Máté Erdös (left) and Reza Rahbari (right) during the outing of Process & Energy department at the beach (Kijkduin, The Hague, June 2017)</div>
 </div>
 
+<div class="gallery">
+  <a target="_blank" href="photos/lake2016.jpg">
+    <img src="photos/lake2016.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc">At the Indiana dunes state park with lake Michigan in the background (Indiana, USA, June 2016)</div>
+</div>
+
+
+<div class="gallery">
+  <a target="_blank" href="photos/tamuq2016.jpg">
+    <img src="photos/tamuq2016.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc">At the TAMUQ campus with (from left to rigth) Ioannis Tsimpanogiannis, Panagiotis Krokidas, and Nikos Diamantonis (Doha, Qatar, March 2016)</div>
+</div>
+
+
+
 
 
 <!-- </div> -->
