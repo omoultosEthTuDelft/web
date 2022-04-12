@@ -73,6 +73,20 @@ div.desc {
 </div>
 
 <div class="gallery">
+  <a target="_blank" href="photos/souqWaqif.jpg">
+    <img src="photos/souqWaqif.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc">From our visit to TAMUQ: In Souq Waqif with Thijs Vlugt and Noura Dawass (Doha, Qatar, November 2019)</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="photos/acropol.jpg">
+    <img src="photos/acropol.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc">With Peter van den Broeke under the Acropolis (Athens, Greece, July 2019)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/thermo2019.jpg">
     <img src="photos/thermo2019.jpg" alt="Mountains" width="600" height="auto">
   </a>
