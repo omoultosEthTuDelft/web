@@ -32,7 +32,13 @@ publications:
     pdf: "assets/publications/59.Tsimpanogiannis_JCED_2021_66_3226.pdf", 
     SI: "assets/publications/SI/59.Tsimpanogiannis_JCED_2021_66_3226_SI.pdf", 
     bib: "assets/publications/bib/59.Tsimpanogiannis_JCED_2021_66_3226.bib"}
- 
+  - { number: "48.", year: "2021", 
+    title: "Diffusivity of α-, β-, γ-cyclodextrin and the inclusion complex of β-cyclodextrin: Ibuprofen in aqueous solutions; A molecular dynamics simulation study",
+    authors: "Máté Erdo ̋s, Michalis Frangou, Thijs J.H. Vlugt, and Othonas A. Moultos", 
+    venue: "Fluid Phase Equilibria (2021) 528, 112842", 
+    pdf: "assets/publications/48.Erdos_FPE_2021_528_112842.pdf", 
+    SI: "assets/publications/SI/48.Erdos_FPE_2021_528_112842_SI.pdf", 
+    bib: "assets/publications/bib/48.Erdos_FPE_2021_528_112842.bib"} 
 
 ---
 

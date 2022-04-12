@@ -30,7 +30,7 @@ Dr. Reza Rahbari</a> as a part of our <a href="https://www.rvo.nl">RVO</a> funde
 
 <video width="600" height="auto" controls>
   <source src="videos/cycloMate.mp4" type="video/mp4">
-</video><p> MD simulation showing the inclusion complexation (reversly) of a beta-Cyclodextrin with a caproic acid. The simulation was performed by <a href="https://scholar.google.com/citations?user=TOKYbtYAAAAJ&hl=en">Dr. Máté Erdös </a> during his PhD (publication in Fluid Phase Equilibria here). </p> 
+</video><p> MD simulation showing the inclusion complexation (reversly) of a beta-Cyclodextrin with a caproic acid. The simulation was performed by <a href="https://scholar.google.com/citations?user=TOKYbtYAAAAJ&hl=en">Dr. Máté Erdös </a> during his PhD (publication in Fluid Phase Equilibria <a href="../assets/publications/48.Erdos_FPE_2021_528_112842.pdf">here)</a>. </p> 
 
 <!-- <video width="800" height="auto" controls>
   <source src="videos/nemdMFISeyed.mp4" type="video/mp4">
