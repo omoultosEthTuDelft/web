@@ -129,6 +129,13 @@ div.desc {
 </div>
 
 <div class="gallery">
+  <a target="_blank" href="photos/sevilla2017.jpg">
+    <img src="photos/sevilla2017.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc">From our visit to Universidad Pablo de Olavide. People from left to right: Otto, Remco Hartkamp, Christos Bardas, Hirad Salehi, Seyed Jamali (Sevilla, Spain, October 2017)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/mateReza2017.jpg">
     <img src="photos/mateReza2017.jpg" alt="Mountains" width="600" height="auto">
   </a>
