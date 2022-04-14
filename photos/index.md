@@ -122,6 +122,13 @@ div.desc {
 </div>
 
 <div class="gallery">
+  <a target="_blank" href="photos/snow2017.jpg">
+    <img src="photos/snow2017.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc">Otto outside the P&E buidling experiencing rare weather phenomena! (TU Delft, December 2017)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/zsolt2017.jpg">
     <img src="photos/zsolt2017.jpg" alt="Mountains" width="600" height="auto">
   </a>
