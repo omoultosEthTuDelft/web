@@ -27,7 +27,7 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 - [Grevil Colaco](https://www.linkedin.com/in/grevilcolaco/?originalSubdomain=nl), 2019-2020. <strong> Monte Carlo simulations of NOx adsorption on zeolites</strong>. Now at [CGI](https://www.cgi.com/en).
 - Benjamin Rosenbaum, 2020 (Internship project with WUR). <strong> Coarse-grained simulations of oleosomes</strong>. 
 - [Tijin Hanno Geo Saji](https://www.linkedin.com/in/tijin-saji-b0a5/?originalSubdomain=nl), 2020-2021. <strong> Ab initio simulations of materials for hydrogen storage</strong>. 
-- [Kunal Mavani](https://www.linkedin.com/in/kunal-mavani/?originalSubdomain=nl), 2020-2021. <strong>Molecular simulation of CO2 diffusivity in Krytox oils</strong>. Now at []().
+- [Kunal Mavani](https://www.linkedin.com/in/kunal-mavani/?originalSubdomain=nl), 2020-2021. <strong>Molecular simulation of CO2 diffusivity in Krytox oils</strong>. 
 - [Samadarshi Maity](https://www.linkedin.com/in/samadarshi-maity-9621b6115/), 2020-2021 (Honors project with Chem. E.). <strong>  <a href="../assets/publications/59.Tsimpanogiannis_JCED_2021_66_3226.pdf">Hydrogen and oxygen diffusivity in gas, liquid, and supercritical water</a></strong>. Now at [Universiteit Leiden](https://www.universiteitleiden.nl/en).
 - [Jilles Langeveld](https://www.linkedin.com/in/jilles-langeveld/?originalSubdomain=nl), 2021. <strong> CO2 capture with deep eutectic solvents</strong>. Now at [Techniplan Adviseurs](http://www.techniplan.nl).
 </section>
