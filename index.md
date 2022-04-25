@@ -107,7 +107,7 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
-- April 19th: The "Introduction to Molecular Simulation" course starting today (<a href="https://brightspace.tudelft.nl/d2l/home/400948">Brightspace page</a>).
+- April 19th: The "Introduction to Molecular Simulation" course is starting today (<a href="https://brightspace.tudelft.nl/d2l/home/400948">Brightspace page</a>).
 - April 2022: The Mechanical Engineering of TU Delft is ranked 4th according to the 2021 QS Rankings. <a href="https://www.tudelft.nl/en/about-tu-delft/facts-and-figures/tu-delft-in-international-rankings/subject-rankings"> More details here</a> (for TU Delft employees).
 - February 2022: Welcome to the group <a href="https://www.linkedin.com/in/caspervandergeest/?originalSubdomain=nl"> Casper</a>! 
 - September 2021: Otto is featured as an Emerging Investigator in the Journal of Chemical Physics with the article <a href="https://aip.scitation.org/doi/full/10.1063/5.0062408">Vapor pressures and vapor phase compositions of choline chloride urea and choline chloride ethylene glycol deep eutectic solvents from molecular simulation</a>, which is also featured as an Editor's pick. <a href="https://www.tudelft.nl/2021/tu-delft-process-technology-institute/dr-othon-moultos-is-featured-as-an-emerging-investigator-in-the-journal-of-chemical-physics">Short story here</a>.
