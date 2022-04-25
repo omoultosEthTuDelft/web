@@ -76,21 +76,21 @@ The Netherlands
 o.moultos@tudelft.nl
 
 <br/><br/>
-<!-- <h6> <span class="fa fa-github"></span><a href="https://github.com/omoultosEthTuDelft"> github</a> </h6> -->
+<h6> <span class="fa fa-github"></span><a href="https://github.com/omoultosEthTuDelft"> github</a> </h6>
 
-<!-- <h6> <span class="fa fa-google"></span><a href="https://scholar.google.ca/citations?user=r6fFwkQAAAAJ&hl=en"> scholar</a> </h6> -->
+<h6> <span class="fa fa-google"></span><a href="https://scholar.google.ca/citations?user=r6fFwkQAAAAJ&hl=en"> scholar</a> </h6>
 
-<!-- <h6> <span class="fa fa-linkedin"></span><a href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge"> Linkedin</a> </h6> -->
+<h6> <span class="fa fa-linkedin"></span><a href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge"> Linkedin</a> </h6>
 
 <!-- <h6> <span class="fa fa-researchgate"></span><a href="https://www.researchgate.net/profile/Othon-Moultos/2"> ResearchGate</a> </h6>
  -->
- <a target="_blank" href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge"><img style="width: 100px;" src="logos/LinkedIn.png" hspace=3 alt="LinkedIn profile"></a>
+ <!-- <a target="_blank" href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge"><img style="width: 100px;" src="logos/LinkedIn.png" hspace=3 alt="LinkedIn profile"></a>
  <br/>  <br/> 
 <a target="_blank" href="https://github.com/omoultosEthTuDelft"><img style="width: 100px;" src="logos/Github.png" hspace=3 alt="github profile"></a>
 <br/>  <br/> 
 <a target="_blank" href="https://scholar.google.ca/citations?user=r6fFwkQAAAAJ&hl=en"><img style="width: 100px;" src="logos/GoogleScholar.jpg" hspace=3 alt="googleScholar profile"></a>
 <br/><br/>
-<a target="_blank" href="https://www.researchgate.net"><img style="width: 100px;" src="logos/ResearchGate.png" hspace=3 alt="googleScholar profile"></a>
+<a target="_blank" href="https://www.researchgate.net"><img style="width: 100px;" src="logos/ResearchGate.png" hspace=3 alt="googleScholar profile"></a> -->
 <br/><br/>
 
 </div>
