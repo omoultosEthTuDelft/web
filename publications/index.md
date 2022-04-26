@@ -39,6 +39,13 @@ publications:
     pdf: "assets/publications/48.Erdos_FPE_2021_528_112842.pdf", 
     SI: "assets/publications/SI/48.Erdos_FPE_2021_528_112842_SI.pdf", 
     bib: "assets/publications/bib/48.Erdos_FPE_2021_528_112842.bib"} 
+  - { number: "37.", year: "2020", 
+    title: "Inclusion Complexation of Organic Micropollutants with β‐Cyclodextrin",
+    authors: "Máté Erdo ̋s, Remco Hartkamp, Thijs J.H. Vlugt, and Othonas A. Moultos", 
+    venue: "Journal of Physical Chemistry B (2020) 124, 1218", 
+    pdf: "assets/publications/37.Erdos_JPCB_2020_124_1218.pdf", 
+    SI: "assets/publications/SI/37.Erdos_JPCB_2020_124_1218_SI.pdf", 
+    bib: "assets/publications/bib/37.Erdos_JPCB_2020_124_1218.bib"}
 
 ---
 
