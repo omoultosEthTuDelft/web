@@ -38,6 +38,13 @@ div.desc {
 <br/>
 
 <div class="gallery">
+  <a target="_blank" href="photos/ice_cream.jpg">
+    <img src="photos/ice_cream.jpg" alt="Cinque Terre" width="500" height="auto">
+  </a>
+  <div class="desc">Ice cream afternoon for the group! People from left to right: Ke Xu, Lili Ma, Mert Polat, Parsa Habibi, Casper van der Geest, Prateek Jain, Poulumi Dey. Front row: Seyed Jamali, Otto, and Alexandros (Delft, May 2022)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/trondheim_group.jpg">
     <img src="photos/trondheim_group.jpg" alt="Cinque Terre" width="500" height="auto">
   </a>
