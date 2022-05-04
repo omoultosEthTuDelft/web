@@ -4,6 +4,14 @@ title: "Othonas Moultos | Assistant Professor, TU Delft"
 
 
 publications:
+  - { number: "65.",
+    title: "Electro-osmotic Drag and Thermodynamic Properties of Water in Hydrated Nafion Membranes from Molecular Dynamics",
+    authors: "Ahmadreza Rahbari, Remco Hartkamp, Othonas A. Moultos, Albert Bos, Leo J. P. van den Broeke, Mahinder Ramdin, David Dubbeldam, Alexey V. Lyulin, and Thijs J. H. Vlugt", 
+    venue: "Journal of Physical Chemistry C (2022) in press", 
+    pdf: "assets/publications/65.Rahbari_JPCC_2021_asap.pdf", 
+    SI: "assets/publications/SI/65.Rahbari_JPCC_2021_asap_SI.pdf", 
+    bib: "assets/publications/bib/65.Rahbari_JPCC_2021_asap.bib",
+    simulLammps: "assets/publications/SI/65.Rahbari_JPCC_2021_asap_SI.zip"}
   - { number: "64.", 
     title: "Electroreduction of CO2/CO to C2 Products: Process Modeling, Downstream Separation, System Integration, and Economic Analysis", 
     authors: "Mahinder Ramdin, Bert De Mot, Andrew R. T. Morrison, Tom Breugelmans, Leo J. P. van den Broeke, J. P. Martin Trusler, Ruud Kortlever, Wiebren de Jong, Othonas A. Moultos, Penny Xiao, Paul A. Webley, and Thijs J. H. Vlugt", 
@@ -89,6 +97,7 @@ publications:
   {% if pub('bib')? %}<a href="{{ site.url}}/{{ pub.bib }}" class="badge badge-pill  badge-primary" role="button"><i class="fa fa-download"></i>&nbsp;bib</a>{% endif %}
   {% if pub('slides')? %}<a href="{{ site.url}}/{{ pub.slides }}" class="badge badge-pill badge-primary" role="button"><i class="fa fa-download"></i>&nbsp;Slides</a>{% endif %}
   {% if pub('simulGromacs')? %}<a href="{{ site.url}}/{{ pub.simulGromacs }}" class="badge badge-pill badge-danger" role="button"><i class="fa fa-download"></i>&nbsp;Gromacs Files</a>{% endif %}
+  {% if pub('simulLammps')? %}<a href="{{ site.url}}/{{ pub.simulLammps }}" class="badge badge-pill badge-danger" role="button"><i class="fa fa-download"></i>&nbsp;Lammps Files</a>{% endif %}
 	</dt>
   <dd class="col-sm-9">
     <strong>{{ pub.title }}</strong> <br> {{ pub.authors }}. <br>  <strong>{{pub.venue}}</strong>. 
