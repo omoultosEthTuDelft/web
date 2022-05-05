@@ -150,6 +150,13 @@ div.desc {
 </div>
 
 <div class="gallery">
+  <a target="_blank" href="photos/esat2017.jpg">
+    <img src="photos/esat2017.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc">At the ESAT 2017 conference in Scotland (Edinburgh, UK, September 2017)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/mateReza2017.jpg">
     <img src="photos/mateReza2017.jpg" alt="Mountains" width="600" height="auto">
   </a>
@@ -171,7 +178,33 @@ div.desc {
   <div class="desc">At the TAMUQ campus with (from left to rigth) Ioannis Tsimpanogiannis, Panagiotis Krokidas, and Nikos Diamantonis (Doha, Qatar, March 2016)</div>
 </div>
 
+<div class="gallery">
+  <a target="_blank" href="photos/esat2015.jpg">
+    <img src="photos/esat2015.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> At the ESAT 2015 conference in Greece. People from left to right: <a href="https://www.linkedin.com/in/marianna-yiannourakou-4765a65/">Marianna Yiannourakou</a>, Ioannis Tsimpanogiannis, <a href="https://scholar.google.gr/citations?hl=en&user=8MjGyYwAAAAJ&view_op=list_works&sortby=pubdate">Georgios Boulougouris</a>, Otto, Ilias Nikolaidis, Vasilis Michalis, Zoi Makrodimitri, Loukas Peristeras, Ioannis Economou, and Niki Vergadou (Athens, Greece, June 2015)</div>
+</div>
 
+<div class="gallery">
+  <a target="_blank" href="photos/basket.jpg">
+    <img src="photos/basket.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc">Playing basketball with colleagues <a href="https://www.linkedin.com/in/zoltan-mester-4636a810/">Zoltan Mester</a> and <a href="https://www.linkedin.com/in/andrew-p-santos/">Andrew Santos</a> (Princeton NJ, Usa, May 2014)</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="photos/sandia2013.jpg">
+    <img src="photos/sandia2013.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc">An afternoon at the Sandia Peak during the <a href="https://www.lammps.org/workshops/Aug13/Aug13_workshop.html">LAMMPS Users' Workshop and Symposium</a> (Albuquerque NM, USA, September 2013)</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="photos/thermo2013UK.jpg">
+    <img src="photos/thermo2013UK.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc">Thermodynamics 2013 conference dinner at Manchester's city hall with Ioannis Tsimpanogiannis (Manchester, UK, September 2013)</div>
+</div>
 
 
 
