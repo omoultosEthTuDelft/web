@@ -107,6 +107,7 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- May 6th: Our new paper [Solubilities and Transport Properties of CO2, Oxalic Acid, and Formic Acid in Mixed Solvents Composed of Deep Eutectic Solvents, Methanol, and Propylene Carbonate](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c01425) in the Journal of Physical Chemistry B is now online.
 - May 4th: Our new paper [Electro-osmotic Drag and Thermodynamic Properties of Water in Hydrated Nafion Membranes from Molecular Dynamics](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c01226?ref=pdf) in the Journal of Physical Chemistry C is now online.
 - On May 30th at 12.30 in Aula, Hirad will defend his PhD: "Molecular simulation of Deep Eutectic Solvents"!
 - April 19th: The "Introduction to Molecular Simulation" course is starting today (<a href="https://brightspace.tudelft.nl/d2l/home/400948">Brightspace page</a>).

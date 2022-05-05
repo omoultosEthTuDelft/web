@@ -19,7 +19,7 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 <video width="700" height="auto" controls>
   <source src="videos/nafionMD.mp4" type="video/mp4">
 </video><p> MD simulation of the electroosmotic drag of H+ in a nafion membrane (<font color="red">protons</font>, <font color="blue">water</font>). Such membranes are used in electrochemical hydrogen compressors. The simulations were performed by <a href="https://www.linkedin.com/in/arahbari/?originalSubdomain=nl">
-Dr. Reza Rahbari</a> as a part of our <a href="https://www.rvo.nl">RVO</a> funded project "Hy & Dry", in collaboration with <a href="https://hyethydrogen.com">HyET Hydrogen</a>.  </p>
+Dr. Reza Rahbari</a> as a part of our <a href="https://www.rvo.nl">RVO</a> funded project "Hy & Dry", in collaboration with <a href="https://hyethydrogen.com">HyET Hydrogen</a> (publication in Journal of Physical Chemistry C <a href="../assets/publications/65.Rahbari_JPCC_2021_asap.pdf">here)</a>.  </p>
 
 
 <video width="700" height="auto" controls>
@@ -30,7 +30,7 @@ Dr. Reza Rahbari</a> as a part of our <a href="https://www.rvo.nl">RVO</a> funde
 
 <video width="600" height="auto" controls>
   <source src="videos/cycloMate.mp4" type="video/mp4">
-</video><p> MD simulation showing the inclusion complexation (reversly) of a beta-Cyclodextrin with caproic acid. The simulation was performed by <a href="https://scholar.google.com/citations?user=TOKYbtYAAAAJ&hl=en">Dr. Máté Erdös </a> during his PhD (relevant publications in Journal of Physical Chemistry B <a href="../assets/publications/37.Erdos_JPCB_2020_124_1218.pdf">here)</a> in Fluid Phase Equilibria <a href="../assets/publications/48.Erdos_FPE_2021_528_112842.pdf">here)</a>. </p> 
+</video><p> MD simulation showing the inclusion complexation (reversly) of a beta-Cyclodextrin with caproic acid. The simulation was performed by <a href="https://scholar.google.com/citations?user=TOKYbtYAAAAJ&hl=en">Dr. Máté Erdös </a> during his PhD (relevant publications in Journal of Physical Chemistry B <a href="../assets/publications/37.Erdos_JPCB_2020_124_1218.pdf">here</a> and in Fluid Phase Equilibria <a href="../assets/publications/48.Erdos_FPE_2021_528_112842.pdf">here)</a>. </p> 
 
 <!-- <video width="800" height="auto" controls>
   <source src="videos/nemdMFISeyed.mp4" type="video/mp4">
