@@ -193,6 +193,13 @@ div.desc {
 </div>
 
 <div class="gallery">
+  <a target="_blank" href="photos/NY.jpg">
+    <img src="photos/NY.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> New York City (Manhattan, NY, August 2014)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/sandia2013.jpg">
     <img src="photos/sandia2013.jpg" alt="Mountains" width="600" height="auto">
   </a>
