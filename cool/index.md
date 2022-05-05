@@ -19,7 +19,7 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 <video width="700" height="auto" controls>
   <source src="videos/nafionMD.mp4" type="video/mp4">
 </video><p> MD simulation of the electroosmotic drag of H+ in a nafion membrane (<font color="red">protons</font>, <font color="blue">water</font>). Such membranes are used in electrochemical hydrogen compressors. The simulations were performed by <a href="https://www.linkedin.com/in/arahbari/?originalSubdomain=nl">
-Dr. Reza Rahbari</a> as a part of our <a href="https://www.rvo.nl">RVO</a> funded project "Hy & Dry", in collaboration with <a href="https://hyethydrogen.com">HyET Hydrogen</a> (publication in Journal of Physical Chemistry C <a href="../assets/publications/65.Rahbari_JPCC_2021_asap.pdf">here)</a>.  </p>
+Dr. Reza Rahbari</a> as a part of our <a href="https://www.rvo.nl">RVO</a> funded project "Hy & Dry", in collaboration with <a href="https://hyethydrogen.com">HyET Hydrogen</a> (publication in Journal of Physical Chemistry C <a href="../assets/publications/65.Rahbari_JPCC_2022_asap.pdf">here)</a>.  </p>
 
 
 <video width="700" height="auto" controls>
