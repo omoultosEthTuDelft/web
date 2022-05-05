@@ -4,14 +4,21 @@ title: "Othonas Moultos | Assistant Professor, TU Delft"
 
 
 publications:
+  - { number: "66.",
+    title: "Solubilities and Transport Properties of CO2, Oxalic Acid, and Formic Acid in Mixed Solvents Composed of Deep Eutectic Solvents, Methanol, and Propylene Carbonate",
+    authors: "Noura Dawass, Jilles Langeveld, Mahinder Ramdin, Elena Pérez-Gallent, Angel A. Villanueva, Erwin J. M. Giling, Jort Langerak, Leo J. P. van den Broeke, Thijs J. H. Vlugt, and Othonas A. Moultos", 
+    venue: "Journal of Physical Chemistry B (2022) in press", 
+    pdf: "assets/publications/66.Dawass_JPCB_2022_asap.pdf", 
+    SI: "assets/publications/SI/66.Dawass_JPCB_2022_asap_SI.pdf", 
+    bib: "assets/publications/bib/66.Dawass_JPCB_2022_asap.bib"}
   - { number: "65.",
     title: "Electro-osmotic Drag and Thermodynamic Properties of Water in Hydrated Nafion Membranes from Molecular Dynamics",
     authors: "Ahmadreza Rahbari, Remco Hartkamp, Othonas A. Moultos, Albert Bos, Leo J. P. van den Broeke, Mahinder Ramdin, David Dubbeldam, Alexey V. Lyulin, and Thijs J. H. Vlugt", 
     venue: "Journal of Physical Chemistry C (2022) in press", 
-    pdf: "assets/publications/65.Rahbari_JPCC_2021_asap.pdf", 
-    SI: "assets/publications/SI/65.Rahbari_JPCC_2021_asap_SI.pdf", 
-    bib: "assets/publications/bib/65.Rahbari_JPCC_2021_asap.bib",
-    simulLammps: "assets/publications/SI/65.Rahbari_JPCC_2021_asap_SI.zip"}
+    pdf: "assets/publications/65.Rahbari_JPCC_2022_asap.pdf", 
+    SI: "assets/publications/SI/65.Rahbari_JPCC_2022_asap_SI.pdf", 
+    bib: "assets/publications/bib/65.Rahbari_JPCC_2022_asap.bib",
+    simulLammps: "assets/publications/SI/65.Rahbari_JPCC_2022_asap_SI.zip"}
   - { number: "64.", 
     title: "Electroreduction of CO2/CO to C2 Products: Process Modeling, Downstream Separation, System Integration, and Economic Analysis", 
     authors: "Mahinder Ramdin, Bert De Mot, Andrew R. T. Morrison, Tom Breugelmans, Leo J. P. van den Broeke, J. P. Martin Trusler, Ruud Kortlever, Wiebren de Jong, Othonas A. Moultos, Penny Xiao, Paul A. Webley, and Thijs J. H. Vlugt", 
