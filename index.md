@@ -107,9 +107,9 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- May 30th: Today Hirad succesfully defended his PhD "Molecular simulation of Deep Eutectic Solvents" and is officially a Dr!!! Many congrats Hirad.
 - May 6th: Our new paper [Solubilities and Transport Properties of CO2, Oxalic Acid, and Formic Acid in Mixed Solvents Composed of Deep Eutectic Solvents, Methanol, and Propylene Carbonate](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c01425) in the Journal of Physical Chemistry B is now online.
 - May 4th: Our new paper [Electro-osmotic Drag and Thermodynamic Properties of Water in Hydrated Nafion Membranes from Molecular Dynamics](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c01226?ref=pdf) in the Journal of Physical Chemistry C is now online.
-- On May 30th at 12.30 in Aula, Hirad will defend his PhD: "Molecular simulation of Deep Eutectic Solvents"!
 - April 19th: The "Introduction to Molecular Simulation" course is starting today (<a href="https://brightspace.tudelft.nl/d2l/home/400948">Brightspace page</a>).
 - April 2022: The Mechanical Engineering of TU Delft is ranked 4th according to the 2021 QS Rankings. <a href="https://www.tudelft.nl/en/about-tu-delft/facts-and-figures/tu-delft-in-international-rankings/subject-rankings"> More details here</a> (for TU Delft employees).
 - February 2022: Welcome to the group <a href="https://www.linkedin.com/in/caspervandergeest/?originalSubdomain=nl"> Casper</a>! 
