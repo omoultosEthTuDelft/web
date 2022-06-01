@@ -20,17 +20,17 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 <h5>Former MSc students</h5>
 <section markdown="1">
 
-- [Zsolt Csaszar](https://www.linkedin.com/in/zsolt-csaszar/?originalSubdomain=nl), 2016-2017. <strong> Monte Carlo simulations of the phase equilibria of light/heavy hydrocarbon mixtures</strong>. Now at [ASML](https://www.asml.com/en).
-- [Eva Schouten](https://www.linkedin.com/in/eva-schouten-8a424a102/?originalSubdomain=nl), 2018-2019. <strong> Modeling the evaporation of gasoline mixtures</strong>. 
-- [Michail Frangou](https://www.linkedin.com/in/mfrangou/?originalSubdomain=cy), 2019. <strong> Diffusivity of beta-cyclodextrin in aqueous solutions</strong>. Now at [ICIS](https://www.icis.com/explore/?cmpid=SOC%7CCHEM%7CCHLEG-2019-LinkedIn-BioLinkExploreSite&7012X000000g6AA).
-- [Daan Geerdink](https://www.linkedin.com/in/zsolt-csaszar/?originalSubdomain=nl), 2019-2020. <strong> In silico screening of zeolites for high pressure hydrogen dehydration</strong>. Now at [DNV](https://www.dnv.com).
-- [Sander Korver](https://www.linkedin.com/in/sander-korver-b00a6496), 2019-2020. <strong> Machine learning and thermodynamic modeling for fingerprint analysis of gasoline used in arson</strong>. Now at [Versatec Energy Consultants](https://versatec.nl).
-- [Grevil Colaco](https://www.linkedin.com/in/grevilcolaco/?originalSubdomain=nl), 2019-2020. <strong> Monte Carlo simulations of NOx adsorption on zeolites</strong>. Now at [CGI](https://www.cgi.com/en).
-- Benjamin Rosenbaum, 2020 (Internship project with WUR). <strong> Coarse-grained simulations of oleosomes</strong>. 
-- [Tijin Hanno Geo Saji](https://www.linkedin.com/in/tijin-saji-b0a5/?originalSubdomain=nl), 2020-2021. <strong> Ab initio simulations of materials for hydrogen storage</strong>. 
+- [Jilles Langeveld](https://www.linkedin.com/in/jilles-langeveld/?originalSubdomain=nl), 2021. <strong> <a href="../assets/publications/66.Dawass_JPCB_2022_asap.pdf">CO2 capture with deep eutectic solvents</a></strong>. Now at [Techniplan Adviseurs](http://www.techniplan.nl).
+- [Samadarshi Maity](https://www.linkedin.com/in/samadarshi-maity-9621b6115/), 2020-2021 (Honors project with Chem. Eng.). <strong>  <a href="../assets/publications/59.Tsimpanogiannis_JCED_2021_66_3226.pdf">Hydrogen and oxygen diffusivity in gas, liquid, and supercritical water</a></strong>. Now at [Universiteit Leiden](https://www.universiteitleiden.nl/en).
 - [Kunal Mavani](https://www.linkedin.com/in/kunal-mavani/?originalSubdomain=nl), 2020-2021. <strong>Molecular simulation of CO2 diffusivity in Krytox oils</strong>. Now at [Uday ECS LLP](https://www.udaics.in). 
-- [Samadarshi Maity](https://www.linkedin.com/in/samadarshi-maity-9621b6115/), 2020-2021 (Honors project with Chem. E.). <strong>  <a href="../assets/publications/59.Tsimpanogiannis_JCED_2021_66_3226.pdf">Hydrogen and oxygen diffusivity in gas, liquid, and supercritical water</a></strong>. Now at [Universiteit Leiden](https://www.universiteitleiden.nl/en).
-- [Jilles Langeveld](https://www.linkedin.com/in/jilles-langeveld/?originalSubdomain=nl), 2021. <strong> CO2 capture with deep eutectic solvents</strong>. Now at [Techniplan Adviseurs](http://www.techniplan.nl).
+- [Tijin Hanno Geo Saji](https://www.linkedin.com/in/tijin-saji-b0a5/?originalSubdomain=nl), 2020-2021. <strong> Ab initio simulations of materials for hydrogen storage</strong>. 
+- Benjamin Rosenbaum, 2020 (Internship project with WUR). <strong> Coarse-grained simulations of oleosomes</strong>. 
+- [Grevil Colaco](https://www.linkedin.com/in/grevilcolaco/?originalSubdomain=nl), 2019-2020. <strong> Monte Carlo simulations of NOx adsorption on zeolites</strong>. Now at [CGI](https://www.cgi.com/en).
+- [Sander Korver](https://www.linkedin.com/in/sander-korver-b00a6496), 2019-2020. <strong><a href="../assets/publications/50.Korver_SR_2020_10_20502.pdf"> Machine learning and thermodynamic modeling for fingerprint analysis of gasoline used in arson</a></strong>. Now at [ExxonMobil](https://corporate.exxonmobil.com).
+- [Daan Geerdink](https://www.linkedin.com/in/zsolt-csaszar/?originalSubdomain=nl), 2019-2020. <strong><a href="../assets/publications/54.Erdos_API_2021_13_8383.pdf"> In silico screening of zeolites for high pressure hydrogen dehydration</a></strong>. Now at [DNV](https://www.dnv.com).
+- [Michail Frangou](https://www.linkedin.com/in/mfrangou/?originalSubdomain=cy), 2019. <strong><a href="../assets/publications/48.Erdos_FPE_2021_528_112842.pdf"> Diffusivity of beta-cyclodextrin in aqueous solutions</a></strong>. Now at [ICIS](https://www.icis.com/explore/?cmpid=SOC%7CCHEM%7CCHLEG-2019-LinkedIn-BioLinkExploreSite&7012X000000g6AA).
+- [Eva Schouten](https://www.linkedin.com/in/eva-schouten-8a424a102/?originalSubdomain=nl), 2018-2019. <strong><a href="../assets/publications/50.Korver_SR_2020_10_20502.pdf"> Modeling the evaporation of gasoline mixtures</a></strong>. 
+- [Zsolt Csaszar](https://www.linkedin.com/in/zsolt-csaszar/?originalSubdomain=nl), 2016-2017. <strong> Monte Carlo simulations of the phase equilibria of light/heavy hydrocarbon mixtures</strong>. Now at [ASML](https://www.asml.com/en).
 </section>
 
 

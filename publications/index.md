@@ -116,6 +116,13 @@ publications:
     venue: "International Journal of Hydrogen Energy (2021) 46, 5485", 
     pdf: "assets/publications/51.Sunnardianto_IJHE_2021_46_5485.pdf", 
     bib: "assets/publications/bib/51.Sunnardianto_IJHE_2021_46_5485.bib"}  
+  - { number: "50.", 
+    title: "Artificial intelligence and thermodynamics help solving arson cases",
+    authors: "Sander Korver, Eva Schouten, Othonas A. Moultos, Peter Vergeer, Michiel M. P. Grutters, Leo J. C. Peschier, Thijs J. H. Vlugt, and Mahinder Ramdin", 
+    venue: "Scientific Reports (2020) 10, 20502", 
+    pdf: "assets/publications/50.Korver_SR_2020_10_20502.pdf", 
+    SI: "assets/publications/SI/50.Korver_SR_2020_10_20502_SI.pdf",
+    bib: "assets/publications/bib/50.Korver_SR_2020_10_20502.bib"}  
   - { number: "48.",  
     title: "Diffusivity of α-, β-, γ-cyclodextrin and the inclusion complex of β-cyclodextrin: Ibuprofen in aqueous solutions; A molecular dynamics simulation study",
     authors: "Máté Erdős, Michalis Frangou, Thijs J.H. Vlugt, and Othonas A. Moultos", 
