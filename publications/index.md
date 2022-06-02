@@ -139,8 +139,16 @@ publications:
     SI: "assets/publications/SI/37.Erdos_JPCB_2020_124_1218_SI.pdf", 
     bib: "assets/publications/bib/37.Erdos_JPCB_2020_124_1218.bib",
     simulGromacs: "assets/publications/SI/37.Erdos_JPCB_2020_124_1218_SI.zip"}
+  - { number: "26.", 
+    title: "Modeling the Phase Equilibria of Asymmetric Hydrocarbon Mixtures
+      Using Molecular Simulation and Equations of State",
+    authors: "Ilias K. Nikolaidis, Ali Poursaeidesfahani, Zsolt Csaszar, Mahinder Ramdin, Thijs J. H. Vlugt, Ioannis G. Economou, and Othonas A. Moultos", 
+    venue: "AIChE Journal (2018) 65, 792", 
+    pdf: "assets/publications/26.Nikolaidis_AIChE_2018_65_792.pdf", 
+    SI: "assets/publications/SI/26.Nikolaidis_AIChE_2018_65_792_SI.pdf",
+    bib: "assets/publications/bib/26.Nikolaidis_AIChE_2018_65_792.bib"}  
   - { number: "36", 
-    title: "ca. 60 more articles to be added. In the meantime take a look at my google scholar"}
+    title: "ca. 50 more articles to be added. In the meantime take a look at my google scholar"}
 ---
 
 <div id="publications" class="row">

@@ -30,7 +30,7 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 - [Daan Geerdink](https://www.linkedin.com/in/zsolt-csaszar/?originalSubdomain=nl), 2019-2020. <strong><a href="../assets/publications/54.Erdos_API_2021_13_8383.pdf"> In silico screening of zeolites for high pressure hydrogen dehydration</a></strong>. Now at [DNV](https://www.dnv.com).
 - [Michail Frangou](https://www.linkedin.com/in/mfrangou/?originalSubdomain=cy), 2019. <strong><a href="../assets/publications/48.Erdos_FPE_2021_528_112842.pdf"> Diffusivity of beta-cyclodextrin in aqueous solutions</a></strong>. Now at [ICIS](https://www.icis.com/explore/?cmpid=SOC%7CCHEM%7CCHLEG-2019-LinkedIn-BioLinkExploreSite&7012X000000g6AA).
 - [Eva Schouten](https://www.linkedin.com/in/eva-schouten-8a424a102/?originalSubdomain=nl), 2018-2019. <strong><a href="../assets/publications/50.Korver_SR_2020_10_20502.pdf"> Modeling the evaporation of gasoline mixtures</a></strong>. 
-- [Zsolt Csaszar](https://www.linkedin.com/in/zsolt-csaszar/?originalSubdomain=nl), 2016-2017. <strong> Monte Carlo simulations of the phase equilibria of light/heavy hydrocarbon mixtures</strong>. Now at [ASML](https://www.asml.com/en).
+- [Zsolt Csaszar](https://www.linkedin.com/in/zsolt-csaszar/?originalSubdomain=nl), 2016-2017. <strong><a href="../assets/publications/26.Nikolaidis_AIChE_2018_65_792.pdf"> Monte Carlo simulations of the phase equilibria of light/heavy hydrocarbon mixtures</a></strong>. Now at [ASML](https://www.asml.com/en).
 </section>
 
 
