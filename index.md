@@ -38,19 +38,7 @@ Fossil fuels not only harm the environment but are also becoming more and more e
 
 
 <div style="text-align: justify;" class="col-sm-8">
-<!-- <h5>Postdocs</h5>
-<section markdown="1">
-- [Marios Fragkoulis](http://mariosfragkoulis.gr)
-- [Rihan Hai](https://scholar.google.de/citations?user=vD8M9R0AAAAJ&hl=en) 
-</section> -->
 
-<!-- <h5>PhD Students</h5>
-<section markdown="1">
-- [Máté Erdös](https://scholar.google.com/citations?user=TOKYbtYAAAAJ&hl=en)
-- [Hirad Seyed Salehi](https://scholar.google.com/citations?user=_zAZdskAAAAJ&hl=en) 
-- [Mert Polat](https://scholar.google.com/citations?user=iNQ80VEAAAAJ&hl=en)
-- [Parsa Habibi](https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/parsa-habibi) 
-</section> -->
 </div>
 
 </div>
@@ -82,15 +70,18 @@ o.moultos@tudelft.nl
 
 <h6> <span class="fa fa-linkedin"></span><a href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge"> Linkedin</a> </h6>
 
-<!-- <h6> <span class="fa fa-researchgate"></span><a href="https://www.researchgate.net/profile/Othon-Moultos/2"> ResearchGate</a> </h6>
- -->
+<h6> <a target="_blank" href="https://www.researchgate.net"><img style="width: 20px;" src="logos/ResearchGate.png" hspace=0 alt="googleScholar profile"> ResearchGate</a> </h6>
+
+
+<!-- <h6> <span class="fa-brands fa-researchgate"></span><a href="https://www.researchgate.net/profile/Othon-Moultos/2"> ResearchGate</a> </h6> -->
+
  <!-- <a target="_blank" href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge"><img style="width: 100px;" src="logos/LinkedIn.png" hspace=3 alt="LinkedIn profile"></a>
  <br/>  <br/> 
 <a target="_blank" href="https://github.com/omoultosEthTuDelft"><img style="width: 100px;" src="logos/Github.png" hspace=3 alt="github profile"></a>
 <br/>  <br/> 
 <a target="_blank" href="https://scholar.google.ca/citations?user=r6fFwkQAAAAJ&hl=en"><img style="width: 100px;" src="logos/GoogleScholar.jpg" hspace=3 alt="googleScholar profile"></a>
 <br/><br/>
-<a target="_blank" href="https://www.researchgate.net"><img style="width: 100px;" src="logos/ResearchGate.png" hspace=3 alt="googleScholar profile"></a> -->
+-->
 <br/><br/>
 
 </div>
