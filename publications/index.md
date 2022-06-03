@@ -123,6 +123,13 @@ publications:
     pdf: "assets/publications/50.Korver_SR_2020_10_20502.pdf", 
     SI: "assets/publications/SI/50.Korver_SR_2020_10_20502_SI.pdf",
     bib: "assets/publications/bib/50.Korver_SR_2020_10_20502.bib"}  
+  - { number: "49.", 
+    title: "Recent advances in the continuous fractional component Monte Carlo methodology",
+    authors: "Ahmadreza. Rahbari, Remco Hens, Mahinder Ramdin, Othonas A. Moultos, David Dubbeldam, and Thijs J. H. Vlugt", 
+    venue: "Molecular Simulation (2020) 47, 804", 
+    pdf: "assets/publications/49.Rahbari_MS_2020_47_804.pdf", 
+    SI: "assets/publications/SI/49.Rahbari_MS_2020_47_804_SI.pdf",
+    bib: "assets/publications/bib/49.Rahbari_MS_2020_47_804.bib"}  
   - { number: "48.",  
     title: "Diffusivity of α-, β-, γ-cyclodextrin and the inclusion complex of β-cyclodextrin: Ibuprofen in aqueous solutions; A molecular dynamics simulation study",
     authors: "Máté Erdős, Michalis Frangou, Thijs J.H. Vlugt, and Othonas A. Moultos", 
@@ -131,6 +138,12 @@ publications:
     SI: "assets/publications/SI/48.Erdos_FPE_2021_528_112842_SI.pdf", 
     bib: "assets/publications/bib/48.Erdos_FPE_2021_528_112842.bib",
     simulGromacs: "assets/publications/SI/48.Erdos_FPE_2021_528_112842_SI.zip"}
+  - { number: "47.", 
+    title: "Multiple linear regression and thermodynamic fluctuations are equivalent for computing thermodynamic derivatives from molecular simulation",
+    authors: "Ahmadreza Rahbari, Tyler R. Josephson, Yangzesheng Sun, Othonas A. Moultos, David Dubbeldam, J. Ilja Siepmann, Thijs J.H. Vlugt", 
+    venue: "Fluid Phase Equilibria (2020) 523, 112785", 
+    pdf: "assets/publications/47.Rahbari_FPE_2020_523_112785.pdf ", 
+    bib: "assets/publications/bib/47.Rahbari_FPE_2020_523_112785.bib"} 
   - { number: "37.",
     title: "Inclusion Complexation of Organic Micropollutants with β‐Cyclodextrin",
     authors: "Máté Erdős, Remco Hartkamp, Thijs J.H. Vlugt, and Othonas A. Moultos", 
