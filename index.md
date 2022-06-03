@@ -23,9 +23,9 @@ Before joining TU Delft, I worked as a postdoc on molecular modeling of chemical
 
 <h5>My research in a nutshell</h5>
 <p style="text-align: justify;">
-Fossil fuels not only cause significant harm to the environment but are also becoming more and more expensive as the resources are slowly getting depleted or due to (geo)political reasons. I believe that technologies for producing sustainable energy are the only way to move forward, and the challenging role of engineers is to devise and optimize such technologies. My research and teaching activities revolve around the application of molecular thermodynamics to Process & Energy Engineering in order to accelarate the transition to a more sustainabl future. I currently focus on two research lines: 
-(i) The energy line, in which I investigate hydrogen storage, purification and transportation, and environmentally-friendly solvents for carbon dioxide capture and utilization. 
-(ii) The process line, in which I study sustainable adsorbents for the removal of contaminants from water. My work requires large-scale high-performance computing and involves a number of powerful molecular simulation methods such as on-the-fly calculations of thermodynamic and transport properties of fluids using molecular dynamics, and phase-, adsorption- and reaction-equilibria using advanced Monte Carlo sampling. My research aims to provide insight at both the fundamental and the application level. To achieve this, I actively collaborate with partners such as <a href="https://totalenergies.com">TotalEnergies</a>, <a href="https://hyethydrogen.com">HyET Hydrogen</a>, <a href="https://sites.google.com/xintcglobal.com/xintcglobal">XiNTC</a>, <a href="https://www.tno.nl/nl/">TNO</a>, and <a href="https://www.dmt-et.com">DMT Environmental Tech</a>.
+Fossil fuels not only harm the environment but are also becoming more and more expensive as the resources are slowly getting depleted or due to (geo)political reasons. I believe that technologies for producing sustainable energy are the only way to move forward, and the challenging role of engineers is to devise and optimize such technologies. My research and teaching activities revolve around the application of molecular thermodynamics to Process & Energy Engineering in order to accelarate the transition to a more sustainabl future. I currently focus on two research lines: 
+(i) I investigate hydrogen storage, purification and transportation, and environmentally-friendly solvents for carbon dioxide capture and utilization. 
+(ii) I study sustainable adsorbents for the removal of contaminants from water. My work requires large-scale high-performance computing and involves a number of powerful molecular simulation methods such as on-the-fly calculations of thermodynamic and transport properties of fluids using molecular dynamics, and phase-, adsorption- and reaction-equilibria using advanced Monte Carlo sampling. My research aims to provide insight at both the fundamental and the application level. To achieve this, I actively collaborate with partners such as <a href="https://totalenergies.com">TotalEnergies</a>, <a href="https://hyethydrogen.com">HyET Hydrogen</a>, <a href="https://sites.google.com/xintcglobal.com/xintcglobal">XiNTC</a>, <a href="https://www.tno.nl/nl/">TNO</a>, <a href="https://www.dmt-et.com">DMT Environmental Tech</a>, and various universities and research institutes around the world.
 </p>
 
 
@@ -102,11 +102,13 @@ o.moultos@tudelft.nl
 <!-- - - - - - - - - - - - - - - - -->
 <div class="row-fluid">
     <div id="news" class="row">
-    <div style="text-align: justify;" class="col-sm-11">
+    <div style="overflow: scroll ;max-height: 250px; width: 100%;">
+    <!-- <div style="text-align: justify;" class="col-sm-11"> -->
 <h5>News</h5>
 
 <section markdown="1">
 
+- On June 13th at 12.oo in the AULA, Mate will defend his PhD "Molecular simulation of nanoporous materials: Application to metal organic frameworks, zeolites, and cyclodextrins".
 - May 30th: Today Hirad succesfully defended his PhD "Molecular simulation of Deep Eutectic Solvents" and is officially a Dr!!! Many congrats Hirad.
 - May 6th: Our new paper [Solubilities and Transport Properties of CO2, Oxalic Acid, and Formic Acid in Mixed Solvents Composed of Deep Eutectic Solvents, Methanol, and Propylene Carbonate](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c01425) in the Journal of Physical Chemistry B is now online.
 - May 4th: Our new paper [Electro-osmotic Drag and Thermodynamic Properties of Water in Hydrated Nafion Membranes from Molecular Dynamics](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c01226?ref=pdf) in the Journal of Physical Chemistry C is now online.
