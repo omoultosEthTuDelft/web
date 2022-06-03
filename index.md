@@ -91,11 +91,11 @@ o.moultos@tudelft.nl
               
 
 <!-- - - - - - - - - - - - - - - - -->
+<h5>News</h5>
 <div class="row-fluid">
     <div id="news" class="row">
     <div style="overflow: scroll ;max-height: 250px; width: 100%;">
     <!-- <div style="text-align: justify;" class="col-sm-11"> -->
-<h5>News</h5>
 
 <section markdown="1">
 
