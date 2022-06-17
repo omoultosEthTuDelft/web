@@ -186,6 +186,13 @@ div.desc {
 </div>
 
 <div class="gallery">
+  <a target="_blank" href="photos/thanosGroup14.jpeg">
+    <img src="photos/thanosGroup14.jpeg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> AZP group dinner. People from left to right: Mike Howard, Joey Vella, Arash Nikoubashman, AZP, Mirjana Zoric, Nate Mahynski, Zoltan Mester, Andrew Santos, Kevin Daly, Gustavo Orozco, Otto (Princeton NJ, Usa, June 2014)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/basket.jpg">
     <img src="photos/basket.jpg" alt="Mountains" width="600" height="auto">
   </a>
