@@ -9,6 +9,7 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 
 <section markdown="1">
 
+- [Máté Erdös](https://www.linkedin.com/in/mateerdos/), 2017-2022. <strong><a href="theses/MateErdos.pdf">Molecular simulation of nanoporous materials: Application to metal organic frameworks, zeolites, and cyclodextrins</a></strong>. Now at [ChemAxon](https://chemaxon.com).
 - [Hirad Seyed Salehi](https://www.linkedin.com/in/hiradsalehi/?originalSubdomain=nl), 2017-2022. <strong><a href="theses/HiradSalehi.pdf">Molecular simulation of Deep Eutectic Solvents</a></strong>. Now at [ASML](https://www.asml.com/en/careers).
 - [Noura Dawass](https://www.linkedin.com/in/noura-dawass-115358216/?originalSubdomain=qa), 2016-2021. <strong><a href="theses/NouraDawass.pdf">Kirkwood-Buff integrals from molecular simulations</a></strong>. Now at [TAMUQ](https://www.qatar.tamu.edu/programs/chemical-engineering/).
 - [Seyed Hossein Jamali](https://www.linkedin.com/in/shjamali/?originalSubdomain=nl), 2015-2020. <strong> <a href="theses/SeyedJamali.pdf">Transport properties of fluids: Methodology and force field development using molecular dynamics simulations</a></strong>. Now at [Van Oord](http://www.vanoord.com/).
@@ -37,11 +38,11 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 <h5>Former Postdocs and Researchers</h5>
 <section markdown="1">
 
-- [Christos Bardas](https://www.linkedin.com/in/christos-bardas/?originalSubdomain=nl), 2017-2018. <strong> Computation of transport coefficients using molecular simulation</strong>. Now at [Hitachi Construction Machinery](https://www.linkedin.com/company/hitachi-construction-machinery/about/).
-- [Dr. Alper Celebi](https://www.linkedin.com/in/alper-tunga-celebi-0375b586/?originalSubdomain=nl), 2019-2021. <strong> Molecular simulation of ionic liquids and deep eutectic solvents</strong>. Now at [TU Wien](https://www.tuwien.at), Austria.
-- [Dr. Gagus Ketut Sunnardianto](https://www.linkedin.com/in/gagus-ketut-sunnardianto/), 2019-2020. <strong> Ab initio simulations of hydrogen embrittlement</strong>. Now at [LIPI](http://lipi.go.id/staf/detail/gagu001), Indonesia.
-- [Dr. Abdelrahman Hussein](https://www.linkedin.com/in/abdelrahman-hussein-3b42b415/?originalSubdomain=nl), 2020-2021. <strong> Multi-scale modeling of hydrogen embrittlement</strong>. Now at [KoreaTech](https://www.koreatech.ac.kr/eng/Main.do), Korea.
 - [Dr. Ahmadreza Rahbari](https://www.linkedin.com/in/arahbari/?originalSubdomain=nl), 2020-2021. <strong> Molecular simulation of high pressure hydrogen mixtures</strong>. Now at [XINTC Global](http://www.xintcglobal.com/), The Netherlands.
+- [Dr. Abdelrahman Hussein](https://www.linkedin.com/in/abdelrahman-hussein-3b42b415/?originalSubdomain=nl), 2020-2021. <strong> Multi-scale modeling of hydrogen embrittlement</strong>. Now at [KoreaTech](https://www.koreatech.ac.kr/eng/Main.do), Korea.
+- [Dr. Gagus Ketut Sunnardianto](https://www.linkedin.com/in/gagus-ketut-sunnardianto/), 2019-2020. <strong> Ab initio simulations of hydrogen embrittlement</strong>. Now at [LIPI](http://lipi.go.id/staf/detail/gagu001), Indonesia.
+- [Dr. Alper Celebi](https://www.linkedin.com/in/alper-tunga-celebi-0375b586/?originalSubdomain=nl), 2019-2021. <strong> Molecular simulation of ionic liquids and deep eutectic solvents</strong>. Now at [TU Wien](https://www.tuwien.at), Austria.
+- [Christos Bardas](https://www.linkedin.com/in/christos-bardas/?originalSubdomain=nl), 2017-2018. <strong> Computation of transport coefficients using molecular simulation</strong>. Now at [Hitachi Construction Machinery](https://www.linkedin.com/company/hitachi-construction-machinery/about/).
 
 </section>
 

@@ -99,7 +99,7 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
-- On June 13th at 12.oo in the AULA, Mate will defend his PhD "Molecular simulation of nanoporous materials: Application to metal organic frameworks, zeolites, and cyclodextrins".
+- June 13th: Mate succesfully defended his PhD "Molecular simulation of nanoporous materials: Application to metal organic frameworks, zeolites, and cyclodextrins", and is now a Dr. Congrats!
 - May 30th: Today Hirad succesfully defended his PhD "Molecular simulation of Deep Eutectic Solvents" and is officially a Dr!!! Many congrats Hirad.
 - May 6th: Our new paper [Solubilities and Transport Properties of CO2, Oxalic Acid, and Formic Acid in Mixed Solvents Composed of Deep Eutectic Solvents, Methanol, and Propylene Carbonate](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c01425) in the Journal of Physical Chemistry B is now online.
 - May 4th: Our new paper [Electro-osmotic Drag and Thermodynamic Properties of Water in Hydrated Nafion Membranes from Molecular Dynamics](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c01226?ref=pdf) in the Journal of Physical Chemistry C is now online.
