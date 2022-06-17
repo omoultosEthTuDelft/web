@@ -175,7 +175,7 @@ div.desc {
   <a target="_blank" href="photos/tamuq2016.jpg">
     <img src="photos/tamuq2016.jpg" alt="Mountains" width="600" height="auto">
   </a>
-  <div class="desc">At the TAMUQ campus with (from left to rigth) Ioannis Tsimpanogiannis, Panagiotis Krokidas, and Nikos Diamantonis (Doha, Qatar, March 2016)</div>
+  <div class="desc">At the TAMUQ campus with (from left to rigth) Ioannis Tsimpanogiannis, <a href="https://www.linkedin.com/in/panagiotis-krokidas-b2907a89/">Panagiotis Krokidas</a>, and <a href="https://www.linkedin.com/in/researchchemicalengineer/">Nikos Diamantonis</a> (Doha, Qatar, March 2016)</div>
 </div>
 
 <div class="gallery">
