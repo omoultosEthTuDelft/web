@@ -182,7 +182,7 @@ div.desc {
   <a target="_blank" href="photos/esat2015.jpg">
     <img src="photos/esat2015.jpg" alt="Mountains" width="600" height="auto">
   </a>
-  <div class="desc"> At the ESAT 2015 conference in Greece. People from left to right: <a href="https://www.linkedin.com/in/marianna-yiannourakou-4765a65/">Marianna Yiannourakou</a>, Ioannis Tsimpanogiannis, <a href="https://scholar.google.gr/citations?hl=en&user=8MjGyYwAAAAJ&view_op=list_works&sortby=pubdate">Georgios Boulougouris</a>, Otto, Ilias Nikolaidis, Vasilis Michalis, Zoi Makrodimitri, Loukas Peristeras, Ioannis Economou, and Niki Vergadou (Athens, Greece, June 2015)</div>
+  <div class="desc"> At the ESAT 2015 conference in Greece. People from left to right: <a href="https://www.linkedin.com/in/marianna-yiannourakou-4765a65/">Marianna Yiannourakou</a>, Ioannis Tsimpanogiannis, <a href="https://scholar.google.gr/citations?hl=en&user=8MjGyYwAAAAJ&view_op=list_works&sortby=pubdate">Georgios Boulougouris</a>, Otto, <a href="https://www.linkedin.com/in/ilias-nikolaidis-931554205/">Ilias Nikolaidis</a>, <a href="https://www.linkedin.com/in/vasileios-michalis-54301148/">Vasilis Michalis</a>, Zoi Makrodimitri, <a href="https://inn.demokritos.gr/person/loukas-d-peristeras/">Loukas Peristeras</a>, <a href="https://www.qatar.tamu.edu/programs/chemical-engineering/faculty-and-staff/dr.-ioannis-economou">Ioannis Economou</a>, and <a href="https://inn.demokritos.gr/person/niki-vergadou/">Niki Vergadou</a> (Athens, Greece, June 2015)</div>
 </div>
 
 <div class="gallery">
@@ -192,12 +192,12 @@ div.desc {
   <div class="desc">Playing basketball with colleagues <a href="https://www.linkedin.com/in/zoltan-mester-4636a810/">Zoltan Mester</a> and <a href="https://www.linkedin.com/in/andrew-p-santos/">Andrew Santos</a> (Princeton NJ, Usa, May 2014)</div>
 </div>
 
-<div class="gallery">
+<!-- <div class="gallery">
   <a target="_blank" href="photos/NY.jpg">
     <img src="photos/NY.jpg" alt="Mountains" width="600" height="auto">
   </a>
   <div class="desc"> New York City (Manhattan, NY, August 2014)</div>
-</div>
+</div> -->
 
 <div class="gallery">
   <a target="_blank" href="photos/sandia2013.jpg">
