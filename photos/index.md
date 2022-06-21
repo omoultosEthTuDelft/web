@@ -38,6 +38,13 @@ div.desc {
 <br/>
 
 <div class="gallery">
+  <a target="_blank" href="photos/hiradDef.jpg">
+    <img src="photos/hiradDef.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc">PhD Defence of Hirad Salehi (TU Delft, June 2022)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/ice_cream.jpg">
     <img src="photos/ice_cream.jpg" alt="Cinque Terre" width="500" height="auto">
   </a>
