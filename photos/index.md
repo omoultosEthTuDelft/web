@@ -38,6 +38,20 @@ div.desc {
 <br/>
 
 <div class="gallery">
+  <a target="_blank" href="photos/n2icecream.jpg">
+    <img src="photos/n2icecream.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> Making vanilla ice cream together with Thijs Vlugt at the farewell event of our dean Theun Baller. Recipe: 1 lt of milk, 1 lt of cream, 350 g of sugar, 0.5 bottle of vanilla extract, and ...liquid nitrogen. (TU Delft, June 2022)</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="photos/prateek2022.jpg">
+    <img src="photos/prateek2022.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc">MSc graduation of Prateek Jain (TU Delft, June 2022)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/hiradDef.jpg">
     <img src="photos/hiradDef.jpg" alt="Mountains" width="600" height="auto">
   </a>
