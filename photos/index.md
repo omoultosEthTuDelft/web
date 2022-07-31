@@ -38,6 +38,13 @@ div.desc {
 <br/>
 
 <div class="gallery">
+  <a target="_blank" href="photos/keGrad.jpg">
+    <img src="photos/keGrad.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> MSc graduation of Ke Xu (TU Delft, July 2022)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/n2icecream.jpg">
     <img src="photos/n2icecream.jpg" alt="Mountains" width="600" height="auto">
   </a>
