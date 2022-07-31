@@ -45,6 +45,13 @@ div.desc {
 </div>
 
 <div class="gallery">
+  <a target="_blank" href="photos/matePhD.jpg">
+    <img src="photos/matePhD.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> PhD defence of Máté Erdös (TU Delft, June 2022)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/n2icecream.jpg">
     <img src="photos/n2icecream.jpg" alt="Mountains" width="600" height="auto">
   </a>
