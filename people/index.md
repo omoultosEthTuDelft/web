@@ -19,7 +19,6 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 <h5>MSc students</h5>
 <section markdown="1">
 
-- [Ke Xu]() <strong>Transport properties of aqueous electrolyte soutions relevant to water electrolysis</strong>, w/  <a href="https://www.tudelft.nl/staff/p.dey/?cHash=cac0dd30bb433e38fe36e9f04fb3bbbf"> Dr. Poulumi Dey</a>, <a href="https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/"> MSE TU Delft</a>.
 - [Casper van der Geest](https://www.linkedin.com/in/caspervandergeest/?originalSubdomain=nl) <strong>Molecular simulations of mixtures of amines with acid gases</strong>.
 - [Laya Roustazadeh](https://www.qatar.tamu.edu/news-and-events/news/2020/06/24/texas-a-and-m-at-qatar-names-outstanding-graduates/) <strong>Adsoprtion of gas mixtures in Metal Organic Frameworks</strong>, w/ [Prof. Ioannis Economou](https://www.qatar.tamu.edu/programs/chemical-engineering/faculty-and-staff/dr.-ioannis-economou), [TAMUQ](https://www.qatar.tamu.edu).
 
