@@ -11,7 +11,7 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 <!-- <h3> Othonas Moultos </h3> -->
 <br/>
 <p class="lead" style="font-size: 130%"><strong>
-Assistant Professor, <a href="https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/">Engineering Thermodynamics</a>. Department of <a href="hhttps://www.tudelft.nl/3me/over/afdelingen/process-energy">Process & Energy</a>, <a href="https://www.tudelft.nl/3me/">Mechanical Engineering Faculty</a>, <a href="http://www.tudelft.nl/">Delft University of Technology</a>.</strong>
+Assistant Professor, <a href="https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/">Engineering Thermodynamics</a> <br/>Department of <a href="hhttps://www.tudelft.nl/3me/over/afdelingen/process-energy">Process & Energy</a>,<br/> Faculty of <a href="https://www.tudelft.nl/3me/">Mechanical Engineering</a>, <br/><a href="http://www.tudelft.nl/">Delft University of Technology</a>.</strong>
 </p>
 
 <p style="text-align: justify;">
