@@ -9,10 +9,10 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 
 <section markdown="1">
 
-- [Máté Erdös](https://www.linkedin.com/in/mateerdos/), 2017-2022. <strong><a href="theses/MateErdos.pdf">Molecular simulation of nanoporous materials: Application to metal organic frameworks, zeolites, and cyclodextrins</a></strong>. Now at [ChemAxon](https://chemaxon.com).
-- [Hirad Seyed Salehi](https://www.linkedin.com/in/hiradsalehi/?originalSubdomain=nl), 2017-2022. <strong><a href="theses/HiradSalehi.pdf">Molecular simulation of Deep Eutectic Solvents</a></strong>. Now at [ASML](https://www.asml.com/en/careers).
-- [Noura Dawass](https://www.linkedin.com/in/noura-dawass-115358216/?originalSubdomain=qa), 2016-2021. <strong><a href="theses/NouraDawass.pdf">Kirkwood-Buff integrals from molecular simulations</a></strong>. Now at [TAMUQ](https://www.qatar.tamu.edu/programs/chemical-engineering/).
-- [Seyed Hossein Jamali](https://www.linkedin.com/in/shjamali/?originalSubdomain=nl), 2015-2020. <strong> <a href="theses/SeyedJamali.pdf">Transport properties of fluids: Methodology and force field development using molecular dynamics simulations</a></strong>. Now at [Van Oord](http://www.vanoord.com/).
+- [Dr. Ir. Máté Erdös](https://www.linkedin.com/in/mateerdos/), 2017-2022. <strong><a href="theses/MateErdos.pdf">Molecular simulation of nanoporous materials: Application to metal organic frameworks, zeolites, and cyclodextrins</a></strong>. Now at [ChemAxon](https://chemaxon.com).
+- [Dr. Ir. Hirad Seyed Salehi](https://www.linkedin.com/in/hiradsalehi/?originalSubdomain=nl), 2017-2022. <strong><a href="theses/HiradSalehi.pdf">Molecular simulation of Deep Eutectic Solvents</a></strong>. Now at [ASML](https://www.asml.com/en/careers).
+- [Dr. Noura Dawass](https://www.linkedin.com/in/noura-dawass-115358216/?originalSubdomain=qa), 2016-2021. <strong><a href="theses/NouraDawass.pdf">Kirkwood-Buff integrals from molecular simulations</a></strong>. Now at [TAMUQ](https://www.qatar.tamu.edu/programs/chemical-engineering/).
+- [Dr. Ir. Seyed Hossein Jamali](https://www.linkedin.com/in/shjamali/?originalSubdomain=nl), 2015-2020. <strong> <a href="theses/SeyedJamali.pdf">Transport properties of fluids: Methodology and force field development using molecular dynamics simulations</a></strong>. Now at [Van Oord](http://www.vanoord.com/).
 
 
 </section>
@@ -26,7 +26,7 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 - [Jilles Langeveld](https://www.linkedin.com/in/jilles-langeveld/?originalSubdomain=nl), 2021. <strong> <a href="../assets/publications/66.Dawass_JPCB_2022_126_3572.pdf">CO2 capture with deep eutectic solvents</a></strong>. Now at [Techniplan Adviseurs](http://www.techniplan.nl).
 - [Samadarshi Maity](https://www.linkedin.com/in/samadarshi-maity-9621b6115/), 2020-2021 (Honors project with Chem. Eng.). <strong>  <a href="../assets/publications/59.Tsimpanogiannis_JCED_2021_66_3226.pdf">Hydrogen and oxygen diffusivity in gas, liquid, and supercritical water</a></strong>. Now at [Universiteit Leiden](https://www.universiteitleiden.nl/en/staffmembers/samadarshi-maity#tab-1).
 - [Kunal Mavani](https://www.linkedin.com/in/kunal-mavani/?originalSubdomain=nl), 2020-2021. <strong>Molecular simulation of CO2 diffusivity in Krytox oils</strong>. Now at [Uday ECS LLP](https://www.udaics.in). 
-- [Tijin Hanno Geo Saji](https://www.linkedin.com/in/tijin-saji-b0a5/?originalSubdomain=nl), 2020-2021. <strong> Ab initio simulations of materials for hydrogen storage</strong>. Now at [Eindhoven University of Technology](https://www.tue.nl/en/).
+- [Tijin Hanno Geo Saji](https://www.linkedin.com/in/tijin-saji-b0a5/?originalSubdomain=nl), 2020-2021. <strong> <a href="../assets/publications/67.Habibi_ASS_2022_603_154323.pdf">Ab initio simulations of materials for hydrogen storage</a></strong>. Now at [Eindhoven University of Technology](https://www.tue.nl/en/).
 - Benjamin Rosenbaum, 2020 (Internship project with WUR). <strong> Coarse-grained simulations of oleosomes</strong>. 
 - [Grevil Colaco](https://www.linkedin.com/in/grevilcolaco/?originalSubdomain=nl), 2019-2020. <strong> Monte Carlo simulations of NOx adsorption on zeolites</strong>. Now at [CGI](https://www.cgi.com/en).
 - [Sander Korver](https://www.linkedin.com/in/sander-korver-b00a6496), 2019-2020. <strong><a href="../assets/publications/50.Korver_SR_2020_10_20502.pdf"> Machine learning and thermodynamic modeling for fingerprint analysis of gasoline used in arson</a></strong>. Now at [ExxonMobil](https://corporate.exxonmobil.com).
