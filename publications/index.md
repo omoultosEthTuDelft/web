@@ -3,7 +3,15 @@ layout: default
 title: "Othonas Moultos | Assistant Professor, TU Delft"
 
 
+
 publications:
+  - { number: "67.",
+    title: "Hydrogen dissociation in Li-decorated borophene and borophene hydride: An ab-initio study",
+    authors: "Parsa Habibi, Tijin HG Saji, Thijs JH Vlugt, Othonas A Moultos, and Poulumi Dey", 
+    venue: "Applied Surface Science (2022) 603, 154323", 
+    pdf: "assets/publications/67.Habibi_ASS_2022_603_154323.pdf", 
+    SI: "assets/publications/SI/67.Habibi_ASS_2022_603_154323_SI.pdf", 
+    bib: "assets/publications/bib/67.Habibi_ASS_2022_603_154323.bib"}
   - { number: "66.",
     title: "Solubilities and Transport Properties of CO2, Oxalic Acid, and Formic Acid in Mixed Solvents Composed of Deep Eutectic Solvents, Methanol, and Propylene Carbonate",
     authors: "Noura Dawass, Jilles Langeveld, Mahinder Ramdin, Elena Pérez-Gallent, Angel A. Villanueva, Erwin J. M. Giling, Jort Langerak, Leo J. P. van den Broeke, Thijs J. H. Vlugt, and Othonas A. Moultos", 

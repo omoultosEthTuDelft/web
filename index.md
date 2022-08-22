@@ -99,6 +99,7 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- August 2022: Two papers accepted in Fluid Phase Equilibria: [Is Stokes-Einstein relation valid for the description of intra-diffusivity of hydrogen and oxygen in liquid water?](https://www.sciencedirect.com/science/article/pii/S0378381222001893)  and [Transport Properties of Mixtures of Acid Gases with Aqueous Monoethanolamine Solutions: A Molecular Dynamics Study]() (soon on line).
 - July 30th: Our new paper [Hydrogen dissociation in Li-decorated borophene and borophene hydride: An ab-initio study](https://www.sciencedirect.com/science/article/pii/S0169433222018566) in Applied Surface Science is now online.
 - June 13th: Mate succesfully defended his PhD "Molecular simulation of nanoporous materials: Application to metal organic frameworks, zeolites, and cyclodextrins", and is now a Dr. Congrats!
 - May 30th: Today Hirad succesfully defended his PhD "Molecular simulation of Deep Eutectic Solvents" and is officially a Dr!!! Many congrats Hirad.
