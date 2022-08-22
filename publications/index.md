@@ -152,6 +152,19 @@ publications:
     venue: "Fluid Phase Equilibria (2020) 523, 112785", 
     pdf: "assets/publications/47.Rahbari_FPE_2020_523_112785.pdf ", 
     bib: "assets/publications/bib/47.Rahbari_FPE_2020_523_112785.bib"} 
+  - { number: "46.", 
+    title: "Finite-size effects of diffusion coefficients computed from molecular dynamics: a review of what we have learned so far",
+    authors: "Alper T. Celebi, Seyed Hossein Jamali, André Bardow, Thijs J. H. Vlugt, and Othonas A. Moultos", 
+    venue: "Molecular Simulation (2020) 47, 831", 
+    pdf: "assets/publications/46.Celebi_MS_2020_47_831.pdf", 
+    bib: "assets/publications/bib/46.Celebi_MS_2020_47_831.bib"} 
+  - { number: "45.", 
+    title: "Computation of gas solubilities in choline chloride urea and choline chloride ethylene glycol deep eutectic solvents using Monte Carlo simulations",
+    authors: "Hirad S. Salehi, Remco Hens, Othonas A. Moultos, and Thijs J.H. Vlugt", 
+    venue: "Journal of Molecular Liquids (2020) 316, 113729", 
+    pdf: "assets/publications/45.Salehi_2020_316_113729.pdf", 
+    SI: "assets/publications/SI/45.Salehi_2020_316_113729_SI.pdf", 
+    bib: "assets/publications/bib/45.Salehi_2020_316_113729.bib"} 
   - { number: "37.",
     title: "Inclusion Complexation of Organic Micropollutants with β‐Cyclodextrin",
     authors: "Máté Erdős, Remco Hartkamp, Thijs J.H. Vlugt, and Othonas A. Moultos", 
