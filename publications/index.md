@@ -181,8 +181,33 @@ publications:
     pdf: "assets/publications/26.Nikolaidis_AIChE_2018_65_792.pdf", 
     SI: "assets/publications/SI/26.Nikolaidis_AIChE_2018_65_792_SI.pdf",
     bib: "assets/publications/bib/26.Nikolaidis_AIChE_2018_65_792.bib"}  
+  - { number: "4.", 
+    title: "Self-Assembly Behavior of Thermoresponsive Bis-Solvophilic Linear Block Terpolymers: A Simulation Study",
+    authors: "Othonas Moultos, Leonidas N. Gergidis, and Costas Vlahos", 
+    venue: "Macromolecules (2012) 45, 2570", 
+    pdf: "assets/publications/4.Moultos_MACRO_2012_45_2570.pdf", 
+    bib: "assets/publications/bib/4.Moultos_MACRO_2012_45_2570.bib"}
+  - { number: "3.", 
+    title: "Brownian Dynamics Simulations on the Self-Assembly Behavior of AB Hybrid Dendritic−Star Copolymers",
+    authors: "Costas Georgiadis, Othonas Moultos, Leonidas N. Gergidis, and Costas Vlahos", 
+    venue: "Langmuir (2011) 27, 835", 
+    pdf: "assets/publications/3.Georgiadis_LANG_2011_27_835.pdf", 
+    bib: "assets/publications/bib/3.Georgiadis_LANG_2011_27_835.bib"}  
+  - { number: "2.", 
+    title: "Brownian Dynamics Simulations on Self-Assembly Behavior of H-Shaped
+      Copolymers and Terpolymers",
+    authors: "Othonas Moultos, Leonidas N. Gergidis, and Costas Vlahos", 
+    venue: "Macromolecules (2010) 43, 6903", 
+    pdf: "assets/publications/2.Moultos_MACRO_2010_43_6903.pdf", 
+    bib: "assets/publications/bib/2.Moultos_MACRO_2010_43_6903.bib"}  
+  - { number: "1.", 
+    title: "Off lattice Monte Carlo simulations of AB hybrid dendritic star copolymers",
+    authors: "Leonidas N. Gergidis, Othonas Moultos, Costas Georgiadis, Marios Kosmas, and Costas Vlahos", 
+    venue: "Polymer (2009) 50, 328", 
+    pdf: "assets/publications/1.Gergidis_POL_2009_50_328.pdf", 
+    bib: "assets/publications/bib/1.Gergidis_POL_2009_50_328.bib"}
   - { number: "36", 
-    title: "ca. 50 more articles to be added. In the meantime take a look at my google scholar"}
+    title: "ca. 40 more articles to be added. In the meantime take a look at my google scholar"}
 ---
 
 <div id="publications" class="row">
