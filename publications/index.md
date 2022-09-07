@@ -5,6 +5,19 @@ title: "Othonas Moultos | Assistant Professor, TU Delft"
 
 
 publications:
+  - { number: "69.",
+    title: "Transport properties of mixtures of acid gases with aqueous monoethanolamine solutions: A molecular dynamics study",
+    authors: "H. Mert Polat, Frédérick de Meyer, Céline Houriez, Christophe Coquelet, Othonas A.Moultos, and Thijs J.H.Vlugt", 
+    venue: "Fluid Phase Equilibria (2022) 564, 113587", 
+    pdf: "assets/publications/69.Polat_FPE_2022_564_113587.pdf", 
+    SI: "assets/publications/SI/69.Polat_FPE_2022_564_113587_SI.pdf", 
+    bib: "assets/publications/bib/69.Polat_FPE_2022_564_113587.bib"}
+  - { number: "68.",
+    title: "Is Stokes-Einstein relation valid for the description of intra-diffusivity of hydrogen and oxygen in liquid water?",
+    authors: "Ioannis N. Tsimpanogiannis and Othonas A Moultos", 
+    venue: "Fluid Phase Equilibria (2022) 563, 113568", 
+    pdf: "assets/publications/68.Tsimpanogiannis_FPE_2022_563_113568.pdf",  
+    bib: "assets/publications/bib/68.Tsimpanogiannis_FPE_2022_563_113568.bib"}
   - { number: "67.",
     title: "Hydrogen dissociation in Li-decorated borophene and borophene hydride: An ab-initio study",
     authors: "Parsa Habibi, Tijin HG Saji, Thijs JH Vlugt, Othonas A Moultos, and Poulumi Dey", 
