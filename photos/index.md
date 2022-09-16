@@ -38,6 +38,13 @@ div.desc {
 <br/>
 
 <div class="gallery">
+  <a target="_blank" href="photos/bath2022.jpg">
+    <img src="photos/bath2022.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> At the <a href="https://www.romanbaths.co.uk">Roman Baths</a> during the Thermodynamics 2022 conference in Bath. People from left to right: <a href="https://www.qatar.tamu.edu/programs/chemical-engineering/faculty-and-staff/dr.-ioannis-economou">Ioannis Economou</a>, <a href="https://orbit.dtu.dk/en/persons/georgios-kontogeorgis">Georgios Kontogeorgis</a>, Chrysa Economou, <a href="h=https://orbit.dtu.dk/en/persons/nefeli-effrosyni-novak">Nefeli Novak</a>, Otto, and Parsa Habibi (Bath, UK, September 2022)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/keGrad.jpg">
     <img src="photos/keGrad.jpg" alt="Mountains" width="600" height="auto">
   </a>
@@ -160,14 +167,14 @@ div.desc {
   <a target="_blank" href="photos/london2018.jpg">
     <img src="photos/london2018.jpg" alt="Mountains" width="600" height="auto">
   </a>
-  <div class="desc">With Max Döpke (left) and Máté Erdös (right) from our visit to UCL (London, September 2018)</div>
+  <div class="desc">With Max Döpke (left) and Máté Erdös (right) from our visit to UCL (London, UK, September 2018)</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="photos/snow2017.jpg">
     <img src="photos/snow2017.jpg" alt="Mountains" width="600" height="auto">
   </a>
-  <div class="desc">Otto outside the P&E buidling experiencing rare weather phenomena! (TU Delft, December 2017)</div>
+  <div class="desc">Outside the P&E buidling experiencing rare weather phenomena! (TU Delft, December 2017)</div>
 </div>
 
 <div class="gallery">
