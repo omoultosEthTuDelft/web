@@ -19,6 +19,9 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 <h5>MSc students</h5>
 <section markdown="1">
 
+- [Ankit Singh](https://www.linkedin.com/in/ankit-singh-120816140/?originalSubdomain=nl) <strong>Properties of 2D materials from Machine Learning/Ab initio</strong>.
+- [Vladimir Jelle Lagerweij](https://www.linkedin.com/in/vladimir-jelle-lagerweij-21654021b/?originalSubdomain=nl) <strong>Towards OCTP2.0</strong> (Honors Project).
+- [Jose Antonio Gonzalez Morales](https://www.linkedin.com/in/josé-antonio-gonzález-morales-/?originalSubdomain=es) <strong>Design of tanks for hydrogen storage</strong>, w/  <a href="https://www.tudelft.nl/staff/p.dey/?cHash=cac0dd30bb433e38fe36e9f04fb3bbbf"> Dr. Poulumi Dey</a>, <a href="https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/"> MSE TU Delft</a>.
 - [Casper van der Geest](https://www.linkedin.com/in/caspervandergeest/?originalSubdomain=nl) <strong>Molecular simulations of mixtures of amines with acid gases</strong>.
 - [Laya Roustazadeh](https://www.qatar.tamu.edu/news-and-events/news/2020/06/24/texas-a-and-m-at-qatar-names-outstanding-graduates/) <strong>Adsoprtion of gas mixtures in Metal Organic Frameworks</strong>, w/ [Prof. Ioannis Economou](https://www.qatar.tamu.edu/programs/chemical-engineering/faculty-and-staff/dr.-ioannis-economou), [TAMUQ](https://www.qatar.tamu.edu).
 
