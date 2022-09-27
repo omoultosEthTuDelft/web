@@ -38,6 +38,13 @@ div.desc {
 <br/>
 
 <div class="gallery">
+  <a target="_blank" href="photos/thermoAnnouncement.jpg ">
+    <img src="photos/thermoAnnouncement.jpg " alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> Officially announcing that our group will organize the next Thermodynamics conference in TU Delft (Bath, UK, September 2022)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/bath2022.jpg">
     <img src="photos/bath2022.jpg" alt="Mountains" width="600" height="auto">
   </a>
