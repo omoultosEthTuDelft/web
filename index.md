@@ -99,6 +99,7 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- November 2022: Welcome to new MSc student Camiel Grevet!
 - September 2022: A warm welcome to the new MSc students Jose, Jelle, and Ankit. 
 - September 2022: Our review paper [A review on nature-inspired gating membranes: from concept to design and applications](https://aip.scitation.org/doi/10.1063/5.0105641) is accepted in Journal of Chemical Physics.
 - August 2022: Two papers accepted in Fluid Phase Equilibria: [Is Stokes-Einstein relation valid for the description of intra-diffusivity of hydrogen and oxygen in liquid water?](https://www.sciencedirect.com/science/article/pii/S0378381222001893)  and [Transport Properties of Mixtures of Acid Gases with Aqueous Monoethanolamine Solutions: A Molecular Dynamics Study](https://www.sciencedirect.com/science/article/pii/S0378381222002072?via%3Dihub).
