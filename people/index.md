@@ -19,7 +19,6 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 <h5>MSc students</h5>
 <section markdown="1">
 
-- [Ankit Singh](https://www.linkedin.com/in/ankit-singh-120816140/?originalSubdomain=nl) <strong>Molecular simulation of hydrogen bubbles formation and evolution in alkaline water electrolysis cells</strong>.
 - [Camiel Grevet](https://www.linkedin.com/in/camiel-grevet-71b73674/) <strong>Design of a modular electrolyzer system</strong> w/ <a href="https://sites.google.com/xintcglobal.com/xintcglobal">XINTC</a>.
 - [Vladimir Jelle Lagerweij](https://www.linkedin.com/in/vladimir-jelle-lagerweij-21654021b/?originalSubdomain=nl) <strong>Towards OCTP2.0</strong> (Honors Project).
 - [Jose Antonio Gonzalez Morales](https://www.linkedin.com/in/josé-antonio-gonzález-morales-/?originalSubdomain=es) <strong>Design of tanks for hydrogen storage</strong>, w/  <a href="https://www.tudelft.nl/staff/p.dey/?cHash=cac0dd30bb433e38fe36e9f04fb3bbbf"> Dr. Poulumi Dey</a>, <a href="https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/"> MSE TU Delft</a>.
