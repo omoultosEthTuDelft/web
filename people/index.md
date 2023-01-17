@@ -5,6 +5,7 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 
 <div id="people" class="row">
 <div  style="text-align: justify;" class="col-sm-12">
+	<br/><br/>
 <h5>PhD students</h5>
 
 <section markdown="1">
