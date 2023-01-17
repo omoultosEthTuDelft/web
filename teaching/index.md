@@ -5,6 +5,8 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 
 <div id="people" class="row">
 <div  style="text-align: justify;" class="col-sm-10">
+<br/>
+
 <h5>Courses 2022/2023</h5>
 
 <br/>
