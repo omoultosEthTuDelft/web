@@ -31,7 +31,7 @@ Fossil fuels not only harm the environment but are also becoming more and more e
 
 
 <div class="alert alert-warning" role="alert" markdown="1">
-  A practical guide for MSc theses that I wrote together with <a href="https://www.linkedin.com/in/carey-walters-44252714b/?originalSubdomain=nl">Carey Walters</a>: <a href="/assets/misc/MScGuide.pdf">Download here</a>. 
+  A practical guide for MSc theses that I wrote together with <a href="https://www.linkedin.com/in/carey-walters-44252714b/?originalSubdomain=nl">Carey Walters</a>: <a href="assets/misc/MScGuide.pdf">Download here</a>. 
 </div> 
 
 
