@@ -21,9 +21,10 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 <h5>Former MSc students</h5>
 <section markdown="1">
 
+- [Casper van der Geest](https://www.linkedin.com/in/caspervandergeest/?originalSubdomain=nl) <strong>Transport properties of acid gases in aqueous MDEA solutions</strong>. Now at [BBBLS Greenhouses](https://www.bbbls.net).
 - [Ke Xu](https://www.linkedin.com/in/ke-xu-a339731a3/), <strong>Transport properties of hydrogen in aqueous electrolyte solutions at conditions relevant to underground hydrogen storage</strong>.
 - [Prateek Jain](https://www.linkedin.com/in/prateek-jain-matsci/?originalSubdomain=nl), <strong>Hydrogen storage in 2D nanomaterials</strong>.
-- [Jilles Langeveld](https://www.linkedin.com/in/jilles-langeveld/?originalSubdomain=nl), 2021. <strong> <a href="../assets/publications/66.Dawass_JPCB_2022_126_3572.pdf">CO2 capture with deep eutectic solvents</a></strong>. Now at [Techniplan Adviseurs](http://www.techniplan.nl).
+- [Jilles Langeveld](https://www.linkedin.com/in/jilles-langeveld/?originalSubdomain=nl), 2021. <strong> <a href="../assets/publications/66.Dawass_JPCB_2022_126_3572.pdf">CO2 capture with deep eutectic solvents</a></strong>. Now at [Magneto Systems](https://magneto.systems).
 - [Samadarshi Maity](https://www.linkedin.com/in/samadarshi-maity-9621b6115/), 2020-2021 (Honors project with Chem. Eng.). <strong>  <a href="../assets/publications/59.Tsimpanogiannis_JCED_2021_66_3226.pdf">Hydrogen and oxygen diffusivity in gas, liquid, and supercritical water</a></strong>. Now at [Universiteit Leiden](https://www.universiteitleiden.nl/en/staffmembers/samadarshi-maity#tab-1).
 - [Kunal Mavani](https://www.linkedin.com/in/kunal-mavani/?originalSubdomain=nl), 2020-2021. <strong>Molecular simulation of CO2 diffusivity in Krytox oils</strong>. Now at [Uday ECS LLP](https://www.udaics.in). 
 - [Tijin Hanno Geo Saji](https://www.linkedin.com/in/tijin-saji-b0a5/?originalSubdomain=nl), 2020-2021. <strong> <a href="../assets/publications/67.Habibi_ASS_2022_603_154323.pdf">Ab initio simulations of materials for hydrogen storage</a></strong>. Now at [Eindhoven University of Technology](https://www.tue.nl/en/).
@@ -37,9 +38,10 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 </section>
 
 
-<h5>Former Postdocs and Researchers</h5>
+<h5>Former Postdocs, Researchers, and Visitors</h5>
 <section markdown="1">
 
+- [Willemijn van Rooijen](https://www.linkedin.com/in/willemijn-van-rooijen-46398a151/?originalSubdomain=nl), 2022-2023 <strong>Interfacial and thermophysical properties of mixtures relevant to subsurface hydrogen storage</strong>.
 - [Laya Roustazadeh](https://www.qatar.tamu.edu/news-and-events/news/2020/06/24/texas-a-and-m-at-qatar-names-outstanding-graduates/), 2021-2022 <strong>Adsoprtion of gas mixtures in Metal Organic Frameworks</strong>.
 - [Dr. Ahmadreza Rahbari](https://www.linkedin.com/in/arahbari/?originalSubdomain=nl), 2020-2021. <strong> Molecular simulation of high pressure hydrogen mixtures</strong>. Now at [XINTC Global](http://www.xintcglobal.com/), The Netherlands.
 - [Dr. Abdelrahman Hussein](https://www.linkedin.com/in/abdelrahman-hussein-3b42b415/?originalSubdomain=nl), 2020-2021. <strong> Multi-scale modeling of hydrogen embrittlement</strong>. Now at [KoreaTech](https://www.koreatech.ac.kr/eng/Main.do), Korea.

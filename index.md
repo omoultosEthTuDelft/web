@@ -100,6 +100,7 @@ o.moultos@tudelft.nl
 <section markdown="1">
 
 - First paper of 2023 is out: [Interfacial Tensions, Solubilities, and Transport Properties of the H2/ H2O/NaCl System: A Molecular Simulation Study](https://pubs.acs.org/doi/10.1021/acs.jced.2c00707?ref=pdf).
+- December 2022: Casper succesfully defended his MSc! Congrats.
 - November 2022: 3 new papers out!!! 
 [Electrochemical Reduction of CO2 to Oxalic Acid: Experiments, Process Modeling, and Economics](https://pubs.acs.org/doi/10.1021/acs.iecr.2c02647), [A New Force Field for OH– for Computing Thermodynamic and Transport Properties of H2 and O2 in Aqueous NaOH and KOH Solutions](https://pubs.acs.org/doi/10.1021/acs.jpcb.2c06381), [Solubility of CO2 in Aqueous Formic Acid Solutions and the Effect of NaCl Addition: A Molecular Simulation Study](https://pubs.acs.org/doi/10.1021/acs.jpcc.2c05476).
 - November 2022: Welcome to new MSc student Camiel Grevet!
