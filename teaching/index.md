@@ -23,7 +23,7 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 
 <br/>
 
-<h5>Courses 2021/2022</h5>
+<!-- <h5>Courses 2021/2022</h5>
 
 <br/>
 
@@ -34,7 +34,7 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 - [ME45160 / Q2](https://brightspace.tudelft.nl/d2l/home/400934), <strong>Advcanced Applied Thermodynamics</strong>, EFPT 3mE Track, 5 ECTS
 
 </section>
-
+ -->
 </div>
 </div>
 
