@@ -12,13 +12,20 @@ publications:
   #   pdf: "assets/publications/69.Polat_FPE_2022_564_113587.pdf", 
   #   SI: "assets/publications/SI/69.Polat_FPE_2022_564_113587_SI.pdf", 
   #   bib: "assets/publications/bib/69.Polat_FPE_2022_564_113587.bib"}
-  - { number: "69.",
+  - { number: "73.",
     title: "Transport properties of mixtures of acid gases with aqueous monoethanolamine solutions: A molecular dynamics study",
     authors: "H. Mert Polat, Frédérick de Meyer, Céline Houriez, Christophe Coquelet, Othonas A.Moultos, and Thijs J.H.Vlugt", 
     venue: "Fluid Phase Equilibria (2023) 564, 113587", 
-    pdf: "assets/publications/69.Polat_FPE_2022_564_113587.pdf", 
-    SI: "assets/publications/SI/69.Polat_FPE_2022_564_113587_SI.pdf", 
-    bib: "assets/publications/bib/69.Polat_FPE_2022_564_113587.bib"}
+    pdf: "assets/publications/73.Polat_FPE_2023_564_113587.pdf", 
+    SI: "assets/publications/SI/73.Polat_FPE_2023_564_113587_SI.pdf", 
+    bib: "assets/publications/bib/73.Polat_FPE_2023_564_113587.bib"}
+  - { number: "72.",
+    title: "A New Force Field for OH− for Computing Thermodynamic and Transport Properties of H2 and O2 in Aqueous NaOH and KOH Solutions",
+    authors: "Parsa Habibi, Ahmadreza Rahbari, Samuel Blazquez, Carlos Vega, Poulumi Dey, Thijs J. H. Vlugt,and Othonas A. Moultos", 
+    venue: "Journal of Physical Chemistry B (2022) 126, 9376", 
+    pdf: "assets/publications/72.Habibi_JPCB_2022_126_9376.pdf", 
+    SI: "assets/publications/SI/72.Habibi_JPCB_2022_126_9376_SI.pdf", 
+    bib: "assets/publications/bib/72.Habibi_JPCB_2022_126_9376.bib"}
   - { number: "68.",
     title: "Is Stokes-Einstein relation valid for the description of intra-diffusivity of hydrogen and oxygen in liquid water?",
     authors: "Ioannis N. Tsimpanogiannis and Othonas A Moultos", 
