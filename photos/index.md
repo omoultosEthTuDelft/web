@@ -38,10 +38,17 @@ div.desc {
 <br/>
 
 <div class="gallery">
-  <a target="_blank" href="photos/dec2022.jpg ">
-    <img src="photos/dec2022.jpg " alt="Mountains" width="600" height="auto">
+  <a target="_blank" href="photos/dec2022.jpg">
+    <img src="photos/dec2022.jpg" alt="Mountains" width="600" height="auto">
   </a>
   <div class="desc"> Group lunch before Christmas. People from left to right: Otto, Jose Antoniof Gonzalez Morales, Bin Fang, Lili Ma, Parsa Habibi, and Mert Polat (Delft, December 2022)</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="photos/casperMSc2022.jpg">
+    <img src="photos/casperMSc2022.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> MSc graduation of Casper van der Geest (Delft, December 2022)</div>
 </div>
 
 <div class="gallery">
