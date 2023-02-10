@@ -38,6 +38,13 @@ div.desc {
 <br/>
 
 <div class="gallery">
+  <a target="_blank" href="photos/binFang2023.jpeg">
+    <img src="photos/binFang2023.jpeg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> Last day of Bin Fang in the office (Delft, February 2023)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/dec2022.jpg">
     <img src="photos/dec2022.jpg" alt="Mountains" width="600" height="auto">
   </a>
