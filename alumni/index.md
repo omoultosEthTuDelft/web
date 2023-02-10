@@ -39,9 +39,10 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 </section>
 
 
-<h5>Former Postdocs, Researchers, and Visitors</h5>
+<h5>Former Postdocs, Visiting Researchers, and Interns</h5>
 <section markdown="1">
 
+- [Dr. Bin Fang](), 2022-2023 <strong>Molecular simulations of methane hydrates</strong>. Now at [Chinese University of Geosciences](https://en.cug.edu.cn), China.
 - [Willemijn van Rooijen](https://www.linkedin.com/in/willemijn-van-rooijen-46398a151/?originalSubdomain=nl), 2022-2023 <strong>Interfacial and thermophysical properties of mixtures relevant to subsurface hydrogen storage</strong>.
 - [Laya Roustazadeh](https://www.qatar.tamu.edu/news-and-events/news/2020/06/24/texas-a-and-m-at-qatar-names-outstanding-graduates/), 2021-2022 <strong>Adsoprtion of gas mixtures in Metal Organic Frameworks</strong>.
 - [Dr. Ahmadreza Rahbari](https://www.linkedin.com/in/arahbari/?originalSubdomain=nl), 2020-2021. <strong> Molecular simulation of high pressure hydrogen mixtures</strong>. Now at [XINTC Global](http://www.xintcglobal.com/), The Netherlands.
