@@ -26,6 +26,27 @@ publications:
     pdf: "assets/publications/72.Habibi_JPCB_2022_126_9376.pdf", 
     SI: "assets/publications/SI/72.Habibi_JPCB_2022_126_9376_SI.pdf", 
     bib: "assets/publications/bib/72.Habibi_JPCB_2022_126_9376.bib"}
+  - { number: "71.",
+    title: "Solubility of CO2 in Aqueous Formic Acid Solutions and the Effect of NaCl Addition: A Molecular Simulation Study",
+    authors: "Dominika O. Wasik, H. Mert Polat, Mahinder Ramdin, Othonas A. Moultos, Sofia Calero, and Thijs J. H. Vlugt", 
+    venue: "Journal of Physical Chemistry C (2022) 126, 9376", 
+    pdf: "assets/publications/71.Wasik_JPCC_2022_126_19424.pdf", 
+    SI: "assets/publications/SI/71.Wasik_JPCC_2022_126_19424_SI.pdf", 
+    bib: "assets/publications/bib/71.Wasik_JPCC_2022_126_19424.bib"}
+  - { number: "70.",
+    title: "A review on nature-inspired gating membranes: From concept to design and applications",
+    authors: "Hanieh Bazyar, Othonas A. Moultos, and Rob G. H. Lammertink", 
+    venue: "The Journal of Chemical Physics (2022) 157, 144704", 
+    pdf: "assets/publications/70.Bazyar_JCP_2022_157_144704.pdf",  
+    bib: "assets/publications/bib/70.Bazyar_JCP_2022_157_144704.bib"}
+  - { number: "69.",
+    title: "Electrochemical Reduction of CO2 to Oxalic Acid: Experiments,
+      Process Modeling, and Economics",
+    authors: "Vera Boor, Jeannine E. B. M. Frijns, Elena Perez-Gallent, Erwin Giling, Antero T. Laitinen, Earl L. V. Goetheer, Leo J. P. van den Broeke, Ruud Kortlever, Wiebren de Jong, Othonas A. Moultos, Thijs J. H. Vlugt, and Mahinder Ramdin", 
+    venue: "Industrial & Engineering Chemistry Research (2022) 61, 14837", 
+    pdf: "assets/publications/69.Boor_IECR_2022_61_14837.pdf",  
+    SI: "assets/publications/SI/69.Boor_IECR_2022_61_14837_SI.pdf",
+    bib: "assets/publications/bib/69.Boor_IECR_2022_61_14837.bib"}
   - { number: "68.",
     title: "Is Stokes-Einstein relation valid for the description of intra-diffusivity of hydrogen and oxygen in liquid water?",
     authors: "Ioannis N. Tsimpanogiannis and Othonas A Moultos", 
