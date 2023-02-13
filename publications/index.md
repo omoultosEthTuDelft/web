@@ -228,7 +228,14 @@ publications:
     venue: "AIChE Journal (2018) 65, 792", 
     pdf: "assets/publications/26.Nikolaidis_AIChE_2018_65_792.pdf", 
     SI: "assets/publications/SI/26.Nikolaidis_AIChE_2018_65_792_SI.pdf",
-    bib: "assets/publications/bib/26.Nikolaidis_AIChE_2018_65_792.bib"}  
+    bib: "assets/publications/bib/26.Nikolaidis_AIChE_2018_65_792.bib"}
+  - { number: "5.", 
+    title: "Atomistic Molecular Dynamics Simulations of CO2 Diffusivity in H2O
+      for a Wide Range of Temperatures and Pressures",
+    authors: "Othonas A. Moultos, Ioannis N. Tsimpanogiannis, Athanassios Z. Panagiotopoulos, and Ioannis G. Economou", 
+    venue: "Journal of Physical Chemistry B (2014) 118, 5332", 
+    pdf: "assets/publications/5.Moultos_JPCB_2014_118_5532.pdf", 
+    bib: "assets/publications/bib/5.Moultos_JPCB_2014_118_5532.bib"}
   - { number: "4.", 
     title: "Self-Assembly Behavior of Thermoresponsive Bis-Solvophilic Linear Block Terpolymers: A Simulation Study",
     authors: "Othonas Moultos, Leonidas N. Gergidis, and Costas Vlahos", 
@@ -254,7 +261,7 @@ publications:
     venue: "Polymer (2009) 50, 328", 
     pdf: "assets/publications/1.Gergidis_POL_2009_50_328.pdf", 
     bib: "assets/publications/bib/1.Gergidis_POL_2009_50_328.bib"}
-  - { number: "36", 
+  - { number: "XX", 
     title: "ca. 40 more articles to be added. In the meantime take a look at my google scholar"}
 ---
 
