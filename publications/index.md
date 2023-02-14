@@ -229,6 +229,19 @@ publications:
     pdf: "assets/publications/26.Nikolaidis_AIChE_2018_65_792.pdf", 
     SI: "assets/publications/SI/26.Nikolaidis_AIChE_2018_65_792_SI.pdf",
     bib: "assets/publications/bib/26.Nikolaidis_AIChE_2018_65_792.bib"}
+  - { number: "7.", 
+    title: "Entropic Effects in Mixed Micelles Formed by Star/Linear and Star/Star AB Copolymers",
+    authors: "Othonas Moultos, Leonidas N. Gergidis, Andreas Kalogirou, and Costas Vlahos", 
+    venue: "Journal of Polymer Science, Part B: Polymer Physics (2014) 53, 442", 
+    pdf: "assets/publications/7.Moultos_JPS-PP_2015_53_441.pdf", 
+    bib: "assets/publications/bib/7.Moultos_JPS-PP_2015_53_441.bib"}
+  - { number: "6.", 
+    title: "Micellization Properties of Θ‑Shaped, Figure-Eight-Shaped and
+      Linked Rings Copolymers",
+    authors: "Andreas Kalogirou, Othonas A. Moultos, Leonidas N. Gergidis, and Costas Vlahos", 
+    venue: "Macromolecules (2014) 47, 5851", 
+    pdf: "assets/publications/6.Kalogirou_MACRO_2014_47_5851.pdf", 
+    bib: "assets/publications/bib/6.Kalogirou_MACRO_2014_47_5851.bib"}
   - { number: "5.", 
     title: "Atomistic Molecular Dynamics Simulations of CO2 Diffusivity in H2O
       for a Wide Range of Temperatures and Pressures",
