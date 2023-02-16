@@ -6,6 +6,8 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 <br/>
 <div  style="text-align: justify;" class="col-sm-12">
 
+  <h3 style="color:blue;"> Open-source software developed in our group </h3>
+<br/>
  <!-- OCTP  -->
 <h4>
   <!-- <a href="https://pubs.acs.org/doi/10.1021/acs.jcim.8b00939"> -->
@@ -58,3 +60,34 @@ title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
   <br/><br/>
   <!-- <div class="desc"> MSc graduation of Ke Xu (TU Delft, July 2022)</div> -->
 </div>
+
+------------------------------------------------------------------------------------------------------------
+
+<br/>
+<br/>
+<br/>
+
+<!-- CASPY -->
+
+<h4>
+  <!-- <a href="https://pubs.acs.org/doi/10.1021/acs.jcim.0c00334"> -->
+    CASpy: Open Source Solver for Chemical Reaction and Absorption Equilibria
+  <!-- </a> -->
+</h4>
+<br/>
+
+<h5>  <span class="fa fa-github"></span><a href="https://github.com/omoultosEthTuDelft/CASpy"> Code</a> </h5>
+
+<h5> <span class="fa fa-tasks"></span><a href=""> Publication under review</a> </h5>
+
+<br/>
+
+
+<div class="gallery">
+  <a target="_blank" href="figures/caspy.pdf">
+    <img src="figures/caspy.pdf" alt="Mountains" width="700" height="auto">
+  </a>
+  <br/><br/>
+  <!-- <div class="desc"> MSc graduation of Ke Xu (TU Delft, July 2022)</div> -->
+</div>
+
