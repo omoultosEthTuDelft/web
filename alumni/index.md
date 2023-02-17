@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
+#title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
+title: "Alumni"
 ---
 
 <div id="people" class="row">

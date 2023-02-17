@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Othonas Moultos | Assistant Professor, TU Delft"
-
+#title: "Othonas Moultos | Assistant Professor, TU Delft"
+title: "Publications"
 
 
 publications:
