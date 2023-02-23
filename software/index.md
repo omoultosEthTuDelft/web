@@ -85,8 +85,8 @@ title: "Software"
 
 
 <div class="gallery">
-  <a target="_blank" href="figures/caspy.pdf">
-    <img src="figures/caspy.pdf" alt="Mountains" width="700" height="auto">
+  <a target="_blank" href="figures/caspy.jpg">
+    <img src="figures/caspy.jpg" alt="Mountains" width="700" height="auto">
   </a>
   <br/><br/>
   <!-- <div class="desc"> MSc graduation of Ke Xu (TU Delft, July 2022)</div> -->
