@@ -233,8 +233,8 @@ publications:
     title: "Entropic Effects in Mixed Micelles Formed by Star/Linear and Star/Star AB Copolymers",
     authors: "Othonas Moultos, Leonidas N. Gergidis, Andreas Kalogirou, and Costas Vlahos", 
     venue: "Journal of Polymer Science, Part B: Polymer Physics (2014) 53, 442", 
-    pdf: "assets/publications/7.Moultos_JPS_PP_2015_53_441.pdf", 
-    bib: "assets/publications/bib/7.Moultos_JPS_PP_2015_53_441.bib"}
+    pdf: "assets/publications/7.Moultos_JPS-PP_2015_53_441.pdf", 
+    bib: "assets/publications/bib/7.Moultos_JPS-PP_2015_53_441.bib"}
   - { number: "6.", 
     title: "Micellization Properties of Θ‑Shaped, Figure-Eight-Shaped and
       Linked Rings Copolymers",
