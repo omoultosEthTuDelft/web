@@ -27,11 +27,11 @@ title: "People"
 </section>
 
 
-<h5>BSc students</h5>
+<!-- <h5>BSc students</h5>
 <section markdown="1">
 	
 - CSE minor group: T. van Kuik, E. Cerpac, W. Bekkers, S. Lykles, L. Duynkerke, Updating OCTP plugin for LAMMPS.
-</section>
+</section> -->
 
 
 </div>
