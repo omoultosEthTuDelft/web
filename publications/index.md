@@ -220,6 +220,10 @@ publications:
     pdf: "assets/publications/45.Salehi_2020_316_113729.pdf", 
     SI: "assets/publications/SI/45.Salehi_2020_316_113729_SI.pdf", 
     bib: "assets/publications/bib/45.Salehi_2020_316_113729.bib"} 
+
+  - { number: "44-38", 
+    title: "..."}
+
   - { number: "37.",
     title: "Inclusion Complexation of Organic Micropollutants with β‐Cyclodextrin",
     authors: "Máté Erdős, Remco Hartkamp, Thijs J.H. Vlugt, and Othonas A. Moultos", 
@@ -228,6 +232,10 @@ publications:
     SI: "assets/publications/SI/37.Erdos_JPCB_2020_124_1218_SI.pdf", 
     bib: "assets/publications/bib/37.Erdos_JPCB_2020_124_1218.bib",
     simulGromacs: "assets/publications/SI/37.Erdos_JPCB_2020_124_1218_SI.zip"}
+
+  - { number: "36-27", 
+    title: "..."}
+
   - { number: "26.", 
     title: "Modeling the Phase Equilibria of Asymmetric Hydrocarbon Mixtures
       Using Molecular Simulation and Equations of State",
@@ -236,6 +244,10 @@ publications:
     pdf: "assets/publications/26.Nikolaidis_AIChE_2018_65_792.pdf", 
     SI: "assets/publications/SI/26.Nikolaidis_AIChE_2018_65_792_SI.pdf",
     bib: "assets/publications/bib/26.Nikolaidis_AIChE_2018_65_792.bib"}
+
+  - { number: "....", 
+    title: "XXX"}
+
   - { number: "7.", 
     title: "Entropic Effects in Mixed Micelles Formed by Star/Linear and Star/Star AB Copolymers",
     authors: "Othonas Moultos, Leonidas N. Gergidis, Andreas Kalogirou, and Costas Vlahos", 
@@ -281,8 +293,7 @@ publications:
     venue: "Polymer (2009) 50, 328", 
     pdf: "assets/publications/1.Gergidis_POL_2009_50_328.pdf", 
     bib: "assets/publications/bib/1.Gergidis_POL_2009_50_328.bib"}
-  - { number: "XX", 
-    title: "ca. 40 more articles to be added. In the meantime take a look at my google scholar"}
+
 ---
 
 <div id="publications" class="row">
