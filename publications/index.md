@@ -245,9 +245,31 @@ publications:
     SI: "assets/publications/SI/26.Nikolaidis_AIChE_2018_65_792_SI.pdf",
     bib: "assets/publications/bib/26.Nikolaidis_AIChE_2018_65_792.bib"}
 
-  - { number: "....", 
-    title: "XXX"}
+  - { number: "8-25", 
+    title: "..."}
 
+
+  - { number: "10.", 
+    title: "Self-diffusion coefficients of the binary (H2O + CO2) mixture at high emperatures and pressures",
+    authors: "Othonas A. Moultos, Ioannis N. Tsimpanogiannis, Athanassios Z. Panagiotopoulos, and Ioannis G. Economou", 
+    venue: "The Journal of Chemical Thermodynamics (2016) 93, 424", 
+    pdf: "assets/publications/10.Moultos_JCT_2016_93_424.pdf", 
+    SI:  "assets/publications/SI/10.Moultos_JCT_2016_93_424_SI.pdf", 
+    bib: "assets/publications/bib/10.Moultos_JCT_2016_93_424.bib"}
+  - { number: "9.", 
+    title: "Atomistic molecular dynamics simulations of H2O diffusivity in liquid and supercritical CO2",
+    authors: "Othonas A. Moultos, Gustavo A. Orozco, Ioannis N. Tsimpanogiannis, Athanassios Z. Panagiotopoulos, and Ioannis G. Economou", 
+    venue: "Molecular Physics (2015) 113, 2805", 
+    pdf: "assets/publications/9.Moultos_MS_2015_113_2805.pdf", 
+    SI:  "assets/publications/SI/9.Moultos_MS_2015_113_2805_SI.pdf", 
+    bib: "assets/publications/bib/9.Moultos_MS_2015_113_2805.bib"}
+  - { number: "8.", 
+    title: "Molecular simulation of thermodynamic and transport properties for the H2O+NaCl system",
+    authors: "Gustavo A. Orozco, Othonas Moultos, Ioannis G. Economou, and Athanassios Z. Panagiotopoulos", 
+    venue: "The Journal of Chemical Physics (2014) 141, 234507", 
+    pdf: "assets/publications/8.Orozco_JCP_2014_141_234507.pdf", 
+    SI:  "assets/publications/SI/8.Orozco_JCP_2014_141_234507_SI.pdf", 
+    bib: "assets/publications/bib/8.Orozco_JCP_2014_141_234507.bib"}
   - { number: "7.", 
     title: "Entropic Effects in Mixed Micelles Formed by Star/Linear and Star/Star AB Copolymers",
     authors: "Othonas Moultos, Leonidas N. Gergidis, Andreas Kalogirou, and Costas Vlahos", 
