@@ -245,17 +245,29 @@ publications:
     SI: "assets/publications/SI/26.Nikolaidis_AIChE_2018_65_792_SI.pdf",
     bib: "assets/publications/bib/26.Nikolaidis_AIChE_2018_65_792.bib"}
 
-  - { number: "8-25", 
+  - { number: "XXX", 
     title: "..."}
 
-
-  - { number: "10.", 
+  - { number: "12.", 
     title: "Self-diffusion coefficients of the binary (H2O + CO2) mixture at high emperatures and pressures",
     authors: "Othonas A. Moultos, Ioannis N. Tsimpanogiannis, Athanassios Z. Panagiotopoulos, and Ioannis G. Economou", 
     venue: "The Journal of Chemical Thermodynamics (2016) 93, 424", 
-    pdf: "assets/publications/10.Moultos_JCT_2016_93_424.pdf", 
-    SI:  "assets/publications/SI/10.Moultos_JCT_2016_93_424_SI.pdf", 
-    bib: "assets/publications/bib/10.Moultos_JCT_2016_93_424.bib"}
+    pdf: "assets/publications/12.Moultos_JCT_2016_93_424.pdf", 
+    SI:  "assets/publications/SI/12.Moultos_JCT_2016_93_424_SI.pdf", 
+    bib: "assets/publications/bib/12.Moultos_JCT_2016_93_424.bib"}
+  - { number: "11.", 
+    title: "Molecular dynamics simulations of the diffusion coefficients of light n-alkanes in water over a wide range of temperature and pressure",
+    authors: "Vasileios K. Michalis, Othonas A. Moultos, Ioannis N. Tsimpanogiannis, and Ioannis G. Economou", 
+    venue: "Fluid Phase Equilibria (2016) 407, 236", 
+    pdf: "assets/publications/11.Michalis_FPE_2016_407_236.pdf", 
+    bib: "assets/publications/bib/11.Michalis_FPE_2016_407_236.bib"}
+  - { number: "10.", 
+    title: "Thermodynamic and Transport Properties of H2O + NaCl from Polarizable Force Fields",
+    authors: "Hao Jiang, Zoltan Mester, Othonas A. Moultos, Ioannis N. Tsimpanogiannis, and Athanassios Z. Panagiotopoulos", 
+    venue: "Journal of Chemical Theory and Computation (2015) 11, 3802", 
+    pdf: "assets/publications/10.Jiang_JCTC_2015_11_3802.pdf", 
+    SI:  "assets/publications/SI/10.Jiang_JCTC_2015_11_3802_SI.pdf ", 
+    bib: "assets/publications/bib/10.Jiang_JCTC_2015_11_3802.bib"}
   - { number: "9.", 
     title: "Atomistic molecular dynamics simulations of H2O diffusivity in liquid and supercritical CO2",
     authors: "Othonas A. Moultos, Gustavo A. Orozco, Ioannis N. Tsimpanogiannis, Athanassios Z. Panagiotopoulos, and Ioannis G. Economou", 
