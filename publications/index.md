@@ -5,13 +5,20 @@ title: "Publications"
 
 
 publications:
-  # - { number: "74.",
+  # - { number: "75.",
   #   title: "Interfacial tensions, solubilities, and transport properties of the H2/H2O/NaCl System: A molecular dynamics simulatio study",
   #   authors: "W. A. van Rooijen, P. Habibi, K. Xu, T. J. H. Vlugt, H. Hadjibeygi, and Othonas A.Moultos", 
   #   venue: "Journal of Chemical & Engineering Data (2023) In press", 
   #   pdf: "assets/publications/69.Polat_FPE_2022_564_113587.pdf", 
   #   SI: "assets/publications/SI/69.Polat_FPE_2022_564_113587_SI.pdf", 
   #   bib: "assets/publications/bib/69.Polat_FPE_2022_564_113587.bib"}
+  - { number: "74.",
+    title: "Effects of nanobubbles on methane hydrate dissociation: A molecular simulation study",
+    authors: "Bin Fang, Othonas A. Moultos, Tao Lü, Jiaxin Sun, Zhichao Liu, Fulong Ning, and Thijs J.H.Vlugt", 
+    venue: "Fuel (2023) 345, 128230", 
+    pdf: "assets/publications/74.Fang_FUEL_2023_345_128230.pdf", 
+    SI: "assets/publications/SI/74.Fang_FUEL_2023_345_128230_SI.pdf", 
+    bib: "assets/publications/bib/74.Fang_FUEL_2023_345_128230.bib"}
   - { number: "73.",
     title: "Transport properties of mixtures of acid gases with aqueous monoethanolamine solutions: A molecular dynamics study",
     authors: "H. Mert Polat, Frédérick de Meyer, Céline Houriez, Christophe Coquelet, Othonas A.Moultos, and Thijs J.H.Vlugt", 

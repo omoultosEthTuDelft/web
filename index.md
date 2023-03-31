@@ -25,7 +25,7 @@ Before joining TU Delft, I worked as a postdoc on molecular modeling of chemical
 <p style="text-align: justify;">
 Fossil fuels not only harm the environment but are also becoming more and more expensive as the resources are slowly getting depleted or due to (geo)political reasons. I believe that technologies for producing sustainable energy are the only way to move forward, and the challenging role of engineers is to devise and optimize such technologies. My research and teaching activities revolve around the application of molecular thermodynamics to Process & Energy Engineering in order to accelarate the transition to a more sustainabl future. I currently focus on two research lines: 
 (i) I investigate hydrogen storage, purification and transportation, and environmentally-friendly solvents for carbon dioxide capture and utilization. 
-(ii) I study sustainable adsorbents for the removal of contaminants from water. My work requires large-scale high-performance computing and involves a number of powerful molecular simulation methods such as on-the-fly calculations of thermodynamic and transport properties of fluids using molecular dynamics, and phase-, adsorption- and reaction-equilibria using advanced Monte Carlo sampling. My research aims to provide insight at both the fundamental and the application level. To achieve this, I actively collaborate with partners such as <a href="https://totalenergies.com">TotalEnergies</a>, <a href="https://hyethydrogen.com">HyET Hydrogen</a>, <a href="https://sites.google.com/xintcglobal.com/xintcglobal">XiNTC</a>, <a href="https://www.tno.nl/nl/">TNO</a>, <a href="https://www.dmt-et.com">DMT Environmental Tech</a>, and various universities and research institutes around the world.
+(ii) I study sustainable adsorbents for the removal of contaminants from water. My work requires large-scale high-performance computing and involves a number of powerful molecular simulation methods such as on-the-fly calculations of thermodynamic and transport properties of fluids using molecular dynamics, and phase-, adsorption- and reaction-equilibria using advanced Monte Carlo sampling. My research aims to provide insight at both the fundamental and the application level. To achieve this, I collaborate with partners such as <a href="https://totalenergies.com">TotalEnergies</a>, <a href="https://cyclopure.com">Cyclopure</a>, <a href="https://www.waternet.nl">Waternet</a>, <a href="https://www.witteveenbos.com"> Witteveen & Bos</a>, <a href="https://hyethydrogen.com">HyET Hydrogen</a>, <a href="https://sites.google.com/xintcglobal.com/xintcglobal">XiNTC</a>, <a href="https://www.tno.nl/nl/">TNO</a>, <a href="https://www.dmt-et.com">DMT Environmental Tech</a>, and various universities and research institutes around the world.
 </p>
 
 
@@ -47,7 +47,7 @@ Fossil fuels not only harm the environment but are also becoming more and more e
 <br/>
       <img src="assets/photoOtto2.jpg" class="img-thumbnail" alt="Othonas Moultos - Όθωνας Μούλτος">
 <br/><br/>
-
+<br/>
 <!-- <div class="col-sm-3"> -->
 
 <h6> <span class="fa fa-map-marker"></span> Address</h6>
@@ -99,6 +99,8 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- March 2023: Otto has been awarded an NWO OTP grant of 1 million euros to study cyclodextrin-based adsorbents for the removal of PFAS and other micropollutants in water. More details to follow!
+- March 2023: New paper in Fuel from Bin Fang is out: [IEffects of nanobubbles on methane hydrate dissociation: A molecular simulation study](https://www.sciencedirect.com/science/article/pii/S0016236123008438?via%3Dihub#s0065).
 - First paper of 2023 is out: [Interfacial Tensions, Solubilities, and Transport Properties of the H2/ H2O/NaCl System: A Molecular Simulation Study](https://pubs.acs.org/doi/10.1021/acs.jced.2c00707?ref=pdf).
 - December 2022: Casper succesfully defended his MSc! Congrats.
 - November 2022: 3 new papers out!!! 
