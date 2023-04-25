@@ -79,7 +79,9 @@ title: "Software"
 
 <h5>  <span class="fa fa-github"></span><a href="https://github.com/omoultosEthTuDelft/CASpy"> Code</a> </h5>
 
-<h5> <span class="fa fa-tasks"></span><a href=""> Publication under review</a> </h5>
+
+<h5> <span class="fa fa-tasks"></span><a href="https://pubs.acs.org/doi/full/10.1021/acs.jctc.3c00144"> Publication</a></h5>
+
 
 <br/>
 

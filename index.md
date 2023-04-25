@@ -99,8 +99,9 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- April 2023: New paper by Mert in JCTC: [Solving Chemical Absorption Equilibria using Free Energy and Quantum Chemistry Calculations: Methodology, Limitations, and New Open-Source Software](https://pubs.acs.org/doi/full/10.1021/acs.jctc.3c00144).
 - March 2023: Otto has been awarded an [NWO OTP grant of 1 million euros](https://www.nwo.nl/en/news/seven-projects-get-green-light-through-open-technology-programme) to study cyclodextrin-based adsorbents for the removal of PFAS and other micropollutants in water. More details to follow!
-- March 2023: New paper in Fuel from Bin Fang is out: [IEffects of nanobubbles on methane hydrate dissociation: A molecular simulation study](https://www.sciencedirect.com/science/article/pii/S0016236123008438?via%3Dihub#s0065).
+- March 2023: New paper in Fuel from Bin Fang is out: [Effects of nanobubbles on methane hydrate dissociation: A molecular simulation study](https://www.sciencedirect.com/science/article/pii/S0016236123008438?via%3Dihub#s0065).
 - First paper of 2023 is out: [Interfacial Tensions, Solubilities, and Transport Properties of the H2/ H2O/NaCl System: A Molecular Simulation Study](https://pubs.acs.org/doi/10.1021/acs.jced.2c00707?ref=pdf).
 - December 2022: Casper succesfully defended his MSc! Congrats.
 - November 2022: 3 new papers out!!! 
