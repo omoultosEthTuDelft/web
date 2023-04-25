@@ -23,9 +23,10 @@ Before joining TU Delft, I worked as a postdoc on molecular modeling of chemical
 
 <h5>My research in a nutshell</h5>
 <p style="text-align: justify;">
-Fossil fuels not only harm the environment but are also becoming more and more expensive as the resources are slowly getting depleted or due to (geo)political reasons. I believe that technologies for producing sustainable energy are the only way to move forward, and the challenging role of engineers is to devise and optimize such technologies. My research and teaching activities revolve around the application of molecular thermodynamics to Process & Energy Engineering in order to accelarate the transition to a more sustainabl future. I currently focus on two research lines: 
+<!-- Fossil fuels not only harm the environment but are also becoming more and more expensive as the resources are slowly getting depleted or due to (geo)political reasons. I believe that technologies for producing sustainable energy are the only way to move forward, and the challenging role of engineers is to devise and optimize such technologies.  -->
+My research and teaching activities revolve around the application of molecular thermodynamics to Process & Energy Engineering in order to accelarate the transition to a more sustainabl future. I currently focus on two research lines: 
 (i) I investigate hydrogen storage, purification and transportation, and environmentally-friendly solvents for carbon dioxide capture and utilization. 
-(ii) I study sustainable adsorbents for the removal of contaminants from water. My work requires large-scale high-performance computing and involves a number of powerful molecular simulation methods such as on-the-fly calculations of thermodynamic and transport properties of fluids using molecular dynamics, and phase-, adsorption- and reaction-equilibria using advanced Monte Carlo sampling. My research aims to provide insight at both the fundamental and the application level. To achieve this, I collaborate with partners such as <a href="https://totalenergies.com">TotalEnergies</a>, <a href="https://cyclopure.com">Cyclopure</a>, <a href="https://www.waternet.nl">Waternet</a>, <a href="https://www.witteveenbos.com"> Witteveen & Bos</a>, <a href="https://hyethydrogen.com">HyET Hydrogen</a>, <a href="https://sites.google.com/xintcglobal.com/xintcglobal">XiNTC</a>, <a href="https://www.tno.nl/nl/">TNO</a>, <a href="https://www.dmt-et.com">DMT Environmental Tech</a>, and various universities and research institutes around the world.
+(ii) I work towards designing sustainable adsorbents for the removal of contaminants from water. My work requires large-scale high-performance computing and involves a number of powerful molecular simulation methods such as on-the-fly calculations of thermodynamic and transport properties of fluids using molecular dynamics, and phase-, adsorption- and reaction-equilibria using advanced Monte Carlo sampling. My research aims to provide insight at both the fundamental and the application level. To achieve this, I collaborate with partners such as <a href="https://totalenergies.com">TotalEnergies</a>, <a href="https://cyclopure.com">Cyclopure</a>, <a href="https://www.waternet.nl">Waternet</a>, <a href="https://www.witteveenbos.com"> Witteveen & Bos</a>, <a href="https://hyethydrogen.com">HyET Hydrogen</a>, <a href="https://sites.google.com/xintcglobal.com/xintcglobal">XiNTC</a>, <a href="https://www.tno.nl/nl/">TNO</a>, <a href="https://www.dmt-et.com">DMT Environmental Tech</a>, and various universities and research institutes around the world.
 </p>
 
 
@@ -34,6 +35,9 @@ Fossil fuels not only harm the environment but are also becoming more and more e
   <a href="assets/misc/MScGuide.pdf">Download here</a> the practical guide for MSc theses that I wrote together with <a href="https://www.linkedin.com/in/carey-walters-44252714b/?originalSubdomain=nl">Carey Walters</a>. 
 </div> 
 
+<div class="alert alert-success" role="alert" markdown="1"> PhD position open: 
+  <a href="https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=4211&nPostingTargetId=11873&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&mask=external"><strong>Computational design of adsorbents for the removal of micropollutants from water</strong></a>. 
+</div> 
 
 
 
