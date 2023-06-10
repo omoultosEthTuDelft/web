@@ -24,8 +24,8 @@ title: "Alumni"
 <section markdown="1">
 
 - [Casper van der Geest](https://www.linkedin.com/in/caspervandergeest/?originalSubdomain=nl) <strong>Transport properties of acid gases in aqueous MDEA solutions</strong>. Now at [BBBLS Greenhouses](https://www.bbbls.net).
-- [Ke Xu](https://www.linkedin.com/in/ke-xu-a339731a3/), <strong>Transport properties of hydrogen in aqueous electrolyte solutions at conditions relevant to underground hydrogen storage</strong>.
-- [Prateek Jain](https://www.linkedin.com/in/prateek-jain-matsci/?originalSubdomain=nl), <strong>Hydrogen storage in 2D nanomaterials</strong>.
+- [Ke Xu](https://www.linkedin.com/in/ke-xu-a339731a3/), <strong>Transport properties of hydrogen in aqueous electrolyte solutions at conditions relevant to underground hydrogen storage</strong>. Now at [TP-Link](https://www.tp-link.com/nl/about-us/corporate-profile/).
+- [Prateek Jain](https://www.linkedin.com/in/prateek-jain-matsci/?originalSubdomain=nl), <strong>Hydrogen storage in 2D nanomaterials</strong>. Now at [Solarix](https://solarix-solar.com/?utm_source=linkedin&utm_medium=social&utm_campaign=custom_button).
 - [Jilles Langeveld](https://www.linkedin.com/in/jilles-langeveld/?originalSubdomain=nl), 2021. <strong> <a href="../assets/publications/66.Dawass_JPCB_2022_126_3572.pdf">CO2 capture with deep eutectic solvents</a></strong>. Now at [Magneto Systems](https://magneto.systems).
 - [Samadarshi Maity](https://www.linkedin.com/in/samadarshi-maity-9621b6115/), 2020-2021 (Honors project with Chem. Eng.). <strong>  <a href="../assets/publications/59.Tsimpanogiannis_JCED_2021_66_3226.pdf">Hydrogen and oxygen diffusivity in gas, liquid, and supercritical water</a></strong>. Now at [Universiteit Leiden](https://www.universiteitleiden.nl/en/staffmembers/samadarshi-maity#tab-1).
 - [Kunal Mavani](https://www.linkedin.com/in/kunal-mavani/?originalSubdomain=nl), 2020-2021. <strong>Molecular simulation of CO2 diffusivity in Krytox oils</strong>. Now at [Uday ECS LLP](https://www.udaics.in). 
