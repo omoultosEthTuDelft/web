@@ -39,6 +39,27 @@ div.desc {
 <br/>
 
 <div class="gallery">
+  <a target="_blank" href="photos/greeksPPEPPD2024.jpg">
+    <img src="photos/greeksPPEPPD2024.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> The traditional "Greek photo" at the PPEPPD 2024 conference (La Pineda, Spain, May 2023)</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="photos/ottoPrize.jpg">
+    <img src="photos/ottoPrize.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> Otto receiving the <a href="https://ppeppd.org/awards/">Young Researcher Award</a> at the <a href="https://ppeppd.org/ppeppd2023/">PPEPPD 2024</a> conference (La Pineda, Spain, May 2023)</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="photos/carlos.jpg">
+    <img src="photos/carlos.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> With <a href="https://scholar.google.com/citations?user=Sl1Z18sAAAAJ&hl=de">Carlos Vega</a> at Universidad Complutense Madrid (Madrid, Spain, May 2023)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/binFang2023.jpeg">
     <img src="photos/binFang2023.jpeg" alt="Mountains" width="600" height="auto">
   </a>
