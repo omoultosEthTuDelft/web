@@ -104,7 +104,8 @@ o.moultos@tudelft.nl
 <section markdown="1">
 
 - June 2023: [Hugo van Leeuwen](https://www.linkedin.com/in/hjvleeuwen/) has joined the group for this MSc thesis with TATA STEEL.
-- May 2023: Otto received the prestigious <a href="https://ppeppd.org/awards/">Young Researcher Award</a> at the <a href="https://ppeppd.org/ppeppd2023/">PPEPPD 2024</a> conference in Tarragon Spain!
+- June 2023: New paper in Int. J. Hydrogen Energy: [Transient modelling of a multi-cell alkaline electrolyzer for gas crossover and safe system operation](https://www.sciencedirect.com/science/article/pii/S0360319923025259).
+- May 2023: Otto received the prestigious <a href="https://ppeppd.org/awards/">Young Researcher Award</a> at the <a href="https://ppeppd.org/ppeppd2023/">PPEPPD 2024</a> conference in Tarragona, Spain!
 - April 2023: New paper by Mert in JCTC: [Solving Chemical Absorption Equilibria using Free Energy and Quantum Chemistry Calculations: Methodology, Limitations, and New Open-Source Software](https://pubs.acs.org/doi/full/10.1021/acs.jctc.3c00144).
 - April 2023: Otto was mentioned in the [news of the Faculty](https://www.tudelft.nl/2023/3me/nieuws/othon-moultos-ontvangt-nwo-otp-subsidie-van-1-miljoen-euro-voor-onderzoek-naar-waterbehandeling).
 - March 2023: Otto has been awarded an [NWO OTP grant of 1 million euros](https://www.nwo.nl/en/news/seven-projects-get-green-light-through-open-technology-programme) to study cyclodextrin-based adsorbents for the removal of PFAS and other micropollutants in water. More details to follow!
