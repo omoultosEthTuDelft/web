@@ -42,7 +42,7 @@ div.desc {
   <a target="_blank" href="photos/greeksPPEPPD2024.jpg">
     <img src="photos/greeksPPEPPD2024.jpg" alt="Mountains" width="600" height="auto">
   </a>
-  <div class="desc"> The traditional "Greek photo" at the PPEPPD 2024 conference (La Pineda, Spain, May 2023)</div>
+  <div class="desc"> The traditional "Greek photo" at the PPEPPD 2024 conference. People from left to right: <a href="https://orbit.dtu.dk/en/persons/georgios-kontogeorgis">Georgios Kontogeorgis</a> (DTU), <a href="https://www.linkedin.com/in/eirini-karakatsani-665676106/?originalSubdomain=dk">Eirini Karakatsani</a> (Topsoe), <a href="https://cbe.princeton.edu/people/athanassios-panagiotopoulos">Thanos Panagiotopoulos</a> (Princeton), Otto (TU Delft), <a href="https://chbe.ubc.ca/peter-englezos/">Peter Englezos</a> (UBC), <a href="https://www.qatar.tamu.edu/programs/chemical-engineering/faculty-and-staff/dr.-ioannis-economou">Ioannis Economou</a> (TAMUQ). (La Pineda, Spain, May 2023)</div>
 </div>
 
 <div class="gallery">
