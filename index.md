@@ -1,6 +1,7 @@
 ---
 layout: default
-title: "Othonas (Otto) Moultos | Associate Professor, TU Delft"
+# title: "Othonas (Otto) Moultos | Associate Professor, TU Delft"
+title: "Main page"
 ---
 
 <!-- - - - - - - - - - - - - - - - -->
@@ -32,11 +33,16 @@ My research and teaching activities revolve around the application of molecular 
 
 
 <div class="alert alert-warning" role="alert" markdown="1">
-  <a href="assets/misc/MScGuide.pdf">Download here</a> the practical guide for MSc theses that I wrote together with <a href="https://www.linkedin.com/in/carey-walters-44252714b/?originalSubdomain=nl">Carey Walters</a>. 
+  <a href="assets/misc/MScGuide.pdf"><strong>Download here</strong></a> the practical guide for MSc theses that I wrote together with <a href="https://www.linkedin.com/in/carey-walters-44252714b/?originalSubdomain=nl"><strong>Carey Walters</strong></a>. 
 </div> 
 
 <div class="alert alert-success" role="alert" markdown="1"> PhD position open: 
   <a href="https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=4211&nPostingTargetId=11873&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&mask=external"><strong>Computational design of adsorbents for the removal of micropollutants from water</strong></a>. 
+</div> 
+
+<!-- alert-primary : blue-->
+<!-- alert-info : light blue-->
+<div class="alert alert-danger" role="alert" markdown="1"> <a href="https://thermodynamics2024.org"><strong>Registrations </strong></a>for the 28th Thermodynamics Conference (Delft, 4-6 September 2024).
 </div> 
 
 
