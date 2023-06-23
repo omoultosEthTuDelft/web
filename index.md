@@ -42,7 +42,7 @@ My research and teaching activities revolve around the application of molecular 
 
 <!-- alert-primary : blue-->
 <!-- alert-info : light blue-->
-<div class="alert alert-danger" role="alert" markdown="1"> <a href="https://thermodynamics2024.org"><strong>Registrations </strong></a>for the 28th Thermodynamics Conference (Delft, 4-6 September 2024).
+<div class="alert alert-danger" role="alert" markdown="1"> <a href="https://thermodynamics2024.org"><strong>Registrations </strong></a>for the 28th Thermodynamics Conference (Delft, 4-6 September 2024) are now open.
 </div> 
 
 
