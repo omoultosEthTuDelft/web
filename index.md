@@ -109,6 +109,7 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- June 2023: Welcome to [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr) who joined the group for his MSc thesis in collaboration with TATA STEEL.
 - June 2023: [Hugo van Leeuwen](https://www.linkedin.com/in/hjvleeuwen/) has joined the group for this MSc thesis with TATA STEEL.
 - June 2023: New paper in Int. J. Hydrogen Energy: [Transient modelling of a multi-cell alkaline electrolyzer for gas crossover and safe system operation](https://www.sciencedirect.com/science/article/pii/S0360319923025259).
 - May 2023: Otto received the prestigious <a href="https://ppeppd.org/awards/">Young Researcher Award</a> at the <a href="https://ppeppd.org/ppeppd2023/">PPEPPD 2024</a> conference in Tarragona, Spain!
