@@ -98,8 +98,7 @@ o.moultos@tudelft.nl
 
 </div>
 
-              
-
+<br/>
 <!-- - - - - - - - - - - - - - - - -->
 <h5>News</h5>
 <div class="row-fluid">
@@ -109,7 +108,9 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
-- June 2023: Welcome to [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr) who joined the group for his MSc thesis in collaboration with TATA STEEL.
+- July 2023: The new paper by Bin Fang in JCED is chosen as ACS Editors' Choice: [Solubilities and Self-Diffusion Coefficients of Light n-Alkanes in NaCl Solutions at the Temperature Range (278.15–308.15) K and Pressure Range (1–300) bar and Thermodynamics Properties of Their Corresponding Hydrates at (150–290) K and (1–7000) bar](https://pubs.acs.org/doi/full/10.1021/acs.jced.3c00225).
+- July 2023: Welcome to [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr) who joined the group for his MSc thesis in collaboration with TATA STEEL.
+- June 2023: Jelle received the [best pitch/poster price](https://www.linkedin.com/search/results/content/?fromMember=%5B%22ACoAADduMTIB9TST9L7P_0rmi5zV-zWAq8e1CWA%22%5D&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAADduMTIB9TST9L7P_0rmi5zV-zWAq8e1CWA&keywords=vladimir%20jelle%20lagerweij&position=0&searchId=c1e3c074-4898-477b-9b11-7eac36007c4e&sid=Eau&update=urn%3Ali%3Afs_updateV2%3A(urn%3Ali%3Aactivity%3A7075506794894118912%2CBLENDED_SEARCH_FEED%2CEMPTY%2CDEFAULT%2Cfalse)) for the Honours projects in our entire faculty!!! Many congrats!  
 - June 2023: [Hugo van Leeuwen](https://www.linkedin.com/in/hjvleeuwen/) has joined the group for this MSc thesis with TATA STEEL.
 - June 2023: New paper in Int. J. Hydrogen Energy: [Transient modelling of a multi-cell alkaline electrolyzer for gas crossover and safe system operation](https://www.sciencedirect.com/science/article/pii/S0360319923025259).
 - May 2023: Otto received the prestigious <a href="https://ppeppd.org/awards/">Young Researcher Award</a> at the <a href="https://ppeppd.org/ppeppd2023/">PPEPPD 2024</a> conference in Tarragona, Spain!
