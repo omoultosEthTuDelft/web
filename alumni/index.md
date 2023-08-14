@@ -48,7 +48,7 @@ title: "Alumni"
 - [Laya Roustazadeh](https://www.qatar.tamu.edu/news-and-events/news/2020/06/24/texas-a-and-m-at-qatar-names-outstanding-graduates/), 2021-2022 <strong>Adsoprtion of gas mixtures in Metal Organic Frameworks</strong>.
 - [Dr. Ahmadreza Rahbari](https://www.linkedin.com/in/arahbari/?originalSubdomain=nl), 2020-2021. <strong> Molecular simulation of high pressure hydrogen mixtures</strong>. Now at [XINTC Global](http://www.xintcglobal.com/), The Netherlands.
 - [Dr. Abdelrahman Hussein](https://www.linkedin.com/in/abdelrahman-hussein-3b42b415/?originalSubdomain=nl), 2020-2021. <strong> Multi-scale modeling of hydrogen embrittlement</strong>. 
-<!-- Now at [KoreaTech](https://www.koreatech.ac.kr/eng/Main.do), Korea. -->
+Now at [Ghent University](https://www.ugent.be), Belgium.
 - [Dr. Gagus Ketut Sunnardianto](https://www.linkedin.com/in/gagus-ketut-sunnardianto/), 2019-2020. <strong> Ab initio simulations of hydrogen embrittlement</strong>. Now at [LIPI](http://lipi.go.id/staf/detail/gagu001), Indonesia.
 - [Dr. Alper Celebi](https://www.linkedin.com/in/alper-tunga-celebi-0375b586/?originalSubdomain=nl), 2019-2021. <strong> Molecular simulation of ionic liquids and deep eutectic solvents</strong>. Now at [TU Wien](https://www.tuwien.at), Austria.
 - [Christos Bardas](https://www.linkedin.com/in/christos-bardas/?originalSubdomain=nl), 2017-2018. <strong> Computation of transport coefficients using molecular simulation</strong>. Now at [Hitachi Construction Machinery](https://www.linkedin.com/company/hitachi-construction-machinery/about/).
