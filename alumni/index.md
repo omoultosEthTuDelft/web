@@ -40,7 +40,7 @@ title: "Alumni"
 </section>
 
 
-<h5>Former Postdocs, Visiting Researchers, and Interns</h5>
+<h5>Former Postdocs and Visiting Researchers</h5>
 <section markdown="1">
 
 - [Dr. Bin Fang](), 2022-2023 <strong>Molecular simulations of methane hydrates</strong>. Now at [Chinese University of Geosciences](https://en.cug.edu.cn), China.
@@ -49,8 +49,13 @@ title: "Alumni"
 - [Dr. Ahmadreza Rahbari](https://www.linkedin.com/in/arahbari/?originalSubdomain=nl), 2020-2021. <strong> Molecular simulation of high pressure hydrogen mixtures</strong>. Now at [XINTC Global](http://www.xintcglobal.com/), The Netherlands.
 - [Dr. Abdelrahman Hussein](https://www.linkedin.com/in/abdelrahman-hussein-3b42b415/?originalSubdomain=nl), 2020-2021. <strong> Multi-scale modeling of hydrogen embrittlement</strong>. 
 Now at [Ghent University](https://www.ugent.be), Belgium.
+- [Dr. Olav Galteland ](https://www.linkedin.com/in/olav-galteland?originalSubdomain=no), 2020. <strong> Non Equilibrium Molecular Dynamics simulation of fluids in confinement</strong>. Now at [Sintef](https://www.sintef.no/en/all-employees/employee/olav.galteland/), Norway. 
 - [Dr. Gagus Ketut Sunnardianto](https://www.linkedin.com/in/gagus-ketut-sunnardianto/), 2019-2020. <strong> Ab initio simulations of hydrogen embrittlement</strong>. Now at [LIPI](http://lipi.go.id/staf/detail/gagu001), Indonesia.
 - [Dr. Alper Celebi](https://www.linkedin.com/in/alper-tunga-celebi-0375b586/?originalSubdomain=nl), 2019-2021. <strong> Molecular simulation of ionic liquids and deep eutectic solvents</strong>. Now at [TU Wien](https://www.tuwien.at), Austria.
+- [Prof. Keiichi Kuboyama](https://scholar.google.com/citations?hl=en&user=JM6iv9IAAAAJ&view_op=list_works&sortby=pubdate), 2018. <strong> Molecular simulations of PMMA/nanoparticle composites</strong>. Now at [Tokyo Institute of Technology](https://www.titech.ac.jp/english), Japan.
+- [Dr. Ilias Nikolaidis](https://www.linkedin.com/in/ilias-nikolaidis-931554205/?originalSubdomain=gr), 2018. <strong> Equation of state modeling of mixtures of asymetric hydrocarbons</strong>. Now at [Filtercosmos](), Greece.
+- [Claire Spera](https://www.linkedin.com/in/claire-spera/?trk=public_profile_browsemap&originalSubdomain=fr), 2018. <strong> Mathematical modeling of the evaporation process of gasoline </strong>. 
+<!-- Now at [Filtercosmos](), Greece. -->
 - [Christos Bardas](https://www.linkedin.com/in/christos-bardas/?originalSubdomain=nl), 2017-2018. <strong> Computation of transport coefficients using molecular simulation</strong>. Now at [Hitachi Construction Machinery](https://www.linkedin.com/company/hitachi-construction-machinery/about/).
 
 </section>
