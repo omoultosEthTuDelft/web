@@ -108,6 +108,8 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- August 2023: Many congratulations to Jose for succesfully defending his MSc thesis "Design of Non-Flow Hydrogen Storage for Long-Distance Maritime Applications"!!!
+- August 2023: New paper in Soft Matter on lipid droplets in collaboration with WUR's Costas Nikiforidis: [The dilatable membrane of oleosomes (lipid droplets) allows their in vitro resizing and triggered release of lipids](https://pubs.rsc.org/en/content/articlelanding/2023/SM/D3SM00449J).
 - August 2023: Multiple new papers out: [Thermodynamic and Transport Properties of H2/H2O/NaB(OH)4 Mixtures Using the Delft Force Field (DFF/B(OH)4–)](https://pubs.acs.org/doi/abs/10.1021/acs.iecr.3c01422), [Computation of Electrical Conductivities of Aqueous Electrolyte Solutions: Two Surfaces, One Property](https://pubs.acs.org/doi/abs/10.1021/acs.jctc.3c00562), [Densities, viscosities, and diffusivities of loaded and unloaded aqueous CO2/H2S/MDEA mixtures: A molecular dynamics simulation study](https://www.sciencedirect.com/science/article/pii/S0378381223001930). 
 - July 2023: New paper in Polymers: [Chemical Feedback in Templated Reaction-Assembly of Polyelectrolyte Complex Micelles: A Molecular Simulation Study of the Kinetics and Clustering](https://www.mdpi.com/2073-4360/15/14/3024).
 - July 2023: The new paper by Bin Fang in JCED is chosen as ACS Editors' Choice: [Solubilities and Self-Diffusion Coefficients of Light n-Alkanes in NaCl Solutions at the Temperature Range (278.15–308.15) K and Pressure Range (1–300) bar and Thermodynamics Properties of Their Corresponding Hydrates at (150–290) K and (1–7000) bar](https://pubs.acs.org/doi/full/10.1021/acs.jced.3c00225).

@@ -23,6 +23,7 @@ title: "Alumni"
 <h5>Former MSc students</h5>
 <section markdown="1">
 
+- [Jose Antonio Gonzalez Morales](https://www.linkedin.com/in/josé-antonio-gonzález-morales-/?originalSubdomain=es) <strong>Design of high pressure tanks incorporating solid adsorbents for hydrogen storage in the maritime sector</strong>. 
 - [Casper van der Geest](https://www.linkedin.com/in/caspervandergeest/?originalSubdomain=nl) <strong><a href="../assets/tempPublications/84.pdf">Transport properties of acid gases in aqueous MDEA solutions</a></strong>. Now at [BBBLS Greenhouses](https://www.bbbls.net).
 - [Ke Xu](https://www.linkedin.com/in/ke-xu-a339731a3/), <strong><a href="../assets/tempPublications/74.pdf">Transport properties of hydrogen in aqueous electrolyte solutions at conditions relevant to underground hydrogen storage</a></strong>. Now at [TP-Link](https://www.tp-link.com/nl/about-us/corporate-profile/).
 - [Prateek Jain](https://www.linkedin.com/in/prateek-jain-matsci/?originalSubdomain=nl), <strong>Hydrogen storage in 2D nanomaterials</strong>. Now at [Solarix](https://solarix-solar.com/?utm_source=linkedin&utm_medium=social&utm_campaign=custom_button).

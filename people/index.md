@@ -29,7 +29,6 @@ title: "People"
 - [Hugo van Leeuwen](https://www.linkedin.com/in/hjvleeuwen/) <strong>Use of green hydrogen and sustainable carburization to Fe3C for the direct reduction of iron ore pellets: A numerical approach</strong>, w/ <a href="https://www.tatasteeleurope.com">TATA STEEL</a>.
 - [Camiel Grevet](https://www.linkedin.com/in/camiel-grevet-71b73674/) <strong>Design of a modular water electrolyzer system</strong>, w/ <a href="https://sites.google.com/xintcglobal.com/xintcglobal">XINTC</a>.
 - [Vladimir Jelle Lagerweij](https://www.linkedin.com/in/vladimir-jelle-lagerweij-21654021b/?originalSubdomain=nl) <strong>Machine learning, quantum mechanics, and molecular modeling to predict aqueous electrolyte properties</strong>, w/  <a href="https://www.tudelft.nl/staff/p.dey/?cHash=cac0dd30bb433e38fe36e9f04fb3bbbf"> Dr. Poulumi Dey</a>, <a href="https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/"> MSE TU Delft</a>. 
-- [Jose Antonio Gonzalez Morales](https://www.linkedin.com/in/josé-antonio-gonzález-morales-/?originalSubdomain=es) <strong>Design of high pressure tanks incorporating solid adsorbents for hydrogen storage in the maritime sector</strong>. 
 </section>
 
 
