@@ -14,14 +14,14 @@ publications:
   #   bib: "assets/publications/bib/69.Polat_FPE_2022_564_113587.bib"}
   - { number: "74.",
     title: "Effects of nanobubbles on methane hydrate dissociation: A molecular simulation study",
-    authors: "Bin Fang, Othonas A. Moultos, Tao Lü, Jiaxin Sun, Zhichao Liu, Fulong Ning, and Thijs J.H.Vlugt", 
+    authors: "Bin Fang, Othonas A. Moultos, Tao Lü, Jiaxin Sun, Zhichao Liu, Fulong Ning, and Thijs J. H. Vlugt", 
     venue: "Fuel (2023) 345, 128230", 
     pdf: "assets/publications/74.Fang_FUEL_2023_345_128230.pdf", 
     SI: "assets/publications/SI/74.Fang_FUEL_2023_345_128230_SI.pdf", 
     bib: "assets/publications/bib/74.Fang_FUEL_2023_345_128230.bib"}
   - { number: "73.",
     title: "Transport properties of mixtures of acid gases with aqueous monoethanolamine solutions: A molecular dynamics study",
-    authors: "H. Mert Polat, Frédérick de Meyer, Céline Houriez, Christophe Coquelet, Othonas A.Moultos, and Thijs J.H.Vlugt", 
+    authors: "H. Mert Polat, Frédérick de Meyer, Céline Houriez, Christophe Coquelet, Othonas A.Moultos, and Thijs J. H. Vlugt", 
     venue: "Fluid Phase Equilibria (2023) 564, 113587", 
     pdf: "assets/publications/73.Polat_FPE_2023_564_113587.pdf", 
     SI: "assets/publications/SI/73.Polat_FPE_2023_564_113587_SI.pdf", 
@@ -195,7 +195,7 @@ publications:
     bib: "assets/publications/bib/49.Rahbari_MS_2020_47_804.bib"}  
   - { number: "48.",  
     title: "Diffusivity of α-, β-, γ-cyclodextrin and the inclusion complex of β-cyclodextrin: Ibuprofen in aqueous solutions; A molecular dynamics simulation study",
-    authors: "Máté Erdős, Michalis Frangou, Thijs J.H. Vlugt, and Othonas A. Moultos", 
+    authors: "Máté Erdős, Michalis Frangou, Thijs J. H. Vlugt, and Othonas A. Moultos", 
     venue: "Fluid Phase Equilibria (2021) 528, 112842", 
     pdf: "assets/publications/48.Erdos_FPE_2021_528_112842.pdf", 
     SI: "assets/publications/SI/48.Erdos_FPE_2021_528_112842_SI.pdf", 
@@ -203,7 +203,7 @@ publications:
     simulGromacs: "assets/publications/SI/48.Erdos_FPE_2021_528_112842_SI.zip"}
   - { number: "47.", 
     title: "Multiple linear regression and thermodynamic fluctuations are equivalent for computing thermodynamic derivatives from molecular simulation",
-    authors: "Ahmadreza Rahbari, Tyler R. Josephson, Yangzesheng Sun, Othonas A. Moultos, David Dubbeldam, J. Ilja Siepmann, Thijs J.H. Vlugt", 
+    authors: "Ahmadreza Rahbari, Tyler R. Josephson, Yangzesheng Sun, Othonas A. Moultos, David Dubbeldam, J. Ilja Siepmann, Thijs J. H. Vlugt", 
     venue: "Fluid Phase Equilibria (2020) 523, 112785", 
     pdf: "assets/publications/47.Rahbari_FPE_2020_523_112785.pdf ", 
     bib: "assets/publications/bib/47.Rahbari_FPE_2020_523_112785.bib"} 
@@ -215,18 +215,62 @@ publications:
     bib: "assets/publications/bib/46.Celebi_MS_2020_47_831.bib"} 
   - { number: "45.", 
     title: "Computation of gas solubilities in choline chloride urea and choline chloride ethylene glycol deep eutectic solvents using Monte Carlo simulations",
-    authors: "Hirad S. Salehi, Remco Hens, Othonas A. Moultos, and Thijs J.H. Vlugt", 
+    authors: "Hirad S. Salehi, Remco Hens, Othonas A. Moultos, and Thijs J. H. Vlugt", 
     venue: "Journal of Molecular Liquids (2020) 316, 113729", 
     pdf: "assets/publications/45.Salehi_2020_316_113729.pdf", 
     SI: "assets/publications/SI/45.Salehi_2020_316_113729_SI.pdf", 
     bib: "assets/publications/bib/45.Salehi_2020_316_113729.bib"} 
-
-  - { number: "44-38", 
-    title: "..."}
-
+  - { number: "44.", 
+    title: "Generalized Form for Finite-Size Corrections in Mutual Diffusion Coefficients of Multicomponent Mixtures Obtained from Equilibrium Molecular Dynamics Simulation",
+    authors: "Seyed Hossein Jamali, André Bardow, Thijs J. H. Vlugt, and Othonas A. Moultos", 
+    venue: "Journal of Chemical Theory and Computation (2020) 16, 3799", 
+    pdf: "assets/publications/44.Jamali_JCTC_2020_16_3799.pdf", 
+    SI: "assets/publications/SI/44.Jamali_JCTC_2020_16_3799_SI.pdf",
+    Data: "assets/publications/SI/44.Jamali_JCTC_2020_16_3799_SI.xlsx", 
+    bib: "assets/publications/bib/44.Jamali_JCTC_2020_16_3799.bib"} 
+  - { number: "43.", 
+    title: "Brick-CFCMC: Open Source Software for Monte Carlo Simulations of Phase and Reaction Equilibria Using the Continuous Fractional Component Method",
+    authors: "Remco Hens, Ahmadreza Rahbari, Sebastián Caro-Ortiz, Noura Dawass, Máté Erdős, Ali Poursaeidesfahani, Hirad S. Salehi, Alper T. Celebi, Mahinder Ramdin, Othonas A. Moultos, David Dubbeldam, and Thijs J. H. Vlugt",
+    venue: "Journal of Chemical Information and Modeling (2020) 60, 2678", 
+    pdf: "assets/publications/43.Hens_JCIM_2020_60_2678.pdf", 
+    SI: "assets/publications/SI/43.Hens_JCIM_2020_60_2678_SI.pdf", 
+    bib: "assets/publications/bib/43.Hens_JCIM_2020_60_2678.bib"}
+  - { number: "42.", 
+    title: "Kirkwood-Buff Integrals Using Molecular Simulation: Estimation of Surface Effects",
+    authors: "Noura Dawass, Peter Krüger, Sondre K. Schnell, Othonas A. Moultos, Ioannis G. Economou, Thijs J. H. Vlugt, and Jean-Marc Simon",
+    venue: "Nanomaterials (2020) 10, 771", 
+    pdf: "assets/publications/42.Dawass_NANOMATER_2020_10_771.pdf", 
+    SI: "assets/publications/SI/42.Dawass_NANOMATER_2020_10_771_SI.pdf", 
+    bib: "assets/publications/bib/42.Dawass_NANOMATER_2020_10_771.bib"}
+  - { number: "41.", 
+    title: "Two-Phase Equilibrium Conditions in Nanopores",
+    authors: "Michael T. Rauter, Olav Galteland, Máté Erdős, Othonas A. Moultos, Thijs J. H. Vlugt, Sondre K. Schnell, Dick Bedeaux, and Signe Kjelstrup",
+    venue: "Nanomaterials (2020) 10, 608", 
+    pdf: "assets/publications/41.Rauter_NANOMATER_2020_10_608.pdf",  
+    bib: "assets/publications/bib/41.Rauter_NANOMATER_2020_10_608.bib"}
+  - { number: "40.", 
+    title: "Multiple Free Energy Calculations from Single State Point Continuous Fractional Component Monte Carlo Simulation Using Umbrella Sampling",
+    authors: "Ahmadreza Rahbari, Remco Hens, Othonas A. Moultos, David Dubbeldam, and Thijs J. H. Vlugt",
+    venue: "Journal of Chemical Theory and Computation (2020) 16, 1757", 
+    pdf: "assets/publications/40.Rahbari_JCTC_2020_16_1757.pdf",
+    SI: "assets/publications/SI/40.Rahbari_JCTC_2020_16_1757_SI.pdf",   
+    bib: "assets/publications/bib/40.Rahbari_JCTC_2020_16_1757.bib"}
+  - { number: "39.", 
+    title: "Gibbs Ensemble Monte Carlo Simulation of Fluids in Confinement: Relation between the Differential and Integral Pressures",
+    authors: "Máté Erdős, Olav Galteland, Dick Bedeaux, Signe Kjelstrup, Othonas A. Moultos, and Thijs J. H. Vlugt",
+    venue: "Nanomaterials (2020) 10, 293", 
+    pdf: "assets/publications/39.Erdos_NANOMATER_2020_10_293.pdf", 
+    bib: "assets/publications/bib/39.Erdos_NANOMATER_2020_10_293.bib"}
+  - { number: "38.", 
+    title: "The adsorption mechanisms of organic micropollutants on high-silica zeolites causing S-shaped adsorption isotherms: An experimental and Monte Carlo simulation study",
+    authors: "Nan Jiang, Máté Erdős, Othonas A. Moultos, Ran Shang, Thijs J. H. Vlugt, Sebastiaan G. J. Heijman, and Luuk C. Rietveld",
+    venue: "Chemical Engineering Journal (2020) 389, 123968", 
+    pdf: "assets/publications/38.Jiang_CEJ_2020_389_123968.pdf",
+    SI: "assets/publications/SI/38.Jiang_CEJ_2020_389_123968_SI.pdf",   
+    bib: "assets/publications/bib/38.Jiang_CEJ_2020_389_123968.bib"}
   - { number: "37.",
     title: "Inclusion Complexation of Organic Micropollutants with β‐Cyclodextrin",
-    authors: "Máté Erdős, Remco Hartkamp, Thijs J.H. Vlugt, and Othonas A. Moultos", 
+    authors: "Máté Erdős, Remco Hartkamp, Thijs J. H. Vlugt, and Othonas A. Moultos", 
     venue: "Journal of Physical Chemistry B (2020) 124, 1218", 
     pdf: "assets/publications/37.Erdos_JPCB_2020_124_1218.pdf", 
     SI: "assets/publications/SI/37.Erdos_JPCB_2020_124_1218_SI.pdf", 
@@ -350,11 +394,12 @@ publications:
   {% if pub('pdf')? %}<a href="{{ site.url}}/{{ pub.pdf }}" class="badge badge-pill  badge-warning" role="button"><i class="fa fa-download"></i>&nbsp;PDF</a>{% endif %}
   {% if pub('poster')? %}<a href="{{ site.url}}/{{ pub.poster }}" class="badge badge-pill  badge-info" role="button"><i class="fa fa-download"></i>&nbsp;Poster</a>{% endif %}
   {% if pub('SI')? %}<a href="{{ site.url}}/{{ pub.SI }}" class="badge badge-pill  badge-danger" role="button"><i class="fa fa-download"></i>&nbsp;SI</a>{% endif %}
+  {% if pub('Data')? %}<a href="{{ site.url}}/{{ pub.Data }}" class="badge badge-pill  badge-info" role="button"><i class="fa fa-download"></i>&nbsp;Data</a>{% endif %}
   {% if pub('bib')? %}<a href="{{ site.url}}/{{ pub.bib }}" class="badge badge-pill  badge-primary" role="button"><i class="fa fa-download"></i>&nbsp;bib</a>{% endif %}
   {% if pub('slides')? %}<a href="{{ site.url}}/{{ pub.slides }}" class="badge badge-pill badge-primary" role="button"><i class="fa fa-download"></i>&nbsp;Slides</a>{% endif %}
-  {% if pub('simulGromacs')? %}<a href="{{ site.url}}/{{ pub.simulGromacs }}" class="badge badge-pill badge-danger" role="button"><i class="fa fa-download"></i>&nbsp;Gromacs Files</a>{% endif %}
-  {% if pub('simulLammps')? %}<a href="{{ site.url}}/{{ pub.simulLammps }}" class="badge badge-pill badge-danger" role="button"><i class="fa fa-download"></i>&nbsp;Lammps Files</a>{% endif %}
-  {% if pub('simulCIF')? %}<a href="{{ site.url}}/{{ pub.simulCIF }}" class="badge badge-pill badge-danger" role="button"><i class="fa fa-download"></i>&nbsp;CIF Files</a>{% endif %}
+  {% if pub('simulGromacs')? %}<a href="{{ site.url}}/{{ pub.simulGromacs }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;Gromacs Files</a>{% endif %}
+  {% if pub('simulLammps')? %}<a href="{{ site.url}}/{{ pub.simulLammps }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;Lammps Files</a>{% endif %}
+  {% if pub('simulCIF')? %}<a href="{{ site.url}}/{{ pub.simulCIF }}" class="badge badge-pill badge-secondary" role="button"><i class="fa fa-download"></i>&nbsp;CIF Files</a>{% endif %}
 	</dt>
   <dd class="col-sm-9">
     <strong>{{ pub.title }}</strong> <br> {{ pub.authors }}. <br>  <strong>{{pub.venue}}</strong>. 
