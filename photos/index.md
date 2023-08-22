@@ -39,8 +39,8 @@ div.desc {
 <br/>
 
 <div class="gallery">
-  <a target="_blank" href="photos/jose.jpg">
-    <img src="photos/jose.jpg" alt="Mountains" width="600" height="auto">
+  <a target="_blank" href="photos/jose2023.jpg">
+    <img src="photos/jose2023.jpg" alt="Mountains" width="600" height="auto">
   </a>
   <div class="desc"> MSc graduation of Jose Antonio Gonzalez Morales (Delft, August 2023)</div>
 </div>
