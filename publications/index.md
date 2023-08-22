@@ -147,7 +147,7 @@ publications:
     bib: "assets/publications/bib/56.Salehi_JCP_2021_154_144502.bib"}
   - { number: "55.", 
     title: "The effect of hydrogen content and yield strength on the distribution of hydrogen in steel: a diffusion coupled micromechanical FEM study",
-    authors: "Abdelrahman Hussein, Alfons H.M.Krom, Poulumi Dey, Gagus K. Sunnardianto, Othonas A.Moultos, and Carey L.Walters",
+    authors: "Abdelrahman Hussein, Alfons H.M.Krom, Poulumi Dey, Gagus K. Sunnardianto, Othonas A.Moultos, and Carey L. Walters",
     venue: "Acta Materialia (2021) 209, 116799", 
     pdf: "assets/publications/55.Hussein_AM_2021_209_116799.pdf",  
     bib: "assets/publications/bib/55.Hussein_AM_2021_209_116799.bib"}
