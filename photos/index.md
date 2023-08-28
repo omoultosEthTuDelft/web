@@ -39,6 +39,13 @@ div.desc {
 <br/>
 
 <div class="gallery">
+  <a target="_blank" href="photos/jelle.jpg">
+    <img src="photos/jelle.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> MSc graduation of Vladimir Jelle Lagerweij. People from left to right: Thijs Vlugt, Parsa Habibi, Jelle, Riccardo Taormina (CiTG), and Otto (Delft, August 2023)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/jose2023.jpg">
     <img src="photos/jose2023.jpg" alt="Mountains" width="600" height="auto">
   </a>

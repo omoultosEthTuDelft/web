@@ -12,6 +12,7 @@ title: "People"
 <section markdown="1">
 <!-- - <img src="photos/Mate.jpeg" height= "100" width= "100">  -->
 
+- [Vladimir Jelle Lagerweij](https://www.linkedin.com/in/vladimir-jelle-lagerweij-21654021b/?originalSubdomain=nl). <strong>Machine learning and molecular dynamics modeling of aqueous electrolyte solutions</strong>. 
 - [Mert Polat](https://scholar.google.com/citations?user=iNQ80VEAAAAJ&hl=en), <strong>Molecular simulation of VLE curves of acid gas adsorption in liquids</strong>, w/  <a href="https://totalenergies.com"> TotalEnergies</a> and <a href="https://www.armines.net/fr/centres-de-recherche-departements-thematiques/énergétique-et-génie-des-procédés/centre"> CTP MINES ParisTech</a>.
 - [Parsa Habibi](https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/parsa-habibi), <strong>Computational discovery of hydrogen storage materials</strong>, w/  <a href="https://www.tudelft.nl/staff/p.dey/?cHash=cac0dd30bb433e38fe36e9f04fb3bbbf"> Dr. Poulumi Dey</a>, <a href="https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/"> MSE TU Delft</a>.
 
@@ -28,7 +29,6 @@ title: "People"
 - [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr) <strong>Hydrogen use in future steel making</strong>, w/ <a href="https://www.tatasteeleurope.com">TATA STEEL</a>.
 - [Hugo van Leeuwen](https://www.linkedin.com/in/hjvleeuwen/) <strong>Use of green hydrogen and sustainable carburization to Fe3C for the direct reduction of iron ore pellets: A numerical approach</strong>, w/ <a href="https://www.tatasteeleurope.com">TATA STEEL</a>.
 - [Camiel Grevet](https://www.linkedin.com/in/camiel-grevet-71b73674/) <strong>Design of a modular water electrolyzer system</strong>, w/ <a href="https://sites.google.com/xintcglobal.com/xintcglobal">XINTC</a>.
-- [Vladimir Jelle Lagerweij](https://www.linkedin.com/in/vladimir-jelle-lagerweij-21654021b/?originalSubdomain=nl) <strong>Machine learning, quantum mechanics, and molecular modeling to predict aqueous electrolyte properties</strong>, w/  <a href="https://www.tudelft.nl/staff/p.dey/?cHash=cac0dd30bb433e38fe36e9f04fb3bbbf"> Dr. Poulumi Dey</a>, <a href="https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/"> MSE TU Delft</a>. 
 </section>
 
 
