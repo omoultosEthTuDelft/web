@@ -28,7 +28,6 @@ title: "People"
 
 - [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr) <strong>Hydrogen use in future steel making</strong>, w/ <a href="https://www.tatasteeleurope.com">TATA STEEL</a>.
 - [Hugo van Leeuwen](https://www.linkedin.com/in/hjvleeuwen/) <strong>Use of green hydrogen and sustainable carburization to Fe3C for the direct reduction of iron ore pellets: A numerical approach</strong>, w/ <a href="https://www.tatasteeleurope.com">TATA STEEL</a>.
-- [Camiel Grevet](https://www.linkedin.com/in/camiel-grevet-71b73674/) <strong>Design of a modular water electrolyzer system</strong>, w/ <a href="https://sites.google.com/xintcglobal.com/xintcglobal">XINTC</a>.
 </section>
 
 
