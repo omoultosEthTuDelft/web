@@ -276,10 +276,76 @@ publications:
     SI: "assets/publications/SI/37.Erdos_JPCB_2020_124_1218_SI.pdf", 
     bib: "assets/publications/bib/37.Erdos_JPCB_2020_124_1218.bib",
     simulGromacs: "assets/publications/SI/37.Erdos_JPCB_2020_124_1218_SI.zip"}
-
-  - { number: "36-27", 
-    title: "..."}
-
+  - { number: "36.", 
+    title: "On the transferability of ion parameters to the TIP4P/2005 water model using molecular dynamics simulations",
+    authors: "Max F. Döpke, Othonas A. Moultos, and Remco Hartkamp",
+    venue: "Journal of Chemical Physics (2020) 152, 024501", 
+    pdf: "assets/publications/36.Dopke_JCP_2020_152_024501.pdf",
+    SI: "assets/publications/SI/36.Dopke_JCP_2020_152_024501_SI.pdf",   
+    bib: "assets/publications/bib/36.Dopke_JCP_2020_152_024501.bib"}
+  - { number: "35.",
+    title: "On the validity of the Stokes–Einstein relation for various water force fields",
+    authors: "Ioannis N. Tsimpanogiannis, Seyed Hossein Jamali, Ioannis G. Economou, Thijs J. H. Vlugt, and Othonas A. Moultos", 
+    venue: "Molecular Physics (2019) 118, e1702729", 
+    pdf: "assets/publications/35.Tsimpanogiannis_MP_2020_118_e1702729.pdf", 
+    bib: "assets/publications/bib/35.Tsimpanogiannis_MP_2020_118_e1702729.bib"}
+  - { number: "34.",
+    title: "Structural, Thermodynamic, and Transport Properties of Aqueous Reline and Ethaline Solutions from Molecular Dynamics Simulations",
+    authors: "Alper T. Celebi, Thijs J. H. Vlugt, and Othonas A. Moultos", 
+    venue: "Journal of Physical Chemistry B (2019) 123, 11014", 
+    pdf: "assets/publications/34.Celebi_JPCB_2019_123_11014.pdf", 
+    SI: "assets/publications/SI/34.Celebi_JPCB_2019_123_11014_SI.pdf", 
+    bib: "assets/publications/bib/34.Celebi_JPCB_2019_123_11014.bib",
+    simulLammps: "assets/publications/SI/34.Celebi_JPCB_2019_123_11014_SI.zip"}
+  - { number: "33.",
+    title: "Large expert-curated database for benchmarking document similarity detection in biomedical literature search",
+    authors: "Peter Brown,  RELISH Consortium, and  Yaoqi Zhou", 
+    venue: "DATABASE (2019) 2019, baz085", 
+    pdf: "assets/publications/33.Brown_DATABASE_2019_2019_baz085.pdf", 
+    bib: "assets/publications/bib/33.Brown_DATABASE_2019_2019_baz085.bib"}
+  - { number: "32.",
+    title: "Solubility of Water in Hydrogen at High Pressures: A Molecular Simulation Study",
+    authors: "Ahmadreza Rahbari, Jeroen Brenkman, Remco Hens, Mahinder Ramdin, Leo J. P. van den Broeke, Rogier Schoon, Ruud Henkes, Othonas A. Moultos, and Thijs J. H. Vlugt", 
+    venue: "Journal of Chemical & Engineering Data (2019) 64, 4103", 
+    pdf: "assets/publications/32.Rahbari_JCED_2019_64_4103.pdf", 
+    SI: "assets/publications/SI/32.Rahbari_JCED_2019_64_4103_SI.pdf", 
+    bib: "assets/publications/bib/32.Rahbari_JCED_2019_64_4103.bib"}
+  - { number: "31.",
+    title: "Rayleigh-Brillouin light scattering spectra of CO2 from molecular dynamics",
+    authors: "Seyed Hossein Jamalil, Mariette de Groen, Othonas A. Moultos, Remco Hartkamp, Thijs J. H. Vlugt, Wim Ubachs, Willem van de Water", 
+    venue: "Journal of Chemical Physics (2019) 151, 064201", 
+    pdf: "assets/publications/31.Jamali_JCP_2019_151_064201.pdf", 
+    bib: "assets/publications/bib/31.Jamali_JCP_2019_151_064201.bib"}
+  - { number: "30.",
+    title: "Preferential Adsorption in Mixed Electrolytes Confined by Charged Amorphous Silica",
+    authors: "Max F. Döpke, Johannes Lützenkirchen, Othonas A. Moultos, Bertrand Siboulet, Jean-François Dufrêche, Johan T. Padding, and Remco Hartkamp", 
+    venue: "Journal of Physical Chemistry C (2019) 123, 16711", 
+    pdf: "assets/publications/30.Dopke_JPCC_2019_123_16711.pdf", 
+    SI: "assets/publications/SI/30.Dopke_JPCC_2019_123_16711_SI.pdf", 
+    bib: "assets/publications/bib/30.Dopke_JPCC_2019_123_16711.bib"}
+  - { number: "29.",
+    title: "Computing solubility parameters of deep eutectic solvents from Molecular Dynamics simulations",
+    authors: "Hirad S. Salehi, Mahinder Ramdin, Thijs J. H. Vlugt, and Othonas A. Moultos", 
+    venue: "FLuid Phase Equilibria (2019) 497, 10", 
+    pdf: "assets/publications/29.Salehi_FPE_2019_497_10.pdf", 
+    SI: "assets/publications/SI/29.Salehi_FPE_2019_497_10_SI.pdf", 
+    bib: "assets/publications/bib/29.Salehi_FPE_2019_497_10.bib"}
+  - { number: "28.",
+    title: "OCTP: A Tool for On-the-Fly Calculation of Transport Properties of Fluids with the Order-n Algorithm in LAMMPS",
+    authors: "Seyed Hossein Jamali, Ludger Wolff, Tim M. Becker, Mariëtte de Groen, Mahinder Ramdin, Remco Hartkamp, André Bardow, Thijs J. H. Vlugt, and Othonas A. Moultos", 
+    venue: "Journal of Chemical Information and Modeling (2019) 59, 1290", 
+    pdf: "assets/publications/28.Jamali_JCIM_2019_59_1290.pdf", 
+    SI: "assets/publications/SI/28.Jamali_JCIM_2019_59_1290_SI.pdf", 
+    bib: "assets/publications/bib/28.Jamali_JCIM_2019_59_1290.bib",
+    simulLammps: "assets/publications/SI/28.Jamali_JCIM_2019_59_1290_SI.zip"}
+  - { number: "27.",
+    title: "Optimizing Nonbonded Interactions of the OPLS Force Field for Aqueous Solutions of Carbohydrates: How to Capture Both Thermodynamics and Dynamics",
+    authors: "Seyed Hossein Jamali, Thijs van Westen, Othonas A. Moultos, and Thijs J. H. Vlugt", 
+    venue: "Journal of Chemical Theory and Computation (2018) 14, 6690", 
+    pdf: "assets/publications/27.Jamali_JCTC_2018_14_6690.pdf", 
+    SI: "assets/publications/SI/27.Jamali_JCTC_2018_14_6690_SI.pdf", 
+    bib: "assets/publications/bib/27.Jamali_JCTC_2018_14_6690.bib",
+    simulLammps: "assets/publications/SI/27.Jamali_JCTC_2018_14_6690_SI.zip"}
   - { number: "26.", 
     title: "Modeling the Phase Equilibria of Asymmetric Hydrocarbon Mixtures
       Using Molecular Simulation and Equations of State",
