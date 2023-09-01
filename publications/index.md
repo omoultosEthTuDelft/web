@@ -358,7 +358,34 @@ publications:
 
   - { number: "XXX", 
     title: "..."}
-
+  - { number: "16.", 
+    title: "Hydrogen-Bonding Polarizable Intermolecular Potential Model for Water",
+    authors: "Hao Jiang, Othonas A. Moultos, Ioannis G. Economou, and Athanassios Z. Panagiotopoulos",
+    venue: "Journal of Physical Chemistry B (2016) 120, 12358", 
+    pdf: "assets/publications/16.Jiang_JPCB_2016_120_12358.pdf", 
+    SI: "assets/publications/SI/16.Jiang_JPCB_2016_120_12358_SI.pdf",
+    simulLammps: "assets/publications/SI/16.Jiang_JPCB_2016_120_12358_SI.zip",
+    bib: "assets/publications/bib/16.Jiang_JPCB_2016_120_12358.bib"}  
+  - { number: "15.", 
+    title: "System-size corrections for self-diffusion coefficients calculated from molecular dynamics simulations: The case of CO2, n-alkanes, and poly(ethylene glycol) dimethyl ethers",
+    authors: "Othonas A. Moultos, Yong Zhang, Ioannis N. Tsimpanogiannis, Ioannis G. Economou, Edward J. Maginn",
+    venue: "Journal of Chemical Physics (2016) 145, 074109", 
+    pdf: "assets/publications/15.Moultos_2016_JCP_145_074109.pdf", 
+    SI: "assets/publications/SI/15.Moultos_2016_JCP_145_074109_SI.pdf",
+    bib: "assets/publications/bib/15.Moultos_2016_JCP_145_074109.bib"}  
+  - { number: "14.", 
+    title: "Gaussian-Charge Polarizable and Nonpolarizable Models for CO2",
+    authors: "Hao Jiang, Othonas A. Moultos, Ioannis G. Economou, and Athanassios Z. Panagiotopoulos",
+    venue: "Journal of Physical Chemistry B (2016) 120, 984", 
+    pdf: "assets/publications/14.Jiang_JPCB_2016_120_984.pdf", 
+    SI: "assets/publications/SI/14.Jiang_JPCB_2016_120_984_SI.pdf",
+    bib: "assets/publications/bib/14.Jiang_JPCB_2016_120_984.bib"}  
+  - { number: "13.", 
+    title: "Molecular dynamics simulations of the diffusion coefficients of light n-alkanes in water over a wide range of temperature and pressure",
+    authors: "Vasileios K. Michalis, Othonas A. Moultos, Ioannis N. Tsimpanogiannis, and Ioannis G. Economou", 
+    venue: "Fluid Phase Equilibria (2016) 407, 236", 
+    pdf: "assets/publications/13.Michalis_FPE_2016_407_236.pdf", 
+    bib: "assets/publications/bib/13.Michalis_FPE_2016_407_236.bib"}
   - { number: "12.", 
     title: "Self-diffusion coefficients of the binary (H2O + CO2) mixture at high emperatures and pressures",
     authors: "Othonas A. Moultos, Ioannis N. Tsimpanogiannis, Athanassios Z. Panagiotopoulos, and Ioannis G. Economou", 
@@ -367,11 +394,11 @@ publications:
     SI:  "assets/publications/SI/12.Moultos_JCT_2016_93_424_SI.pdf", 
     bib: "assets/publications/bib/12.Moultos_JCT_2016_93_424.bib"}
   - { number: "11.", 
-    title: "Molecular dynamics simulations of the diffusion coefficients of light n-alkanes in water over a wide range of temperature and pressure",
-    authors: "Vasileios K. Michalis, Othonas A. Moultos, Ioannis N. Tsimpanogiannis, and Ioannis G. Economou", 
-    venue: "Fluid Phase Equilibria (2016) 407, 236", 
-    pdf: "assets/publications/11.Michalis_FPE_2016_407_236.pdf", 
-    bib: "assets/publications/bib/11.Michalis_FPE_2016_407_236.bib"}
+    title: "Entropic effects, shape, and size of mixed micelles formed by copolymers with complex architectures",
+    authors: "Andreas Kalogirou, Leonidas N. Gergidis, Othonas Moultos, and Costas Vlahos", 
+    venue: "Physical Review E (2015) 92, 052601", 
+    pdf: "assets/publications/11.Kalogirou_PRE_2015_92_052601.pdf", 
+    bib: "assets/publications/bib/11.Kalogirou_PRE_2015_92_052601.bib"}
   - { number: "10.", 
     title: "Thermodynamic and Transport Properties of H2O + NaCl from Polarizable Force Fields",
     authors: "Hao Jiang, Zoltan Mester, Othonas A. Moultos, Ioannis N. Tsimpanogiannis, and Athanassios Z. Panagiotopoulos", 
