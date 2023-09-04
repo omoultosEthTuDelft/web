@@ -358,6 +358,29 @@ publications:
 
   - { number: "XXX", 
     title: "..."}
+
+
+  - { number: "19.", 
+    title: "Computation of partial molar properties using continuous fractional component Monte Carlo",
+    authors: "Ahmadreza Rahbari, Remco Hens, Ilias K. Nikolaidis, Ali Poursaeidesfahani, Mahinder Ramdin, Ioannis G. Economou, Othonas A. Moultos, David Dubbeldam, and Thijs J. H. Vlugt, ", 
+    venue: "Molecular Physics (2018) 116, 3331", 
+    pdf: "assets/publications/19.Rahbari_MP_2018_116_3331.pdf", 
+    SI: "assets/publications/SI/19.Rahbari_MP_2018_116_3331_SI.pdf",
+    bib: "assets/publications/bib/19.Rahbari_MP_2018_116_3331.bib"}  
+  - { number: "18.", 
+    title: "Predictions of water/oil interfacial tension at elevated temperatures and pressures: A molecular dynamics simulation study with biomolecular force fields",
+    authors: "Konstantinos D. Papavasileiou, Othonas A. Moultos, Ioannis G. Economou", 
+    venue: "Fluid Phase Equilibria (2018) 476, 30", 
+    pdf: "assets/publications/18.Papavasileiou_FPE_2018_476_30.pdf", 
+    SI: "assets/publications/SI/18.Papavasileiou_FPE_2018_476_30_SI.pdf",
+    bib: "assets/publications/bib/18.Papavasileiou_FPE_2018_476_30.bib"}
+  - { number: "17.", 
+    title: "Atomistic Molecular Dynamics Simulations of Carbon Dioxide Diffusivity in n-Hexane, n-Decane, n-Hexadecane, Cyclohexane, and Squalane",
+    authors: "Othonas A. Moultos, Ioannis N. Tsimpanogiannis, Athanassios Z. Panagiotopoulos, J. P. Martin Trusler, and Ioannis G. Economou", 
+    venue: "Journal of Physical Chemistry B (2016) 120, 12890", 
+    pdf: "assets/publications/17.Moultos_JPCB_2016_120_12890.pdf", 
+    SI: "assets/publications/SI/17.Moultos_JPCB_2016_120_12890_SI.pdf",
+    bib: "assets/publications/bib/17.Moultos_JPCB_2016_120_12890.bib"} 
   - { number: "16.", 
     title: "Hydrogen-Bonding Polarizable Intermolecular Potential Model for Water",
     authors: "Hao Jiang, Othonas A. Moultos, Ioannis G. Economou, and Athanassios Z. Panagiotopoulos",
