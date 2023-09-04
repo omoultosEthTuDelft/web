@@ -339,14 +339,13 @@ publications:
     SI: "assets/publications/SI/28.Jamali_JCIM_2019_59_1290_SI.pdf", 
     bib: "assets/publications/bib/28.Jamali_JCIM_2019_59_1290.bib",
     simulLammps: "assets/publications/SI/28.Jamali_JCIM_2019_59_1290_SI.zip"}
-  - { number: "27.",
-    title: "Optimizing Nonbonded Interactions of the OPLS Force Field for Aqueous Solutions of Carbohydrates: How to Capture Both Thermodynamics and Dynamics",
-    authors: "Seyed Hossein Jamali, Thijs van Westen, Othonas A. Moultos, and Thijs J. H. Vlugt", 
-    venue: "Journal of Chemical Theory and Computation (2018) 14, 6690", 
-    pdf: "assets/publications/27.Jamali_JCTC_2018_14_6690.pdf", 
-    SI: "assets/publications/SI/27.Jamali_JCTC_2018_14_6690_SI.pdf", 
-    bib: "assets/publications/bib/27.Jamali_JCTC_2018_14_6690.bib",
-    simulLammps: "assets/publications/SI/27.Jamali_JCTC_2018_14_6690_SI.zip"}
+  - { number: "27.", 
+    title: "Self-diffusion coefficient of bulk and confined water: a critical review of classical molecular simulation studies",
+    authors: "Ioannis N. Tsimpanogiannis, Othonas A. Moultos, Luís F. M. Franco, Marcelle B. de M. Spera, Máté Erdős, and Ioannis G. Economou", 
+    venue: "Molecular Simulation (2019) 45, 425", 
+    pdf: "assets/publications/27.Tsimpanogiannis_MS_2019_45_425.pdf", 
+    SI: "assets/publications/SI/27.Tsimpanogiannis_MS_2019_45_425_SI.pdf", 
+    bib: "assets/publications/bib/27.Tsimpanogiannis_MS_2019_45_425.bib"}
   - { number: "26.", 
     title: "Modeling the Phase Equilibria of Asymmetric Hydrocarbon Mixtures
       Using Molecular Simulation and Equations of State",
@@ -355,18 +354,58 @@ publications:
     pdf: "assets/publications/26.Nikolaidis_AIChE_2018_65_792.pdf", 
     SI: "assets/publications/SI/26.Nikolaidis_AIChE_2018_65_792_SI.pdf",
     bib: "assets/publications/bib/26.Nikolaidis_AIChE_2018_65_792.bib"}
-
-  - { number: "XXX", 
-    title: "..."}
-
-
+  - { number: "25.", 
+    title: "Shear Viscosity Computed from the Finite-Size Effects of Self-Diffusivity in Equilibrium Molecular Dynamics",
+    authors: "Seyed Hossein Jamali, Remco Hartkamp, Christos Bardas, Jakob Söhl, Thijs J. H. Vlugt, and Othonas A. Moultos", 
+    venue: "Journal of Chemical Theory & computation (2018) 14, 5959", 
+    pdf: "assets/publications/25.Jamali_JCTC_2018_14_5959.pdf", 
+    SI: "assets/publications/SI/25.Jamali_JCTC_2018_14_5959_SI.pdf", 
+    bib: "assets/publications/bib/25.Jamali_JCTC_2018_14_5959.bib"}
+  - { number: "24.", 
+    title: "Prediction of Composition-Dependent Self-Diffusion Coefficients in Binary Liquid Mixtures: The Missing Link for Darken-Based Models",
+    authors: "Ludger Wolff, Seyed Hossein Jamali, Tim M. Becker, Othonas A. Moultos, Thijs J. H. Vlugt, and André Bardow", 
+    venue: "Industrial & Engineering Chemistry Research (2018) 57, 14784", 
+    pdf: "assets/publications/24.Wolff_IECR_2018_57_14784.pdf", 
+    SI: "assets/publications/SI/24.Wolff_IECR_2018_57_14784_SI.pdf", 
+    bib: "assets/publications/bib/24.Wolff_IECR_2018_57_14784.bib"}
+  - { number: "23.",
+    title: "Optimizing Nonbonded Interactions of the OPLS Force Field for Aqueous Solutions of Carbohydrates: How to Capture Both Thermodynamics and Dynamics",
+    authors: "Seyed Hossein Jamali, Thijs van Westen, Othonas A. Moultos, and Thijs J. H. Vlugt", 
+    venue: "Journal of Chemical Theory and Computation (2018) 14, 6690", 
+    pdf: "assets/publications/23.Jamali_JCTC_2018_14_6690.pdf", 
+    SI: "assets/publications/SI/23.Jamali_JCTC_2018_14_6690_SI.pdf", 
+    bib: "assets/publications/bib/23.Jamali_JCTC_2018_14_6690.bib",
+    simulLammps: "assets/publications/SI/23.Jamali_JCTC_2018_14_6690_SI.zip"}
+  - { number: "22.", 
+    title: "In Silico Screening of Metal–Organic Frameworks for Adsorption-Driven Heat Pumps and Chillers",
+    authors: "Máté Erdős, Martijn F. de Lange, Freek Kapteijn, Othonas A. Moultos, and Thijs J. H. Vlugt", 
+    venue: "ACS Applied Materials & Interfaces (2018) 10, 27074", 
+    pdf: "assets/publications/22.Erdos_AMI_2018_10_27074.pdf", 
+    SI: "assets/publications/SI/22.Erdos_AMI_2018_10_27074_SI.pdf", 
+    bib: "assets/publications/bib/22.Erdos_AMI_2018_10_27074.bib"}
+  - { number: "21.", 
+    title: "Using clathrate hydrates for gas storage and gas-mixture separations: experimental and computational studies at multiple length scales",
+    authors: "Ioannis N. Tsimpanogiannis, Joseph Costandy, Panagiotis Kastanidis, Sally El Meragawi, Vasileios K. Michalis, Nikolaos I. Papadimitriou, Stylianos N. Karozis, Nikolaos I. Diamantonis, Othonas A. Moultos, George E. Romanos, Athanassios K. Stubos, and Ioannis G. Economou", 
+    venue: "Molecular Physics (2018) 116, 2041", 
+    pdf: "assets/publications/21.Tsimpanogiannis_MP_2018_116_2041.pdf", 
+    SI: "assets/publications/SI/21.Tsimpanogiannis_MP_2018_116_2041_SI.pdf", 
+    bib: "assets/publications/bib/21.Tsimpanogiannis_MP_2018_116_2041.bib"}  
+  - { number: "20.", 
+    title: "Finite-Size Effects of Binary Mutual Diffusion Coefficients from Molecular Dynamics",
+    authors: "Seyed Hossein Jamali, Ludger Wolff, Tim M. Becker, André Bardow, Thijs J. H. Vlugt, and Othonas A. Moultos", 
+    venue: "Journal of Chemical Theory and Computation (2018) 14, 2667", 
+    pdf: "assets/publications/20.Jamali_JCTC_2018_14_2667.pdf", 
+    SI: "assets/publications/SI/20.Jamali_JCTC_2018_14_2667_SI.pdf",
+    Data: "assets/publications/SI/20.Jamali_JCTC_2018_14_2667_SI_2.zip", 
+    bib: "assets/publications/bib/20.Jamali_JCTC_2018_14_2667.bib",
+    simulLammps: "assets/publications/SI/20.Jamali_JCTC_2018_14_2667_SI_1.zip"} 
   - { number: "19.", 
     title: "Computation of partial molar properties using continuous fractional component Monte Carlo",
     authors: "Ahmadreza Rahbari, Remco Hens, Ilias K. Nikolaidis, Ali Poursaeidesfahani, Mahinder Ramdin, Ioannis G. Economou, Othonas A. Moultos, David Dubbeldam, and Thijs J. H. Vlugt, ", 
     venue: "Molecular Physics (2018) 116, 3331", 
     pdf: "assets/publications/19.Rahbari_MP_2018_116_3331.pdf", 
     SI: "assets/publications/SI/19.Rahbari_MP_2018_116_3331_SI.pdf",
-    bib: "assets/publications/bib/19.Rahbari_MP_2018_116_3331.bib"}  
+    bib: "assets/publications/bib/19.Rahbari_MP_2018_116_3331.bib"} 
   - { number: "18.", 
     title: "Predictions of water/oil interfacial tension at elevated temperatures and pressures: A molecular dynamics simulation study with biomolecular force fields",
     authors: "Konstantinos D. Papavasileiou, Othonas A. Moultos, Ioannis G. Economou", 
