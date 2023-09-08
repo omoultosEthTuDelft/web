@@ -277,9 +277,9 @@ publications:
     authors: "Seyed Hossein Jamali, André Bardow, Thijs J. H. Vlugt, and Othonas A. Moultos", 
     venue: "Journal of Chemical Theory and Computation (2020) 16, 3799", 
     pdf: "assets/publications/44.Jamali_JCTC_2020_16_3799.pdf", 
-    SI: "assets/publications/SI/44.Jamali_JCTC_2020_16_3799_SI.pdf",
-    Data: "assets/publications/SI/44.Jamali_JCTC_2020_16_3799_SI.xlsx", 
-    bib: "assets/publications/bib/44.Jamali_JCTC_2020_16_3799.bib"} 
+    SI: "assets/publications/SI/44.Jamali_JCTC_2020_16_3799_SI.pdf", 
+    bib: "assets/publications/bib/44.Jamali_JCTC_2020_16_3799.bib",
+    Data: "assets/publications/SI/44.Jamali_JCTC_2020_16_3799_SI.xlsx"} 
   - { number: "43.", 
     title: "Brick-CFCMC: Open Source Software for Monte Carlo Simulations of Phase and Reaction Equilibria Using the Continuous Fractional Component Method",
     authors: "Remco Hens, Ahmadreza Rahbari, Sebastián Caro-Ortiz, Noura Dawass, Máté Erdős, Ali Poursaeidesfahani, Hirad S. Salehi, Alper T. Celebi, Mahinder Ramdin, Othonas A. Moultos, David Dubbeldam, and Thijs J. H. Vlugt",
