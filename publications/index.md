@@ -553,9 +553,10 @@ publications:
   {% if pub('Data')? %}<a href="{{ site.url}}/{{ pub.Data }}" class="badge badge-pill  badge-info" role="button"><i class="fa fa-download"></i>&nbsp;Data</a>{% endif %}
   {% if pub('bib')? %}<a href="{{ site.url}}/{{ pub.bib }}" class="badge badge-pill  badge-primary" role="button"><i class="fa fa-download"></i>&nbsp;bib</a>{% endif %}
   {% if pub('slides')? %}<a href="{{ site.url}}/{{ pub.slides }}" class="badge badge-pill badge-primary" role="button"><i class="fa fa-download"></i>&nbsp;Slides</a>{% endif %}
-  {% if pub('simulGromacs')? %}<a href="{{ site.url}}/{{ pub.simulGromacs }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;Gromacs Files</a>{% endif %}
-  {% if pub('simulLammps')? %}<a href="{{ site.url}}/{{ pub.simulLammps }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;Lammps Files</a>{% endif %}
-  {% if pub('simulCIF')? %}<a href="{{ site.url}}/{{ pub.simulCIF }}" class="badge badge-pill badge-secondary" role="button"><i class="fa fa-download"></i>&nbsp;CIF Files</a>{% endif %}
+  {% if pub('simulGromacs')? %}<a href="{{ site.url}}/{{ pub.simulGromacs }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;GROMACS files</a>{% endif %}
+  {% if pub('simulLammps')? %}<a href="{{ site.url}}/{{ pub.simulLammps }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;LAMMPS files</a>{% endif %}
+  {% if pub('simulBrick')? %}<a href="{{ site.url}}/{{ pub.simulBrick }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;BRICK-CFCMC files</a>{% endif %}
+  {% if pub('simulCIF')? %}<a href="{{ site.url}}/{{ pub.simulCIF }}" class="badge badge-pill badge-secondary" role="button"><i class="fa fa-download"></i>&nbsp;CIF files</a>{% endif %}
 	</dt>
   <dd class="col-sm-9">
     <strong>{{ pub.title }}</strong> <br> {{ pub.authors }}. <br>  <strong>{{pub.venue}}</strong>. 
