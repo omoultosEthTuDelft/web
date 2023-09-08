@@ -13,6 +13,57 @@ publications:
   #   pdf: "assets/publications/69.Polat_FPE_2022_564_113587.pdf", 
   #   SI: "assets/publications/SI/69.Polat_FPE_2022_564_113587_SI.pdf", 
   #   bib: "assets/publications/bib/69.Polat_FPE_2022_564_113587.bib"}
+  - { number: "81.",
+    title: "The dilatable membrane of oleosomes (lipid droplets) allows their in vitro resizing and triggered release of lipids",
+    authors: "Eleni Ntone, Benjamin Rosenbaum, Simha Sridharan, Stan B. J. Willems, Othonas A. Moultos, Thijs J. H. Vlugt, Marcel B. J. Meinders, Leonard M. C. Sagis, Johannes H. Bitter, and  Constantinos V. Nikiforidis", 
+    venue: "Soft Matter (2023) 19, 6355", 
+    pdf: "assets/publications/81.Ntone_SM_2023_19_6355.pdf", 
+    SI: "assets/publications/SI/81.Ntone_SM_2023_19_6355_SI.pdf", 
+    bib: "assets/publications/bib/81.Ntone_SM_2023_19_6355.bib"}
+  - { number: "80.",
+    title: "Densities, viscosities, and diffusivities of loaded and unloaded aqueous CO2/H2S/MDEA mixtures: A molecular dynamics simulation study",
+    authors: "H. Mert Polat, Casper van der Geest, Frédérick de Meyer, Céline Houriez, Thijs J.H. Vlugt, Othonas A. Moultos", 
+    venue: "Fluid Phase Equilibria (2023) 575, 113913", 
+    pdf: "assets/publications/80.Polat_FPE_2023_575_113913.pdf", 
+    SI: "assets/publications/SI/80.Polat_FPE_2023_575_113913_SI.pdf", 
+    bib: "assets/publications/bib/80.Polat_FPE_2023_575_113913.bib"}
+  - { number: "79.",
+    title: "Computation of Electrical Conductivities of Aqueous Electrolyte Solutions: Two Surfaces, One Property",
+    authors: "Samuel Blazquez, Jose L. F. Abascal, Jelle Lagerweij, Parsa Habibi, Poulumi Dey, Thijs J. H. Vlugt, Othonas A. Moultos, and Carlos Vega", 
+    venue: "Journal of Chemical Theory and Computation (2023) 19, 5380", 
+    pdf: "assets/publications/79.Blazquez_JCTC_2023_19_5380.pdf", 
+    SI: "assets/publications/SI/79.Blazquez_JCTC_2023_19_5380_SI.pdf", 
+    bib: "assets/publications/bib/79.Blazquez_JCTC_2023_19_5380.bib"}
+  - { number: "78.",
+    title: "Thermodynamic and Transport Properties of H2/H2O/NaB(OH)4 Mixtures Using the Delft Force Field (DFF/B(OH)4)",
+    authors: "Parsa Habibi, Julien R. T. Postma, Johan T. Padding, Poulumi Dey, Thijs J. H. Vlugt, and Othonas A. Moultos", 
+    venue: "Industrial & Engineering Chemistry Research (2023) 62, 11992", 
+    pdf: "assets/publications/78.Habibi_IECR_2023_62_11992.pdf", 
+    SI: "assets/publications/SI/78.Habibi_IECR_2023_62_11992_SI_1.pdf", 
+    bib: "assets/publications/bib/78.Habibi_IECR_2023_62_11992.bib",
+    simulLammps: "assets/publications/SI/78.Habibi_IECR_2023_62_11992_SI_2.zip",
+    simulBrick: "assets/publications/SI/78.Habibi_IECR_2023_62_11992_SI_3.zip"}
+  - { number: "77.",
+    title: "Chemical Feedback in Templated Reaction-Assembly of Polyelectrolyte Complex Micelles: A Molecular Simulation Study of the Kinetics and Clustering",
+    authors: "Christos Gioldasis, Apostolos Gkamas, Othonas A. Moultos, and Costas Vlahos", 
+    venue: "Polymers (2023) 15, 3024", 
+    pdf: "assets/publications/77.Gioldasis_POLYMERS_2023_15_3024.pdf", 
+    SI: "assets/publications/SI/77.Gioldasis_POLYMERS_2023_15_3024_SI.pdf", 
+    bib: "assets/publications/bib/77.Gioldasis_POLYMERS_2023_15_3024.bib"}
+  - { number: "76.",
+    title: "Carbonation in Low-Temperature CO2 Electrolyzers: Causes, Consequences, and Solutions",
+    authors: "Mahinder Ramdin, Othonas A. Moultos, Leo J. P. van den Broeke, Prasad Gonugunta, Peyman Taheri, and Thijs J. H. Vlugt", 
+    venue: "Industrial & Engineering Chemistry Research (2023) 62, 6843", 
+    pdf: "assets/publications/76.Ramdin_IECR_2023_62_6843.pdf", 
+    bib: "assets/publications/bib/76.Ramdin_IECR_2023_62_6843.bib"}
+  - { number: "75.",
+    title: "Solving Chemical Absorption Equilibria using Free Energy and Quantum Chemistry Calculations: Methodology, Limitations, and New Open-Source Software",
+    authors: "H. Mert Polat, Frédérick de Meyer, Céline Houriez, Othonas A. Moultos, and Thijs J. H. Vlugt", 
+    venue: "Journal of Chemical Theory and Computation (2023) 19, 2616", 
+    pdf: "assets/publications/75.Polat_JCTC_2023_19_2616.pdf", 
+    SI: "assets/publications/SI/75.Polat_JCTC_2023_19_2616_SI.pdf", 
+    bib: "assets/publications/bib/75.Polat_JCTC_2023_19_2616.bib",
+    simulCaspy: "assets/publications/SI/75.Polat_JCTC_2023_19_2616_SI.zip"}
   - { number: "74.",
     title: "Effects of nanobubbles on methane hydrate dissociation: A molecular simulation study",
     authors: "Bin Fang, Othonas A. Moultos, Tao Lü, Jiaxin Sun, Zhichao Liu, Fulong Ning, and Thijs J. H. Vlugt", 
@@ -556,6 +607,7 @@ publications:
   {% if pub('simulGromacs')? %}<a href="{{ site.url}}/{{ pub.simulGromacs }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;GROMACS files</a>{% endif %}
   {% if pub('simulLammps')? %}<a href="{{ site.url}}/{{ pub.simulLammps }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;LAMMPS files</a>{% endif %}
   {% if pub('simulBrick')? %}<a href="{{ site.url}}/{{ pub.simulBrick }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;BRICK-CFCMC files</a>{% endif %}
+  {% if pub('simulCaspy')? %}<a href="{{ site.url}}/{{ pub.simulCaspy }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;CasPy source code</a>{% endif %}
   {% if pub('simulCIF')? %}<a href="{{ site.url}}/{{ pub.simulCIF }}" class="badge badge-pill badge-secondary" role="button"><i class="fa fa-download"></i>&nbsp;CIF files</a>{% endif %}
 	</dt>
   <dd class="col-sm-9">
