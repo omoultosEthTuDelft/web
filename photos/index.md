@@ -39,6 +39,13 @@ div.desc {
 <br/>
 
 <div class="gallery">
+  <a target="_blank" href="photos/total2023.jpg">
+    <img src="photos/total2023.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> From our visit at <a href="https://totalenergies.com">TotalEnergies</a> headquarters. People from left to right: Otto, Thijs Vlugt, Mert Polat, <a href="https://www.linkedin.com/in/frédérick-de-meyer-aab90538/?originalSubdomain=fr">Frédérick de Meyer</a>, <a href="https://www.linkedin.com/in/céline-houriez-27a00a76/?originalSubdomain=fr">Céline Houriez</a> (Paris, France, September 2023)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/jelle.jpg">
     <img src="photos/jelle.jpg" alt="Mountains" width="600" height="auto">
   </a>
