@@ -26,7 +26,7 @@ title: "People"
 <h5>MSc students</h5>
 <section markdown="1">
 
-- [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr) <strong>Hydrogen use in future steel making</strong>, w/ <a href="https://www.tatasteeleurope.com">TATA STEEL</a>.
+- [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr) <strong>Modewling of mass and heat transfer in modular alkaline electrolyzers</strong>.
 - [Hugo van Leeuwen](https://www.linkedin.com/in/hjvleeuwen/) <strong>Use of green hydrogen and sustainable carburization to Fe3C for the direct reduction of iron ore pellets: A numerical approach</strong>, w/ <a href="https://www.tatasteeleurope.com">TATA STEEL</a>.
 </section>
 
