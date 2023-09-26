@@ -36,8 +36,8 @@ My research and teaching activities revolve around the application of molecular 
   <a href="assets/misc/MScGuide.pdf"><strong>Download here</strong></a> the practical guide for MSc theses that I wrote together with <a href="https://www.linkedin.com/in/carey-walters-44252714b/?originalSubdomain=nl"><strong>Carey Walters</strong></a>. 
 </div> 
 
-<div class="alert alert-success" role="alert" markdown="1"> PhD position open: 
-  <a href="https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=4211&nPostingTargetId=11873&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&mask=external"><strong>Computational design of adsorbents for the removal of micropollutants from water</strong></a>. 
+<div class="alert alert-success" role="alert" markdown="1"> 2 PhD positions open: 
+  <a href="https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=4211&nPostingTargetId=11873&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&mask=external"><strong>Computational design of adsorbents for the removal of micropollutants from water</strong></a> and <a href="https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=14239"><strong>Accelerating Molecular Simulations with AI for The Design of New PFAS Absorbants</strong></a>. 
 </div> 
 
 <!-- alert-primary : blue-->
