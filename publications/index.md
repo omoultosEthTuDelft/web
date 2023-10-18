@@ -5,7 +5,7 @@ title: "Publications"
 
 
 publications:
-  - { number: "82-85 not uploaded yet - check google scholar"}
+  - { number: "83-85 not uploaded yet - check google scholar"}
   # - { number: "75.",
   #   title: "Interfacial tensions, solubilities, and transport properties of the H2/H2O/NaCl System: A molecular dynamics simulatio study",
   #   authors: "W. A. van Rooijen, P. Habibi, K. Xu, T. J. H. Vlugt, H. Hadjibeygi, and Othonas A.Moultos", 
@@ -13,6 +13,12 @@ publications:
   #   pdf: "assets/publications/69.Polat_FPE_2022_564_113587.pdf", 
   #   SI: "assets/publications/SI/69.Polat_FPE_2022_564_113587_SI.pdf", 
   #   bib: "assets/publications/bib/69.Polat_FPE_2022_564_113587.bib"}
+  - { number: "82.",
+    title: "Transient modelling of a multi-cell alkaline electrolyzer for gas crossover and safe system operation",
+    authors: "Silvestros Oikonomidis, Mahinder Ramdin, Othonas A. Moultos, Albert Bos, Thijs J. H. Vlugt, Ahmadreza Rahbari", 
+    venue: "International Journal of Hydrogen Energy (2023) 48, 34210", 
+    pdf: "assets/publications/82.Rahbari_IJHE_2023_48_34210.pdf",  
+    bib: "assets/publications/bib/82.Rahbari_IJHE_2023_48_34210.bib"}
   - { number: "81.",
     title: "The dilatable membrane of oleosomes (lipid droplets) allows their in vitro resizing and triggered release of lipids",
     authors: "Eleni Ntone, Benjamin Rosenbaum, Simha Sridharan, Stan B. J. Willems, Othonas A. Moultos, Thijs J. H. Vlugt, Marcel B. J. Meinders, Leonard M. C. Sagis, Johannes H. Bitter, and  Constantinos V. Nikiforidis", 
