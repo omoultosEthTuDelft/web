@@ -108,6 +108,8 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- November 3, 2023: The group will be attending the 2023 [AIChE Annual Meeting](https://www.aiche.org) in Orlando, FL!
+- October 28, 2023: New paper by Lili in Construction and Building Materials: [Water diffusion mechanisms in bitumen studied through molecular dynamics simulations](https://www.sciencedirect.com/science/article/pii/S0950061823035468). This is the first fruit from our collaboration with the Pavement Engineering group in CiTG.
 - August 28, 2023: Two more engineers were made today: Jelle Lagerweij with Cum Laude 9.5 (Quantum to Transport: Modeling Transport Properties of Aqueous Potassium Hydroxide by Machine Learning Molecular Force Fields from Quantum Mechanics) and Camiel Grevet (Engineering Design of a Modular Hydrogen Production System). Very proud!
 - August 18, 2023: Many congratulations to Jose for succesfully defending his MSc thesis "Design of Non-Flow Hydrogen Storage for Long-Distance Maritime Applications"!!!
 - August 2023: New paper in Soft Matter on lipid droplets in collaboration with WUR's Costas Nikiforidis: [The dilatable membrane of oleosomes (lipid droplets) allows their in vitro resizing and triggered release of lipids](https://pubs.rsc.org/en/content/articlelanding/2023/SM/D3SM00449J).
