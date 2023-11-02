@@ -5,7 +5,7 @@ title: "Publications"
 
 
 publications:
-  - { number: "83-85 not uploaded yet - check google scholar"}
+  - { number: "84-86 not uploaded yet - check google scholar"}
   # - { number: "75.",
   #   title: "Interfacial tensions, solubilities, and transport properties of the H2/H2O/NaCl System: A molecular dynamics simulatio study",
   #   authors: "W. A. van Rooijen, P. Habibi, K. Xu, T. J. H. Vlugt, H. Hadjibeygi, and Othonas A.Moultos", 
@@ -13,6 +13,13 @@ publications:
   #   pdf: "assets/publications/69.Polat_FPE_2022_564_113587.pdf", 
   #   SI: "assets/publications/SI/69.Polat_FPE_2022_564_113587_SI.pdf", 
   #   bib: "assets/publications/bib/69.Polat_FPE_2022_564_113587.bib"}
+  - { number: "83.",
+    title: "Water diffusion mechanisms in bitumen studied through molecular dynamics simulations",
+    authors: "Lili Ma, Hirad S. Salehi, Ruxin Jing, Sandra Erkens, Thijs J. H. Vlugt, Othonas A. Moultos, Michael L. Greenfield, Aikaterini Varveri", 
+    venue: "Construction and Building Materials (2023) 409, 133828", 
+    pdf: "assets/publications/83.Ma_CBM_2023_409_133828.pdf", 
+    SI: "assets/publications/SI/83.Ma_CBM_2023_409_133828_SI.pdf", 
+    bib: "assets/publications/bib/83.Ma_CBM_2023_409_133828.bib"}
   - { number: "82.",
     title: "Transient modelling of a multi-cell alkaline electrolyzer for gas crossover and safe system operation",
     authors: "Silvestros Oikonomidis, Mahinder Ramdin, Othonas A. Moultos, Albert Bos, Thijs J. H. Vlugt, Ahmadreza Rahbari", 
