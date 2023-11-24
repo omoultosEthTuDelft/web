@@ -5,7 +5,7 @@ title: "Publications"
 
 
 publications:
-  - { number: "84-86 not uploaded yet - check google scholar"}
+  - { number: "85 and 86 not uploaded yet - check google scholar"}
   # - { number: "75.",
   #   title: "Interfacial tensions, solubilities, and transport properties of the H2/H2O/NaCl System: A molecular dynamics simulatio study",
   #   authors: "W. A. van Rooijen, P. Habibi, K. Xu, T. J. H. Vlugt, H. Hadjibeygi, and Othonas A.Moultos", 
@@ -13,16 +13,22 @@ publications:
   #   pdf: "assets/publications/69.Polat_FPE_2022_564_113587.pdf", 
   #   SI: "assets/publications/SI/69.Polat_FPE_2022_564_113587_SI.pdf", 
   #   bib: "assets/publications/bib/69.Polat_FPE_2022_564_113587.bib"}
+  - { number: "84.",
+    title: "Predictive model for the intra-diffusion coefficients of H2 and O2 in vapour H2O based on data from molecular dynamics simulations",
+    authors: "Othonas A. Moultos and Ioannis N. Tsimpanogiannis", 
+    venue: "Molecular Physics (2023) 121, e2211889", 
+    pdf: "assets/publications/84.Moultos_MP_2023_121_e2211889.pdf", 
+    bib: "assets/publications/bib/84.Moultos_MP_2023_121_e2211889.bib"}
   - { number: "83.",
     title: "Water diffusion mechanisms in bitumen studied through molecular dynamics simulations",
-    authors: "Lili Ma, Hirad S. Salehi, Ruxin Jing, Sandra Erkens, Thijs J. H. Vlugt, Othonas A. Moultos, Michael L. Greenfield, Aikaterini Varveri", 
+    authors: "Lili Ma, Hirad S. Salehi, Ruxin Jing, Sandra Erkens, Thijs J. H. Vlugt, Othonas A. Moultos, Michael L. Greenfield, and Aikaterini Varveri", 
     venue: "Construction and Building Materials (2023) 409, 133828", 
     pdf: "assets/publications/83.Ma_CBM_2023_409_133828.pdf", 
     SI: "assets/publications/SI/83.Ma_CBM_2023_409_133828_SI.pdf", 
     bib: "assets/publications/bib/83.Ma_CBM_2023_409_133828.bib"}
   - { number: "82.",
     title: "Transient modelling of a multi-cell alkaline electrolyzer for gas crossover and safe system operation",
-    authors: "Silvestros Oikonomidis, Mahinder Ramdin, Othonas A. Moultos, Albert Bos, Thijs J. H. Vlugt, Ahmadreza Rahbari", 
+    authors: "Silvestros Oikonomidis, Mahinder Ramdin, Othonas A. Moultos, Albert Bos, Thijs J. H. Vlugt, and Ahmadreza Rahbari", 
     venue: "International Journal of Hydrogen Energy (2023) 48, 34210", 
     pdf: "assets/publications/82.Rahbari_IJHE_2023_48_34210.pdf",  
     bib: "assets/publications/bib/82.Rahbari_IJHE_2023_48_34210.bib"}
@@ -35,7 +41,7 @@ publications:
     bib: "assets/publications/bib/81.Ntone_SM_2023_19_6355.bib"}
   - { number: "80.",
     title: "Densities, viscosities, and diffusivities of loaded and unloaded aqueous CO2/H2S/MDEA mixtures: A molecular dynamics simulation study",
-    authors: "H. Mert Polat, Casper van der Geest, Frédérick de Meyer, Céline Houriez, Thijs J.H. Vlugt, Othonas A. Moultos", 
+    authors: "H. Mert Polat, Casper van der Geest, Frédérick de Meyer, Céline Houriez, Thijs J.H. Vlugt, and Othonas A. Moultos", 
     venue: "Fluid Phase Equilibria (2023) 575, 113913", 
     pdf: "assets/publications/80.Polat_FPE_2023_575_113913.pdf", 
     SI: "assets/publications/SI/80.Polat_FPE_2023_575_113913_SI.pdf", 
