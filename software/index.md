@@ -91,6 +91,35 @@ title: "Software"
     <img src="figures/caspy.jpg" alt="Mountains" width="700" height="auto">
   </a>
   <br/><br/>
-  <!-- <div class="desc"> MSc graduation of Ke Xu (TU Delft, July 2022)</div> -->
+</div>
+
+------------------------------------------------------------------------------------------------------------
+
+<br/>
+<br/>
+<br/>
+
+<!-- RE/GE -->
+
+<h4>
+    RE/GE MC: Monte Carlo code for performing simulations in the combined Reaction/Gibbs Ensemble
+  <!-- </a> -->
+</h4>
+<br/>
+
+<h5>  <span class="fa fa-github"></span><a href="https://github.com/omoultosEthTuDelft/Reaction-Gibbs-Ensemble-Monte-Carlo"> Code</a> </h5>
+
+
+<!-- <h5> <span class="fa fa-tasks"></span><a href="https://pubs.acs.org/doi/full/10.1021/acs.jctc.3c00144"> Publication</a></h5> -->
+
+
+<br/>
+
+
+<div class="gallery">
+  <a target="_blank" href="figures/regemc.jpg">
+    <img src="figures/regemc.jpg" alt="Mountains" width="700" height="auto">
+  </a>
+  <br/><br/>
 </div>
 
