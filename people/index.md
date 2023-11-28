@@ -26,6 +26,7 @@ title: "People"
 <h5>MSc students</h5>
 <section markdown="1">
 
+- [Debdutta Chatterjee](https://www.linkedin.com/in/debdutta-chatterjee-mechanicalengineering/?originalSubdomain=nl) <strong>Strategies for minimizing boil-off loses from stored liquified hydrogen</strong>.
 - [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr) <strong>Modeling of mass and heat transfer in modular alkaline electrolyzers</strong>.
 - [Hugo van Leeuwen](https://www.linkedin.com/in/hjvleeuwen/) <strong>Use of green hydrogen and sustainable carburization to Fe3C for the direct reduction of iron ore pellets: A numerical approach</strong>, w/ <a href="https://www.tatasteeleurope.com">TATA STEEL</a>.
 </section>
