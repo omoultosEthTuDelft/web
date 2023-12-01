@@ -38,6 +38,14 @@ div.desc {
 <!-- <div class="col-sm-14"> -->
 <br/>
 
+
+<div class="gallery">
+  <a target="_blank" href="photos/kennedySpaceCenter2023.jpg">
+    <img src="photos/kennedySpaceCenter2023.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> With <a href="https://tim-nijssen.nl">Tim Nijssen</a>  in <a href="https://www.kennedyspacecenter.com">Kennedy Space Center</a> (Merritt Island, FL, USA, November 2023)</div>
+</div>
+
 <div class="gallery">
   <a target="_blank" href="photos/total2023.jpg">
     <img src="photos/total2023.jpg" alt="Mountains" width="600" height="auto">
