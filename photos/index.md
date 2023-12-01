@@ -34,6 +34,8 @@ div.desc {
 </head>
 <body>
 
+<br/>
+Click on photos to enlarge.
 <div class="row">
 <!-- <div class="col-sm-14"> -->
 <br/>
