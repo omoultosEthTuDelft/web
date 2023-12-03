@@ -5,7 +5,7 @@ title: "Publications"
 
 
 publications:
-  - { number: "85-87 not uploaded yet - check google scholar"}
+  - { number: "86 and 87 not uploaded yet - check google scholar"}
   # - { number: "75.",
   #   title: "Interfacial tensions, solubilities, and transport properties of the H2/H2O/NaCl System: A molecular dynamics simulatio study",
   #   authors: "W. A. van Rooijen, P. Habibi, K. Xu, T. J. H. Vlugt, H. Hadjibeygi, and Othonas A.Moultos", 
@@ -13,6 +13,13 @@ publications:
   #   pdf: "assets/publications/69.Polat_FPE_2022_564_113587.pdf", 
   #   SI: "assets/publications/SI/69.Polat_FPE_2022_564_113587_SI.pdf", 
   #   bib: "assets/publications/bib/69.Polat_FPE_2022_564_113587.bib"}
+  - { number: "85.",
+    title: "Microscopic insights into poly- and mono-crystalline methane hydrate dissociation in Na-montmorillonite pores at static and dynamic fluid conditions",
+    authors: "Bin Fang, Tao Lü, Wei Li, Othonas A. Moultos, Thijs J. H. Vlugt, and Fulong Ning", 
+    venue: "Energy (2024) 288, 129755", 
+    pdf: "assets/publications/85.Fang_ENERGY_2024_288_129755.pdf", 
+    bib: "assets/publications/bib/85.Fang_ENERGY_2024_288_129755.bib",
+    SI: "assets/publications/SI/85.Fang_ENERGY_2024_288_129755_SI.pdf"}
   - { number: "84.",
     title: "Predictive model for the intra-diffusion coefficients of H2 and O2 in vapour H2O based on data from molecular dynamics simulations",
     authors: "Othonas A. Moultos and Ioannis N. Tsimpanogiannis", 
