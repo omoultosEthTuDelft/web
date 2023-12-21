@@ -108,6 +108,7 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- December 21, 2023: New paper in JCTC by Thejas: [Calculating Thermodynamic Factors for Diffusion Using the Continuous Fractional Component Monte Carlo Method](https://pubs.acs.org/doi/10.1021/acs.jctc.3c01144?ref=pdf).
 - November 28, 2023: New paper in Energy by Bin Fang: [Microscopic insights into poly- and mono-crystalline methane hydrate dissociation in Na-montmorillonite pores at static and dynamic fluid conditions](https://www.sciencedirect.com/science/article/pii/S0360544223031493?via%3Dihub).
 - November 3, 2023: The group will be attending the 2023 [AIChE Annual Meeting](https://www.aiche.org) in Orlando, FL!
 - October 28, 2023: New paper by Lili in Construction and Building Materials: [Water diffusion mechanisms in bitumen studied through molecular dynamics simulations](https://www.sciencedirect.com/science/article/pii/S0950061823035468). This is the first fruit from our collaboration with the Pavement Engineering group in CiTG.
