@@ -37,6 +37,13 @@ title: "People"
 - [Hugo van Leeuwen](https://www.linkedin.com/in/hjvleeuwen/) <strong>Use of green hydrogen and sustainable carburization to Fe3C for the direct reduction of iron ore pellets: A numerical approach</strong>, w/ <a href="https://www.tatasteeleurope.com">TATA STEEL</a>.
 </section>
 
+<br/><br/>
+<h5>Interns</h5>
+<section markdown="1">
+
+- [Timman van Oeveren](https://www.linkedin.com/in/timman-van-oeveren-26364a175/?originalSubdomain=nl) <strong>Design of a CO2 utilization system for carbonation in small breweries</strong>, w/ <a href="https://brew-right.com">BrewRight</a>.
+</section>
+
 
 <!-- <h5>BSc students</h5>
 <section markdown="1">
