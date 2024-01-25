@@ -108,6 +108,7 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- January 25, 2024: New paper by Silvia Lasala and a dreat team of themodynamics' researchers: [Application of thermodynamics at different scales to describe the behaviour of fast reacting binary mixtures in vapour-liquid equilibrium](https://www.sciencedirect.com/science/article/pii/S1385894724004467?via%3Dihub).
 - December 21, 2023: New paper in JCTC by Thejas: [Calculating Thermodynamic Factors for Diffusion Using the Continuous Fractional Component Monte Carlo Method](https://pubs.acs.org/doi/10.1021/acs.jctc.3c01144?ref=pdf).
 - November 28, 2023: New paper in Energy by Bin Fang: [Microscopic insights into poly- and mono-crystalline methane hydrate dissociation in Na-montmorillonite pores at static and dynamic fluid conditions](https://www.sciencedirect.com/science/article/pii/S0360544223031493?via%3Dihub).
 - November 3, 2023: The group will be attending the 2023 [AIChE Annual Meeting](https://www.aiche.org) in Orlando, FL!
