@@ -5,7 +5,7 @@ title: "Publications"
 
 
 publications:
-  - { number: "86 - 88 not uploaded yet - check google scholar"}
+  - { number: "87 and 88 not uploaded yet - check google scholar"}
   # - { number: "75.",
   #   title: "Interfacial tensions, solubilities, and transport properties of the H2/H2O/NaCl System: A molecular dynamics simulatio study",
   #   authors: "W. A. van Rooijen, P. Habibi, K. Xu, T. J. H. Vlugt, H. Hadjibeygi, and Othonas A.Moultos", 
@@ -13,6 +13,12 @@ publications:
   #   pdf: "assets/publications/69.Polat_FPE_2022_564_113587.pdf", 
   #   SI: "assets/publications/SI/69.Polat_FPE_2022_564_113587_SI.pdf", 
   #   bib: "assets/publications/bib/69.Polat_FPE_2022_564_113587.bib"}
+  - { number: "86.",
+    title: "Calculating Thermodynamic Factors for Diffusion Using the Continuous Fractional Component Monte Carlo Method",
+    authors: "Thejas Hulikal Chakrapani, Hadi Hajibeygi, Othonas A. Moultos, and Thijs J. H. Vlugt", 
+    venue: "Journal of Chemical Theory and Computation (2024) 20, 333", 
+    pdf: "assets/publications/86.Chakrapani_JCTC_2024_20_333.pdf", 
+    bib: "assets/publications/bib/86.Chakrapani_JCTC_2024_20_333.bib"}
   - { number: "85.",
     title: "Microscopic insights into poly- and mono-crystalline methane hydrate dissociation in Na-montmorillonite pores at static and dynamic fluid conditions",
     authors: "Bin Fang, Tao Lü, Wei Li, Othonas A. Moultos, Thijs J. H. Vlugt, and Fulong Ning", 
