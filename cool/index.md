@@ -27,12 +27,12 @@ Dr. Reza Rahbari</a> as a part of our <a href="https://www.rvo.nl">RVO</a> funde
 <video width="700" height="auto" controls>
   <source src="videos/nafionMD.mp4" type="video/mp4">
 </video><p> MD simulation of the electroosmotic drag of H+ in a nafion membrane (<font color="red">protons</font>, <font color="blue">water</font>). Such membranes are used in electrochemical hydrogen compressors. The simulations were performed by <a href="https://www.linkedin.com/in/arahbari/?originalSubdomain=nl">
-Dr. Reza Rahbari</a> as a part of our <a href="https://www.rvo.nl">RVO</a> funded project "Hy & Dry", in collaboration with <a href="https://hyethydrogen.com">HyET Hydrogen</a> (publication in Journal of Physical Chemistry C <a href="../assets/publications/65.Rahbari_JPCC_2022_asap.pdf">here)</a>.  </p>
+Dr. Reza Rahbari</a> as a part of our <a href="https://www.rvo.nl">RVO</a> funded project "Hy & Dry", in collaboration with <a href="https://hyethydrogen.com">HyET Hydrogen</a> (publication in Journal of Physical Chemistry C <a href="../assets/publications/65.Rahbari_JPCC_2022_126_8121.pdf">here)</a>.  </p>
 
 
 <video width="700" height="auto" controls>
   <source src="videos/martiniFusion.mp4" type="video/mp4">
-</video><p> MD simulation using the Martini coarse-grained potential showing the merging of an oleosome with triacylglycerol droplet. The simulations were performed by Benjamin Rosenbaum as part of a collaborative project with the group of <a href="https://www.wur.nl/en/Persons/Costas-dr.-K-Costas-Nikiforidis.htm">Dr. Costas Nikiforidis</a> from <a href="https://www.wur.nl/en.htm">WUR</a>.</p> 
+</video><p> MD simulation using the Martini coarse-grained potential showing the merging of an oleosome with triacylglycerol droplet. The simulations were performed by Benjamin Rosenbaum as part of a collaborative project with the group of <a href="https://www.wur.nl/en/Persons/Costas-dr.-K-Costas-Nikiforidis.htm">Dr. Costas Nikiforidis</a> from <a href="https://www.wur.nl/en.htm">WUR</a> (publication in Soft Matter <a href="../assets/publications/81.Ntone_SM_2023_19_6355.pdf">here)</a>.</p> 
 <br/>
 <br/>
 
