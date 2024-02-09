@@ -17,12 +17,12 @@ title: "Cool"
 <div class="col-md-9">
 <br/>
 
-<!-- <video width="700" height="auto" controls>
-  <source src="videos/waterAIMD.mp4" type="video/mp4">
-</video><p> Ab initio MD simulation of water. The simulations were performed by <a href="https://www.linkedin.com/in/arahbari/?originalSubdomain=nl">
-Dr. Reza Rahbari</a> as a part of our <a href="https://www.rvo.nl">RVO</a> funded project "Hy & Dry", in collaboration with <a href="https://hyethydrogen.com">HyET Hydrogen</a> (publication in Journal of Physical Chemistry C <a href="../assets/publications/65.Rahbari_JPCC_2022_asap.pdf">here)</a>.  </p>
 
- -->
+<video width="350" height="auto" controls> 
+  <source src="videos/np_collagen.mp4" type="video/mp4">
+</video><p> MD simulation.... The simulations were performed by <a href="https://porelab.no/2020/09/03/wecome-to-sebastian/">
+Sebastian Price</a> (publication submitted in Journal of Chemical Physics.  </p>
+
 
 <video width="700" height="auto" controls>
   <source src="videos/nafionMD.mp4" type="video/mp4">
