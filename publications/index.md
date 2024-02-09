@@ -5,7 +5,7 @@ title: "Publications"
 
 
 publications:
-  - { number: "89 not uploaded yet - check google scholar"}
+  # - { number: "89 not uploaded yet - check google scholar"}
   - { number: "88.",
     title: "Application of thermodynamics at different scales to describe the behaviour of fast reacting binary mixtures in vapour-liquid equilibrium",
     authors: "Silvia Lasala, Konstantin Samukov, H. Mert Polat, Véronique Lachet, Olivier Herbinet, Romain Privat, Jean-Noël Jaubert, Othonas A. Moultos, Kevin De Ras, and Thijs J. H. Vlugt", 
