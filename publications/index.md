@@ -5,14 +5,21 @@ title: "Publications"
 
 
 publications:
-  - { number: "87 - 89 not uploaded yet - check google scholar"}
-  # - { number: "75.",
-  #   title: "Interfacial tensions, solubilities, and transport properties of the H2/H2O/NaCl System: A molecular dynamics simulatio study",
-  #   authors: "W. A. van Rooijen, P. Habibi, K. Xu, T. J. H. Vlugt, H. Hadjibeygi, and Othonas A.Moultos", 
-  #   venue: "Journal of Chemical & Engineering Data (2023) In press", 
-  #   pdf: "assets/publications/69.Polat_FPE_2022_564_113587.pdf", 
-  #   SI: "assets/publications/SI/69.Polat_FPE_2022_564_113587_SI.pdf", 
-  #   bib: "assets/publications/bib/69.Polat_FPE_2022_564_113587.bib"}
+  - { number: "89 not uploaded yet - check google scholar"}
+  - { number: "88.",
+    title: "Application of thermodynamics at different scales to describe the behaviour of fast reacting binary mixtures in vapour-liquid equilibrium",
+    authors: "Silvia Lasala, Konstantin Samukov, H. Mert Polat, Véronique Lachet, Olivier Herbinet, Romain Privat, Jean-Noël Jaubert, Othonas A. Moultos, Kevin De Ras, and Thijs J. H. Vlugt", 
+    venue: "Chemical Engineering Journal (2024) 483, 148961", 
+    pdf: "assets/publications/88.Lasala_CEJ_2024_483_148961.pdf", 
+    SI: "assets/publications/SI/88.Lasala_CEJ_2024_483_148961_SI.pdf", 
+    bib: "assets/publications/bib/88.Lasala_CEJ_2024_483_148961.bib"}
+  - { number: "87.",
+    title: "Interfacial tensions, solubilities, and transport properties of the H2/H2O/NaCl System: A molecular dynamics simulatio study",
+    authors: "W. A. van Rooijen, P. Habibi, K. Xu, T. J. H. Vlugt, H. Hadjibeygi, and Othonas A.Moultos", 
+    venue: "Journal of Chemical & Engineering Data (2024) 69, 307", 
+    pdf: "assets/publications/87.vanRooijen_JCED_2024_69_307.pdf", 
+    SI: "assets/publications/SI/87.vanRooijen_JCED_2024_69_307_SI.pdf", 
+    bib: "assets/publications/bib/87.vanRooijen_JCED_2024_69_307.bib"}
   - { number: "86.",
     title: "Calculating Thermodynamic Factors for Diffusion Using the Continuous Fractional Component Monte Carlo Method",
     authors: "Thejas Hulikal Chakrapani, Hadi Hajibeygi, Othonas A. Moultos, and Thijs J. H. Vlugt", 
