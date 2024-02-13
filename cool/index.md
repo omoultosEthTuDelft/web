@@ -47,7 +47,7 @@ Dr. Reza Rahbari</a> as a part of our <a href="https://www.rvo.nl">RVO</a> funde
   <source src="videos/np_collagen.mp4" type="video/mp4">
 </video></center><p> MD simulation of nanoparticles
 (blue) diffusing in a gel network (red). Simulations performed by <a href="https://porelab.no/2020/09/03/wecome-to-sebastian/">
-Sebastian Price</a> (publication submitted in Journal of Chemical Physics.  </p>
+Sebastian Price</a> (publication submitted in the Journal of Chemical Physics).  </p>
 
 <!-- <video width="800" height="auto" controls>
   <source src="videos/nemdMFISeyed.mp4" type="video/mp4">
