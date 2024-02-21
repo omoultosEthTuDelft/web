@@ -45,6 +45,9 @@ My research and teaching activities focus on the application of molecular thermo
 <div class="alert alert-danger" role="alert" markdown="1"> <a href="https://thermodynamics2024.org"><strong>Submit your abstract </strong></a>for the 28th Thermodynamics Conference (Delft, 4-6 September 2024).
 </div> 
 
+<div class="alert alert-success" role="alert" markdown="1"> <a href="https://iraspa.org/workshops/iraspa-raspa-workshop-delft-2024/"><strong>Registrations are open </strong></a>for the Raspa Workshop (Delft, 4-6 September 2024).
+</div> 
+
 
 
 <div style="text-align: justify;" class="col-sm-8">
