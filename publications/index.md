@@ -6,6 +6,14 @@ title: "Publications"
 
 publications:
   # - { number: "89 not uploaded yet - check google scholar"}
+  - { number: "89.",
+    title: "Solubilities and Self-Diffusion Coefficients of Light n‑Alkanes in NaCl Solutions at the Temperature Range (278.15−308.15) K and Pressure Range (1−300) bar and Thermodynamics Properties of Their Corresponding Hydrates at (150−290) K and (1−7000) bar",
+    authors: "Bin Fang, Parsa Habibi, Othonas A. Moultos, Tao Lü, Fulong Ning, and Thijs J. H. Vlugt", 
+    venue: "Journal of Chemical & Engineering Data (2024) In Press", 
+    #pdf: "assets/publications/88.Lasala_CEJ_2024_483_148961.pdf", 
+    #SI: "assets/publications/SI/88.Lasala_CEJ_2024_483_148961_SI.pdf", 
+    #bib: "assets/publications/bib/88.Lasala_CEJ_2024_483_148961.bib"
+    }
   - { number: "88.",
     title: "Application of thermodynamics at different scales to describe the behaviour of fast reacting binary mixtures in vapour-liquid equilibrium",
     authors: "Silvia Lasala, Konstantin Samukov, H. Mert Polat, Véronique Lachet, Olivier Herbinet, Romain Privat, Jean-Noël Jaubert, Othonas A. Moultos, Kevin De Ras, and Thijs J. H. Vlugt", 
