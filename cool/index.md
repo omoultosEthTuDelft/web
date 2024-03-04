@@ -29,7 +29,7 @@ Dr. Reza Rahbari</a> as a part of our <a href="https://www.rvo.nl">RVO</a> funde
 <center>
 <video width="600" height="auto" controls>
   <source src="videos/martiniFusion.mp4" type="video/mp4">
-</video></center><p> MD simulation using the Martini coarse-grained potential showing the merging of an oleosome with triacylglycerol droplet. The simulations were performed by Benjamin Rosenbaum as part of a collaborative project with the group of <a href="https://www.wur.nl/en/Persons/Costas-dr.-K-Costas-Nikiforidis.htm">Dr. Costas Nikiforidis</a> from <a href="https://www.wur.nl/en.htm">WUR</a> (publication in Soft Matter <a href="../assets/publications/81.Ntone_SM_2023_19_6355.pdf">here)</a>.</p> 
+</video></center><p> MD simulation using the Martini coarse-grained potential showing the merging of an oleosome with a triacylglycerol droplet. The simulations were performed by Benjamin Rosenbaum as part of a collaborative project with the group of <a href="https://www.wur.nl/en/Persons/Costas-dr.-K-Costas-Nikiforidis.htm">Dr. Costas Nikiforidis</a> from <a href="https://www.wur.nl/en.htm">WUR</a> (publication in Soft Matter <a href="../assets/publications/81.Ntone_SM_2023_19_6355.pdf">here)</a>.</p> 
 
 
 <br/>
