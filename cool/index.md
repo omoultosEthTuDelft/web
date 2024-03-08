@@ -18,12 +18,25 @@ title: "Cool"
 <br/>
 
 
-
 <center>
-<video width="390" height="auto" controls>
+<video width="500" height="auto" controls>
   <source src="videos/nafionMD.mp4" type="video/mp4">
 </video></center><p> MD simulation of the electroosmotic drag of H+ in a nafion membrane (<font color="red">protons</font>, <font color="blue">water</font>). Such membranes are used in electrochemical hydrogen compressors. The simulations were performed by <a href="https://www.linkedin.com/in/arahbari/?originalSubdomain=nl">
 Dr. Reza Rahbari</a> as a part of our <a href="https://www.rvo.nl">RVO</a> funded project "Hy & Dry", in collaboration with <a href="https://hyethydrogen.com">HyET Hydrogen</a> (publication in Journal of Physical Chemistry C <a href="../assets/publications/65.Rahbari_JPCC_2022_126_8121.pdf">here)</a>.  </p>
+
+
+<center>
+<video width="530" height="auto" controls> 
+  <source src="videos/hydrates_organics.mp4" type="video/mp4">
+</video>
+<video width="500" height="auto" controls> 
+  <source src="videos/hydrates_nanotube.mp4" type="video/mp4">
+</video>
+
+</center><p> MD simulations of CH4 hydrate nucleation: (Top) from organoclay salt solutions in the presence of organic molecules and (Bottom) around a spiral halloysite nanotube. Simulations performed by 
+<!-- <a href="https://porelab.no/2020/09/03/wecome-to-sebastian/"> -->
+Fengyi Mi.
+<!-- </a> (publication submitted in the Journal of Chemical Physics).  </p> -->
 
 
 <center>
@@ -43,14 +56,25 @@ Dr. Reza Rahbari</a> as a part of our <a href="https://www.rvo.nl">RVO</a> funde
 <br/>
 <br/>
 <center>
-<video width="350" height="auto" controls> 
+<video width="450" height="auto" controls> 
   <source src="videos/np_collagen.mp4" type="video/mp4">
 </video></center><p> MD simulation of nanoparticles
 (blue) diffusing in a gel network (red). Simulations performed by <a href="https://porelab.no/2020/09/03/wecome-to-sebastian/">
 Sebastian Price</a> (publication submitted in the Journal of Chemical Physics).  </p>
 
+<br/>
+<br/>
+
+
+<center>
+<video width="500" height="auto" controls> 
+  <source src="videos/water_AIMD.mp4" type="video/mp4">
+</video>
+</center><p> Ab initio MD simulation of water. Simulations performed by <a href="https://www.linkedin.com/in/vladimir-jelle-lagerweij-21654021b/?originalSubdomain=nl">Jelle Lagerweij</a></p>
+
 <!-- <video width="800" height="auto" controls>
   <source src="videos/nemdMFISeyed.mp4" type="video/mp4">
 </video><p> A non equilibrium MD simulation of water desalination using an MFI zeolite <a href="https://www.wur.nl/en/Persons/Costas-dr.-K-Costas-Nikiforidis.htm">Dr. Seyed Jamali</a> during his PhD.</p>  -->
-
-</div>
+<br/>
+<br/>
+<!-- </div> -->
