@@ -111,6 +111,7 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- March 20, 2024: New review paper out: [Diffusivity of CO2 in H2O: A Review of Experimental Studies and Molecular Simulations in the Bulk and in Confinement](https://doi.org/10.1021/acs.jced.3c00778).
 - March 11, 2024: We had the kick-off meeting of the [SYROP project](https://www.tudelft.nl/en/2023/3me/news/othon-moultos-has-been-awarded-an-nwo-otp-grant-of-1-million-euros-for-water-treatment-research)! We are going to design novel, efficient, and sustainable adsorbents to clean water from PFAS along with our partners 
 - January 25, 2024: New paper by Silvia Lasala and a dream team of themodynamics' researchers: [Application of thermodynamics at different scales to describe the behaviour of fast reacting binary mixtures in vapour-liquid equilibrium](https://www.sciencedirect.com/science/article/pii/S1385894724004467?via%3Dihub).
 - December 21, 2023: New paper in JCTC by Thejas: [Calculating Thermodynamic Factors for Diffusion Using the Continuous Fractional Component Monte Carlo Method](https://pubs.acs.org/doi/10.1021/acs.jctc.3c01144?ref=pdf).
