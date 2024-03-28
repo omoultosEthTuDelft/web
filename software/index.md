@@ -110,7 +110,7 @@ title: "Software"
 <h5>  <span class="fa fa-github"></span><a href="https://github.com/omoultosEthTuDelft/Reaction-Gibbs-Ensemble-Monte-Carlo"> Code</a> </h5>
 
 
-<!-- <h5> <span class="fa fa-tasks"></span><a href="https://pubs.acs.org/doi/full/10.1021/acs.jctc.3c00144"> Publication</a></h5> -->
+<h5> <span class="fa fa-tasks"></span><a href="https://doi.org/10.1016/j.fluid.2024.114084"> Publication</a></h5>
 
 
 <br/>
