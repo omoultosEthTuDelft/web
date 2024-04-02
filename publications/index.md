@@ -105,7 +105,7 @@ publications:
     bib: "assets/publications/bib/77.Gioldasis_POLYMERS_2023_15_3024.bib"}
   - { number: "76.",
     title: "Carbonation in Low-Temperature CO2 Electrolyzers: Causes, Consequences, and Solutions",
-    authors: "Mahinder Ramdin, Othonas A. Moultos, Leo J. P. van den Broeke, Prasad Gonugunta, Peyman Taheri, and Thijs J. H. Vlugt", 
+    authors: "Mahinder Ramdin, Othonas A. Moultos, Leo J. P. van den Broeke, Prasad Gonugunta, Peyman Taheri, and Thijs J. H. Vlugt",
     venue: "Industrial & Engineering Chemistry Research (2023) 62, 6843", 
     pdf: "assets/publications/76.Ramdin_IECR_2023_62_6843.pdf", 
     bib: "assets/publications/bib/76.Ramdin_IECR_2023_62_6843.bib"}
@@ -650,6 +650,7 @@ publications:
   <h6><span class="badge badge-danger" role="button">{{ pub.label }}</span></h6>
   <h6><span class="badge badge-success" role="button">{{ pub.number }}</span></h6>
   <h6><span class="badge badge-danger" role="button">{{ pub.year }}</span></h6>
+  <!-- <h8><span class="badge badge-info" role="button">{{ pub.test }}</span></h8> -->
   <!-- <br/> -->
   {% if pub('pdf')? %}<a href="{{ site.url}}/{{ pub.pdf }}" class="badge badge-pill  badge-warning" role="button"><i class="fa fa-download"></i>&nbsp;PDF</a>{% endif %}
   {% if pub('poster')? %}<a href="{{ site.url}}/{{ pub.poster }}" class="badge badge-pill  badge-info" role="button"><i class="fa fa-download"></i>&nbsp;Poster</a>{% endif %}
