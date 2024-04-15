@@ -38,8 +38,13 @@ div.desc {
 Click on photos to enlarge.
 <div class="row">
 <!-- <div class="col-sm-14"> -->
-<br/>
 
+<div class="gallery">
+  <a target="_blank" href="photos/lili.jpg">
+    <img src="photos/lili.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> With <a href="https://www.linkedin.com/in/lili-ma-94e/?originalSubdomain=nl">Lili Ma</a> after her successful PhD defense. (TU Deflt, April 2024)</div>
+</div>
 
 <div class="gallery">
   <a target="_blank" href="photos/kennedySpaceCenter2023.jpg">

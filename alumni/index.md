@@ -23,6 +23,7 @@ title: "Alumni"
 <h5>Former MSc students</h5>
 <section markdown="1">
 
+- [Hugo van Leeuwen](https://www.linkedin.com/in/hjvleeuwen/) <strong>Use of green hydrogen and sustainable carburization to Fe3C for the direct reduction of iron ore pellets</strong>.
 - [Camiel Grevet](https://www.linkedin.com/in/camiel-grevet-71b73674/), 2022-2023. [<strong>Engineering Design of a Modular Hydrogen Production System</strong>](https://repository.tudelft.nl/islandora/object/uuid:0aed6be5-c2d3-4baa-9e3d-2e9f87f4b0b0). Now at [JOA Air Solutions](https://joaairsolutions.com/).
 - [Vladimir Jelle Lagerweij](https://www.linkedin.com/in/vladimir-jelle-lagerweij-21654021b/?originalSubdomain=nl), 2022-2023. <strong>Quantum to Transport: Modeling Transport Properties of Aqueous Potassium Hydroxide by Machine Learning Molecular Force Fields from Quantum Mechanics</strong>. Now doing his PhD with us!
 - [Jose Antonio Gonzalez Morales](https://www.linkedin.com/in/josé-antonio-gonzález-morales-/?originalSubdomain=es), 2022-2023. [<strong>Design of non-flow solid hydrogen storage for long-distance maritime applications</strong>](https://repository.tudelft.nl/islandora/object/uuid%3Afe711671-afe6-4f0d-8dea-e52e14e3c820). Now at [NFT](https://www.linkedin.com/company/new-future-on-track/), Spain.
