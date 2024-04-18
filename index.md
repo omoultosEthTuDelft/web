@@ -111,7 +111,8 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
-- April 12, 2024. Hugo completed his MSc on the "Use of green hydrogen and sustainable carburization to Fe3C for the direct reduction of iron ore pellets" with us and TATA Steel NL. Many congratulations.
+- April 18, 2024: New paper by Parsa in JPC Letters out! [Accurate Free Energies of Aqueous Electrolyte Solutions from Molecular Simulations with Non-polarizable Force Fields](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c00428). 
+- April 12, 2024: Hugo completed his MSc on the "Use of green hydrogen and sustainable carburization to Fe3C for the direct reduction of iron ore pellets" with us and TATA Steel NL. Many congratulations.
 - March 28, 2024: New paper by Mert: [Scaling towards the critical point in the combined reaction/Gibbs ensemble](https://www.sciencedirect.com/science/article/pii/S037838122400061X?ref=pdf_download&fr=RR-2&rr=86b8825d3bb61d88).
 - March 20, 2024: New review paper out: [Diffusivity of CO2 in H2O: A Review of Experimental Studies and Molecular Simulations in the Bulk and in Confinement](https://doi.org/10.1021/acs.jced.3c00778).
 - March 11, 2024: We had the kick-off meeting of the [SYROP project](https://www.tudelft.nl/en/2023/3me/news/othon-moultos-has-been-awarded-an-nwo-otp-grant-of-1-million-euros-for-water-treatment-research)! We are going to design novel, efficient, and sustainable adsorbents to clean water from PFAS along with our partners 

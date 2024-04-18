@@ -40,6 +40,13 @@ Click on photos to enlarge.
 <!-- <div class="col-sm-14"> -->
 
 <div class="gallery">
+  <a target="_blank" href="photos/Hugo.jpg">
+    <img src="photos/Hugo.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> MSc graduation of Hugo van Leeuwen. People from left to right: Poulumi Dey, Hugo, Otto, Peter van den Broeke (TATASteel) (Delft, April 2024)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/lili.jpg">
     <img src="photos/lili.jpg" alt="Mountains" width="600" height="auto">
   </a>

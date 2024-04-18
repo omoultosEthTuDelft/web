@@ -5,6 +5,10 @@ title: "Publications"
 
 
 publications:
+  - { number: "92.",
+    title: "Accurate Free Energies of Aqueous Electrolyte Solutions from Molecular Simulations with Non-polarizable Force Fields",
+    authors: "Parsa Habibi, H. Mert Polat, Samuel Blazquez, Carlos Vega, Poulumi Dey, Thijs J. H. Vlugt, and Othonas A. Moultos", 
+    venue: "Journal of Physical Chemistrty Letters (2024) In Press. DOI: https://doi.org/10.1021/acs.jpclett.4c00428"}
   - { number: "91.",
     title: "Diffusivity of CO2 in H2O: A Review of Experimental Studies and Molecular Simulations in the Bulk and in Confinement",
     authors: "H. Mert. Polat, Felipe M. Coelho, Thijs J. H. Vlugt, Luís Fernando Mercier Franco, Ioannis N. Tsimpanogiannis, and Othonas A. Moultos", 
