@@ -5,18 +5,24 @@ title: "Publications"
 
 
 publications:
-  - { number: "92.",
+  - { number: "93.",
     title: "Accurate Free Energies of Aqueous Electrolyte Solutions from Molecular Simulations with Non-polarizable Force Fields",
     authors: "Parsa Habibi, H. Mert Polat, Samuel Blazquez, Carlos Vega, Poulumi Dey, Thijs J. H. Vlugt, and Othonas A. Moultos", 
     venue: "Journal of Physical Chemistrty Letters (2024) In Press. DOI: https://doi.org/10.1021/acs.jpclett.4c00428"}
-  - { number: "91.",
+  - { number: "92.",
     title: "Diffusivity of CO2 in H2O: A Review of Experimental Studies and Molecular Simulations in the Bulk and in Confinement",
     authors: "H. Mert. Polat, Felipe M. Coelho, Thijs J. H. Vlugt, Luís Fernando Mercier Franco, Ioannis N. Tsimpanogiannis, and Othonas A. Moultos", 
     venue: "Journal of Chemical & Engineering Data (2024) In Press. DOI: https://doi.org/10.1021/acs.jced.3c00778"}
-  - { number: "90.",
+  - { number: "91.",
     title: "Solubilities and Self-Diffusion Coefficients of Light n‑Alkanes in NaCl Solutions at the Temperature Range (278.15−308.15) K and Pressure Range (1−300) bar and Thermodynamics Properties of Their Corresponding Hydrates at (150−290) K and (1−7000) bar",
     authors: "Bin Fang, Parsa Habibi, Othonas A. Moultos, Tao Lü, Fulong Ning, and Thijs J. H. Vlugt", 
     venue: "Journal of Chemical & Engineering Data (2024) In Press. DOI: https://doi.org/10.1021/acs.jced.3c00225"}
+  - { number: "90.",
+    title: "Ultrasound enhanced diffusion in hydrogels: An experimental and non-equilibrium molecular dynamics study",
+    authors: "Sebastian E. N. Price, Caroline Einen, Othonas A. Moultos, Thijs J. H. Vlugt, Catharina de Lange Davies, Erika Eiser, and Anders Lervik", 
+    venue: "Journal of Chemical Physics (2024) 160, 154906",
+    pdf: "assets/publications/90.Price_JCP_2024_160_154906.pdf",
+    bib: "assets/publications/bib/90.Price_JCP_2024_160_154906.bib"}
   - { number: "89.",
     title: "Scaling towards the critical point in the combined reaction/Gibbs ensemble",
     authors: "H. Mert Polat, Silvia Lasala, Frédérick de Meyer, Céline Houriez, Othonas A. Moultos, and Thijs J.H. Vlugt", 

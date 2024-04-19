@@ -111,6 +111,7 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- April 19, 2024: New paper by Sebastian Price: [Ultrasound enhanced diffusion in hydrogels: An experimental and non-equilibrium molecular dynamics study](https://pubs.aip.org/aip/jcp/article/160/15/154906/3283306/Ultrasound-enhanced-diffusion-in-hydrogels-An).
 - April 18, 2024: New paper by Parsa in JPC Letters out! [Accurate Free Energies of Aqueous Electrolyte Solutions from Molecular Simulations with Non-polarizable Force Fields](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c00428). 
 - April 12, 2024: Hugo completed his MSc on the "Use of green hydrogen and sustainable carburization to Fe3C for the direct reduction of iron ore pellets" with us and TATA Steel NL. Many congratulations.
 - March 28, 2024: New paper by Mert: [Scaling towards the critical point in the combined reaction/Gibbs ensemble](https://www.sciencedirect.com/science/article/pii/S037838122400061X?ref=pdf_download&fr=RR-2&rr=86b8825d3bb61d88).
