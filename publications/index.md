@@ -5,6 +5,10 @@ title: "Publications"
 
 
 publications:
+  - { number: "94.",
+    title: "Mutual Diffusivities of Mixtures of Carbon Dioxide and Hydrogen and Their Solubilities in Brine: Insight from Molecular Simulations",
+    authors: "Thejas Hulikal Chakrapani, Hadi Hajibeygi, Othonas A. Moultos, and Thijs J. H. Vlugt", 
+    venue: "Industrial & Engineering Chemistry Research (2024) In Press. DOI: https://doi.org/10.1021/acs.iecr.4c01078"}
   - { number: "93.",
     title: "Diffusivity of CO2 in H2O: A Review of Experimental Studies and Molecular Simulations in the Bulk and in Confinement",
     authors: "H. Mert. Polat, Felipe M. Coelho, Thijs J. H. Vlugt, Luís Fernando Mercier Franco, Ioannis N. Tsimpanogiannis, and Othonas A. Moultos", 
