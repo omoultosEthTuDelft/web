@@ -40,6 +40,27 @@ Click on photos to enlarge.
 <!-- <div class="col-sm-14"> -->
 
 <div class="gallery">
+  <a target="_blank" href="photos/glowgolf.jpg">
+    <img src="photos/glowgolf.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> With the whole Engineering Thermodynamics group at glow golf. (Schiedam, June 2024)</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="photos/brewery.jpg">
+    <img src="photos/brewery.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> Who said that designing CO2 capture systems cannot also be fun? Here at the <a href="https://www.gooischebierbrouwerij.nl">Gooische bierbrouwerij</a> with our partners from <a href="https://brew-right.com">BrewRight</a>. (Hilversum, June 2024)</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="photos/10kRun.jpg">
+    <img src="photos/10kRun.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> With Remco Hartkamp after finishing the Campusrun 2024 10 kilometer run. My time: 50:46 (Delft, June 2024)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/Hugo.jpg">
     <img src="photos/Hugo.jpg" alt="Mountains" width="600" height="auto">
   </a>
