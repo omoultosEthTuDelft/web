@@ -11,7 +11,7 @@ title: "Alumni"
 
 <section markdown="1">
 
-- [Dr. Ir. Máté Erdös](https://www.linkedin.com/in/mateerdos/), 2017-2022. <strong><a href="theses/MateErdos.pdf">Molecular simulation of nanoporous materials: Application to metal organic frameworks, zeolites, and cyclodextrins</a></strong>. Now at [ChemAxon](https://chemaxon.com).
+- [Dr. Ir. Máté Erdös](https://www.linkedin.com/in/mateerdos/), 2017-2022. <strong><a href="theses/MateErdos.pdf">Molecular simulation of nanoporous materials: Application to metal organic frameworks, zeolites, and cyclodextrins</a></strong>. Now at [Itron](https://na.itron.com).
 - [Dr. Ir. Hirad Seyed Salehi](https://www.linkedin.com/in/hiradsalehi/?originalSubdomain=nl), 2017-2022. <strong><a href="theses/HiradSalehi.pdf">Molecular simulation of Deep Eutectic Solvents</a></strong>. Now at [ASML](https://www.asml.com/en/careers).
 - [Dr. Noura Dawass](https://www.linkedin.com/in/noura-dawass-115358216/?originalSubdomain=qa), 2016-2021. <strong><a href="theses/NouraDawass.pdf">Kirkwood-Buff integrals from molecular simulations</a></strong>. Now at [TAMUQ](https://www.qatar.tamu.edu/programs/chemical-engineering/).
 - [Dr. Ir. Seyed Hossein Jamali](https://www.linkedin.com/in/shjamali/?originalSubdomain=nl), 2015-2020. <strong> <a href="theses/SeyedJamali.pdf">Transport properties of fluids: Methodology and force field development using molecular dynamics simulations</a></strong>. Now at [TATA STEEL](https://www.tatasteeleurope.com/nl/home).
