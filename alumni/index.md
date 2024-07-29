@@ -23,6 +23,7 @@ title: "Alumni"
 <h5>Former MSc students</h5>
 <section markdown="1">
 
+- [Debdutta Chatterjee](https://www.linkedin.com/in/debdutta-chatterjee-mechanicalengineering/?originalSubdomain=nl) <strong>Strategies for minimizing boil-off loses from stored liquified hydrogen</strong>.
 - [Hugo van Leeuwen](https://www.linkedin.com/in/hjvleeuwen/) <strong>Use of green hydrogen and sustainable carburization to Fe3C for the direct reduction of iron ore pellets</strong>.
 - [Camiel Grevet](https://www.linkedin.com/in/camiel-grevet-71b73674/), 2022-2023. [<strong>Engineering Design of a Modular Hydrogen Production System</strong>](https://repository.tudelft.nl/islandora/object/uuid:0aed6be5-c2d3-4baa-9e3d-2e9f87f4b0b0). Now at [JOA Air Solutions](https://joaairsolutions.com/).
 - [Vladimir Jelle Lagerweij](https://www.linkedin.com/in/vladimir-jelle-lagerweij-21654021b/?originalSubdomain=nl), 2022-2023. <strong>Quantum to Transport: Modeling Transport Properties of Aqueous Potassium Hydroxide by Machine Learning Molecular Force Fields from Quantum Mechanics</strong>. Now doing his PhD with us!
