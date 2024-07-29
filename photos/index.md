@@ -40,6 +40,13 @@ Click on photos to enlarge.
 <!-- <div class="col-sm-14"> -->
 
 <div class="gallery">
+  <a target="_blank" href="photos/debdutta.jpg">
+    <img src="photos/debdutta.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> MSc graduation of Debdutta Chatterjee with Cum Laude!!! People from left to right: Lindert van Biert, Otto, Debdutta, Mahinder Ramdin, and Tim Nijssen. (Delft, July 2024)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/glowgolf.jpg">
     <img src="photos/glowgolf.jpg" alt="Mountains" width="600" height="auto">
   </a>
