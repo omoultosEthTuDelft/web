@@ -111,6 +111,7 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- August 2, 2024: New paper by Parsa Habibi in JCP: [Effect of dissolved KOH and NaCl on the solubility of water in hydrogen: A Monte Carlo simulation study](https://pubs.aip.org/aip/jcp/article/161/5/054304/3305718/Effect-of-dissolved-KOH-and-NaCl-on-the-solubility).
 - July 29, 2024: [Debdutta Chatterjee](https://www.linkedin.com/in/debdutta-chatterjee-mechanicalengineering/?originalSubdomain=nl) graduated a grade of 9 and Cum Laude!!!
 - May 31, 2024: New paper by Thejas in  Industrial & Engineering Chemistry Research: [Mutual Diffusivities of Mixtures of Carbon Dioxide and Hydrogen and Their Solubilities in Brine: Insight from Molecular Simulations](https://pubs.acs.org/doi/full/10.1021/acs.iecr.4c01078).
 - April 19, 2024: New paper by Sebastian Price: [Ultrasound enhanced diffusion in hydrogels: An experimental and non-equilibrium molecular dynamics study](https://pubs.aip.org/aip/jcp/article/160/15/154906/3283306/Ultrasound-enhanced-diffusion-in-hydrogels-An).
