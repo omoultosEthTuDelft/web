@@ -5,18 +5,29 @@ title: "Publications"
 
 
 publications:
-  - { number: "94.",
-    title: "Mutual Diffusivities of Mixtures of Carbon Dioxide and Hydrogen and Their Solubilities in Brine: Insight from Molecular Simulations",
-    authors: "Thejas Hulikal Chakrapani, Hadi Hajibeygi, Othonas A. Moultos, and Thijs J. H. Vlugt", 
-    venue: "Industrial & Engineering Chemistry Research (2024) In Press. DOI: https://doi.org/10.1021/acs.iecr.4c01078"}
-  - { number: "93.",
+  
+  - { number: "95.",
     title: "Diffusivity of CO2 in H2O: A Review of Experimental Studies and Molecular Simulations in the Bulk and in Confinement",
     authors: "H. Mert. Polat, Felipe M. Coelho, Thijs J. H. Vlugt, Luís Fernando Mercier Franco, Ioannis N. Tsimpanogiannis, and Othonas A. Moultos", 
     venue: "Journal of Chemical & Engineering Data (2024) In Press. DOI: https://doi.org/10.1021/acs.jced.3c00778"}
-  - { number: "92.",
+  - { number: "94.",
     title: "Solubilities and Self-Diffusion Coefficients of Light n‑Alkanes in NaCl Solutions at the Temperature Range (278.15−308.15) K and Pressure Range (1−300) bar and Thermodynamics Properties of Their Corresponding Hydrates at (150−290) K and (1−7000) bar",
     authors: "Bin Fang, Parsa Habibi, Othonas A. Moultos, Tao Lü, Fulong Ning, and Thijs J. H. Vlugt", 
     venue: "Journal of Chemical & Engineering Data (2024) In Press. DOI: https://doi.org/10.1021/acs.jced.3c00225"}
+  - { number: "93.",
+    title: "Effect of dissolved KOH and NaCl on the solubility of water in hydrogen: A Monte Carlo simulation study",
+    authors: "Parsa Habibi, Poulumi Dey, Thijs J. H. Vlugt, and Othonas A. Moultos", 
+    venue: "Journal of Chemical Physics (2024) 161, 054304",
+    pdf: "assets/publications/93.Habibi_JCP_2024_161_054304.pdf",
+    SI: "assets/publications/SI/93.Habibi_JCP_2024_161_054304_SI.pdf",
+    bib: "assets/publications/bib/93.Habibi_JCP_2024_161_054304.bib"}  
+  - { number: "92.",
+    title: "Mutual Diffusivities of Mixtures of Carbon Dioxide and Hydrogen and Their Solubilities in Brine: Insight from Molecular Simulations",
+    authors: "Thejas Hulikal Chakrapani, Hadi Hajibeygi, Othonas A. Moultos, and Thijs J. H. Vlugt", 
+    venue: "Industrial & Engineering Chemistry Research (2024) 63, 10456", 
+    pdf: "assets/publications/92.Chakrapani_IECR_2024_63_10456.pdf",
+    SI: "assets/publications/SI/92.Chakrapani_IECR_2024_63_10456_SI.pdf",
+    bib: "assets/publications/bib/92.Chakrapani_IECR_2024_63_10456.bib"} 
   - { number: "91.",
     title: "Accurate Free Energies of Aqueous Electrolyte Solutions from Molecular Simulations with Non-polarizable Force Fields",
     authors: "Parsa Habibi, H. Mert Polat, Samuel Blazquez, Carlos Vega, Poulumi Dey, Thijs J. H. Vlugt, and Othonas A. Moultos", 
