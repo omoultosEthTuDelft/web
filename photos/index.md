@@ -39,6 +39,14 @@ Click on photos to enlarge.
 <div class="row">
 <!-- <div class="col-sm-14"> -->
 
+
+<div class="gallery">
+  <a target="_blank" href="photos/thermoConf.jpg">
+    <img src="photos/thermoConf.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> It was our great pleasure and honour to host the 28th edition of the historic Thermodynamics conference in Delft. Many thanks to all the 140 participants for making this a wonderful event, to the sponsors for the support, and Royal Society of Chemistry for the trust. (Delft, 4-6 September 2024)</div>
+</div>
+
 <div class="gallery">
   <a target="_blank" href="photos/debdutta.jpg">
     <img src="photos/debdutta.jpg" alt="Mountains" width="600" height="auto">
