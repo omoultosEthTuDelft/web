@@ -16,7 +16,7 @@ publications:
     venue: "Journal of Chemical & Engineering Data (2024) In Press. DOI: https://doi.org/10.1021/acs.jced.3c00225"}
   - { number: "93.",
     title: "Effect of dissolved KOH and NaCl on the solubility of water in hydrogen: A Monte Carlo simulation study",
-    authors: "Parsa Habibi, Poulumi Dey, Thijs J. H. Vlugt, and Othonas A. Moultos", 
+    authors: "Parsa Habibi, Poulumi Dey, Thijs J. H. Vlugt, and Othonas A. Moultos",
     venue: "Journal of Chemical Physics (2024) 161, 054304",
     pdf: "assets/publications/93.Habibi_JCP_2024_161_054304.pdf",
     SI: "assets/publications/SI/93.Habibi_JCP_2024_161_054304_SI.pdf",
@@ -31,7 +31,7 @@ publications:
   - { number: "91.",
     title: "Accurate Free Energies of Aqueous Electrolyte Solutions from Molecular Simulations with Non-polarizable Force Fields",
     authors: "Parsa Habibi, H. Mert Polat, Samuel Blazquez, Carlos Vega, Poulumi Dey, Thijs J. H. Vlugt, and Othonas A. Moultos", 
-    venue: "Journal of Chemical Physics (2024) 160, 154906",
+    venue: "Journal of Physical Chemistry Letters (2024) 15, 4477",
     pdf: "assets/publications/91.Habibi_JPCL_2024_15_4477.pdf",
     SI: "assets/publications/SI/91.Habibi_JPCL_2024_15_4477_SI.pdf",
     bib: "assets/publications/bib/91.Habibi_JPCL_2024_15_4477.bib"}
