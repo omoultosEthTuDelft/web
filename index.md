@@ -36,17 +36,20 @@ My research and teaching activities focus on the application of molecular thermo
   <a href="assets/misc/MScGuide.pdf"><strong>Download here</strong></a> the practical guide for MSc theses that I wrote together with <a href="https://www.linkedin.com/in/carey-walters-44252714b/?originalSubdomain=nl"><strong>Carey Walters</strong></a>. 
 </div> 
 
+<div class="alert alert-success" role="alert" markdown="1">
+  <strong>New PhD position on Molecular Simulation of Hydrogen systems will open soon. Stay tuned.</strong>
+</div> 
 <!-- <div class="alert alert-success" role="alert" markdown="1"> 2 PhD positions open: 
   <a href="https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=4211&nPostingTargetId=11873&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&mask=external"><strong>Computational design of adsorbents for the removal of micropollutants from water</strong></a> and <a href="https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=14239"><strong>Accelerating Molecular Simulations with AI for The Design of New PFAS Absorbants</strong></a>. 
 </div>  -->
 
 <!-- alert-primary : blue-->
 <!-- alert-info : light blue-->
-<div class="alert alert-danger" role="alert" markdown="1"> <a href="https://thermodynamics2024.org"><strong>Registrations are open </strong></a>for the 28th Thermodynamics Conference (Delft, 4-6 September 2024).
+<!-- <div class="alert alert-danger" role="alert" markdown="1"> <a href="https://thermodynamics2024.org"><strong>Registrations are open </strong></a>for the 28th Thermodynamics Conference (Delft, 4-6 September 2024).
 </div> 
 
 <div class="alert alert-success" role="alert" markdown="1"> <a href="https://iraspa.org/workshops/iraspa-raspa-workshop-delft-2024/"><strong>Registrations are open </strong></a>for the Raspa Workshop (Delft, 2-4 September 2024).
-</div> 
+</div>  -->
 
 
 
@@ -111,6 +114,7 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- September 4-6: We hosted the historic "Thermodynamics" conference (28th edition) in Delft: 140 participants from more than 20 countries, and more than 30 universities and institutes.
 - August 2, 2024: New paper by Parsa Habibi in JCP: [Effect of dissolved KOH and NaCl on the solubility of water in hydrogen: A Monte Carlo simulation study](https://pubs.aip.org/aip/jcp/article/161/5/054304/3305718/Effect-of-dissolved-KOH-and-NaCl-on-the-solubility).
 - July 29, 2024: [Debdutta Chatterjee](https://www.linkedin.com/in/debdutta-chatterjee-mechanicalengineering/?originalSubdomain=nl) graduated a grade of 9 and Cum Laude!!!
 - May 31, 2024: New paper by Thejas in  Industrial & Engineering Chemistry Research: [Mutual Diffusivities of Mixtures of Carbon Dioxide and Hydrogen and Their Solubilities in Brine: Insight from Molecular Simulations](https://pubs.acs.org/doi/full/10.1021/acs.iecr.4c01078).
