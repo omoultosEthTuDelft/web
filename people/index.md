@@ -12,7 +12,7 @@ title: "People"
 <section markdown="1">
 <!-- - <img src="photos/Mate.jpeg" height= "100" width= "100">  -->
 
-- [Bowen Sha](https://www.linkedin.com/mynetwork/grow/). <strong>Molecular modeling of PFAS removal with novel cyclodextrin-based adsrobents</strong>. 
+- [Bowen Sha](https://www.linkedin.com/mynetwork/grow/). <strong>Molecular modeling of PFAS removal with novel cyclodextrin-based adsorbents</strong>. 
 - [Vladimir Jelle Lagerweij](https://www.linkedin.com/in/vladimir-jelle-lagerweij-21654021b/?originalSubdomain=nl). <strong>Machine learning and molecular modeling of aqueous electrolyte solutions</strong>. 
 - [Mert Polat](https://scholar.google.com/citations?user=iNQ80VEAAAAJ&hl=en), <strong>Molecular simulation of VLE curves of acid gas adsorption in liquids</strong>, w/  <a href="https://totalenergies.com"> TotalEnergies</a> and <a href="https://www.armines.net/fr/centres-de-recherche-departements-thematiques/énergétique-et-génie-des-procédés/centre"> CTP MINES ParisTech</a>.
 - [Parsa Habibi](https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/parsa-habibi), <strong>Computational discovery of hydrogen storage materials</strong>, w/  <a href="https://www.tudelft.nl/staff/p.dey/?cHash=cac0dd30bb433e38fe36e9f04fb3bbbf"> Dr. Poulumi Dey</a>, <a href="https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/"> MSE TU Delft</a>.
