@@ -114,6 +114,8 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- September 20: Mert succesfully defended his PhD "Molecular Simulations of Acid Gas
+Absorption into Aqueous Solvents", and is now a Dr.!!! 
 - September 4-6: We hosted the historic "Thermodynamics" conference (28th edition) in Delft: 140 participants from more than 20 countries, and more than 30 universities and institutes.
 - August 2, 2024: New paper by Parsa Habibi in JCP: [Effect of dissolved KOH and NaCl on the solubility of water in hydrogen: A Monte Carlo simulation study](https://pubs.aip.org/aip/jcp/article/161/5/054304/3305718/Effect-of-dissolved-KOH-and-NaCl-on-the-solubility).
 - July 29, 2024: [Debdutta Chatterjee](https://www.linkedin.com/in/debdutta-chatterjee-mechanicalengineering/?originalSubdomain=nl) graduated a grade of 9 and Cum Laude!!!
