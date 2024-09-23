@@ -41,6 +41,13 @@ Click on photos to enlarge.
 
 
 <div class="gallery">
+  <a target="_blank" href="photos/mertPhD.jpg">
+    <img src="photos/mertPhD.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> With Mert Polat after his PhD defence! (Delft, September 2024)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/thermoConf.jpg">
     <img src="photos/thermoConf.jpg" alt="Mountains" width="600" height="auto">
   </a>

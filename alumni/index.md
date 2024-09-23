@@ -11,6 +11,7 @@ title: "Alumni"
 
 <section markdown="1">
 
+- [Mert Polat](https://scholar.google.com/citations?user=iNQ80VEAAAAJ&hl=en), <strong><a href="theses/MertPolat.pdf">Molecular simulation of VLE curves of acid gas adsorption in liquids</a></strong>. Now at [Canon](https://cpp.canon).
 - [Dr. Ir. Máté Erdös](https://www.linkedin.com/in/mateerdos/), 2017-2022. <strong><a href="theses/MateErdos.pdf">Molecular simulation of nanoporous materials: Application to metal organic frameworks, zeolites, and cyclodextrins</a></strong>. Now at [Itron](https://na.itron.com).
 - [Dr. Ir. Hirad Seyed Salehi](https://www.linkedin.com/in/hiradsalehi/?originalSubdomain=nl), 2017-2022. <strong><a href="theses/HiradSalehi.pdf">Molecular simulation of Deep Eutectic Solvents</a></strong>. Now at [ASML](https://www.asml.com/en/careers).
 - [Dr. Noura Dawass](https://www.linkedin.com/in/noura-dawass-115358216/?originalSubdomain=qa), 2016-2021. <strong><a href="theses/NouraDawass.pdf">Kirkwood-Buff integrals from molecular simulations</a></strong>. Now at [TAMUQ](https://www.qatar.tamu.edu/programs/chemical-engineering/).
