@@ -114,11 +114,12 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- - October 1, 2024: [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr) graduated with a grade of 9. Another engineer was made!
 - September 20: Mert succesfully defended his PhD "Molecular Simulations of Acid Gas
 Absorption into Aqueous Solvents", and is now a Dr.!!! 
 - September 4-6: We hosted the historic "Thermodynamics" conference (28th edition) in Delft: 140 participants from more than 20 countries, and more than 30 universities and institutes.
 - August 2, 2024: New paper by Parsa Habibi in JCP: [Effect of dissolved KOH and NaCl on the solubility of water in hydrogen: A Monte Carlo simulation study](https://pubs.aip.org/aip/jcp/article/161/5/054304/3305718/Effect-of-dissolved-KOH-and-NaCl-on-the-solubility).
-- July 29, 2024: [Debdutta Chatterjee](https://www.linkedin.com/in/debdutta-chatterjee-mechanicalengineering/?originalSubdomain=nl) graduated a grade of 9 and Cum Laude!!!
+- July 29, 2024: [Debdutta Chatterjee](https://www.linkedin.com/in/debdutta-chatterjee-mechanicalengineering/?originalSubdomain=nl) graduated with a grade of 9 and Cum Laude!!!
 - May 31, 2024: New paper by Thejas in  Industrial & Engineering Chemistry Research: [Mutual Diffusivities of Mixtures of Carbon Dioxide and Hydrogen and Their Solubilities in Brine: Insight from Molecular Simulations](https://pubs.acs.org/doi/full/10.1021/acs.iecr.4c01078).
 - April 19, 2024: New paper by Sebastian Price: [Ultrasound enhanced diffusion in hydrogels: An experimental and non-equilibrium molecular dynamics study](https://pubs.aip.org/aip/jcp/article/160/15/154906/3283306/Ultrasound-enhanced-diffusion-in-hydrogels-An).
 - April 18, 2024: New paper by Parsa in JPC Letters out! [Accurate Free Energies of Aqueous Electrolyte Solutions from Molecular Simulations with Non-polarizable Force Fields](https://pubs.acs.org/doi/10.1021/acs.jpclett.4c00428). 

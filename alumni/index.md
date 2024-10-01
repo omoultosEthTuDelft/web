@@ -11,7 +11,7 @@ title: "Alumni"
 
 <section markdown="1">
 
-- [Mert Polat](https://scholar.google.com/citations?user=iNQ80VEAAAAJ&hl=en), <strong><a href="theses/MertPolat.pdf">Molecular Simulations of Acid Gas Absorption into Aqueous Solvents</a></strong>. Now at [Canon](https://cpp.canon).
+- [Dr. H. Mert Polat](https://www.linkedin.com/in/husamettin-mert-polat/), 2019-2024. <strong><a href="theses/MertPolat.pdf">Molecular Simulations of Acid Gas Absorption into Aqueous Solvents</a></strong>. Now at [Canon](https://cpp.canon).
 - [Dr. Ir. Máté Erdös](https://www.linkedin.com/in/mateerdos/), 2017-2022. <strong><a href="theses/MateErdos.pdf">Molecular simulation of nanoporous materials: Application to metal organic frameworks, zeolites, and cyclodextrins</a></strong>. Now at [Itron](https://na.itron.com).
 - [Dr. Ir. Hirad Seyed Salehi](https://www.linkedin.com/in/hiradsalehi/?originalSubdomain=nl), 2017-2022. <strong><a href="theses/HiradSalehi.pdf">Molecular simulation of Deep Eutectic Solvents</a></strong>. Now at [ASML](https://www.asml.com/en/careers).
 - [Dr. Noura Dawass](https://www.linkedin.com/in/noura-dawass-115358216/?originalSubdomain=qa), 2016-2021. <strong><a href="theses/NouraDawass.pdf">Kirkwood-Buff integrals from molecular simulations</a></strong>. Now at [TAMUQ](https://www.qatar.tamu.edu/programs/chemical-engineering/).
@@ -24,6 +24,7 @@ title: "Alumni"
 <h5>Former MSc students</h5>
 <section markdown="1">
 
+- [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr) <strong>Modeling of mass and heat transfer in modular alkaline electrolyzers</strong>. Now at [Witteveen & Bos](https://www.witteveenbos.com/nl).
 - [Debdutta Chatterjee](https://www.linkedin.com/in/debdutta-chatterjee-mechanicalengineering/?originalSubdomain=nl) <strong>Liquid Hydrogen Boil-off Modeling & Cryogenic Cold Integration for Fuel Cell Thermal Management in Aviation</strong>.
 - [Hugo van Leeuwen](https://www.linkedin.com/in/hjvleeuwen/) <strong>Use of green hydrogen and sustainable carburization to Fe3C for the direct reduction of iron ore pellets</strong>.
 - [Camiel Grevet](https://www.linkedin.com/in/camiel-grevet-71b73674/), 2022-2023. [<strong>Engineering Design of a Modular Hydrogen Production System</strong>](https://repository.tudelft.nl/islandora/object/uuid:0aed6be5-c2d3-4baa-9e3d-2e9f87f4b0b0). Now at [JOA Air Solutions](https://joaairsolutions.com/).
@@ -49,7 +50,8 @@ title: "Alumni"
 <h5>Former Postdocs, Visiting Researchers, and Interns</h5>
 <section markdown="1">
 
-- [Dr. Thejas Hulikal Chakrapani](https://scholar.google.com/citations?user=BTpwy_AAAAAJ&hl=en), 2022-2024 <strong>Interfacial and thermophysical properties of mixtures relevant to subsurface hydrogen storage</strong>.
+
+- [Dr. Thejas Hulikal Chakrapani](https://scholar.google.com/citations?user=BTpwy_AAAAAJ&hl=en), 2022-2024 <strong>Interfacial and thermophysical properties of mixtures relevant to subsurface hydrogen storage</strong>. Now at [University of Edinburgh](https://www.ed.ac.uk).
 - [Timman van Oeveren](https://www.linkedin.com/in/timman-van-oeveren-26364a175/?originalSubdomain=nl), 2023 <strong>Design of a CO2 utilization system for carbonation in small breweries</strong>, w/ <a href="https://brew-right.com">BrewRight</a>. Now doing an MSc with us.
 - [Dr. Bin Fang](), 2022-2023 <strong>Molecular simulations of methane hydrates</strong>. Now at [Chinese University of Geosciences](https://en.cug.edu.cn), China.
 - [Willemijn van Rooijen](https://www.linkedin.com/in/willemijn-van-rooijen-46398a151/?originalSubdomain=nl), 2022-2023 <strong>Interfacial and thermophysical properties of mixtures relevant to subsurface hydrogen storage</strong>. Now a PhD student at CiTG, TU Delft.

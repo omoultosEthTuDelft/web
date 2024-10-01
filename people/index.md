@@ -34,7 +34,6 @@ title: "People"
 
 - [Menno Steverink](https://nl.linkedin.com/in/menno-steverink?original_referer=https%3A%2F%2Fwww.google.com%2F) <strong>Designing a carbon capture system to circularize CO2 use in craft breweries</strong>, w/ <a href="https://brew-right.com">BrewRight</a>.
 - [Timman van Oeveren](https://nl.linkedin.com/in/timman-van-oeveren-26364a175) <strong>Life cycle and technoecomonic analysis of hydrogen liquifaction processes</strong>.
-- [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr) <strong>Modeling of mass and heat transfer in modular alkaline electrolyzers</strong>, w/ <a href="https://www.xintc.global">XINTC</a>.
 - [Declan Wee Hong Xiang Declan]() <strong>Development of machine learning potentials for aqueous electrolytes</strong>.
 </section>
 

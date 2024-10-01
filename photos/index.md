@@ -40,6 +40,14 @@ Click on photos to enlarge.
 <!-- <div class="col-sm-14"> -->
 
 
+
+<div class="gallery">
+  <a target="_blank" href="photos/Mintsis.jpg">
+    <img src="photos/Mintsis.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> Another engineer was made! Dimitris Mintsis graduated with a grade of 9. People from left to right: Otto, Burak Eral, Dimitris, and Ahmadreza Rahbari. (Delft, October 2024)</div>
+</div>
+
 <div class="gallery">
   <a target="_blank" href="photos/mertPhD.jpg">
     <img src="photos/mertPhD.jpg" alt="Mountains" width="600" height="auto">
