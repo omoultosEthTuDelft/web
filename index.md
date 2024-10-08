@@ -114,7 +114,7 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
-- - October 1, 2024: [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr) graduated with a grade of 9. Another engineer was made!
+- October 1, 2024: [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr) graduated with a grade of 9. Another engineer was made!
 - September 20: Mert succesfully defended his PhD "Molecular Simulations of Acid Gas
 Absorption into Aqueous Solvents", and is now a Dr.!!! 
 - September 4-6: We hosted the historic "Thermodynamics" conference (28th edition) in Delft: 140 participants from more than 20 countries, and more than 30 universities and institutes.
