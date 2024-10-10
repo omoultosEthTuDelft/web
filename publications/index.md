@@ -9,11 +9,17 @@ publications:
   - { number: "95.",
     title: "Diffusivity of CO2 in H2O: A Review of Experimental Studies and Molecular Simulations in the Bulk and in Confinement",
     authors: "H. Mert. Polat, Felipe M. Coelho, Thijs J. H. Vlugt, Luís Fernando Mercier Franco, Ioannis N. Tsimpanogiannis, and Othonas A. Moultos", 
-    venue: "Journal of Chemical & Engineering Data (2024) In Press. DOI: https://doi.org/10.1021/acs.jced.3c00778"}
+    venue: "Journal of Chemical & Engineering Data (2024)",
+    pdf: "assets/publications/95.Polat_JCED_2024_69_3296.pdf", 
+    Data: "assets/publications/SI/95.Polat_JCED_2024_69_3296_SI.xlsx", 
+    bib: "assets/publications/bib/95.Polat_JCED_2024_69_3296.bib"}
   - { number: "94.",
     title: "Solubilities and Self-Diffusion Coefficients of Light n‑Alkanes in NaCl Solutions at the Temperature Range (278.15−308.15) K and Pressure Range (1−300) bar and Thermodynamics Properties of Their Corresponding Hydrates at (150−290) K and (1−7000) bar",
     authors: "Bin Fang, Parsa Habibi, Othonas A. Moultos, Tao Lü, Fulong Ning, and Thijs J. H. Vlugt", 
-    venue: "Journal of Chemical & Engineering Data (2024) In Press. DOI: https://doi.org/10.1021/acs.jced.3c00225"}
+    venue: "Journal of Chemical & Engineering Data (2024) 69, 3330",
+    pdf: "assets/publications/94.Fang_JCED_2024_69_3330.pdf",
+    SI: "assets/publications/SI/94.Fang_JCED_2024_69_3330_SI.pdf",
+    bib: "assets/publications/bib/94.Fang_JCED_2024_69_3330.bib"}
   - { number: "93.",
     title: "Effect of dissolved KOH and NaCl on the solubility of water in hydrogen: A Monte Carlo simulation study",
     authors: "Parsa Habibi, Poulumi Dey, Thijs J. H. Vlugt, and Othonas A. Moultos",
