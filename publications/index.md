@@ -9,7 +9,7 @@ publications:
   - { number: "95.",
     title: "Diffusivity of CO2 in H2O: A Review of Experimental Studies and Molecular Simulations in the Bulk and in Confinement",
     authors: "H. Mert. Polat, Felipe M. Coelho, Thijs J. H. Vlugt, Luís Fernando Mercier Franco, Ioannis N. Tsimpanogiannis, and Othonas A. Moultos", 
-    venue: "Journal of Chemical & Engineering Data (2024)",
+    venue: "Journal of Chemical & Engineering Data (2024) 69, 3296",
     pdf: "assets/publications/95.Polat_JCED_2024_69_3296.pdf", 
     Data: "assets/publications/SI/95.Polat_JCED_2024_69_3296_SI.xlsx", 
     bib: "assets/publications/bib/95.Polat_JCED_2024_69_3296.bib"}
