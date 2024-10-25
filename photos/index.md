@@ -40,6 +40,12 @@ Click on photos to enlarge.
 <!-- <div class="col-sm-14"> -->
 
 
+<div class="gallery">
+  <a target="_blank" href="photos/fengyi2024.jpg">
+    <img src="photos/fengyi2024.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> Last week of Fengyi Mi in the office (Delft, October 2024)</div>
+</div>
 
 <div class="gallery">
   <a target="_blank" href="photos/Mintsis.jpg">

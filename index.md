@@ -114,6 +114,7 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- October 25: New paper by Fengyi in JPCC: [Molecular Insights into the Microscopic Behavior of CO2 Hydrates in Oceanic Sediments: Implications for Carbon Sequestration](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.4c05413).
 - October 1, 2024: [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr) graduated with a grade of 9. Another engineer was made!
 - September 20: Mert succesfully defended his PhD "Molecular Simulations of Acid Gas
 Absorption into Aqueous Solvents", and is now a Dr.!!! 
