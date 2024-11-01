@@ -12,7 +12,10 @@ publications:
   - { number: "96.",
     title: "Molecular Insights into the Microscopic Behavior of CO2 Hydrates in Oceanic Sediments: Implications for Carbon Sequestration",
     authors: "Fengyi Mi, Wei Li, Jiangtao Pang, Othonas A. Moultos, Fulong Ning, and Thijs J.H. Vlugt", 
-    venue: "Journal of Physical Chemistry C (2024) https://doi.org/10.1021/acs.jpcc.4c05413"}
+    venue: "Journal of Physical Chemistry C (2024) 128, 18588",
+    pdf: "assets/publications/96.Mi_JPCC_2024_128_18588.pdf",
+    SI: "assets/publications/SI/96.Mi_JPCC_2024_128_18588_SI.pdf",
+    bib: "assets/publications/bib/96.Mi_JPCC_2024_128_18588.bib"}
   - { number: "95.",
     title: "Diffusivity of CO2 in H2O: A Review of Experimental Studies and Molecular Simulations in the Bulk and in Confinement",
     authors: "H. Mert. Polat, Felipe M. Coelho, Thijs J. H. Vlugt, Luís Fernando Mercier Franco, Ioannis N. Tsimpanogiannis, and Othonas A. Moultos", 
