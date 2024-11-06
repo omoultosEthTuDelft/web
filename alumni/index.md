@@ -24,8 +24,8 @@ title: "Alumni"
 <h5>Former MSc students</h5>
 <section markdown="1">
 
-- [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr) <strong>Modeling of mass and heat transfer in modular alkaline electrolyzers</strong>. Now at [Witteveen & Bos](https://www.witteveenbos.com/nl).
-- [Debdutta Chatterjee](https://www.linkedin.com/in/debdutta-chatterjee-mechanicalengineering/?originalSubdomain=nl) <strong>Liquid Hydrogen Boil-off Modeling & Cryogenic Cold Integration for Fuel Cell Thermal Management in Aviation</strong>.
+- [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr), 2023. <strong>Modeling of mass and heat transfer in modular alkaline electrolyzers</strong>. Now at [Witteveen & Bos](https://www.witteveenbos.com/nl).
+- [Debdutta Chatterjee](https://www.linkedin.com/in/debdutta-chatterjee-mechanicalengineering/?originalSubdomain=nl), 2023 - 2024. <strong>Liquid Hydrogen Boil-off Modeling & Cryogenic Cold Integration for Fuel Cell Thermal Management in Aviation</strong>.
 - [Hugo van Leeuwen](https://www.linkedin.com/in/hjvleeuwen/) <strong>Use of green hydrogen and sustainable carburization to Fe3C for the direct reduction of iron ore pellets</strong>.
 - [Camiel Grevet](https://www.linkedin.com/in/camiel-grevet-71b73674/), 2022-2023. [<strong>Engineering Design of a Modular Hydrogen Production System</strong>](https://repository.tudelft.nl/islandora/object/uuid:0aed6be5-c2d3-4baa-9e3d-2e9f87f4b0b0). Now at [JOA Air Solutions](https://joaairsolutions.com/).
 - [Vladimir Jelle Lagerweij](https://www.linkedin.com/in/vladimir-jelle-lagerweij-21654021b/?originalSubdomain=nl), 2022-2023. <strong>Quantum to Transport: Modeling Transport Properties of Aqueous Potassium Hydroxide by Machine Learning Molecular Force Fields from Quantum Mechanics</strong>. Now doing his PhD with us!
