@@ -8,7 +8,11 @@ publications:
   - { number: "97.",
     title: "Computational Exploration of Adsorption-Based Hydrogen Storage in Mg-Alkoxide Functionalized Covalent-Organic Frameworks (COFs): Force-Field and Machine Learning Models",
     authors: "Yu Chen, Guobin Zhao, Sunghyun Yoon, Parsa Habibi, Chang Seop Hong, Song Li, Othonas A. Moultos, Poulumi Dey, Thijs J. H. Vlugt, and Yongchul G. Chung", 
-    venue: "ACS Applied Materials & Interfaces (2024) https://pubs.acs.org/doi/full/10.1021/acsami.4c11953"}
+    venue: "ACS Applied Materials & Interfaces (2024) 16, 61995",
+    pdf: "assets/publications/97.Chen_AMI_2024_16_61995.pdf",
+    SI: "assets/publications/SI/97.Chen_AMI_2024_16_61995_SI.pdf",
+    bib: "assets/publications/bib/97.Chen_AMI_2024_16_61995.bib",
+    simulCIF: "assets/publications/SI/97.Chen_AMI_2024_16_61995_SI.zip"}
   - { number: "96.",
     title: "Molecular Insights into the Microscopic Behavior of CO2 Hydrates in Oceanic Sediments: Implications for Carbon Sequestration",
     authors: "Fengyi Mi, Wei Li, Jiangtao Pang, Othonas A. Moultos, Fulong Ning, and Thijs J.H. Vlugt", 
