@@ -1,10 +1,17 @@
 ---
 layout: default
-#title: "Othonas Moultos | Assistant Professor, TU Delft"
 title: "Publications"
 
 
 publications:
+  - { number: "99.",
+    title: "Novel pseudo-hexagonal montmorillonite model and microsecond MD simulations of hydrate formation in mixed clay sediments with surface defects",
+    authors: "Fengyi Mi, Jiangtao Pang, Wei Li, Othonas A. Moultos, Fulong Ning, and Thijs J. H. Vlugt", 
+    venue: "Journal of Chemical Physics (2024), doi: 10.1063/5.0235454"}
+  - { number: "98.",
+    title: "Molecular Insights into Hybrid CH4 Physisorption-Hydrate Formation in Spiral Halloysite Nanotubes: Implications for Energy Storage",
+    authors: "Fengyi Mi, Zhongjin He, Jiangtao Pang, Othonas A. Moultos, Thijs J. H. Vlugt, and Fulong Ning", 
+    venue: "ACS Applied Materials & Interfaces (2024), https://doi.org/10.1021/acsami.4c11288"}
   - { number: "97.",
     title: "Computational Exploration of Adsorption-Based Hydrogen Storage in Mg-Alkoxide Functionalized Covalent-Organic Frameworks (COFs): Force-Field and Machine Learning Models",
     authors: "Yu Chen, Guobin Zhao, Sunghyun Yoon, Parsa Habibi, Chang Seop Hong, Song Li, Othonas A. Moultos, Poulumi Dey, Thijs J. H. Vlugt, and Yongchul G. Chung", 
