@@ -8,7 +8,10 @@ publications:
   - { number: "99.",
     title: "Molecular Insights into Hybrid CH4 Physisorption-Hydrate Formation in Spiral Halloysite Nanotubes: Implications for Energy Storage",
     authors: "Fengyi Mi, Zhongjin He, Jiangtao Pang, Othonas A. Moultos, Thijs J. H. Vlugt, and Fulong Ning", 
-    venue: "ACS Applied Materials & Interfaces (2024), https://doi.org/10.1021/acsami.4c11288"}
+    venue: "ACS Applied Materials & Interfaces (2024), 16, 67587",
+    pdf: "assets/publications/99.Mi_AMI_2024_16_67587.pdf",
+    SI: "assets/publications/SI/99.Mi_AMI_2024_16_67587_SI.pdf",
+    bib: "assets/publications/bib/99.Mi_AMI_2024_16_67587.bib"}
   - { number: "98.",
     title: "Novel pseudo-hexagonal montmorillonite model and microsecond MD simulations of hydrate formation in mixed clay sediments with surface defects",
     authors: "Fengyi Mi, Jiangtao Pang, Wei Li, Othonas A. Moultos, Fulong Ning, and Thijs J. H. Vlugt", 
