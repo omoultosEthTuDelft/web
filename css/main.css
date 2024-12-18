@@ -158,3 +158,37 @@ ul.posts span {
 .post pre.terminal code {
   background-color: #333;
 }
+
+/* Custom Navbar Styles */
+/* Ensure navbar respects container boundaries */
+.navbar {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+/* Prevent nav items from overflowing */
+.navbar-collapse {
+  flex-wrap: wrap;
+}
+
+/* Proper spacing for nav items */
+.navbar-nav .nav-item {
+  margin-left: 10px;
+  margin-right: 10px;
+  flex-shrink: 0; /* Prevent items from shrinking */
+}
+
+/* Align nav items to the left */
+.navbar-nav {
+  text-align: left;
+  margin-left: auto; /* Optional: Center-aligns content in the navbar */
+  margin-right: auto;
+}
+
+/* Ensure links behave normally */
+.nav-link {
+  text-align: center;
+  white-space: nowrap; /* Prevent wrapping of long nav items */
+  padding: 10px 15px; /* Proper padding for touch targets */
+}
+
