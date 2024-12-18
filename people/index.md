@@ -35,7 +35,6 @@ In the context of collaboration, I am currently co-supervising:
 <section markdown="1">
 
 - [Menno Steverink](https://nl.linkedin.com/in/menno-steverink?original_referer=https%3A%2F%2Fwww.google.com%2F) <strong>Designing a carbon capture system to circularize CO2 use in craft breweries</strong>, w/ <a href="https://brew-right.com">BrewRight</a>.
-- [Timman van Oeveren](https://nl.linkedin.com/in/timman-van-oeveren-26364a175) <strong>Life cycle and technoecomonic analysis of hydrogen liquifaction processes</strong>.
 - [Declan Wee Hong Xiang Declan]() <strong>Development of machine learning potentials for aqueous electrolytes</strong>.
 - [Jordi Vlak](https://www.linkedin.com/in/jordi-vlak-064783184/?originalSubdomain=nl) <strong>Modeling of a modular water electrolysis system</strong>, w/ <a href="https://www.xintc.global">XINTC</a>.
 </section>
