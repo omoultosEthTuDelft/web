@@ -192,3 +192,13 @@ ul.posts span {
   padding: 10px 15px; /* Proper padding for touch targets */
 }
 
+/* Remove unnecessary padding on navbar */
+.navbar {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+/* Ensure container has proper background */
+.navbar .container.bg-light {
+  padding: 0;
+}
