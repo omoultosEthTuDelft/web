@@ -1,6 +1,5 @@
 ---
  layout: default
- #title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
  title: "Photos"
 ---
 
@@ -39,6 +38,12 @@ Click on photos to enlarge.
 <div class="row">
 <!-- <div class="col-sm-14"> -->
 
+
+<div class="gallery">
+  <a target="_blank" href="photos/timman2024.jpg">
+    <img src="photos/timman2024.jpg" alt="Mountains" width="600" height="auto">
+  </a> <div class="desc"> Yet another engineer! Timman van Oeveren's succesfully defended his MSc on LCA of H2 liquifaction. People from left to right: <a href="https://www.linkedin.com/in/joost-vogtländer-73772536/">Joost Vogtlander </a>, Otto, Mahinder Ramdin, and Timman. (Delft, December 2024) </div> 
+</div>
 
 <div class="gallery">
   <a target="_blank" href="photos/fengyi2024.jpg">

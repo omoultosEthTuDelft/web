@@ -114,6 +114,7 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- December 17: Timman van Oevern succefully defended his MSc Timman van Oeveren's succesfully LCA of H2 liquifaction and he is now an I.r! Congrats!
 - November 26: Two new papers out by the amazing Fengyi Mi! [Molecular Insights into Hybrid CH4 Physisorption-Hydrate Formation in Spiral Halloysite Nanotubes: Implications for Energy Storage](https://doi.org/10.1021/acsami.4c11288), and [Novel pseudo-hexagonal montmorillonite model and microsecond MD simulations of hydrate formation in mixed clay sediments with surface defects]()
 - October 31: New paper in ACS AMI in collaboration with [Greg Chung](https://sites.google.com/view/mtap-lab/people/professor): [Computational Exploration of Adsorption-Based Hydrogen Storage in Mg-Alkoxide Functionalized Covalent-Organic Frameworks (COFs): Force-Field and Machine Learning Models](https://pubs.acs.org/doi/full/10.1021/acsami.4c11953).
 - October 25: New paper by Fengyi in JPCC: [Molecular Insights into the Microscopic Behavior of CO2 Hydrates in Oceanic Sediments: Implications for Carbon Sequestration](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.4c05413).
