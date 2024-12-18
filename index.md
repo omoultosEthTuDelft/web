@@ -1,6 +1,5 @@
 ---
 layout: default
-# title: "Othonas (Otto) Moultos | Associate Professor, TU Delft"
 title: "Main page"
 ---
 
@@ -80,13 +79,26 @@ The Netherlands
 o.moultos@tudelft.nl
 
 <br/><br/>
-<h6> <span class="fa fa-github"></span><a href="https://github.com/omoultosEthTuDelft"> github</a> </h6>
+<h6>
+  <span class="fa fa-github fa-fw"></span>
+  <a href="https://github.com/omoultosEthTuDelft">GitHub</a>
+</h6>
 
-<h6> <span class="fa fa-google"></span><a href="https://scholar.google.ca/citations?user=r6fFwkQAAAAJ&hl=en"> scholar</a> </h6>
+<h6>
+  <span class="fa fa-graduation-cap fa-fw"></span>
+  <a href="https://scholar.google.ca/citations?user=r6fFwkQAAAAJ&hl=en">Google Scholar</a>
+</h6>
 
-<h6> <span class="fa fa-linkedin"></span><a href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge"> Linkedin</a> </h6>
+<h6>
+  <span class="fa fa-linkedin fa-fw"></span>
+  <a href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge">LinkedIn</a>
+</h6>
 
-<h6> <a target="_blank" href="https://www.researchgate.net"><img style="width: 20px;" src="logos/ResearchGate.png" hspace=0 alt="googleScholar profile"> ResearchGate</a> </h6>
+<h6>
+  <a target="_blank" href="https://www.researchgate.net">
+    <img style="width: 20px;" src="logos/ResearchGate.png" alt="ResearchGate profile"> ResearchGate
+  </a>
+</h6>
 
 
 <!-- <h6> <span class="fa-brands fa-researchgate"></span><a href="https://www.researchgate.net/profile/Othon-Moultos/2"> ResearchGate</a> </h6> -->
