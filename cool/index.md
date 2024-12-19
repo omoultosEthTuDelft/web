@@ -1,6 +1,5 @@
 ---
 layout: default
-#title: "Othonas (Otto) Moultos | Assistant Professor, TU Delft"
 title: "Cool"
 ---
 
