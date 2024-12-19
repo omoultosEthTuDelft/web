@@ -88,7 +88,7 @@ title: "Software"
 </style>
 
 <div class="content">
-  <h3>Open-source Software Developed in Our Group</h3>
+  <h3>Open-source software we developed</h3>
   <div class="grid">
     <!-- OCTP -->
     <div class="card">
