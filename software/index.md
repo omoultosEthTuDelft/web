@@ -1,9 +1,5 @@
----
-layout: default
-title: "Software"
----
-
 <style>
+  /* General styling remains the same */
   body {
     font-family: 'Segoe UI', sans-serif;
     line-height: 1.8;
@@ -57,6 +53,10 @@ title: "Software"
 
   .links {
     margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
   }
 
   .links a {
@@ -66,7 +66,7 @@ title: "Software"
     padding: 10px 15px;
     border-radius: 5px;
     font-weight: bold;
-    margin-right: 10px;
+    font-size: 0.9em;
     transition: background-color 0.3s ease;
   }
 
@@ -85,10 +85,32 @@ title: "Software"
   .gallery img:hover {
     transform: scale(1.05);
   }
+
+  @media (max-width: 768px) {
+    .grid {
+      grid-template-columns: 1fr; /* Stack cards on top of each other */
+    }
+
+    .links a {
+      padding: 8px 10px; /* Reduce button padding */
+      font-size: 0.8em; /* Make the text smaller */
+    }
+  }
+
+  @media (max-width: 480px) {
+    h3 {
+      font-size: 1.8em; /* Reduce heading size for small screens */
+    }
+
+    .links a {
+      padding: 5px 8px; /* Further reduce padding for very small screens */
+      font-size: 0.75em; /* Shrink button text even more */
+    }
+  }
 </style>
 
 <div class="content">
-  <h3>Open-source software we developed</h3>
+  <h3>Open-source Software Developed in Our Group</h3>
   <div class="grid">
     <!-- OCTP -->
     <div class="card">
