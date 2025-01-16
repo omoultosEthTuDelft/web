@@ -14,7 +14,7 @@ title: "People"
 
 - [Bowen Sha](https://www.linkedin.com/mynetwork/grow/). <strong>Molecular modeling of PFAS removal with novel cyclodextrin-based adsorbents</strong>. 
 - [Cole Brzakala](https://www.linkedin.com/in/cole-brzakala/). <strong>Artificial Intelligence to accelerate molecular simulations for design of PFAS absorbents</strong>, w/ [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/universitair-docent-onderwijzer/dr-riccardo-taormina), [CITG TU Delft](https://www.tudelft.nl/citg). 
-- [Vladimir Jelle Lagerweij](https://www.linkedin.com/in/vladimir-jelle-lagerweij-21654021b/?originalSubdomain=nl). <strong>Machine learning and molecular modeling of aqueous electrolyte solutions</strong>. 
+- [Vladimir Jelle Lagerweij](https://www.linkedin.com/in/vladimir-jelle-lagerweij-21654021b/?originalSubdomain=nl). <strong>Machine learning and molecular modeling of aqueous electrolyte solutions</strong>, w/ [Thijs Vlugt](https://thijsvlugt.github.io/website/). 
 - [Parsa Habibi](https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/parsa-habibi), <strong>Computational discovery of hydrogen storage materials</strong>, w/  <a href="https://www.tudelft.nl/staff/p.dey/?cHash=cac0dd30bb433e38fe36e9f04fb3bbbf"> Dr. Poulumi Dey</a>, <a href="https://www.tudelft.nl/en/3me/about/departments/materials-science-and-engineering/"> MSE TU Delft</a>.
 	
 <!-- 	In the context of collaboration, I am currently co-supervising:
