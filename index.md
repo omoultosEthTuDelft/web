@@ -36,7 +36,7 @@ My research and teaching activities focus on the application of molecular thermo
 </div> 
 
 <div class="alert alert-success" role="alert" markdown="1">
-  <strong>New PhD position on Molecular Simulation of Hydrogen systems will open soon. Stay tuned.</strong>
+<a href="https://careers.tudelft.nl/job/Delft-PhD-Position-Molecular-Modeling-of-Hydrogen-Production-via-Water-Electrolysis-2628-CD/810877102/"><strong>New PhD position on Molecular Simulation of Hydrogen systems.</strong></a>
 </div> 
 <!-- <div class="alert alert-success" role="alert" markdown="1"> 2 PhD positions open: 
   <a href="https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=4211&nPostingTargetId=11873&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&mask=external"><strong>Computational design of adsorbents for the removal of micropollutants from water</strong></a> and <a href="https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=14239"><strong>Accelerating Molecular Simulations with AI for The Design of New PFAS Absorbants</strong></a>. 
