@@ -34,6 +34,7 @@ In the context of collaboration, I am currently co-supervising:
 <h5>MSc students</h5>
 <section markdown="1">
 
+- [Anneke Guluma](https://www.linkedin.com/in/anneke-guluma-24950330a/?originalSubdomain=nl) <strong>Molecular modeling and machine learning of lithium recovery for the recycling of Li-batteries</strong>, w/ <a href="https://www.linkedin.com/in/alexandros-vasileiadis-32464b67/?originalSubdomain=nl">Dr. Alexandros Vasileiadis</a>, <a href="https://www.tudelft.nl/tnw/zakelijk/faciliteiten/tu-delft-reactor-institute"> Reactor Institute TU Delft</a>..
 - [Menno Steverink](https://nl.linkedin.com/in/menno-steverink?original_referer=https%3A%2F%2Fwww.google.com%2F) <strong>Designing a carbon capture system to circularize CO2 use in craft breweries</strong>, w/ <a href="https://brew-right.com">BrewRight</a>.
 - [Declan Wee Hong Xiang Declan]() <strong>Development of machine learning potentials for aqueous electrolytes</strong>.
 - [Jordi Vlak](https://www.linkedin.com/in/jordi-vlak-064783184/?originalSubdomain=nl) <strong>Modeling of a modular water electrolysis system</strong>, w/ <a href="https://www.xintc.global">XINTC</a>.
@@ -43,7 +44,8 @@ In the context of collaboration, I am currently co-supervising:
 <h5>Interns</h5>
 <section markdown="1">
 
-- [Kyriakos Kokkinos](https://www.linkedin.com/in/kred2304/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=nl) <strong>Technoeconomic analysis of proton exchange membrane electrolyser</strong>, w/ [XINTC](https://www.xintc.global).
+- [Nienke van Doorn](https://www.linkedin.com/in/nienke-van-doorn-428b432b6/) <strong>System integration tool – Developing machine learning algorithms to predict prices in electricity and balancing markets</strong>, w/ [Ventolines](https://www.ventolines.nl).
+
 </section>
 
 

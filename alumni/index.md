@@ -51,6 +51,7 @@ title: "Alumni"
 <h5>Former Postdocs, Visiting Researchers, and Interns</h5>
 <section markdown="1">
 
+- [Kyriakos Kokkinos](https://www.linkedin.com/in/kred2304/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=nl), 2024 <strong>Technoeconomic analysis of proton exchange membrane electrolyser</strong>, w/ [XINTC](https://www.xintc.global).
 - [Dr. Fengyi Mi](https://www.researchgate.net/profile/Fengyi_Mi), 2023-2024 <strong>Study of mechanisms of gas hydrate formation in complex sediments at the molecular level</strong>. Now at [Chinese University of Geosciences](https://en.cug.edu.cn), China.
 - [Dr. Sebastian Price](https://porelab.no/2020/09/03/wecome-to-sebastian/), 2021 - 2023 <strong>Modeling the ultrasound mediated transport of nanoparticles in tissue</strong>. Now at [PoreLab NTNU](https://porelab.no).
 - [Dr. Thejas Hulikal Chakrapani](https://scholar.google.com/citations?user=BTpwy_AAAAAJ&hl=en), 2022-2024 <strong>Interfacial and thermophysical properties of mixtures relevant to subsurface hydrogen storage</strong>. Now at [University of Edinburgh](https://www.ed.ac.uk).
