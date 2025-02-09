@@ -24,6 +24,7 @@ title: "Alumni"
 <h5>Former MSc students</h5>
 <section markdown="1">
 
+- [Menno Steverink](https://nl.linkedin.com/in/menno-steverink?original_referer=https%3A%2F%2Fwww.google.com%2F), 2024 - 2025 <strong>Design of a food-grade carbon dioxide system for small-scale beer breweries</strong>. Now at [TransitionHERO](https://www.transitionhero.nl).
 - [Timman van Oeveren](https://nl.linkedin.com/in/timman-van-oeveren-26364a175), 2024 <strong>Life cycle analysis of hydrogen liquifaction</strong>.
 - [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr), 2024. <strong>Modeling of mass and heat transfer in modular alkaline electrolyzers</strong>. Now at [Witteveen & Bos](https://www.witteveenbos.com/nl).
 - [Debdutta Chatterjee](https://www.linkedin.com/in/debdutta-chatterjee-mechanicalengineering/?originalSubdomain=nl), 2023 - 2024. [<strong>Liquid Hydrogen Boil-off Modeling & Cryogenic Cold Integration for Fuel Cell Thermal Management in Aviation</strong>](https://repository.tudelft.nl/record/uuid:1c188c76-d460-4f72-ac88-b655b573bb06). Now doing her PhD in TU Delft.

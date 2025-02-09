@@ -76,11 +76,11 @@ The Netherlands
 + 31 (0) 15 27 81 307
 <br/><br/>
 <h6> <span class="fa fa-envelope"></span> e-mail</h6>
-o.moultos@tudelft.nl
+o.lastname@tudelft.nl
 
 <br/><br/>
 <h6>
-  <span class="fa fa-github fa-fw"></span>
+  <span class="fa-brands fa-github fa-fw"></span>
   <a href="https://github.com/omoultosEthTuDelft">GitHub</a>
 </h6>
 
@@ -90,7 +90,7 @@ o.moultos@tudelft.nl
 </h6>
 
 <h6>
-  <span class="fa fa-linkedin fa-fw"></span>
+  <span class="fa-brands fa-linkedin fa-fw"></span>
   <a href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge">LinkedIn</a>
 </h6>
 
@@ -100,6 +100,11 @@ o.moultos@tudelft.nl
   </a>
 </h6>
 
+
+<h6>
+  <span class="fa-brands fa-orcid fa-fw"></span>
+  <a href="https://orcid.org/my-orcid?orcid=0000-0001-7477-9684">ORCID</a>
+</h6>
 
 <!-- <h6> <span class="fa-brands fa-researchgate"></span><a href="https://www.researchgate.net/profile/Othon-Moultos/2"> ResearchGate</a> </h6> -->
 
@@ -126,6 +131,7 @@ o.moultos@tudelft.nl
 
 <section markdown="1">
 
+- February 6, 2025: Menno Steverink is now officially an engineer after defending his MSc thesis. 
 - December 17: Timman van Oevern succefully defended his MSc Timman van Oeveren's succesfully LCA of H2 liquifaction and he is now an I.r! Congrats!
 - November 26: Two new papers out by the amazing Fengyi Mi! [Molecular Insights into Hybrid CH4 Physisorption-Hydrate Formation in Spiral Halloysite Nanotubes: Implications for Energy Storage](https://doi.org/10.1021/acsami.4c11288), and [Novel pseudo-hexagonal montmorillonite model and microsecond MD simulations of hydrate formation in mixed clay sediments with surface defects]()
 - October 31: New paper in ACS AMI in collaboration with [Greg Chung](https://sites.google.com/view/mtap-lab/people/professor): [Computational Exploration of Adsorption-Based Hydrogen Storage in Mg-Alkoxide Functionalized Covalent-Organic Frameworks (COFs): Force-Field and Machine Learning Models](https://pubs.acs.org/doi/full/10.1021/acsami.4c11953).
