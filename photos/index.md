@@ -39,6 +39,12 @@ Click on photos to enlarge.
 <!-- <div class="col-sm-14"> -->
 
 <div class="gallery">
+  <a target="_blank" href="photos/parsa2025.jpg">
+    <img src="photos/parsa2025.jpg" alt="Mountains" width="600" height="auto">
+  </a> <div class="desc"> PhD defence of Parsa Habibi. Many thanks to profs. Michiel Kreutzer, Maarten van der Elst, Doros Theodorou, Biplab Sanyal, and Mahinder Ramdin (reserve member) for joining the committee and challenging Parsa with their questions. Also a thanks to the other two promotors and supervisors, Poulumi Dey and Thijs Vlugt, for the collaboration the past 4 years.  (Delft, March 2025) </div> 
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/menno2025.jpg">
     <img src="photos/menno2025.jpg" alt="Mountains" width="600" height="auto">
   </a> <div class="desc"> After Menno's succesful MSc thesis defense. People from left to right: Dakar Schlemper, Tim Nijssen, Menno Steverink, Mahinder Ramdin, and Otto. (Delft, February 2025) </div> 
