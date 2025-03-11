@@ -130,7 +130,7 @@ o.lastname@tudelft.nl
     <!-- <div style="text-align: justify;" class="col-sm-11"> -->
 
 <section markdown="1">
-
+- March 4, 2025: Parsa Habibi succesfully defended his PhD, and is now officially a Dr. Many congrats Parsa for your great achievement, and wishing you a fulfilling career. 
 - February 6, 2025: Menno Steverink is now officially an engineer after defending his MSc thesis. 
 - December 17: Timman van Oevern succefully defended his MSc Timman van Oeveren's succesfully LCA of H2 liquifaction and he is now an I.r! Congrats!
 - November 26: Two new papers out by the amazing Fengyi Mi! [Molecular Insights into Hybrid CH4 Physisorption-Hydrate Formation in Spiral Halloysite Nanotubes: Implications for Energy Storage](https://doi.org/10.1021/acsami.4c11288), and [Novel pseudo-hexagonal montmorillonite model and microsecond MD simulations of hydrate formation in mixed clay sediments with surface defects]()

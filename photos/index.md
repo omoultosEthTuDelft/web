@@ -41,7 +41,7 @@ Click on photos to enlarge.
 <div class="gallery">
   <a target="_blank" href="photos/parsa2025.jpg">
     <img src="photos/parsa2025.jpg" alt="Mountains" width="600" height="auto">
-  </a> <div class="desc"> PhD defence of Parsa Habibi. Many thanks to profs. Michiel Kreutzer, Maarten van der Elst, Doros Theodorou, Biplab Sanyal, and Mahinder Ramdin (reserve member) for joining the committee and challenging Parsa with their questions. Also a thanks to the other two promotors and supervisors, Poulumi Dey and Thijs Vlugt, for the collaboration the past 4 years.  (Delft, March 2025) </div> 
+  </a> <div class="desc"> PhD defence of Parsa Habibi. Committee members: Profs. Michiel Kreutzer, Maarten van der Elst, Doros Theodorou, Biplab Sanyal, and Mahinder Ramdin (reserve member), Thijs Vlugt, and Poulumi Dey.  (Delft, March 2025) </div> 
 </div>
 
 <div class="gallery">
