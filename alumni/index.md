@@ -11,6 +11,7 @@ title: "Alumni"
 
 <section markdown="1">
 
+- [Parsa Habibi](https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/parsa-habibi), 2020-2025. <strong><a href="theses/ParsaHabibi.pdf">Computational discovery of hydrogen storage materials</a></strong>. Now at [ASML](https://www.asml.com/en).
 - [Dr. H. Mert Polat](https://www.linkedin.com/in/husamettin-mert-polat/), 2019-2024. <strong><a href="theses/MertPolat.pdf">Molecular Simulations of Acid Gas Absorption into Aqueous Solvents</a></strong>. Now at [Canon](https://cpp.canon).
 - [Dr. Ir. Máté Erdös](https://www.linkedin.com/in/mateerdos/), 2017-2022. <strong><a href="theses/MateErdos.pdf">Molecular simulation of nanoporous materials: Application to metal organic frameworks, zeolites, and cyclodextrins</a></strong>. Now at [Itron](https://na.itron.com).
 - [Dr. Ir. Hirad Seyed Salehi](https://www.linkedin.com/in/hiradsalehi/?originalSubdomain=nl), 2017-2022. <strong><a href="theses/HiradSalehi.pdf">Molecular simulation of Deep Eutectic Solvents</a></strong>. Now at [ASML](https://www.asml.com/en/careers).
