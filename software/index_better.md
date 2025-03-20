@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Software"
+title: "Scientific software"
 ---
 
 <style>
