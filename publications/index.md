@@ -4,7 +4,14 @@ title: "Publications"
 
 
 publications:
-
+  
+  - { number: "100.",
+    title: "Molecular insight into hydrogen storage in clathrate hydrates: The effect of different promoters on the spontaneous nucleation of hydrogen hydrates studied via microsecond-scale molecular dynamics simulations",
+    authors: "Fengyi Mi, Fulong Ning, Thijs J. H. Vlugt, and Othonas A. Moultos", 
+    venue: "Chemical Engineering Journal (2025), 512, 162253",
+    pdf: "assets/publications/100.Mi_CEJ_2025_512_162253.pdf",
+    SI: "assets/publications/SI/100.Mi_CEJ_2025_512_162253_SI.pdf",
+    bib: "assets/publications/bib/100.Mi_CEJ_2025_512_162253.bib"}
   - { number: "99.",
     title: "Molecular Insights into Hybrid CH4 Physisorption-Hydrate Formation in Spiral Halloysite Nanotubes: Implications for Energy Storage",
     authors: "Fengyi Mi, Zhongjin He, Jiangtao Pang, Othonas A. Moultos, Thijs J. H. Vlugt, and Fulong Ning", 
