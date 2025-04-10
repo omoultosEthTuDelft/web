@@ -131,6 +131,8 @@ o.lastname@tudelft.nl
     <!-- <div style="text-align: justify;" class="col-sm-11"> -->
 
 <section markdown="1">
+  
+- April 5, 2025: New paper in Chemical Engineering Journal by Fengyi Mi. [Molecular insight into hydrogen storage in clathrate hydrates: The effect of different promoters on the spontaneous nucleation of hydrogen hydrates studied via microsecond-scale molecular dynamics simulations](https://www.sciencedirect.com/science/article/pii/S1385894725030797?via%3Dihub).
 - March 4, 2025: Parsa Habibi succesfully defended his PhD, and is now officially a Dr. Many congrats Parsa for your great achievement, and wishing you a fulfilling career. 
 - February 6, 2025: Menno Steverink is now officially an engineer after defending his MSc thesis. 
 - December 17: Timman van Oevern succefully defended his MSc Timman van Oeveren's succesfully LCA of H2 liquifaction and he is now an I.r! Congrats!
