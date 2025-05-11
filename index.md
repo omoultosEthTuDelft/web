@@ -132,6 +132,7 @@ o.lastname@tudelft.nl
 
 <section markdown="1">
 
+- May 2025: Two NWO proposals granted: 1. NWO XS to support us in trying to liquify hydrogen at higher temperatures than usual (with Mahinder Ramdin), and 2. NWO Open Technology Program (Harmony), superbly led by Costas Nikiforidis, focusing to reverse-engineer milk fat globules using plant-derived lipid droplets to create high-quality milk alternatives.
 - April 20: New paper in Journal of Chemical & Engineering Data by Julien: [Densities, Viscosities, and Self-Diffusion Coefficients of Aqueous Mixtures of NaBH4, NaB(OH)4, and NaOH Using the BH4− Delft Force Field (DFF/BH4−)](https://pubs.acs.org/doi/10.1021/acs.jced.4c00629?ref=pdf).   
 - April 5, 2025: New paper in Chemical Engineering Journal by Fengyi Mi: [Molecular insight into hydrogen storage in clathrate hydrates: The effect of different promoters on the spontaneous nucleation of hydrogen hydrates studied via microsecond-scale molecular dynamics simulations](https://www.sciencedirect.com/science/article/pii/S1385894725030797?via%3Dihub).
 - March 4, 2025: Parsa Habibi succesfully defended his PhD, and is now officially a Dr. Many congrats Parsa for your great achievement, and wishing you a fulfilling career. 
