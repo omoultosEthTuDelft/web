@@ -12,8 +12,8 @@ publications:
     pdf: "assets/publications/101.Postma_JCED_2025_70_1830.pdf",
     SI: "assets/publications/SI/101.Postma_JCED_2025_70_1830_SI.pdf",
     bib: "assets/publications/bib/101.Postma_JCED_2025_70_1830.bib",
-    Data: "assets/publications/bib/101.Postma_JCED_2025_70_1830.xlsx",
-    simulLammps: "assets/publications/SI/101.Postma_JCED_2025_70_1830.zip"
+    Data: "assets/publications/SI/101.Postma_JCED_2025_70_1830_SI.xlsx",
+    simulLammps: "assets/publications/SI/101.Postma_JCED_2025_70_1830_SI.zip"
     }
   - { number: "100.",
     title: "Molecular insight into hydrogen storage in clathrate hydrates: The effect of different promoters on the spontaneous nucleation of hydrogen hydrates studied via microsecond-scale molecular dynamics simulations",
