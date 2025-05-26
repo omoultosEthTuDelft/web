@@ -8,10 +8,12 @@ publications:
   - { number: "101.",
     title: "Densities, Viscosities, and Self-Diffusion Coefficients of Aqueous Mixtures of NaBH4, NaB(OH)4, and NaOH Using the BH4− Delft Force Field (DFF/BH4−)",
     authors: "Julien R. T. Postma, Parsa Habibi, Poulumi Dey, Thijs J. H. Vlugt, Othonas A. Moultos, and Johan T. Padding", 
-    venue: "Journal of Chemical & Engineering Data (2025), In press"
-    #, pdf: "assets/publications/100.Mi_CEJ_2025_512_162253.pdf",
-    # SI: "assets/publications/SI/100.Mi_CEJ_2025_512_162253_SI.pdf",
-    # bib: "assets/publications/bib/100.Mi_CEJ_2025_512_162253.bib"
+    venue: "Journal of Chemical & Engineering Data (2025), 70, 1830", 
+    pdf: "assets/publications/101.Postma_JCED_2025_70_1830.pdf",
+    SI: "assets/publications/SI/101.Postma_JCED_2025_70_1830_SI.pdf",
+    bib: "assets/publications/bib/101.Postma_JCED_2025_70_1830.bib",
+    Data: "assets/publications/bib/101.Postma_JCED_2025_70_1830.xlsx",
+    simulLammps: "assets/publications/SI/101.Postma_JCED_2025_70_1830.zip"
     }
   - { number: "100.",
     title: "Molecular insight into hydrogen storage in clathrate hydrates: The effect of different promoters on the spontaneous nucleation of hydrogen hydrates studied via microsecond-scale molecular dynamics simulations",
