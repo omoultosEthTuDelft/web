@@ -5,6 +5,14 @@ title: "Publications"
 
 publications:
   
+  - { number: "102.",
+    title: "From Grotthuss Transfer to Conductivity: Machine Learning Molecular Dynamics of Aqueous KOH",
+    authors: "V. Jelle Lagerweij, Sana Bougueroua, Parsa Habibi, Poulumi Dey, Marie-Pierre Gaigeot, Othonas A. Moultos, and Thijs J. H. Vlugt", 
+    venue: "Journal of Physical Chemistry B (2025), In press" 
+    # pdf: "assets/publications/101.Postma_JCED_2025_70_1830.pdf",
+    # SI: "assets/publications/SI/101.Postma_JCED_2025_70_1830_SI.pdf",
+    # bib: "assets/publications/bib/101.Postma_JCED_2025_70_1830.bib"
+    }
   - { number: "101.",
     title: "Densities, Viscosities, and Self-Diffusion Coefficients of Aqueous Mixtures of NaBH4, NaB(OH)4, and NaOH Using the BH4− Delft Force Field (DFF/BH4−)",
     authors: "Julien R. T. Postma, Parsa Habibi, Poulumi Dey, Thijs J. H. Vlugt, Othonas A. Moultos, and Johan T. Padding", 
