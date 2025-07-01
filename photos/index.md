@@ -38,6 +38,14 @@ Click on photos to enlarge.
 <div class="row">
 <!-- <div class="col-sm-14"> -->
 
+
+<div class="gallery">
+  <a target="_blank" href="photos/campusRun2025.jpg">
+    <img src="photos/campusRun2025.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> Campusrun 2025 ~10 kilometer. This year slower (~53') but with a good company of friends and colleagues (Delft, June 2025)</div>
+</div>
+
 <div class="gallery">
   <a target="_blank" href="photos/parsa2025.jpg">
     <img src="photos/parsa2025.jpg" alt="Mountains" width="600" height="auto">
