@@ -8,7 +8,7 @@ publications:
   - { number: "102.",
     title: "From Grotthuss Transfer to Conductivity: Machine Learning Molecular Dynamics of Aqueous KOH",
     authors: "V. Jelle Lagerweij, Sana Bougueroua, Parsa Habibi, Poulumi Dey, Marie-Pierre Gaigeot, Othonas A. Moultos, and Thijs J. H. Vlugt", 
-    venue: "Journal of Physical Chemistry B (2025), 129, 6093" 
+    venue: "Journal of Physical Chemistry B (2025), 129, 6093", 
     pdf: "assets/publications/102.Lagerweij_JPCB_2025_129_6093.pdf",
     SI: "assets/publications/SI/102.Lagerweij_JPCB_2025_129_6093_SI.pdf",
     bib: "assets/publications/bib/102.Lagerweij_JPCB_2025_129_6093.bib"
