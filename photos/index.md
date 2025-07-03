@@ -40,6 +40,13 @@ Click on photos to enlarge.
 
 
 <div class="gallery">
+  <a target="_blank" href="photos/Jordi2025.jpg">
+    <img src="photos/Jordi2025.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> Jordi Vlak defended his MSc and graduated with 9! (Delft, July 2025)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/campusRun2025.jpg">
     <img src="photos/campusRun2025.jpg" alt="Mountains" width="600" height="auto">
   </a>
