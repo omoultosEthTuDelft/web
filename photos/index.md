@@ -39,6 +39,14 @@ Click on photos to enlarge.
 <!-- <div class="col-sm-14"> -->
 
 
+
+<div class="gallery">
+  <a target="_blank" href="photos/pro2tech.jpg">
+    <img src="photos/pro2tech.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> Very happy to have shared a few updates about our work on PFAS capture using novel adsorbents at the  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7349211848610586625/">Nanomedicine & Health Tech Symposium</a> organized by Pro2Tech (Delft, July 2025)</div>
+</div>
+
 <div class="gallery">
   <a target="_blank" href="photos/Jordi2025.jpg">
     <img src="photos/Jordi2025.jpg" alt="Mountains" width="600" height="auto">
