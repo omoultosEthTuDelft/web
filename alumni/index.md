@@ -25,6 +25,7 @@ title: "Alumni"
 <h5>Former MSc students</h5>
 <section markdown="1">
 
+- [Declan Wee Hong Xiang]() <strong>Evaluation of Machine-Learning Interatomic Potentials for Liquid Water Systems</strong>.
 - [Jordi Vlak](https://www.linkedin.com/in/jordi-vlak-064783184/?originalSubdomain=nl), 2024 - 2025 [<strong>Modeling of a modular water electrolysis system</strong>](
 https://repository.tudelft.nl/record/uuid:2839134b-9631-477c-aafb-3a0fecf49b6c).
 - [Menno Steverink](https://nl.linkedin.com/in/menno-steverink?original_referer=https%3A%2F%2Fwww.google.com%2F), 2024 - 2025 <strong>Design of a food-grade carbon dioxide system for small-scale beer breweries</strong>.

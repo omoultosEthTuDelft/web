@@ -30,7 +30,6 @@ title: "People"
  
 - Nikolaos-Marinos Tzitzikopoulos <strong>Modeling of magnetocaloric materials for heat pump design</strong>, w/ <a href="https://magneto.systems">Magneto systems</a>.
 - [Anneke Guluma](https://www.linkedin.com/in/anneke-guluma-24950330a/?originalSubdomain=nl) <strong>Molecular modeling and machine learning of lithium recovery for the recycling of Li-batteries</strong>, w/ <a href="https://www.linkedin.com/in/alexandros-vasileiadis-32464b67/?originalSubdomain=nl">Dr. Alexandros Vasileiadis</a>, <a href="https://www.tudelft.nl/tnw/zakelijk/faciliteiten/tu-delft-reactor-institute"> Reactor Institute TU Delft</a>.
-- [Declan Wee Hong Xiang Declan]() <strong>Development of machine learning potentials for aqueous electrolytes</strong>.
 </section>
 
 <br/><br/>
