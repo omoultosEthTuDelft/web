@@ -39,6 +39,12 @@ Click on photos to enlarge.
 <!-- <div class="col-sm-14"> -->
 
 
+<div class="gallery">
+  <a target="_blank" href="photos/declan2025.jpg">
+    <img src="photos/declan2025.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> Yet a brand new engineer! Declan Wee Hong Xiang (in the middle). Co-supervised by Jelle Lagerweij (on the left). (Delft, July 2025)</div>
+</div>
 
 <div class="gallery">
   <a target="_blank" href="photos/pro2tech.jpg">
