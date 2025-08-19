@@ -12,6 +12,7 @@ title: "People"
 <section markdown="1">
 <!-- - <img src="photos/Mate.jpeg" height= "100" width= "100">  -->
 
+- [Konstantinos Psillos]() - Incoming / Molecular simulation of membranes for electrochemical Hydrlgen systems.
 - [Paula De Barros Barreto]() - Dual degree PhD candidate (BR/NL). <strong>Molecular simulation of carbon dioxide-rich mixtures adsorption onto nanoporous materials</strong>, w/ [Luis Mercier Franco](https://portal.edat.unicamp.br/perfil?origem=programas&docente=311804&sigla_unidade=&nome_unidade=&nome_programa=%20Pós-Graduação%20da%20Faculdade%20de%20Engenharia%20Química), [Chem. Eng. Unicamp, Brazil](https://unicamp.br/en/unicamp/faculdade-de-engenharia-quimica/).
 - [Bowen Sha](https://www.linkedin.com/mynetwork/grow/). <strong>Molecular modeling of PFAS removal with novel cyclodextrin-based adsorbents</strong>. 
 - [Cole Brzakala](https://www.linkedin.com/in/cole-brzakala/). <strong>Artificial Intelligence to accelerate molecular simulations for design of PFAS absorbents</strong>, w/ [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/universitair-docent-onderwijzer/dr-riccardo-taormina), [CITG TU Delft](https://www.tudelft.nl/citg). 
