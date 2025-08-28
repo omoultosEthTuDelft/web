@@ -12,7 +12,7 @@ title: "Main page"
 <br/>
 <p class="lead" style="font-size: 130%"><strong>
 Associate Professor, <a href="https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/">Engineering Thermodynamics</a> <br/>Department of <a href="https://www.tudelft.nl/me/over/afdelingen/process-energy">Process & Energy</a>,<br/> Faculty of <a href="https://www.tudelft.nl/3me/">Mechanical Engineering</a>, <br/><a href="http://www.tudelft.nl/">Delft University of Technology</a>
-<br>& <br>Machine Learning Engineer, <a href="https://www.endorlabs.com">Endor Labs</a>.</strong>
+<br>& <br>AI Engineer, <a href="https://www.endorlabs.com">Endor Labs</a>.</strong>
 </p>
 
 <p style="text-align: justify;">
