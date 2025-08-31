@@ -6,7 +6,7 @@ title: "Teaching"
 <div id="people" class="row">
 <div  style="text-align: justify;" class="col-sm-12">
 	<br/><br/>
-<h5>Courses 2023/2024</h5>
+<h5>Courses</h5>
 
 <section markdown="1">
 
