@@ -75,16 +75,12 @@ title: "Research projects"
             <td><strong>550,000 Euros</strong> (total budget: 45,000,000 Euros)<br>2025 – ongoing</td>
         </tr>
         <tr>
-            <td><strong>HyTROS</strong> – Hydrogen Transport, Offshore and Storage, <strong>NWO/Groenvermogen NL, Work Package 2</strong>. 51 parties (public institutes and private companies) work together towards developing robust solutions for large-scale storage and transport of hydrogen. <strong>Co-PI</strong></td>
+            <td><strong>HyTROS</strong> – Hydrogen Transport, Offshore and Storage, <strong>NWO/Groenvermogen NL, Work Package 2</strong>. 51 parties (public institutes and private companies) work together towards developing robust solutions for large-scale storage and transport of hydrogen. <strong>co-PI</strong></td>
             <td><strong>600,000 Euros</strong> (total budget: 18,000,000 Euros)<br>2024 – ongoing</td>
         </tr>
         <tr>
             <td><strong>SYROP</strong> – Intelligent design of sustainable Sugar(cYclodextrin) - based adsorbents for the Removal of PFAS and other Organic microPollutants from water, <strong>NWO/Open Technology Program AES</strong>. 3 industrial partners. <strong>PI</strong></td>
             <td><strong>1,026,000 Euros</strong><br>2023 – ongoing</td>
-        </tr>
-        <tr>
-            <td>State-of-the-art multi-scale simulations and artificial intelligence to identify nano-porous materials for efficient hydrogen storage, <strong>ME Cohesion grant</strong> (with Materials Engineering Dept.). <strong>PI</strong></td>
-            <td><strong>200,000 Euros</strong><br>2020 – ongoing</td>
         </tr>
     </tbody>
 </table>
@@ -153,23 +149,27 @@ title: "Research projects"
     </thead>
     <tbody>
         <tr>
+            <td>Molecular simulation of vapor liquid equilibria curves of acid-gas absorption in liquids, <strong>Private research agreement with TOTALEnergies</strong> (w/ MINES ParisTech, France). <strong>co-PI</strong></td>
+            <td><strong>140,000 Euros + 1 PhD student</strong><br>2020 – 2024</td>
+        </tr>
+        <tr>
+            <td>State-of-the-art multi-scale simulations and artificial intelligence to identify nano-porous materials for efficient hydrogen storage, <strong>ME Cohesion grant</strong> (with Materials Engineering Dept.). <strong>PI</strong></td>
+            <td><strong>200,000 Euros</strong><br>2020 – 2023</td>
+        </tr>
+        <tr>
             <td><strong>Bio-cel</strong> – Integrated biogenic CO2 capture with electrochemical conversion to oxalic acid, <strong>RVO, Model projectplan energie en industrie 2019. Join industry projects (JIP)</strong>. Industrial partners: DMT Environmental Technology, TNO, Mestverwerking Fryslan BV, Tielo-Tech B.V. <strong>PI</strong></td>
             <td><strong>188,000 Euros</strong> (total budget: 468,000 Euros)<br>2020 – 2023</td>
         </tr>
         <tr>
-            <td>Molecular simulation of vapor liquid equilibria curves of acid-gas absorption in liquids, <strong>Private research agreement with TOTALEnergies</strong> (w/ MINES ParisTech, France). <strong>Co-PI</strong></td>
-            <td><strong>140,000 Euros + 1 PhD student</strong> (employed by TOTALEnergies)<br>2020 – 2024</td>
-        </tr>
-        <tr>
-            <td><strong>Hy & Dry</strong> – High pressure, high purity, dry hydrogen, <strong>RVO, Model projectplan Waterstof tender 2019. Programmalijn: Toepassing van waterstof</strong>. Industrial partners: HyET Hydrogen, Tielo-Tech B.V. <strong>Co-PI</strong></td>
+            <td><strong>Hy & Dry</strong> – High pressure, high purity, dry hydrogen, <strong>RVO, Model projectplan Waterstof tender 2019. Programmalijn: Toepassing van waterstof</strong>. Industrial partners: HyET Hydrogen, Tielo-Tech B.V. <strong>co-PI</strong></td>
             <td><strong>251,000 Euros</strong> (total budget: 500,000 Euros)<br>2019 – 2022</td>
         </tr>
         <tr>
-            <td>Towards light and eco-friendly steels: Multi-scale modelling of hydrogen embrittlement, <strong>ME Cohesion grant</strong> (with Materials Engineering and Maritime Technology Depts.). <strong>Co-PI</strong></td>
+            <td>Towards light and eco-friendly steels: Multi-scale modelling of hydrogen embrittlement, <strong>ME Cohesion grant</strong> (with Materials Engineering and Maritime Technology Depts.). <strong>co-PI</strong></td>
             <td><strong>120,000 Euros</strong><br>2019 – 2021</td>
         </tr>
         <tr>
-            <td>Multi-scale approach for the electrochemical conversion of carbon dioxide to value-added product, <strong>CATO – TKI (CCUS-TKI-toeslag-2013)</strong>. Industrial partner: Coval Energy. <strong>Co-PI</strong></td>
+            <td>Multi-scale approach for the electrochemical conversion of carbon dioxide to value-added product, <strong>CATO – TKI (CCUS-TKI-toeslag-2013)</strong>. Industrial partner: Coval Energy. <strong>co-PI</strong></td>
             <td><strong>50,000 Euros</strong> (total budget: 100,000 Euros)<br>2017 – 2019</td>
         </tr>
         <tr>
