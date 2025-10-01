@@ -136,3 +136,31 @@ a:visited { color: #3973ac; }
   flex: 1;
   line-height: 1.5;
 }
+
+/* Publications year headers */
+.year-header {
+  position: sticky;
+  top: 0;
+  background: linear-gradient(135deg, #3973ac 0%, #5a9bd4 100%);
+  color: white;
+  padding: 8px 15px;
+  margin: 20px 0 10px 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-radius: 4px;
+  z-index: 10;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.year-header:first-of-type {
+  margin-top: 0;
+}
+
+.pub-item {
+  padding: 10px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.pub-item:hover {
+  background-color: #f8f9fa;
+}

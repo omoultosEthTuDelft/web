@@ -772,12 +772,13 @@ publications:
 <h5>Publications</h5>
 <!-- <br/> -->
 
+<div id="publications-list">
 {% for pub in page.publications %}
 <!-- {% if pub('section')? %}
 <h6><strong>{{pub.title}}</strong></h6>
 {% else %}
  -->&nbsp;
-<dl class="row">
+<dl class="row pub-item" data-venue="{{pub.venue}}">
  <dt class="col-sm-3">
   <h6><span class="badge badge-danger" role="button">{{ pub.label }}</span></h6>
   <h6><span class="badge badge-success" role="button">{{ pub.number }}</span></h6>
@@ -802,6 +803,32 @@ publications:
 </dl>
 {% endif %}
 {% endfor %}
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var pubList = document.getElementById('publications-list');
+  var pubItems = pubList.querySelectorAll('.pub-item');
+  var lastYear = null;
+  
+  pubItems.forEach(function(item) {
+    var venue = item.getAttribute('data-venue');
+    // Extract year from venue string like "Journal (2026), 123, 456"
+    var yearMatch = venue.match(/\((\d{4})\)/);
+    if (yearMatch) {
+      var year = yearMatch[1];
+      if (year !== lastYear) {
+        // Insert year header before this publication
+        var yearHeader = document.createElement('div');
+        yearHeader.className = 'year-header';
+        yearHeader.textContent = year;
+        item.parentNode.insertBefore(yearHeader, item);
+        lastYear = year;
+      }
+    }
+  });
+});
+</script>
 
 </div>
 
