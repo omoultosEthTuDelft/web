@@ -40,6 +40,14 @@ Click on photos to enlarge.
 
 
 <div class="gallery">
+  <a target="_blank" href="photos/Anneke.jpg">
+    <img src="photos/Anneke.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> From the MSc defence of Anneke Guluma. People in the photo from left to right: Alexandros Vasileiadis, Anneke, Anna Felden, and Otto. (Delft, July 2025)</div>
+</div>
+
+
+<div class="gallery">
   <a target="_blank" href="photos/declan2025.jpg">
     <img src="photos/declan2025.jpg" alt="Mountains" width="600" height="auto">
   </a>
