@@ -132,6 +132,7 @@ o.lastname@tudelft.nl
 
 <section markdown="1">
 
+- September 15: Anneke Guluma defended her MSc thesis "A Quantum Mechanical Study of Lithium Titanium Oxide for Lithium Recovery", and has officially became an Engineer.  
 - July: Declan Wee Hong Xiang successfully defended his MSc thesis on Evaluation of Machine-Learning Interatomic Potentials for Liquid Water Systems!
 - July: Jordi Vlak became an engineer today. He graduated with 9! Congrats Jordi, and good luck.
 - May 2025: Two NWO proposals granted: 1. NWO XS to support us in trying to liquify hydrogen at higher temperatures than usual (with Mahinder Ramdin), and 2. NWO Open Technology Program (Harmony), superbly led by Costas Nikiforidis, focusing to reverse-engineer milk fat globules using plant-derived lipid droplets to create high-quality milk alternatives.
