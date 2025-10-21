@@ -41,6 +41,7 @@ title: "People"
 <section markdown="1">
 
 - [Ioannis Makropoulos]() <strong>Advanced end synchronization logic for Product variant change over</strong>, w/ [P&G Services Company NV](https://us.pg.com).
+- [Tim Deutman]() <strong>Evaluating and Summarizing Operational and Safety Protocols for Electrolyzer Modules</strong>, w/ [XINTC](https://xintc.global).
 
 </section>
 
