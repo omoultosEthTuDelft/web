@@ -12,7 +12,7 @@ title: "People"
 <section markdown="1">
 <!-- - <img src="photos/Mate.jpeg" height= "100" width= "100">  -->
 
-- [Konstantinos Psillos]() - Incoming / Molecular simulation of membranes for electrochemical Hydrogen systems.
+- [Konstantinos Psillos](https://www.linkedin.com/in/kostaspsillos/) - Molecular simulation of membranes for electrochemical hydrogen systems.
 - [Paula De Barros Barreto]() - Dual degree PhD candidate (BR/NL). <strong>Molecular simulation of carbon dioxide-rich mixtures adsorption onto nanoporous materials</strong>, w/ [Luis Mercier Franco](https://portal.edat.unicamp.br/perfil?origem=programas&docente=311804&sigla_unidade=&nome_unidade=&nome_programa=%20Pós-Graduação%20da%20Faculdade%20de%20Engenharia%20Química), [Chem. Eng. Unicamp, Brazil](https://unicamp.br/en/unicamp/faculdade-de-engenharia-quimica/).
 - [Bowen Sha](https://www.linkedin.com/mynetwork/grow/). <strong>Molecular modeling of PFAS removal with novel cyclodextrin-based adsorbents</strong>. 
 - [Cole Brzakala](https://www.linkedin.com/in/cole-brzakala/). <strong>Artificial Intelligence to accelerate molecular simulations for design of PFAS absorbents</strong>, w/ [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/universitair-docent-onderwijzer/dr-riccardo-taormina), [CITG TU Delft](https://www.tudelft.nl/citg). 
@@ -31,6 +31,8 @@ title: "People"
  
 - Theodoros Benai <strong>Molecular Simulation of Activated Carbons for PFAS capture</strong>. 
 - Nikolaos-Marinos Tzitzikopoulos <strong>Modeling of magnetocaloric materials for heat pump design</strong>, w/ <a href="https://magneto.systems">Magneto systems</a>.
+- Gabriele Blasi <strong>Molecular Simulation of Nanoporous Materials for PFAS Adsorption</strong>, Incoming December. 
+- Hicham Hachicho <strong>Hydroge liquefaction in confined media</strong>, w/Dr. Mahinder Ramdin. Incoming January. 
 
 </section>
 
