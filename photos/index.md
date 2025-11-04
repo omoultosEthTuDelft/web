@@ -38,6 +38,13 @@ Click on photos to enlarge.
 <div class="row">
 <!-- <div class="col-sm-14"> -->
 
+<div class="gallery">
+  <a target="_blank" href="photos/nikos2025.jpg">
+    <img src="photos/nikos2025.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> After the MSc defence of Nikos Tzitzikopoulos. People in the photo from left to right: Nikos, Otto, Mahinder Ramind, Emanuele Zanetti, and Bowei Huang. (Delft, October 2025)</div>
+</div>
+
 
 <div class="gallery">
   <a target="_blank" href="photos/Anneke.jpg">
