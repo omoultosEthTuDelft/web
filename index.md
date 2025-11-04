@@ -130,6 +130,7 @@ o.lastname@tudelft.nl
 
 <section markdown="1">
 
+- November 4: New paper by Thejas on the [Impact of finite-size effects on computed transport properties: a molecular dynamics study of dilute systems](https://www.tandfonline.com/doi/full/10.1080/00268976.2025.2578408).
 - October 31: Nikolaos-Marinos Tzitzikopoulos succesfully defended his MSc work on Parametric Optimization of an Active Magnetic Regenerator (working together with Magneto). Congrats Ir. Tzitzikopoulos. 
 - September 15: Anneke Guluma defended her MSc thesis "A Quantum Mechanical Study of Lithium Titanium Oxide for Lithium Recovery", and has officially became an Engineer. 
 - July: Declan Wee Hong Xiang successfully defended his MSc thesis on Evaluation of Machine-Learning Interatomic Potentials for Liquid Water Systems!
