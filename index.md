@@ -30,8 +30,6 @@ My research and teaching activities focus on the application of molecular thermo
 (ii) I work towards designing sustainable adsorbents for the removal of contaminants from water. My work requires large-scale high-performance computing and involves a number of powerful molecular simulation methods such as on-the-fly calculations of thermodynamic and transport properties of fluids using molecular dynamics, and phase-, adsorption- and reaction-equilibria using advanced Monte Carlo sampling. My research aims to provide insight at both the fundamental and the application level. To achieve this, I collaborate with partners such as <a href="https://totalenergies.com">TotalEnergies</a>, <a href="https://cyclopure.com">Cyclopure</a>, <a href="https://www.waternet.nl">Waternet</a>, <a href="https://www.witteveenbos.com"> Witteveen & Bos</a>, <a href="https://hyethydrogen.com">HyET Hydrogen</a>, <a href="https://www.xintc.global">XiNTC</a>, <a href="https://www.tno.nl/nl/">TNO</a>, <a href="https://www.dmt-et.com">DMT Environmental Tech</a>, and various universities and research institutes around the world. At Endor Labs, I work with the team in NL focusing on developing machine learning approaches to detect valnurebalities in software.
 </p>
 
-
-
 <div class="alert alert-warning" role="alert" markdown="1">
   <a href="assets/misc/MScGuide.pdf"><strong>Download here</strong></a> the practical guide for MSc theses that I wrote together with <a href="https://www.linkedin.com/in/carey-walters-44252714b/?originalSubdomain=nl"><strong>Carey Walters</strong></a>. 
 </div> 
@@ -39,9 +37,9 @@ My research and teaching activities focus on the application of molecular thermo
 <!-- <div class="alert alert-success" role="alert" markdown="1">
 <a href="https://careers.tudelft.nl/job/Delft-PhD-Position-Molecular-Modeling-of-Hydrogen-Production-via-Water-Electrolysis-2628-CD/810877102/"><strong>New PhD position on Molecular Simulation of Hydrogen systems.</strong></a>
 </div>  -->
-<!-- <div class="alert alert-success" role="alert" markdown="1"> 2 PhD positions open: 
-  <a href="https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=4211&nPostingTargetId=11873&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&mask=external"><strong>Computational design of adsorbents for the removal of micropollutants from water</strong></a> and <a href="https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details?jobId=14239"><strong>Accelerating Molecular Simulations with AI for The Design of New PFAS Absorbants</strong></a>. 
-</div>  -->
+<div class="alert alert-success" role="alert" markdown="1"> PhD position open: 
+  <a href="https://careers.tudelft.nl/job/Delft-PhD-Position-Design-of-Plant-Based-Dairy-Alternatives-Using-Molecular-Modeling-2628-CD/1331116757/"><strong>Design of Plant-Based Dairy Alternatives Using Molecular Modeling</strong></a>
+</div> 
 
 <!-- alert-primary : blue-->
 <!-- alert-info : light blue-->
