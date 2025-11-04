@@ -30,7 +30,6 @@ title: "People"
 <section markdown="1">
  
 - Theodoros Benai <strong>Molecular Simulation of Activated Carbons for PFAS capture</strong>. 
-- Nikolaos-Marinos Tzitzikopoulos <strong>Modeling of magnetocaloric materials for heat pump design</strong>, w/ <a href="https://magneto.systems">Magneto systems</a>.
 - Gabriele Blasi <strong>Molecular Simulation of Nanoporous Materials for PFAS Adsorption</strong>, Incoming December. 
 - Hicham Hachicho <strong>Hydrogen liquefaction in confined media</strong>, w/Dr. Mahinder Ramdin. Incoming January. 
 
