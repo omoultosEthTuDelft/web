@@ -2,9 +2,24 @@
 layout: default
 title: "Publications"
 
-
 publications:
-  
+  - { number: "104.",
+    title: "Molecular Simulation of Hydrogen Systems: From Properties and Methods to Applications and Future Directions",
+    authors: "Ahmadreza Rahbari, Thejas Hulikal Chakrapani, Fei Shuang, Panagiotis Krokidas, Parsa Habibi, V. Jelle Lagerweij, Mahinder Ramdin, Thijs J. H. Vlugt, Hadi Hajibeygi, Poulumi Dey, Ioannis N. Tsimpanogiannis, and Othonas A. Moultos", 
+    venue: "Chemical Reviews (2025), In Press"
+    #, 
+    # pdf: "assets/publications/102.Lagerweij_JPCB_2025_129_6093.pdf",
+    # bib: "assets/publications/bib/102.Lagerweij_JPCB_2025_129_6093.bib"
+    }
+  - { number: "103.",
+    title: "Impact of finite-size effects on computed transport properties: a molecular dynamics study of dilute systems",
+    authors: "Thejas Hulikal Chakrapani, Hadi Hajibeygi, Othonas A. Moultos, and Thijs J. H. Vlugt", 
+    venue: "Molecular Physics (2025), In Press"
+    #, 
+    # pdf: "assets/publications/102.Lagerweij_JPCB_2025_129_6093.pdf",
+    # SI: "assets/publications/SI/102.Lagerweij_JPCB_2025_129_6093_SI.pdf",
+    # bib: "assets/publications/bib/102.Lagerweij_JPCB_2025_129_6093.bib"
+    }
   - { number: "102.",
     title: "From Grotthuss Transfer to Conductivity: Machine Learning Molecular Dynamics of Aqueous KOH",
     authors: "V. Jelle Lagerweij, Sana Bougueroua, Parsa Habibi, Poulumi Dey, Marie-Pierre Gaigeot, Othonas A. Moultos, and Thijs J. H. Vlugt", 
