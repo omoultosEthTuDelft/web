@@ -71,6 +71,10 @@ title: "Research projects"
             <td><strong>333,000 Euros</strong> (total budget: 1,045,000 Euros)<br>2025 – ongoing</td>
         </tr>
         <tr>
+            <td><strong>Revolutionizing Hydrogen Liquefaction using Carbon Nanotubes</strong> – Experiments and simulations to investigate if hydrogen liquefaction can be achieved at temperatures way higher than usual (ca. 20 K) by using nanoporous media. <strong>NWO Open Competition Domain Science XS</strong>. <strong>PI</strong></td>
+            <td><strong>50,000 Euros</strong> <br>2025 – ongoing</td>
+        </tr>
+        <tr>
             <td><strong>HyPRO</strong> – Green Hydrogen production, <strong>NWO/Groenvermogen NL, Work Package 1</strong>. 58 parties project to develop the next generation of green and low-carbon hydrogen technologies focusing on Alkaline and PEM Water Electrolysis, High-Temperature Solid Oxide and Protonic Ceramic Electrolysers, and Anion Exchange Membranes. <strong>PI</strong></td>
             <td><strong>550,000 Euros</strong> (total budget: 45,000,000 Euros)<br>2025 – ongoing</td>
         </tr>
