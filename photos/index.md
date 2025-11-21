@@ -39,6 +39,13 @@ Click on photos to enlarge.
 <!-- <div class="col-sm-14"> -->
 
 <div class="gallery">
+  <a target="_blank" href="photos/thanos2025.jpg">
+    <img src="photos/thanos2025.jpg" alt="Mountains" width="600" height="auto">
+  </a>
+  <div class="desc"> With Thanos Panagiotopoulos during the reception for celebrating his 65th birthday. (Boston MA, USA November 2025)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/nikos2025.jpg">
     <img src="photos/nikos2025.jpg" alt="Mountains" width="600" height="auto">
   </a>
