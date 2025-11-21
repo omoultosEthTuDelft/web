@@ -29,9 +29,11 @@ title: "People"
 <h5>MSc students</h5>
 <section markdown="1">
  
+- Sieds Lykles <strong>ML-potentials for aqueous</strong>. 
 - Theodoros Benai <strong>Molecular Simulation of Activated Carbons for PFAS capture</strong>. 
+- Hicham Hachicho <strong>Hydrogen liquefaction in confined media</strong>, w/Dr. Mahinder Ramdin.
 - Gabriele Blasi <strong>Molecular Simulation of Nanoporous Materials for PFAS Adsorption</strong>, Incoming December. 
-- Hicham Hachicho <strong>Hydrogen liquefaction in confined media</strong>, w/Dr. Mahinder Ramdin. Incoming January. 
+
 
 </section>
 
