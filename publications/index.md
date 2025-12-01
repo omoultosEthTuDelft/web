@@ -3,6 +3,14 @@ layout: default
 title: "Publications"
 
 publications:
+  - { number: "105.",
+    title: "Thermodynamics 2024 Conference Delft, The Netherlands 4–6 September 2024",
+    authors: "Othonas A. Moultos, Thijs J. H. Vlugt, Amparo Galindo, and George Jackson", 
+    venue: "Molecular Physics (2025), In Press"
+    #, 
+    # pdf: "assets/publications/102.Lagerweij_JPCB_2025_129_6093.pdf",
+    # bib: "assets/publications/bib/102.Lagerweij_JPCB_2025_129_6093.bib"
+    }
   - { number: "104.",
     title: "Molecular Simulation of Hydrogen Systems: From Properties and Methods to Applications and Future Directions",
     authors: "Ahmadreza Rahbari, Thejas Hulikal Chakrapani, Fei Shuang, Panagiotis Krokidas, Parsa Habibi, V. Jelle Lagerweij, Mahinder Ramdin, Thijs J. H. Vlugt, Hadi Hajibeygi, Poulumi Dey, Ioannis N. Tsimpanogiannis, and Othonas A. Moultos", 
