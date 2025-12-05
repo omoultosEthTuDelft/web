@@ -25,8 +25,8 @@ title: "Alumni"
 <h5>Former MSc students</h5>
 <section markdown="1">
 
-- Nikolaos-Marinos Tzitzikopoulos, 2025 <strong>Parametric Optimization of an Active Magnetic Regenerator</strong>.
-- [Anneke Guluma](https://www.linkedin.com/in/anneke-guluma-24950330a/?originalSubdomain=nl), 2025 <strong>A Quantum Mechanical Study of Lithium Titanium Oxide for Lithium Recovery</strong>.
+- Nikolaos-Marinos Tzitzikopoulos, 2025 <strong>[Parametric Optimization of an Active Magnetic Regenerator](https://repository.tudelft.nl/record/uuid:87e55981-7e45-404f-bc98-de0ca51f6b59)</strong>.
+- [Anneke Guluma](https://www.linkedin.com/in/anneke-guluma-24950330a/?originalSubdomain=nl), 2025 <strong>[A Quantum Mechanical Study of Lithium Titanium Oxide for Lithium Recovery](https://repository.tudelft.nl/record/uuid:0f25b6d7-cb2c-43f8-ba5e-d17dbfe87b1a)</strong>.
 - [Declan Wee Hong Xiang](https://www.linkedin.com/in/declan-wee-0612a5122/?originalSubdomain=sg), 2024 - 2025 <strong>Evaluation of Machine-Learning Interatomic Potentials for Liquid Water Systems</strong>.
 - [Jordi Vlak](https://www.linkedin.com/in/jordi-vlak-064783184/?originalSubdomain=nl), 2024 - 2025 [<strong>Modeling of a modular water electrolysis system</strong>](
 https://repository.tudelft.nl/record/uuid:2839134b-9631-477c-aafb-3a0fecf49b6c). Now at [Accuselect](https://accuselect.nl).
