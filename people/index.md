@@ -29,7 +29,7 @@ title: "People"
 <h5>MSc students</h5>
 <section markdown="1">
  
-- Gabriele Blasi <strong>Molecular Simulation of Nanoporous Materials for PFAS Adsorption</strong>, Incoming December. 
+- Gabriele Blasi <strong>Molecular Simulation of Nanoporous Materials for PFAS Adsorption</strong>. 
 - Omkar Dhavale <strong>Thermodynamic modeling and molecular simulation of Molten-Salt Fuel Systems</strong> w/Dr. Anna Smith (Reactor Institute).
 - Sieds Lykles <strong>ML-potentials for aqueous solutions</strong>. 
 - Theodoros Benai <strong>Molecular Simulation of Activated Carbons for PFAS capture</strong>. 
