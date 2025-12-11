@@ -6,7 +6,7 @@ publications:
   - { number: "105.",
     title: "Thermodynamics 2024 Conference Delft, The Netherlands 4–6 September 2024",
     authors: "Othonas A. Moultos, Thijs J. H. Vlugt, Amparo Galindo, and George Jackson", 
-    venue: "Molecular Physics (2025), ASAP, read on line: https://www.tandfonline.com/doi/full/10.1080/00268976.2025.2578572", 
+    venue: "Molecular Physics (2025), ASAP", 
     pdf: "assets/temp/105.pdf"
     #,
     # bib: "assets/publications/bib/102.Lagerweij_JPCB_2025_129_6093.bib"
@@ -14,7 +14,7 @@ publications:
   - { number: "104.",
     title: "Molecular Simulation of Hydrogen Systems: From Properties and Methods to Applications and Future Directions",
     authors: "Ahmadreza Rahbari, Thejas Hulikal Chakrapani, Fei Shuang, Panagiotis Krokidas, Parsa Habibi, V. Jelle Lagerweij, Mahinder Ramdin, Thijs J. H. Vlugt, Hadi Hajibeygi, Poulumi Dey, Ioannis N. Tsimpanogiannis, and Othonas A. Moultos", 
-    venue: "Chemical Reviews (2025), ASAP, read on line: https://pubs.acs.org/doi/10.1021/acs.chemrev.5c00617", 
+    venue: "Chemical Reviews (2025), ASAP", 
     pdf: "assets/temp/104.pdf"
     ,
     # bib: "assets/publications/bib/102.Lagerweij_JPCB_2025_129_6093.bib"
@@ -22,7 +22,7 @@ publications:
   - { number: "103.",
     title: "Impact of finite-size effects on computed transport properties: a molecular dynamics study of dilute systems",
     authors: "Thejas Hulikal Chakrapani, Hadi Hajibeygi, Othonas A. Moultos, and Thijs J. H. Vlugt", 
-    venue: "Molecular Physics (2025), ASAP, read on line: https://www.tandfonline.com/doi/full/10.1080/00268976.2025.2578408", 
+    venue: "Molecular Physics (2025), ASAP", 
     pdf: "assets/temp/103.pdf"
     ,
     # SI: "assets/publications/SI/102.Lagerweij_JPCB_2025_129_6093_SI.pdf",
