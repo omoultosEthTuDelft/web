@@ -33,7 +33,9 @@ title: "People"
 - Omkar Dhavale <strong>Thermodynamic modeling and molecular simulation of Molten-Salt Fuel Systems</strong> w/Dr. Anna Smith (Reactor Institute).
 - Sieds Lykles <strong>ML-potentials for aqueous solutions</strong>. 
 - Theodoros Benai <strong>Molecular Simulation of Activated Carbons for PFAS capture</strong>. 
-- Hicham Hachicho <strong>Hydrogen liquefaction in confined media</strong>, w/Dr. Mahinder Ramdin.
+- Hicham Hachicho <atrong>Hydrogen liquefaction in confined media</strong>, w/Dr. Mahinder Ramdin.
+- Kasper van Tulder <strong>Modelling of plasma chemistry for integration in CFD: focus on  transport properties</strong>, w/Dr. Anna Felden (main supervisor).
+
 
 </section>
 
