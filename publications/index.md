@@ -21,7 +21,7 @@ publications:
     title: "Impact of finite-size effects on computed transport properties: a molecular dynamics study of dilute systems",
     authors: "Thejas Hulikal Chakrapani, Hadi Hajibeygi, Othonas A. Moultos, and Thijs J. H. Vlugt", 
     venue: "Molecular Physics (2025), 123, e2578408", 
-    pdf: "assets/temp/103.pdf",
+    pdf: "assets/publications/103.Chakrapani_MP_2025_123_e2578408.pdf",
     # SI: "assets/publications/SI/102.Lagerweij_JPCB_2025_129_6093_SI.pdf",
     bib: "assets/publications/bib/103.Chakrapani_MP_2025_123_e2578408.bib"
     }
