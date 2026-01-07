@@ -37,9 +37,9 @@ My research and teaching activities focus on the application of molecular thermo
 <!-- <div class="alert alert-success" role="alert" markdown="1">
 <a href="https://careers.tudelft.nl/job/Delft-PhD-Position-Molecular-Modeling-of-Hydrogen-Production-via-Water-Electrolysis-2628-CD/810877102/"><strong>New PhD position on Molecular Simulation of Hydrogen systems.</strong></a>
 </div>  -->
-<div class="alert alert-success" role="alert" markdown="1"> PhD position open: 
+<!-- <div class="alert alert-success" role="alert" markdown="1"> PhD position open: 
   <a href="https://careers.tudelft.nl/job/Delft-PhD-Position-Design-of-Plant-Based-Dairy-Alternatives-Using-Molecular-Modeling-2628-CD/1331116757/"><strong>Design of Plant-Based Dairy Alternatives Using Molecular Modeling</strong></a>
-</div> 
+</div>  -->
 
 <!-- alert-primary : blue-->
 <!-- alert-info : light blue-->
