@@ -3,6 +3,14 @@ layout: default
 title: "Publications"
 
 publications:
+  - { number: "106.",
+    title: "Hybrid H2 storage in ZIF-8 and THF-driven Hydrates: A molecular simulation study at the microsecond scale",
+    authors: "Fengyi Mi, Hongjuan Sun, Wei Li, Bin Fang, Zhun Zhang, Bowen Sha, Thijs J.H. Vlugt, Othonas A. Moultos, and Fulong Ning",
+    venue: "Fuel (2026), 415, 138370", 
+    pdf: "assets/publications/106.Mi_FUEL_2026_415_138370.pdf",
+    SI: "assets/publications/SI/106.Mi_FUEL_2026_415_138370_SI.pdf",
+    bib: "assets/publications/bib/106.Mi_FUEL_2026_415_138370.bib"
+    }
   - { number: "105.",
     title: "Molecular Simulation of Hydrogen Systems: From Properties and Methods to Applications and Future Directions",
     authors: "Ahmadreza Rahbari, Thejas Hulikal Chakrapani, Fei Shuang, Panagiotis Krokidas, Parsa Habibi, V. Jelle Lagerweij, Mahinder Ramdin, Thijs J. H. Vlugt, Hadi Hajibeygi, Poulumi Dey, Ioannis N. Tsimpanogiannis, and Othonas A. Moultos", 
@@ -22,7 +30,6 @@ publications:
     authors: "Thejas Hulikal Chakrapani, Hadi Hajibeygi, Othonas A. Moultos, and Thijs J. H. Vlugt", 
     venue: "Molecular Physics (2025), 123, e2578408", 
     pdf: "assets/publications/103.Chakrapani_MP_2025_123_e2578408.pdf",
-    # SI: "assets/publications/SI/102.Lagerweij_JPCB_2025_129_6093_SI.pdf",
     bib: "assets/publications/bib/103.Chakrapani_MP_2025_123_e2578408.bib"
     }
   - { number: "102.",
