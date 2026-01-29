@@ -3,13 +3,22 @@ layout: default
 title: "Publications"
 
 publications:
-  - { number: "106.",
+  - { number: "107.",
     title: "Hybrid H2 storage in ZIF-8 and THF-driven Hydrates: A molecular simulation study at the microsecond scale",
     authors: "Fengyi Mi, Hongjuan Sun, Wei Li, Bin Fang, Zhun Zhang, Bowen Sha, Thijs J.H. Vlugt, Othonas A. Moultos, and Fulong Ning",
     venue: "Fuel (2026), 415, 138370", 
-    pdf: "assets/publications/106.Mi_FUEL_2026_415_138370.pdf",
-    SI: "assets/publications/SI/106.Mi_FUEL_2026_415_138370_SI.pdf",
-    bib: "assets/publications/bib/106.Mi_FUEL_2026_415_138370.bib"
+    pdf: "assets/publications/107.Mi_FUEL_2026_415_138370.pdf",
+    SI: "assets/publications/SI/107.Mi_FUEL_2026_415_138370_SI.pdf",
+    bib: "assets/publications/bib/107.Mi_FUEL_2026_415_138370.bib"
+    }
+  - { number: "106.",
+    title: "Electrical Conductivity Differences between Experiments and Classical Simulations Reveal Self-Diffusion Coefficients and Ion-Lifetimes of Hydroxide and Hydronium in Aqueous Solutions",
+    authors: "V. Jelle Lagerweij, Othonas A. Moultos, and Thijs J.H. Vlugt", 
+    venue: "Journal of Physical Chemistry B (2026), 130, 1332", 
+    pdf: "assets/publications/106.Lagerweij_JPCB_2026_130_1332.pdf",
+    SI: "assets/publications/SI/106.Lagerweij_JPCB_2026_130_1332_SI.pdf",
+    bib: "assets/publications/bib/106.Lagerweij_JPCB_2026_130_1332.bib",
+    Data: "assets/publications/SI/106.Lagerweij_JPCB_2026_130_1332_SI.xlsx"    
     }
   - { number: "105.",
     title: "Molecular Simulation of Hydrogen Systems: From Properties and Methods to Applications and Future Directions",
