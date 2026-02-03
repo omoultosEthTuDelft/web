@@ -53,8 +53,10 @@ a:visited { color: #3973ac; }
 }
 
 .person-card img {
-  width: 80px;
-  height: 80px;
+  width: 80px !important;
+  height: 80px !important;
+  max-width: 80px !important;
+  max-height: 80px !important;
   object-fit: cover;
   border: 2px solid #e0e0e0;
   cursor: pointer;
