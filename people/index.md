@@ -105,7 +105,7 @@ title: "People"
 
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
-      <img src="photos/placeholder.svg" class="rounded-circle" alt="Hicham Hachicho">
+      <img src="photos/Hicham.png" class="rounded-circle" alt="Hicham Hachicho">
       <div class="name">Hicham Hachicho</div>
       <div class="research">Hydrogen liquefaction in confined media</div>
       <div class="collab">w/ Dr. Mahinder Ramdin</div>
