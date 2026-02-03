@@ -90,7 +90,8 @@ title: "People"
     <div class="person-card">
       <img src="photos/placeholder.svg" class="rounded-circle" alt="Sieds Lykles">
       <div class="name">Sieds Lykles</div>
-      <div class="research">ML-potentials for aqueous solutions</div>
+      <div class="research">Boltzmann generators for molecular systems</div>
+      <div class="collab">w/ <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics/people/dr-a-alexander-heinlein">Dr. Alexander Heinlein</a></div>
     </div>
   </div>
 
