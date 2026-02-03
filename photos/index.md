@@ -22,6 +22,13 @@ div.gallery:hover {
 div.gallery img {
   width: 100%;
   height: auto;
+  cursor: pointer;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+div.gallery img:hover {
+  opacity: 0.85;
+  transform: scale(1.02);
 }
 
 div.desc {
@@ -483,5 +490,31 @@ Click on photos to enlarge.
 
 <!-- </div> -->
 </div>
+
+<!-- Photo Lightbox Modal -->
+<div class="modal fade" id="photoModal" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content" style="background: transparent; border: none;">
+      <div class="modal-body text-center p-0">
+        <img id="modalPhoto" src="" class="img-fluid" style="max-height: 85vh; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);">
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var galleryLinks = document.querySelectorAll('div.gallery a');
+  galleryLinks.forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      var imgSrc = this.querySelector('img').src;
+      document.getElementById('modalPhoto').src = imgSrc;
+      $('#photoModal').modal('show');
+    });
+  });
+});
+</script>
+
 </body>
 </html>

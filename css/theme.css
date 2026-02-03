@@ -46,6 +46,49 @@ a         { color: #3973ac; }
 a:hover   { color: #000; }
 a:visited { color: #3973ac; }
 
+/* Person cards for team page */
+.person-card {
+  padding: 15px 10px;
+  text-align: center;
+}
+
+.person-card img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  border: 2px solid #e0e0e0;
+  cursor: pointer;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.person-card img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.person-card .name {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+.person-card .research {
+  font-size: 0.8rem;
+  line-height: 1.4;
+  color: #555;
+}
+
+.person-card .collab {
+  font-size: 0.75rem;
+  color: #777;
+  margin-top: 3px;
+}
+
+.phd-grid {
+  margin-bottom: 20px;
+}
+
 
 
 
