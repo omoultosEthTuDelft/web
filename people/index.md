@@ -29,11 +29,12 @@ title: "People"
 <h5>MSc students</h5>
 <section markdown="1">
  
+- [Sarvesh Mahadevan](https://www.linkedin.com/in/sarvesh-mahadevan-8362491b3/) <strong>Development of a digital thread of a Liquid Hydrogen tank integrating Thermo-Structural analysis</strong>, w/ [Dr. Francesco Orefice](https://www.tudelft.nl/en/staff/f.orefice.1/).
 - Gabriele Blasi <strong>Molecular Simulation of Nanoporous Materials for PFAS Adsorption</strong>. 
 - Omkar Dhavale <strong>Thermodynamic modeling and molecular simulation of Molten-Salt Fuel Systems</strong> w/Dr. Anna Smith (Reactor Institute).
 - Sieds Lykles <strong>ML-potentials for aqueous solutions</strong>. 
 - Theodoros Benai <strong>Molecular Simulation of Activated Carbons for PFAS capture</strong>. 
-- Hicham Hachicho <atrong>Hydrogen liquefaction in confined media</strong>, w/Dr. Mahinder Ramdin.
+- Hicham Hachicho <atrong>Hydrogen liquefaction in confined media</strong>, w/ Dr. Mahinder Ramdin.
 - Kasper van Tulder <strong>Modelling of plasma chemistry for integration in CFD: focus on  transport properties</strong>, w/Dr. Anna Felden (main supervisor).
 
 
