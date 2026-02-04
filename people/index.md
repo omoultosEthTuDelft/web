@@ -21,7 +21,7 @@ title: "People"
 
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
-      <img src="photos/placeholder.svg" class="rounded-circle" alt="Paula De Barros Barreto">
+      <img src="photos/paula.jpeg" class="rounded-circle" alt="Paula De Barros Barreto">
       <div class="name">Paula De Barros Barreto</div>
       <div class="research">Molecular simulation of carbon dioxide-rich mixtures adsorption onto nanoporous materials</div>
       <div class="collab">Dual degree PhD (BR/NL). Promotors: Otto Moultos, <a href="https://thijsvlugt.github.io/website/">Thijs Vlugt</a>, <a href="https://www.linkedin.com/in/marcelo-castier-757740270/?originalSubdomain=py">Marcelo Castier</a>, <a href="https://portal.edat.unicamp.br/perfil?origem=programas&docente=311804&sigla_unidade=&nome_unidade=&nome_programa=%20Pós-Graduação%20da%20Faculdade%20de%20Engenharia%20Química">Luis Mercier Franco</a> (<a href="https://unicamp.br/en/unicamp/faculdade-de-engenharia-quimica/">Unicamp, Brazil</a>)</div>
