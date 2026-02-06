@@ -49,7 +49,7 @@ Click on photos to enlarge.
   <a target="_blank" href="photos/wasteWater.jpg">
     <img src="photos/wasteWater.jpg" alt="Waste water treatment plant visit" width="600" height="auto">
   </a>
-  <div class="desc"> From our visit to the waste water treatment plant in Dordrecht with our SYROP team. People from left to right: Otto, Bowen, Gabriele, Cole, placeholder, Akhilesh, Kim, Tiza, placeholder. (Rwzi Dordrecht, February 2026)</div>
+  <div class="desc"> From our visit to the waste water treatment plant in Dordrecht with our SYROP team. People from left to right: Otto, Bowen Sha, Gabriele Blassi, Cole Brzakala, Gaston Kroos, Akhilesh Soodan, Kim Lompe, Tiza Spit, René van der Aa. (Rwzi Dordrecht, February 2026)</div>
 </div>
 
 <div class="gallery">
