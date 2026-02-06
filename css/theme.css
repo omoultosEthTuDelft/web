@@ -90,3 +90,49 @@ a:visited { color: #3973ac; }
 .phd-grid {
   margin-bottom: 20px;
 }
+
+/* News section styling */
+.news-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.news-item {
+  padding: 10px 12px;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.news-item:nth-child(odd) {
+  background-color: #f9f9f9;
+}
+
+.news-item:nth-child(even) {
+  background-color: #fff;
+}
+
+.news-item:hover {
+  background-color: #f0f7ff;
+}
+
+.news-icon {
+  flex-shrink: 0;
+  width: 20px;
+  text-align: center;
+  margin-top: 2px;
+}
+
+.news-icon.paper { color: #2196F3; }
+.news-icon.graduation { color: #4CAF50; }
+.news-icon.award { color: #FFC107; }
+.news-icon.event { color: #9C27B0; }
+.news-icon.grant { color: #FF9800; }
+.news-icon.welcome { color: #00BCD4; }
+
+.news-content {
+  flex: 1;
+  line-height: 1.5;
+}
