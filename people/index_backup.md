@@ -1,0 +1,61 @@
+---
+layout: default
+#title: "Othonas (Otto) Moultos | Associate Professor, TU Delft"
+title: "People"
+---
+
+<div id="people" class="row">
+<div  style="text-align: justify;" class="col-sm-12">
+	<br/><br/>
+<h5>PhD students</h5>
+
+<section markdown="1">
+<!-- - <img src="photos/Mate.jpeg" height= "100" width= "100">  -->
+
+- [Konstantinos Psillos](https://www.linkedin.com/in/kostaspsillos/) - Molecular simulation of membranes for electrochemical hydrogen systems.
+- [Paula De Barros Barreto]() - Dual degree PhD candidate (BR/NL). <strong>Molecular simulation of carbon dioxide-rich mixtures adsorption onto nanoporous materials</strong>, w/ [Luis Mercier Franco](https://portal.edat.unicamp.br/perfil?origem=programas&docente=311804&sigla_unidade=&nome_unidade=&nome_programa=%20Pós-Graduação%20da%20Faculdade%20de%20Engenharia%20Química), [Chem. Eng. Unicamp, Brazil](https://unicamp.br/en/unicamp/faculdade-de-engenharia-quimica/).
+- [Bowen Sha](https://www.linkedin.com/mynetwork/grow/). <strong>Molecular modeling of PFAS removal with novel cyclodextrin-based adsorbents</strong>. 
+- [Cole Brzakala](https://www.linkedin.com/in/cole-brzakala/). <strong>Artificial Intelligence to accelerate molecular simulations for design of PFAS absorbents</strong>, w/ [Riccardo Taormina](https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/universitair-docent-onderwijzer/dr-riccardo-taormina), [CITG TU Delft](https://www.tudelft.nl/citg). 
+- [Vladimir Jelle Lagerweij](https://www.linkedin.com/in/vladimir-jelle-lagerweij-21654021b/?originalSubdomain=nl). <strong>Machine learning and molecular modeling of aqueous electrolyte solutions</strong>, w/ [Thijs Vlugt](https://thijsvlugt.github.io/website/). 
+
+	
+<!-- 	In the context of collaboration, I am currently co-supervising:
+- [Sebastian Price](https://porelab.no/2020/09/03/wecome-to-sebastian/) ([PoreLab NTNU](https://porelab.no), supervisors [Prof. Signe Kjelstrup](https://www.ntnu.no/ansatte/signe.kjelstrup) and [Dr. Anders Lervik](https://www.ntnu.edu/employees/anders.lervik)) on <strong>Modeling the ultrasound mediated transport of nanoparticles in tissue</strong>. -->
+
+</section>
+
+<!--   -->
+<br/><br/>
+<h5>MSc students</h5>
+<section markdown="1">
+ 
+- [Sarvesh Mahadevan](https://www.linkedin.com/in/sarvesh-mahadevan-8362491b3/) <strong>Development of a digital thread of a Liquid Hydrogen tank integrating Thermo-Structural analysis</strong>, w/ [Dr. Francesco Orefice](https://www.tudelft.nl/en/staff/f.orefice.1/).
+- Gabriele Blasi <strong>Molecular Simulation of Nanoporous Materials for PFAS Adsorption</strong>. 
+- Omkar Dhavale <strong>Thermodynamic modeling and molecular simulation of Molten-Salt Fuel Systems</strong> w/Dr. Anna Smith (Reactor Institute).
+- Sieds Lykles <strong>ML-potentials for aqueous solutions</strong>. 
+- Theodoros Benai <strong>Molecular Simulation of Activated Carbons for PFAS capture</strong>. 
+- Hicham Hachicho <atrong>Hydrogen liquefaction in confined media</strong>, w/ Dr. Mahinder Ramdin.
+- Kasper van Tulder <strong>Modelling of plasma chemistry for integration in CFD: focus on  transport properties</strong>, w/Dr. Anna Felden (main supervisor).
+
+
+</section>
+
+<br/><br/>
+<h5>Interns</h5>
+<section markdown="1">
+
+- [Tim Deutman]() <strong>Evaluating and Summarizing Operational and Safety Protocols for Electrolyzer Modules</strong>, w/ [XINTC](https://xintc.global).
+
+</section>
+
+
+<!-- <h5>BSc students</h5>
+<section markdown="1">
+	
+- CSE minor group: T. van Kuik, E. Cerpac, W. Bekkers, S. Lykles, L. Duynkerke, Updating OCTP plugin for LAMMPS.
+</section> -->
+
+
+</div>
+</div>
+
