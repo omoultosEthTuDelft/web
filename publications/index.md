@@ -3,6 +3,14 @@ layout: default
 title: "Publications"
 
 publications:
+  - { number: "108.", 
+    title: "Electrochemical CO2 Reduction in the Presence of SO2 Impurities on a Nitrogen-Doped Carbon Electrocatalyst",
+    authors: "Shilong Fu, Bowen Sha, Asvin Sajeev, Ming Li, Thijs J.H. Vlugt, Othonas A. Moultos, Wiebren de Jong, and Ruud Kortlever",
+    venue: "Journal of the American Chemical Society (2026), In Press",
+    pdf: "assets/temp/electrochemical-co2-reduction-in-the-presence-of-so2-impurities-on-a-nitrogen-doped-carbon-electrocatalyst.pdf",
+    SI: "assets/temp/ja5c11790_si_001.pdf",
+    bib: "assets/temp/achs_jacsatAxA.bib"
+    }
   - { number: "107.",
     title: "Hybrid H2 storage in ZIF-8 and THF-driven Hydrates: A molecular simulation study at the microsecond scale",
     authors: "Fengyi Mi, Hongjuan Sun, Wei Li, Bin Fang, Zhun Zhang, Bowen Sha, Thijs J.H. Vlugt, Othonas A. Moultos, and Fulong Ning",

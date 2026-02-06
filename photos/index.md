@@ -46,10 +46,17 @@ Click on photos to enlarge.
 <!-- <div class="col-sm-14"> -->
 
 <div class="gallery">
+  <a target="_blank" href="photos/wasteWater.jpg">
+    <img src="photos/wasteWater.jpg" alt="Waste water treatment plant visit" width="600" height="auto">
+  </a>
+  <div class="desc"> From our visit to the waste water treatment plant in Dordrecht with our SYROP team. People from left to right: Otto, Bowen, Gabriele, Cole, placeholder, Akhilesh, Kim, Tiza, placeholder. (Rwzi Dordrecht, February 2026)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/thanos2025.jpg">
     <img src="photos/thanos2025.jpg" alt="Mountains" width="600" height="auto">
   </a>
-  <div class="desc"> With <a href="https://cbe.princeton.edu/people/athanassios-panagiotopoulos">Thanos Panagiotopoulos</a> during the reception for celebrating his 65th birthday. (Boston MA, USA November 2025)</div>
+  <div class="desc"> With <a href="https://cbe.princeton.edu/people/athanassios-panagiotopoulos">Thanos Panagiotopoulos</a> during the reception for celebrating his 65th birthday. (Boston MA, USA, November 2025)</div>
 </div>
 
 <div class="gallery">
