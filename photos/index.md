@@ -188,7 +188,7 @@ Click on photos to enlarge.
   <a target="_blank" href="photos/lili.jpg">
     <img src="photos/lili.jpg" alt="Mountains" width="600" height="auto">
   </a>
-  <div class="desc"> With <a href="https://www.linkedin.com/in/lili-ma-94e/?originalSubdomain=nl">Lili Ma</a> after her successful PhD defense. (TU Deflt, April 2024)</div>
+  <div class="desc"> With <a href="https://www.linkedin.com/in/lili-ma-94e/?originalSubdomain=nl">Lili Ma</a> after her successful PhD defense. (TU Delft, April 2024)</div>
 </div>
 
 <div class="gallery">
@@ -251,7 +251,7 @@ Click on photos to enlarge.
   <a target="_blank" href="photos/dec2022.jpg">
     <img src="photos/dec2022.jpg" alt="Mountains" width="600" height="auto">
   </a>
-  <div class="desc"> Group lunch before Christmas. People from left to right: Otto, Jose Antoniof Gonzalez Morales, Bin Fang, Lili Ma, Parsa Habibi, and Mert Polat (Delft, December 2022)</div>
+  <div class="desc"> Group lunch before Christmas. People from left to right: Otto, Jose Antonio Gonzalez Morales, Bin Fang, Lili Ma, Parsa Habibi, and Mert Polat (Delft, December 2022)</div>
 </div>
 
 <div class="gallery">
@@ -262,8 +262,8 @@ Click on photos to enlarge.
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="photos/thermoAnnouncement.jpg ">
-    <img src="photos/thermoAnnouncement.jpg " alt="Mountains" width="600" height="auto">
+  <a target="_blank" href="photos/thermoAnnouncement.jpg">
+    <img src="photos/thermoAnnouncement.jpg" alt="Mountains" width="600" height="auto">
   </a>
   <div class="desc"> Officially announcing that our group will organize the next Thermodynamics conference in TU Delft (Bath, UK, September 2022)</div>
 </div>
@@ -272,7 +272,7 @@ Click on photos to enlarge.
   <a target="_blank" href="photos/bath2022.jpg">
     <img src="photos/bath2022.jpg" alt="Mountains" width="600" height="auto">
   </a>
-  <div class="desc"> At the <a href="https://www.romanbaths.co.uk">Roman Baths</a> during the Thermodynamics 2022 conference in Bath. People from left to right: <a href="https://www.qatar.tamu.edu/programs/chemical-engineering/faculty-and-staff/dr.-ioannis-economou">Ioannis Economou</a>, <a href="https://orbit.dtu.dk/en/persons/georgios-kontogeorgis">Georgios Kontogeorgis</a>, Chrysa Economou, <a href="h=https://orbit.dtu.dk/en/persons/nefeli-effrosyni-novak">Nefeli Novak</a>, Otto, and Parsa Habibi (Bath, UK, September 2022)</div>
+  <div class="desc"> At the <a href="https://www.romanbaths.co.uk">Roman Baths</a> during the Thermodynamics 2022 conference in Bath. People from left to right: <a href="https://www.qatar.tamu.edu/programs/chemical-engineering/faculty-and-staff/dr.-ioannis-economou">Ioannis Economou</a>, <a href="https://orbit.dtu.dk/en/persons/georgios-kontogeorgis">Georgios Kontogeorgis</a>, Chrysa Economou, <a href="https://orbit.dtu.dk/en/persons/nefeli-effrosyni-novak">Nefeli Novak</a>, Otto, and Parsa Habibi (Bath, UK, September 2022)</div>
 </div>
 
 <div class="gallery">
@@ -342,7 +342,7 @@ Click on photos to enlarge.
   <a target="_blank" href="photos/kunal.jpg">
     <img src="photos/kunal.jpg" alt="Mountains" width="600" height="auto">
   </a>
-  <div class="desc">MSc gratuation of Kunal Mavani (TU Delft, July 2021)</div>
+  <div class="desc">MSc graduation of Kunal Mavani (TU Delft, July 2021)</div>
 </div>
 
 <div class="gallery">
@@ -405,14 +405,14 @@ Click on photos to enlarge.
   <a target="_blank" href="photos/snow2017.jpg">
     <img src="photos/snow2017.jpg" alt="Mountains" width="600" height="auto">
   </a>
-  <div class="desc">Outside the P&E buidling experiencing rare weather phenomena! (TU Delft, December 2017)</div>
+  <div class="desc">Outside the P&E building experiencing rare weather phenomena! (TU Delft, December 2017)</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="photos/zsolt2017.jpg">
     <img src="photos/zsolt2017.jpg" alt="Mountains" width="600" height="auto">
   </a>
-  <div class="desc">MSc gratuation of Zsolt Csaszar (TU Delft, October 2017)</div>
+  <div class="desc">MSc graduation of Zsolt Csaszar (TU Delft, October 2017)</div>
 </div>
 
 <div class="gallery">
@@ -448,7 +448,7 @@ Click on photos to enlarge.
   <a target="_blank" href="photos/tamuq2016.jpg">
     <img src="photos/tamuq2016.jpg" alt="Mountains" width="600" height="auto">
   </a>
-  <div class="desc">At the TAMUQ campus with (from left to rigth) Ioannis Tsimpanogiannis, <a href="https://www.linkedin.com/in/panagiotis-krokidas-b2907a89/">Panagiotis Krokidas</a>, and <a href="https://www.linkedin.com/in/researchchemicalengineer/">Nikos Diamantonis</a> (Doha, Qatar, March 2016)</div>
+  <div class="desc">At the TAMUQ campus with (from left to right) Ioannis Tsimpanogiannis, <a href="https://www.linkedin.com/in/panagiotis-krokidas-b2907a89/">Panagiotis Krokidas</a>, and <a href="https://www.linkedin.com/in/researchchemicalengineer/">Nikos Diamantonis</a> (Doha, Qatar, March 2016)</div>
 </div>
 
 <div class="gallery">

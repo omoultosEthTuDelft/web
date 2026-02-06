@@ -31,7 +31,7 @@ title: "People"
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
       <img src="photos/Bowen.jpg" class="rounded-circle" alt="Bowen Sha">
-      <div class="name"><a href="https://www.linkedin.com/mynetwork/grow/">Bowen Sha</a></div>
+      <div class="name"><a href="https://www.linkedin.com/in/bowen-sha-5223982a5/">Bowen Sha</a></div>
       <div class="research">Molecular modeling of PFAS removal with novel cyclodextrin-based adsorbents</div>
       <div class="collab">Promotors: Otto Moultos, <a href="https://thijsvlugt.github.io/website/">Thijs Vlugt</a></div>
     </div>

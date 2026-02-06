@@ -273,7 +273,7 @@ publications:
   - { number: "71.",
     title: "Solubility of CO2 in Aqueous Formic Acid Solutions and the Effect of NaCl Addition: A Molecular Simulation Study",
     authors: "Dominika O. Wasik, H. Mert Polat, Mahinder Ramdin, Othonas A. Moultos, Sofia Calero, and Thijs J. H. Vlugt", 
-    venue: "Journal of Physical Chemistry C (2022) 126, 9376", 
+    venue: "Journal of Physical Chemistry C (2022) 126, 19424", 
     pdf: "assets/publications/71.Wasik_JPCC_2022_126_19424.pdf", 
     SI: "assets/publications/SI/71.Wasik_JPCC_2022_126_19424_SI.pdf", 
     bib: "assets/publications/bib/71.Wasik_JPCC_2022_126_19424.bib"}
