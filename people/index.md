@@ -48,7 +48,7 @@ title: "People"
 
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
-      <img src="photos/placeholder.svg" class="rounded-circle" alt="Vladimir Jelle Lagerweij">
+      <img src="photos/Jelle.jpeg" class="rounded-circle" alt="Vladimir Jelle Lagerweij">
       <div class="name"><a href="https://www.linkedin.com/in/vladimir-jelle-lagerweij-21654021b/?originalSubdomain=nl">Vladimir Jelle Lagerweij</a></div>
       <div class="research">Machine learning and molecular modeling of aqueous electrolyte solutions</div>
       <div class="collab">Promotors: Otto Moultos, <a href="https://thijsvlugt.github.io/website/">Thijs Vlugt</a></div>
