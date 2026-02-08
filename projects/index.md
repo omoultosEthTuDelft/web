@@ -4,6 +4,43 @@ layout: default
 title: "Research projects"
 ---
 
+<style>
+.project-card {
+  background: #fff;
+  border: 1px solid #e8e8e8;
+  border-left: 4px solid #3973ac;
+  border-radius: 6px;
+  padding: 20px 24px;
+  margin-bottom: 16px;
+  transition: box-shadow 0.2s ease;
+}
+.project-card:hover {
+  box-shadow: 0 3px 10px rgba(0,0,0,0.08);
+}
+.project-card h4 {
+  border-bottom: none;
+  margin-top: 0;
+  margin-bottom: 8px;
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #2c3e50;
+}
+.project-card p {
+  margin: 0;
+  line-height: 1.6;
+}
+.project-card .funding {
+  display: inline-block;
+  margin-top: 10px;
+  padding: 4px 12px;
+  background-color: #edf2fa;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #3973ac;
+}
+</style>
+
 <section>
 <br/>
 <h1>Active projects</h1>

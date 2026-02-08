@@ -64,17 +64,17 @@ My research and teaching activities focus on the application of molecular thermo
 <br/>
 <!-- <div class="col-sm-3"> -->
 
-<h6> <span class="fa fa-map-marker"></span> Address</h6>
+<h6> <span class="fa-solid fa-location-dot"></span> Address</h6>
 Building 34K - Office 0.250<br/>
 Leeghwaterstraat 39<br/>
 2628CB Delft<br/>
 The Netherlands
 
 <br/><br/>
-<h6> <span class="fa fa-phone"></span> Phone</h6>
+<h6> <span class="fa-solid fa-phone"></span> Phone</h6>
 + 31 (0) 15 27 81 307
 <br/><br/>
-<h6> <span class="fa fa-envelope"></span> e-mail</h6>
+<h6> <span class="fa-solid fa-envelope"></span> e-mail</h6>
 o.lastname@tudelft.nl
 
 <br/><br/>
@@ -84,7 +84,7 @@ o.lastname@tudelft.nl
 </h6>
 
 <h6>
-  <span class="fa fa-graduation-cap fa-fw"></span>
+  <span class="fa-solid fa-graduation-cap fa-fw"></span>
   <a href="https://scholar.google.ca/citations?user=r6fFwkQAAAAJ&hl=en">Google Scholar</a>
 </h6>
 

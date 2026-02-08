@@ -1,44 +1,45 @@
 ---
- layout: default
- title: "Photos"
+layout: default
+title: "Photos"
 ---
 
-
-<html>
-<head>
-
 <style>
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 250px;
-}
+  div.gallery {
+    margin: 8px;
+    border: 1px solid #e8e8e8;
+    border-radius: 6px;
+    float: left;
+    width: 250px;
+    background: #fff;
+    overflow: hidden;
+    transition: box-shadow 0.2s ease, border-color 0.2s ease;
+  }
 
-div.gallery:hover {
-  border: 1px solid #777;
-}
+  div.gallery:hover {
+    border-color: #3973ac;
+    box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+  }
 
-div.gallery img {
-  width: 100%;
-  height: auto;
-  cursor: pointer;
-  transition: transform 0.2s ease, opacity 0.2s ease;
-}
+  div.gallery img {
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+    transition: transform 0.2s ease, opacity 0.2s ease;
+  }
 
-div.gallery img:hover {
-  opacity: 0.85;
-  transform: scale(1.02);
-}
+  div.gallery img:hover {
+    opacity: 0.85;
+    transform: scale(1.02);
+  }
 
-div.desc {
-  padding: 15px;
-  text-align: left;
-  /*center;*/
-}
+  div.desc {
+    padding: 12px 15px;
+    text-align: left;
+    font-size: 0.88rem;
+    line-height: 1.5;
+    color: #444;
+  }
 </style>
-</head>
-<body>
 
 <br/>
 Click on photos to enlarge.
@@ -522,6 +523,3 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 </script>
-
-</body>
-</html>
