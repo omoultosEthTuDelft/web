@@ -5,7 +5,7 @@ title: "Alumni"
 ---
 
 <div id="people" class="row">
-<div  style="text-align: justify;" class="col-sm-10">
+<div class="text-justify col-sm-10">
 	<br/><br/>
 <h5>Former PhD students</h5>
 

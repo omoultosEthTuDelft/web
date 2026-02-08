@@ -502,9 +502,9 @@ Click on photos to enlarge.
 <!-- Photo Lightbox Modal -->
 <div class="modal fade" id="photoModal" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
-    <div class="modal-content" style="background: transparent; border: none;">
+    <div class="modal-content lightbox-content">
       <div class="modal-body text-center p-0">
-        <img id="modalPhoto" src="" class="img-fluid" style="max-height: 85vh; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.4);">
+        <img id="modalPhoto" src="" class="img-fluid lightbox-img">
       </div>
     </div>
   </div>

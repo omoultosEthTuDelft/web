@@ -4,7 +4,7 @@ title: "Teaching"
 ---
 
 <div id="people" class="row">
-<div  style="text-align: justify;" class="col-sm-12">
+<div class="text-justify col-sm-12">
 	<br/><br/>
 <h5>Courses</h5>
 

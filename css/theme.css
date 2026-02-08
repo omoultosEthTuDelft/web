@@ -1,6 +1,12 @@
 body {
   font-size: 100%;
+  padding-top: 20px;
   padding-bottom: 10px;
+}
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
 }
 
 .theme-dropdown .dropdown-menu {
@@ -133,9 +139,30 @@ h5, h6 {
 }
 
 
-a         { color: #3973ac; transition: color 0.2s ease; }
+a         { color: #3973ac; transition: color 0.2s ease; text-decoration: none; }
 a:hover   { color: #1a5276; }
 a:visited { color: #3973ac; }
+
+/* Utility: justify text */
+.text-justify { text-align: justify; }
+
+/* News scrollable container */
+.news-scroll {
+  overflow-y: auto;
+  max-height: 250px;
+  width: 100%;
+}
+
+/* Lightbox modal */
+.lightbox-content {
+  background: transparent;
+  border: none;
+}
+.lightbox-img {
+  max-height: 85vh;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.4);
+}
 
 /* Person cards for team page */
 .person-card {

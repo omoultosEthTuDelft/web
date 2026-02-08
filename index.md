@@ -15,7 +15,7 @@ Associate Professor, <a href="https://www.tudelft.nl/3me/over/afdelingen/process
 <br>& <br>AI Engineer, <a href="https://www.endorlabs.com">Endor Labs</a>.</strong>
 </p>
 
-<p style="text-align: justify;">
+<p class="text-justify">
 
 <!-- Before joining TU Delft, I was a research scientist at the <a href="https://www.qatar.tamu.edu/programs/chemical-engineering">Chemical Engineering Program</a> of Texas A&M University at Qatar in the group of <a href="https://www.qatar.tamu.edu/programs/chemical-engineering/faculty-and-staff/dr.-ioannis-economou">Prof. Ioannis Economou</a> working on molecular modeling of chemical mixtures relevant to CCUS proccesses. In 2014, I spent time as a postdoc in the group of <a href="https://cbe.princeton.edu/people/athanassios-panagiotopoulos">Prof. Athanassios Panagiotopoulos</a> at <a href="https://cbe.princeton.edu">Princeton University</a>. In 2013, I obtained a PhD in Physical Chemistry of Polymers from the <a href="https://www.uoi.gr/en/">University of Ioannina</a> supervised by <a href="https://chem.uoi.gr/en/meli-dep/vlachos-konstantinos/">Prof. Costas Vlahos</a>. In 2008, I graduated with an Engineering Diploma in <a href="http://www.materials.uoi.gr/en/">Materials Engineering</a> from the same university. -->
 
@@ -23,7 +23,7 @@ Before joining TU Delft, I worked as a research scientist on molecular modeling 
 </p>
 
 <h5>My activities in a nutshell</h5>
-<p style="text-align: justify;">
+<p class="text-justify">
 <!-- Fossil fuels not only harm the environment but are also becoming more and more expensive as the resources are slowly getting depleted or due to (geo)political reasons. I believe that technologies for producing sustainable energy are the only way to move forward, and the challenging role of engineers is to devise and optimize such technologies.  -->
 My research and teaching activities focus on the application of molecular thermodynamics to Process & Energy Engineering with a vision to accelerate the transition to a more sustainable future. I currently focus on two research lines: 
 (i) I investigate hydrogen storage, purification and transportation, and environmentally-friendly solvents for carbon dioxide capture and utilization. 
@@ -34,26 +34,9 @@ My research and teaching activities focus on the application of molecular thermo
   <a href="assets/misc/MScGuide.pdf"><strong>Download here</strong></a> the practical guide for MSc theses that I wrote together with <a href="https://www.linkedin.com/in/carey-walters-44252714b/?originalSubdomain=nl"><strong>Carey Walters</strong></a>. 
 </div> 
 
-<!-- <div class="alert alert-success" role="alert" markdown="1">
-<a href="https://careers.tudelft.nl/job/Delft-PhD-Position-Molecular-Modeling-of-Hydrogen-Production-via-Water-Electrolysis-2628-CD/810877102/"><strong>New PhD position on Molecular Simulation of Hydrogen systems.</strong></a>
-</div>  -->
-<!-- <div class="alert alert-success" role="alert" markdown="1"> PhD position open: 
-  <a href="https://careers.tudelft.nl/job/Delft-PhD-Position-Design-of-Plant-Based-Dairy-Alternatives-Using-Molecular-Modeling-2628-CD/1331116757/"><strong>Design of Plant-Based Dairy Alternatives Using Molecular Modeling</strong></a>
-</div>  -->
-
-<!-- alert-primary : blue-->
-<!-- alert-info : light blue-->
-<!-- <div class="alert alert-danger" role="alert" markdown="1"> <a href="https://thermodynamics2024.org"><strong>Registrations are open </strong></a>for the 28th Thermodynamics Conference (Delft, 4-6 September 2024).
-</div> 
-
-<div class="alert alert-success" role="alert" markdown="1"> <a href="https://iraspa.org/workshops/iraspa-raspa-workshop-delft-2024/"><strong>Registrations are open </strong></a>for the Raspa Workshop (Delft, 2-4 September 2024).
-</div>  -->
 
 
 
-<div style="text-align: justify;" class="col-sm-8">
-
-</div>
 
 </div>
 
@@ -94,26 +77,15 @@ o.lastname@tudelft.nl
 </h6>
 
 <h6>
-  <a target="_blank" href="https://www.researchgate.net">
-    <img style="width: 20px;" src="logos/ResearchGate.png" alt="ResearchGate profile"> ResearchGate
-  </a>
+  <span class="fa-brands fa-researchgate fa-fw"></span>
+  <a href="https://www.researchgate.net/profile/Othon-Moultos">ResearchGate</a>
 </h6>
-
 
 <h6>
   <span class="fa-brands fa-orcid fa-fw"></span>
   <a href="https://orcid.org/my-orcid?orcid=0000-0001-7477-9684">ORCID</a>
 </h6>
 
-<!-- <h6> <span class="fa-brands fa-researchgate"></span><a href="https://www.researchgate.net/profile/Othon-Moultos/2"> ResearchGate</a> </h6> -->
-
- <!-- <a target="_blank" href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge"><img style="width: 100px;" src="logos/LinkedIn.png" hspace=3 alt="LinkedIn profile"></a>
- <br/>  <br/> 
-<a target="_blank" href="https://github.com/omoultosEthTuDelft"><img style="width: 100px;" src="logos/Github.png" hspace=3 alt="github profile"></a>
-<br/>  <br/> 
-<a target="_blank" href="https://scholar.google.ca/citations?user=r6fFwkQAAAAJ&hl=en"><img style="width: 100px;" src="logos/GoogleScholar.jpg" hspace=3 alt="googleScholar profile"></a>
-<br/><br/>
--->
 <br/><br/>
 
 </div>
@@ -125,7 +97,7 @@ o.lastname@tudelft.nl
 <h5>News</h5>
 <div class="row-fluid">
     <div id="news" class="row">
-    <div style="overflow: scroll ;max-height: 250px; width: 100%;">
+    <div class="news-scroll">
     <!-- <div style="text-align: justify;" class="col-sm-11"> -->
 
 <ul class="news-list">
@@ -193,16 +165,9 @@ o.lastname@tudelft.nl
 </ul>
     </div>
 
-<!-- <div class="col-md-4">
-<a class="twitter-timeline" data-width="300" data-height="500" href="https://twitter.com/kAsterios?ref_src=twsrc%5Etfw">Tweets by Asterios</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div> -->
-
-
     </div>
-  
-</div>  
 
-
+</div>
 
 
 

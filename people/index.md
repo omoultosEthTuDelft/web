@@ -4,7 +4,7 @@ title: "People"
 ---
 
 <div id="people" class="row">
-<div style="text-align: justify;" class="col-sm-12">
+<div class="text-justify col-sm-12">
 <br/><br/>
 
 <h5>PhD students</h5>
@@ -136,9 +136,9 @@ title: "People"
 <!-- Photo Lightbox Modal -->
 <div class="modal fade" id="photoModal" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered" role="document">
-    <div class="modal-content" style="background: transparent; border: none;">
+    <div class="modal-content lightbox-content">
       <div class="modal-body text-center p-0">
-        <img id="modalPhoto" src="" class="img-fluid" style="max-height: 80vh; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+        <img id="modalPhoto" src="" class="img-fluid lightbox-img">
       </div>
     </div>
   </div>
