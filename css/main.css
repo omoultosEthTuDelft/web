@@ -14,13 +14,11 @@ html, body { height: 100%; }
 
 body {
   background-color: #FFF;
-  font: 12px Helvetica, Arial, sans-serif;
-  font-size: small;
+  font-family: 'Inter', Helvetica, Arial, sans-serif;
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-size: 100%; }
+/* Heading sizes use browser/Bootstrap defaults for proper hierarchy */
 
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
