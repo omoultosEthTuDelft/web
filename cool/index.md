@@ -85,6 +85,9 @@ title: "Cool"
     <source src="videos/hydrates_nanotube.mp4" type="video/mp4">
   </video>
   <p class="cool-desc">MD simulations of CH4 hydrate nucleation: (Top) from organoclay salt solutions in the presence of organic molecules and (Bottom) around a spiral halloysite nanotube. Simulations performed by Fengyi Mi.</p>
+  <div class="cool-links">
+    <a href="../assets/publications/96.Mi_JPCC_2024_128_18588.pdf"><span class="fa-solid fa-book"></span> Publication</a>
+  </div>
 </div>
 
 <div class="cool-card">
@@ -113,6 +116,9 @@ title: "Cool"
     <source src="videos/np_collagen.mp4" type="video/mp4">
   </video>
   <p class="cool-desc">MD simulation of nanoparticles (blue) diffusing in a gel network (red). Simulations performed by <a href="https://porelab.no/2020/09/03/wecome-to-sebastian/">Sebastian Price</a>.</p>
+  <div class="cool-links">
+    <a href="../assets/publications/90.Price_JCP_2024_160_154906.pdf"><span class="fa-solid fa-book"></span> Publication</a>
+  </div>
 </div>
 
 <div class="cool-card">
