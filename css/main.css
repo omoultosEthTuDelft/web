@@ -171,23 +171,23 @@ ul.posts span {
 
 /* Proper spacing for nav items */
 .navbar-nav .nav-item {
-  margin-left: 10px;
-  margin-right: 10px;
-  flex-shrink: 0; /* Prevent items from shrinking */
+  margin-left: 3px;
+  margin-right: 3px;
+  flex-shrink: 0;
 }
 
-/* Align nav items to the left */
+/* Push nav items to the right */
 .navbar-nav {
   text-align: left;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 0;
 }
 
 /* Ensure links behave normally */
 .nav-link {
   text-align: center;
-  white-space: nowrap; /* Prevent wrapping of long nav items */
-  padding: 10px 15px; /* Proper padding for touch targets */
+  white-space: nowrap;
+  padding: 6px 12px;
 }
 
 /* Ensure container has proper background */

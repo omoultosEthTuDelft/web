@@ -27,35 +27,85 @@ body {
   padding-top: 10px;
 }
 
-.navbar-nav > li > a {padding-top: 8px !important; padding-bottom: 8px !important;}
+/* Navbar brand */
+.navbar-brand {
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: #3973ac !important;
+  letter-spacing: -0.01em;
+}
+.navbar-brand:hover {
+  color: #1a5276 !important;
+}
+
+/* Navbar nav links: uppercase, letter-spaced */
+.navbar-nav > li > a {
+  padding-top: 6px !important;
+  padding-bottom: 6px !important;
+  font-size: 0.78rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #444 !important;
+  border-radius: 4px;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.navbar-nav > li > a:hover {
+  color: #3973ac !important;
+  background-color: #edf2fa;
+}
 
 /* Navbar dropdown: Font Awesome chevron instead of Bootstrap caret */
 .navbar .dropdown-toggle::after { display: none !important; }
 .nav-dropdown-arrow {
-  font-size: 0.65em;
+  font-size: 0.6em;
   margin-left: 0.25em;
-  opacity: 0.85;
+  opacity: 0.7;
   transition: transform 0.2s ease;
 }
 .nav-item.dropdown.show .nav-dropdown-arrow { transform: rotate(180deg); }
 
+/* Dropdown menu styling */
+.navbar .dropdown-menu {
+  border: 1px solid #e8e8e8;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  padding: 6px 0;
+  margin-top: 4px;
+}
+.navbar .dropdown-item {
+  font-size: 0.85rem;
+  padding: 7px 18px;
+  color: #444;
+  transition: background-color 0.15s ease, color 0.15s ease;
+}
+.navbar .dropdown-item:hover {
+  background-color: #edf2fa;
+  color: #3973ac;
+}
+
 .navbar {
   min-height: 30px !important;
   max-width: 940px;
-  margin-left:auto;
-  margin-right:auto;
+  margin-left: auto;
+  margin-right: auto;
   border-bottom: 2px solid #3973ac;
   box-shadow: 0 2px 6px rgba(0,0,0,0.06);
   padding-bottom: 4px;
 }
 
-/* Active nav item indicator */
+/* Active nav item: pill background */
 .nav-item .nav-link.active {
-  color: #3973ac !important;
+  color: #fff !important;
   font-weight: 600;
-  border-bottom: 2px solid #3973ac;
-  margin-bottom: -6px;
-  padding-bottom: 12px;
+  background-color: #3973ac;
+  border-bottom: none;
+  border-radius: 4px;
+}
+.nav-item .nav-link.active:hover {
+  background-color: #1a5276;
+  color: #fff !important;
 }
 
 
