@@ -16,7 +16,7 @@ body {
 /* Customize container */
 @media (min-width: 768px) {
   .container {
-    max-width: 780px;
+    max-width: 940px;
   }
 }
 .container-narrow > hr {
@@ -39,9 +39,9 @@ body {
 }
 .nav-item.dropdown.show .nav-dropdown-arrow { transform: rotate(180deg); }
 
-.navbar { 
+.navbar {
   min-height: 30px !important;
-  max-width: 780px;
+  max-width: 940px;
   margin-left:auto;
   margin-right:auto;
 }
@@ -73,43 +73,51 @@ a:visited { color: #3973ac; }
 
 /* Person cards for team page */
 .person-card {
-  padding: 15px 10px;
+  padding: 20px 12px;
   text-align: center;
+  background: #fff;
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+  transition: box-shadow 0.2s ease;
+}
+
+.person-card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
 }
 
 .person-card img {
-  width: 80px !important;
-  height: 80px !important;
-  max-width: 80px !important;
-  max-height: 80px !important;
+  width: 130px !important;
+  height: 130px !important;
+  max-width: 130px !important;
+  max-height: 130px !important;
   object-fit: cover;
-  border: 2px solid #e0e0e0;
+  border: 3px solid #e0e0e0;
   cursor: pointer;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
 
 .person-card img:hover {
   transform: scale(1.05);
-  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.18);
 }
 
 .person-card .name {
-  font-size: 0.95rem;
+  font-size: 1rem;
   font-weight: 600;
-  margin-top: 10px;
-  margin-bottom: 5px;
+  margin-top: 12px;
+  margin-bottom: 6px;
 }
 
 .person-card .research {
-  font-size: 0.8rem;
-  line-height: 1.4;
+  font-size: 0.85rem;
+  line-height: 1.5;
   color: #555;
 }
 
 .person-card .collab {
-  font-size: 0.75rem;
+  font-size: 0.8rem;
   color: #777;
-  margin-top: 3px;
+  margin-top: 4px;
 }
 
 .phd-grid {
