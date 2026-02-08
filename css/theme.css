@@ -30,7 +30,7 @@ body {
 .navbar-nav > li > a {padding-top: 8px !important; padding-bottom: 8px !important;}
 
 /* Navbar dropdown: Font Awesome chevron instead of Bootstrap caret */
-.navbar .dropdown-toggle::after { display: none; }
+.navbar .dropdown-toggle::after { display: none !important; }
 .nav-dropdown-arrow {
   font-size: 0.65em;
   margin-left: 0.25em;
