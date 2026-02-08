@@ -29,6 +29,16 @@ body {
 
 .navbar-nav > li > a {padding-top: 8px !important; padding-bottom: 8px !important;}
 
+/* Navbar dropdown: Font Awesome chevron instead of Bootstrap caret */
+.navbar .dropdown-toggle::after { display: none; }
+.nav-dropdown-arrow {
+  font-size: 0.65em;
+  margin-left: 0.25em;
+  opacity: 0.85;
+  transition: transform 0.2s ease;
+}
+.nav-item.dropdown.show .nav-dropdown-arrow { transform: rotate(180deg); }
+
 .navbar { 
   min-height: 30px !important;
   max-width: 780px;

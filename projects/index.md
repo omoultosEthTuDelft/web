@@ -9,56 +9,39 @@ title: "Research projects"
 	<br/><br/>
 <h5>Active projects</h5> -->
 
+<style>
+    .projects-table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+    }
+    .projects-table th, .projects-table td {
+        border: 1px solid #ddd;
+        padding: 12px;
+        text-align: left;
+        vertical-align: top;
+    }
+    .projects-table th {
+        background-color: #f8f9fa;
+        font-weight: bold;
+        color: #2c3e50;
+    }
+    .projects-table tr:nth-child(even) {
+        background-color: #f8f9fa;
+    }
+    .project-column {
+        width: 70%;
+    }
+    .funding-column {
+        width: 30%;
+    }
+</style>
+
 <section markdown="1">
-<!-- <<!DOCTYPE html> -->
 <br/>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Active projects</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            line-height: 1.6;
-        }
-        h1 {
-            color: #2c3e50;
-            border-bottom: 2px solid #3498db;
-            padding-bottom: 10px;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 12px;
-            text-align: left;
-            vertical-align: top;
-        }
-        th {
-            background-color: #f8f9fa;
-            font-weight: bold;
-            color: #2c3e50;
-        }
-        tr:nth-child(even) {
-            background-color: #f8f9fa;
-        }
-        .project-column {
-            width: 70%;
-        }
-        .funding-column {
-            width: 30%;
-        }
-    </style>
-</head>
-<body>
 <h1>Active projects</h1>
 
-<table>
+<table class="projects-table">
     <thead>
         <tr>
             <th class="project-column">Project</th>
@@ -88,63 +71,16 @@ title: "Research projects"
         </tr>
     </tbody>
 </table>
-</body>
-</html>
 
 </section>
 
-<!--   -->
 <br/>
 
 <section markdown="1">
 
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Active projects</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            line-height: 1.6;
-        }
-        h1 {
-            color: #2c3e50;
-            border-bottom: 2px solid #3498db;
-            padding-bottom: 10px;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-        th, td {
-            border: 1px solid #ddd;
-            padding: 12px;
-            text-align: left;
-            vertical-align: top;
-        }
-        th {
-            background-color: #f8f9fa;
-            font-weight: bold;
-            color: #2c3e50;
-        }
-        tr:nth-child(even) {
-            background-color: #f8f9fa;
-        }
-        .project-column {
-            width: 70%;
-        }
-        .funding-column {
-            width: 30%;
-        }
-    </style>
-</head>
-<body>
-    <h1>Past projects</h1>
-    
-<table>
+<h1>Past projects</h1>
+
+<table class="projects-table">
     <thead>
         <tr>
             <th class="project-column">Project</th>
@@ -190,7 +126,5 @@ title: "Research projects"
         </tr>
     </tbody>
 </table>
-</body>
-</html>
- 
+
 </section>
