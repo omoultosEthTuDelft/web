@@ -84,7 +84,6 @@ title: "Scientific software"
 </style>
 
 <br/>
-<h3 style="text-align: center; border-bottom: none;">Open-source software we developed</h3>
 
 <div class="sw-grid">
 

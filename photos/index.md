@@ -4,12 +4,22 @@ title: "Photos"
 ---
 
 <style>
+  .photo-masonry {
+    display: flex;
+    gap: 14px;
+    margin-top: 16px;
+  }
+
+  .masonry-col {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+
   div.gallery {
-    margin: 8px;
     border: 1px solid #e8e8e8;
     border-radius: 6px;
-    float: left;
-    width: 250px;
     background: #fff;
     overflow: hidden;
     transition: box-shadow 0.2s ease, border-color 0.2s ease;
@@ -23,28 +33,27 @@ title: "Photos"
   div.gallery img {
     width: 100%;
     height: auto;
+    display: block;
     cursor: pointer;
-    transition: transform 0.2s ease, opacity 0.2s ease;
+    transition: opacity 0.2s ease;
   }
 
   div.gallery img:hover {
     opacity: 0.85;
-    transform: scale(1.02);
   }
 
   div.desc {
-    padding: 12px 15px;
+    padding: 10px 12px;
     text-align: left;
-    font-size: 0.88rem;
-    line-height: 1.5;
-    color: #444;
+    font-size: 0.82rem;
+    line-height: 1.45;
+    color: #555;
   }
 </style>
 
 <br/>
-Click on photos to enlarge.
-<div class="row">
-<!-- <div class="col-sm-14"> -->
+<p style="text-align: center; color: #777; font-size: 0.9rem;">Click on photos to enlarge.</p>
+<div class="photo-masonry">
 
 <div class="gallery">
   <a target="_blank" href="photos/wasteWater.jpg">
@@ -496,7 +505,6 @@ Click on photos to enlarge.
 
 
 
-<!-- </div> -->
 </div>
 
 <!-- Photo Lightbox Modal -->
@@ -512,6 +520,24 @@ Click on photos to enlarge.
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
+  // Distribute gallery items round-robin into columns for chronological order
+  var masonry = document.querySelector('.photo-masonry');
+  var items = Array.from(masonry.querySelectorAll('.gallery'));
+  var numCols = window.innerWidth <= 480 ? 1 : (window.innerWidth <= 768 ? 2 : 3);
+
+  masonry.innerHTML = '';
+  var cols = [];
+  for (var i = 0; i < numCols; i++) {
+    var col = document.createElement('div');
+    col.className = 'masonry-col';
+    masonry.appendChild(col);
+    cols.push(col);
+  }
+  items.forEach(function(item, index) {
+    cols[index % numCols].appendChild(item);
+  });
+
+  // Lightbox modal
   var galleryLinks = document.querySelectorAll('div.gallery a');
   galleryLinks.forEach(function(link) {
     link.addEventListener('click', function(e) {

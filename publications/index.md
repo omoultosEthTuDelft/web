@@ -769,7 +769,6 @@ publications:
 <div id="publications" class="row">
 <div style="text-align: justify;" class="col-sm-12">
 <br/>
-<h5>Publications</h5>
 <!-- <br/> -->
 
 <div id="publications-list">

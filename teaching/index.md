@@ -6,7 +6,6 @@ title: "Teaching"
 <div id="people" class="row">
 <div class="text-justify col-sm-12">
 	<br/><br/>
-<h5>Courses</h5>
 
 <section markdown="1">
 

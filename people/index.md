@@ -7,8 +7,7 @@ title: "People"
 <div class="text-justify col-sm-12">
 <br/><br/>
 
-<h5>PhD students</h5>
-
+<h3>PhD students</h3>
 <div class="row phd-grid">
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
@@ -56,9 +55,7 @@ title: "People"
   </div>
 </div>
 
-<br/>
-<h5>MSc students</h5>
-
+<h3>MSc students</h3>
 <div class="row phd-grid">
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
@@ -122,8 +119,7 @@ title: "People"
   </div>
 </div>
 
-<br/><br/>
-<h5>Interns</h5>
+<h3>Interns</h3>
 <section markdown="1">
 
 - [Tim Deutman]() <strong>Evaluating and Summarizing Operational and Safety Protocols for Electrolyzer Modules</strong>, w/ [XINTC](https://xintc.global).

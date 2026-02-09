@@ -7,8 +7,8 @@ title: "Alumni"
 <div id="people" class="row">
 <div class="text-justify col-sm-10">
 	<br/><br/>
-<h5>Former PhD students</h5>
 
+<h3>Former PhD students</h3>
 <section markdown="1">
 
 - [Parsa Habibi](https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/parsa-habibi), 2020-2025. <strong><a href="theses/ParsaHabibi.pdf">Computational discovery of hydrogen storage materials</a></strong>. Now at [ASML](https://www.asml.com/en).
@@ -21,8 +21,7 @@ title: "Alumni"
 
 </section>
 
-
-<h5>Former MSc students</h5>
+<h3>Former MSc students</h3>
 <section markdown="1">
 
 - Nikolaos-Marinos Tzitzikopoulos, 2025 <strong>[Parametric Optimization of an Active Magnetic Regenerator](https://repository.tudelft.nl/record/uuid:87e55981-7e45-404f-bc98-de0ca51f6b59)</strong>.
@@ -54,8 +53,7 @@ https://repository.tudelft.nl/record/uuid:2839134b-9631-477c-aafb-3a0fecf49b6c).
 - [Zsolt Csaszar](https://www.linkedin.com/in/zsolt-csaszar/?originalSubdomain=nl), 2016-2017. <strong><a href="../assets/publications/26.Nikolaidis_AIChE_2018_65_792.pdf"> Monte Carlo simulations of the phase equilibria of light/heavy hydrocarbon mixtures</a></strong>. Now at [ASML](https://www.asml.com/en).
 </section>
 
-
-<h5>Former Postdocs, Visiting Researchers, and Interns</h5>
+<h3>Former Postdocs, Visiting Researchers, and Interns</h3>
 <section markdown="1">
 
 - [Ioannis Makropoulos](), 2025. <strong>Advanced end synchronization logic for Product variant change over</strong>, w/ [P&G Services Company NV](https://us.pg.com). Now MSc at TU Delft.
@@ -80,7 +78,7 @@ https://repository.tudelft.nl/record/uuid:2839134b-9631-477c-aafb-3a0fecf49b6c).
 
 </section>
 
-<!-- <h5>Visitors and Interns</h5>
+<!-- <h3>Visitors and Interns</h3>
 <section markdown="1">
 
 - [Zsolt Csaszar](https://www.linkedin.com/in/zsolt-csaszar/?originalSubdomain=nl), 2016-2017. <strong> Monte Carlo simulations of the phase equilibria of light/heavy hydrocarbon mixtures</strong>. Now at [ASML](https://www.asml.com/en).

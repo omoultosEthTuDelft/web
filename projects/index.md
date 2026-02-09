@@ -43,7 +43,7 @@ title: "Research projects"
 
 <section>
 <br/>
-<h1>Active projects</h1>
+<h3>Active projects</h3>
 
 <div class="project-card">
   <h4>HARMOny</h4>
@@ -81,7 +81,7 @@ title: "Research projects"
 
 <section>
 
-<h1>Past projects</h1>
+<h3>Past projects</h3>
 
 <div class="project-card">
   <h4>Molecular simulation of vapor liquid equilibria curves of acid-gas absorption in liquids</h4>
