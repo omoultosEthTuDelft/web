@@ -538,7 +538,7 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
   // Lightbox modal
-  var galleryLinks = document.querySelectorAll('div.gallery > a');
+  var galleryLinks = document.querySelectorAll('div.gallery a[target="_blank"]');
   galleryLinks.forEach(function(link) {
     link.addEventListener('click', function(e) {
       e.preventDefault();
