@@ -141,7 +141,7 @@ title: "Cool"
     <p class="cool-desc">MD simulation showing the inclusion complexation (reversely) of a beta-Cyclodextrin with caproic acid. The simulation was performed by <a href="https://scholar.google.com/citations?user=TOKYbtYAAAAJ&hl=en">Dr. Máté Erdös</a> during his PhD.</p>
     <div class="cool-links">
       <a href="../assets/publications/37.Erdos_JPCB_2020_124_1218.pdf"><span class="fa-solid fa-book"></span> J. Phys. Chem. B</a>
-      <a href="../assets/publications/48.Erdos_FPE_2021_528_112842.pdf"><span class="fa-solid fa-book"></span> Fluid Phase Equilibria</a>
+      <a href="../assets/publications/50.Erdos_FPE_2021_528_112842.pdf"><span class="fa-solid fa-book"></span> Fluid Phase Equilibria</a>
     </div>
   </div>
 </div>
