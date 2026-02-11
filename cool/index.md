@@ -87,6 +87,15 @@ title: "Cool"
 
 <div class="cool-card">
   <video controls>
+    <source src="videos/clay-h2.mp4" type="video/mp4">
+  </video>
+  <div class="cool-body">
+    <p class="cool-desc">MD simulation of a bulk hydrogen phase in contact pseudo-hexagonal montmorillonite nanoparticles.</p>
+  </div>
+</div>
+
+<div class="cool-card">
+  <video controls>
     <source src="videos/nafionMD.mp4" type="video/mp4">
   </video>
   <div class="cool-body">
