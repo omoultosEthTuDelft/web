@@ -781,7 +781,9 @@ publications:
   <div class="pub-number">{{ pub.number | remove: "." }}</div>
  </dt>
   <dd class="col-sm-11">
-    <strong>{{ pub.title }}</strong> <br> {{ pub.authors }}. <br> <strong>{{pub.venue}}</strong>.
+    <div class="pub-title">{{ pub.title }}</div>
+    <div class="pub-authors">{{ pub.authors }}.</div>
+    <div class="pub-venue">{{pub.venue}}.</div>
     <div class="pub-links">
     {% if pub('pdf')? %}<a href="{{ site.url}}/{{ pub.pdf }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;PDF</a>{% endif %}
     {% if pub('poster')? %}<a href="{{ site.url}}/{{ pub.poster }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;Poster</a>{% endif %}
