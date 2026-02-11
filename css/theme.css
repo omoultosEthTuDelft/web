@@ -315,6 +315,80 @@ a:visited { color: #3973ac; }
   gap: 4px;
 }
 
+.badge-pub {
+  background: #fff;
+  color: #3973ac;
+  border: 1px solid #3973ac;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.badge-pub:hover {
+  background: #3973ac;
+  color: #fff;
+  text-decoration: none;
+}
+
+/* Jump-to-year navigation */
+.year-nav-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 16px;
+  padding: 10px 0;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.year-nav-link {
+  display: inline-block;
+  padding: 4px 10px;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: #3973ac;
+  border: 1px solid #d0d8e0;
+  border-radius: 14px;
+  text-decoration: none;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.year-nav-link:hover {
+  background-color: #3973ac;
+  color: #fff;
+  text-decoration: none;
+  border-color: #3973ac;
+}
+
+.year-nav-link:visited {
+  color: #3973ac;
+}
+
+.year-nav-link:visited:hover {
+  color: #fff;
+}
+
+/* Back to top button */
+#backToTop {
+  display: none;
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  border: 2px solid #3973ac;
+  background: #fff;
+  color: #3973ac;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  z-index: 100;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+#backToTop:hover {
+  background: #3973ac;
+  color: #fff;
+}
+
 /* Footer */
 .site-footer {
   background-color: #f8f9fa;

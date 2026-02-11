@@ -771,6 +771,8 @@ publications:
 <br/>
 <!-- <br/> -->
 
+<div id="year-nav"></div>
+
 <div id="publications-list">
 {% for pub in page.publications %}
 &nbsp;
@@ -781,44 +783,79 @@ publications:
   <dd class="col-sm-11">
     <strong>{{ pub.title }}</strong> <br> {{ pub.authors }}. <br> <strong>{{pub.venue}}</strong>.
     <div class="pub-links">
-    {% if pub('pdf')? %}<a href="{{ site.url}}/{{ pub.pdf }}" class="badge badge-pill badge-warning" role="button"><i class="fa fa-download"></i>&nbsp;PDF</a>{% endif %}
-    {% if pub('poster')? %}<a href="{{ site.url}}/{{ pub.poster }}" class="badge badge-pill badge-info" role="button"><i class="fa fa-download"></i>&nbsp;Poster</a>{% endif %}
-    {% if pub('SI')? %}<a href="{{ site.url}}/{{ pub.SI }}" class="badge badge-pill badge-danger" role="button"><i class="fa fa-download"></i>&nbsp;SI</a>{% endif %}
-    {% if pub('Data')? %}<a href="{{ site.url}}/{{ pub.Data }}" class="badge badge-pill badge-info" role="button"><i class="fa fa-download"></i>&nbsp;Data</a>{% endif %}
-    {% if pub('bib')? %}<a href="{{ site.url}}/{{ pub.bib }}" class="badge badge-pill badge-primary" role="button"><i class="fa fa-download"></i>&nbsp;bib</a>{% endif %}
-    {% if pub('slides')? %}<a href="{{ site.url}}/{{ pub.slides }}" class="badge badge-pill badge-primary" role="button"><i class="fa fa-download"></i>&nbsp;Slides</a>{% endif %}
-    {% if pub('simulGromacs')? %}<a href="{{ site.url}}/{{ pub.simulGromacs }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;GROMACS files</a>{% endif %}
-    {% if pub('simulLammps')? %}<a href="{{ site.url}}/{{ pub.simulLammps }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;LAMMPS files</a>{% endif %}
-    {% if pub('simulBrick')? %}<a href="{{ site.url}}/{{ pub.simulBrick }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;BRICK-CFCMC files</a>{% endif %}
-    {% if pub('simulCaspy')? %}<a href="{{ site.url}}/{{ pub.simulCaspy }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;CasPy source code</a>{% endif %}
-    {% if pub('simulCIF')? %}<a href="{{ site.url}}/{{ pub.simulCIF }}" class="badge badge-pill badge-secondary" role="button"><i class="fa fa-download"></i>&nbsp;CIF files</a>{% endif %}
+    {% if pub('pdf')? %}<a href="{{ site.url}}/{{ pub.pdf }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;PDF</a>{% endif %}
+    {% if pub('poster')? %}<a href="{{ site.url}}/{{ pub.poster }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;Poster</a>{% endif %}
+    {% if pub('SI')? %}<a href="{{ site.url}}/{{ pub.SI }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;SI</a>{% endif %}
+    {% if pub('Data')? %}<a href="{{ site.url}}/{{ pub.Data }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;Data</a>{% endif %}
+    {% if pub('bib')? %}<a href="{{ site.url}}/{{ pub.bib }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;bib</a>{% endif %}
+    {% if pub('slides')? %}<a href="{{ site.url}}/{{ pub.slides }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;Slides</a>{% endif %}
+    {% if pub('simulGromacs')? %}<a href="{{ site.url}}/{{ pub.simulGromacs }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;GROMACS files</a>{% endif %}
+    {% if pub('simulLammps')? %}<a href="{{ site.url}}/{{ pub.simulLammps }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;LAMMPS files</a>{% endif %}
+    {% if pub('simulBrick')? %}<a href="{{ site.url}}/{{ pub.simulBrick }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;BRICK-CFCMC files</a>{% endif %}
+    {% if pub('simulCaspy')? %}<a href="{{ site.url}}/{{ pub.simulCaspy }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;CasPy source code</a>{% endif %}
+    {% if pub('simulCIF')? %}<a href="{{ site.url}}/{{ pub.simulCIF }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;CIF files</a>{% endif %}
     </div>
   </dd>
 </dl>
 {% endfor %}
 </div>
 
+<!-- Back to top button -->
+<button id="backToTop" title="Back to top"><i class="fa-solid fa-chevron-up"></i></button>
+
 <script>
 document.addEventListener('DOMContentLoaded', function() {
   var pubList = document.getElementById('publications-list');
   var pubItems = pubList.querySelectorAll('.pub-item');
   var lastYear = null;
+  var years = [];
   
   pubItems.forEach(function(item) {
     var venue = item.getAttribute('data-venue');
-    // Extract year from venue string like "Journal (2026), 123, 456"
     var yearMatch = venue.match(/\((\d{4})\)/);
     if (yearMatch) {
       var year = yearMatch[1];
       if (year !== lastYear) {
-        // Insert year header before this publication
         var yearHeader = document.createElement('div');
         yearHeader.className = 'year-header';
+        yearHeader.id = 'year-' + year;
         yearHeader.textContent = year;
         item.parentNode.insertBefore(yearHeader, item);
         lastYear = year;
+        years.push(year);
       }
     }
+  });
+
+  // Build jump-to-year navigation
+  var yearNav = document.getElementById('year-nav');
+  if (years.length > 0) {
+    var navHtml = '<div class="year-nav-bar">';
+    years.forEach(function(y) {
+      navHtml += '<a href="#year-' + y + '" class="year-nav-link">' + y + '</a>';
+    });
+    navHtml += '</div>';
+    yearNav.innerHTML = navHtml;
+  }
+
+  // Smooth scroll for year nav links
+  yearNav.addEventListener('click', function(e) {
+    if (e.target.classList.contains('year-nav-link')) {
+      e.preventDefault();
+      var target = document.querySelector(e.target.getAttribute('href'));
+      if (target) {
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
+    }
+  });
+
+  // Back to top button
+  var btn = document.getElementById('backToTop');
+  window.addEventListener('scroll', function() {
+    btn.style.display = window.scrollY > 400 ? 'block' : 'none';
+  });
+  btn.addEventListener('click', function() {
+    window.scrollTo({ top: 0, behavior: 'smooth' });
   });
 });
 </script>
