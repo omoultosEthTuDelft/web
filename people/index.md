@@ -76,7 +76,7 @@ title: "People"
 
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
-      <img src="photos/omkar.jpg" class="rounded-circle" alt="Omkar Dhavale">
+      <img src="photos/Omkar.jpg" class="rounded-circle" alt="Omkar Dhavale">
       <div class="name">Omkar Dhavale</div>
       <div class="research">Thermodynamic modeling and molecular simulation of Molten-Salt Fuel Systems</div>
       <div class="collab">w/ Dr. Anna Smith (Reactor Institute)</div>
