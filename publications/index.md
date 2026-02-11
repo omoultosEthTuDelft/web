@@ -851,6 +851,31 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   });
 
+  // Subscript chemical formulas in publication titles
+  var titles = document.querySelectorAll('.pub-title');
+  var formulaReplacements = [
+    [/\bNaB\(OH\)4/g, 'NaB(OH)<sub>4</sub>'],
+    [/\bB\(OH\)4/g, 'B(OH)<sub>4</sub>'],
+    [/\bNaBH4/g, 'NaBH<sub>4</sub>'],
+    [/BH4/g, 'BH<sub>4</sub>'],
+    [/\bCO2\b/g, 'CO<sub>2</sub>'],
+    [/\bSO2\b/g, 'SO<sub>2</sub>'],
+    [/\bH2O\b/g, 'H<sub>2</sub>O'],
+    [/\bH2S\b/g, 'H<sub>2</sub>S'],
+    [/\bCH4\b/g, 'CH<sub>4</sub>'],
+    [/\bO2\b/g, 'O<sub>2</sub>'],
+    [/\bN2\b/g, 'N<sub>2</sub>'],
+    [/\bC2\b/g, 'C<sub>2</sub>'],
+    [/\bH2\b/g, 'H<sub>2</sub>'],
+  ];
+  titles.forEach(function(el) {
+    var html = el.innerHTML;
+    formulaReplacements.forEach(function(r) {
+      html = html.replace(r[0], r[1]);
+    });
+    el.innerHTML = html;
+  });
+
   // Back to top button
   var btn = document.getElementById('backToTop');
   window.addEventListener('scroll', function() {
