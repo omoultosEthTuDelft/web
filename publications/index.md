@@ -160,8 +160,8 @@ publications:
     SI: "assets/publications/SI/88.Lasala_CEJ_2024_483_148961_SI.pdf", 
     bib: "assets/publications/bib/88.Lasala_CEJ_2024_483_148961.bib"}
   - { number: "87.",
-    title: "Interfacial tensions, solubilities, and transport properties of the H2/H2O/NaCl System: A molecular dynamics simulatio study",
-    authors: "W. A. van Rooijen, P. Habibi, K. Xu, T. J. H. Vlugt, H. Hadjibeygi, and Othonas A.Moultos", 
+    title: "Interfacial tensions, solubilities, and transport properties of the H2/H2O/NaCl System: A molecular dynamics simulation study",
+    authors: "W. A. van Rooijen, P. Habibi, K. Xu, T. J. H. Vlugt, Hadi Hajibeygi, and Othonas A. Moultos", 
     venue: "Journal of Chemical & Engineering Data (2024) 69, 307", 
     pdf: "assets/publications/87.vanRooijen_JCED_2024_69_307.pdf", 
     SI: "assets/publications/SI/87.vanRooijen_JCED_2024_69_307_SI.pdf", 
@@ -258,14 +258,14 @@ publications:
     bib: "assets/publications/bib/74.Fang_FUEL_2023_345_128230.bib"}
   - { number: "73.",
     title: "Transport properties of mixtures of acid gases with aqueous monoethanolamine solutions: A molecular dynamics study",
-    authors: "H. Mert Polat, Frédérick de Meyer, Céline Houriez, Christophe Coquelet, Othonas A.Moultos, and Thijs J. H. Vlugt", 
+    authors: "H. Mert Polat, Frédérick de Meyer, Céline Houriez, Christophe Coquelet, Othonas A. Moultos, and Thijs J. H. Vlugt", 
     venue: "Fluid Phase Equilibria (2023) 564, 113587", 
     pdf: "assets/publications/73.Polat_FPE_2023_564_113587.pdf", 
     SI: "assets/publications/SI/73.Polat_FPE_2023_564_113587_SI.pdf", 
     bib: "assets/publications/bib/73.Polat_FPE_2023_564_113587.bib"}
   - { number: "72.",
     title: "A New Force Field for OH− for Computing Thermodynamic and Transport Properties of H2 and O2 in Aqueous NaOH and KOH Solutions",
-    authors: "Parsa Habibi, Ahmadreza Rahbari, Samuel Blazquez, Carlos Vega, Poulumi Dey, Thijs J. H. Vlugt,and Othonas A. Moultos", 
+    authors: "Parsa Habibi, Ahmadreza Rahbari, Samuel Blazquez, Carlos Vega, Poulumi Dey, Thijs J. H. Vlugt, and Othonas A. Moultos", 
     venue: "Journal of Physical Chemistry B (2022) 126, 9376", 
     pdf: "assets/publications/72.Habibi_JPCB_2022_126_9376.pdf", 
     SI: "assets/publications/SI/72.Habibi_JPCB_2022_126_9376_SI.pdf", 
@@ -293,13 +293,13 @@ publications:
     bib: "assets/publications/bib/69.Boor_IECR_2022_61_14837.bib"}
   - { number: "68.",
     title: "Is Stokes-Einstein relation valid for the description of intra-diffusivity of hydrogen and oxygen in liquid water?",
-    authors: "Ioannis N. Tsimpanogiannis and Othonas A Moultos", 
+    authors: "Ioannis N. Tsimpanogiannis and Othonas A. Moultos", 
     venue: "Fluid Phase Equilibria (2022) 563, 113568", 
     pdf: "assets/publications/68.Tsimpanogiannis_FPE_2022_563_113568.pdf",  
     bib: "assets/publications/bib/68.Tsimpanogiannis_FPE_2022_563_113568.bib"}
   - { number: "67.",
     title: "Hydrogen dissociation in Li-decorated borophene and borophene hydride: An ab-initio study",
-    authors: "Parsa Habibi, Tijin HG Saji, Thijs JH Vlugt, Othonas A Moultos, and Poulumi Dey", 
+    authors: "Parsa Habibi, Tijin HG Saji, Thijs JH Vlugt, Othonas A. Moultos, and Poulumi Dey", 
     venue: "Applied Surface Science (2022) 603, 154323", 
     pdf: "assets/publications/67.Habibi_ASS_2022_603_154323.pdf", 
     SI: "assets/publications/SI/67.Habibi_ASS_2022_603_154323_SI.pdf", 
@@ -331,28 +331,28 @@ publications:
     authors: "Hirad S. Salehi, Othonas A. Moultos, and Thijs J. H. Vlugt", 
     venue: "Journal of Physical Chemistry B (2021) 125, 12303", 
     pdf: "assets/publications/63.Salehi_JPCB_2021_125_12303.pdf", 
-    SI: "assets/publications/SI/63.Salehi_JPCB_2021_125_12303_SI.pdf ", 
+    SI: "assets/publications/SI/63.Salehi_JPCB_2021_125_12303_SI.pdf", 
     bib: "assets/publications/bib/63.Salehi_JPCB_2021_125_12303.bib"}
   - { number: "62.", 
     title: "Vapor pressures and vapor phase compositions of choline chloride urea and choline chloride ethylene glycol deep eutectic solvents from molecular simulation", 
     authors: "Hirad S. Salehi, H. Mert Polat, Frédérick de Meyer, Céline Houriez, Christophe Coquelet, Thijs J. H. Vlugt,  and Othonas A. Moultos", 
     venue: "Journal of Chemical Physics (2021) 144, 114504", 
     pdf: "assets/publications/62.Salehi_JCP_2021_144_114504.pdf", 
-    SI: "assets/publications/SI/62.Salehi_JCP_2021_144_114504_SI.pdf ", 
+    SI: "assets/publications/SI/62.Salehi_JCP_2021_144_114504_SI.pdf", 
     bib: "assets/publications/bib/62.Salehi_JCP_2021_144_114504.bib"}
   - { number: "61.", 
     title: "Reversible Hydrogen Storage in Metal-Decorated Honeycomb Borophene Oxide", 
     authors: "Parsa Habibi, Thijs J. H. Vlugt, Poulumi Dey, and Othonas A. Moultos", 
     venue: "ACS Applied Materials & Interfaces (2021) 13, 43233", 
     pdf: "assets/publications/61.Habibi_AMI_2021_13_43233.pdf", 
-    SI: "assets/publications/SI/61.Habibi_AMI_2021_13_43233_SI.pdf ", 
+    SI: "assets/publications/SI/61.Habibi_AMI_2021_13_43233_SI.pdf", 
     bib: "assets/publications/bib/61.Habibi_AMI_2021_13_43233.bib"}
   - { number: "60.", 
     title: "New Features of the Open Source Monte Carlo Software Brick-CFCMC: Thermodynamic Integration and Hybrid Trial Moves", 
     authors: "H. Mert Polat, Hirad S. Salehi, Remco Hens, Dominika O. Wasik, Ahmadreza Rahbari, Frédérick de Meyer, Céline Houriez, Christophe Coquelet, Sofia Calero, David Dubbeldam, Othonas A. Moultos, and Thijs J. H. Vlugt", 
     venue: "Journal of Chemical Information and Modeling (2021) 61, 3752", 
     pdf: "assets/publications/60.Polat_JCIM_2021_61_3752.pdf", 
-    SI: "assets/publications/SI/60.Polat_JCIM_2021_61_3752_SI.pdf ", 
+    SI: "assets/publications/SI/60.Polat_JCIM_2021_61_3752_SI.pdf", 
     bib: "assets/publications/bib/60.Polat_JCIM_2021_61_3752.bib"}
   - { number: "59.", 
     title: "Engineering Model for Predicting the Intradiffusion Coefficients of Hydrogen and Oxygen in Vapor, Liquid, and Supercritical Water based on Molecular Dynamics Simulations",
@@ -384,7 +384,7 @@ publications:
     bib: "assets/publications/bib/56.Salehi_JCP_2021_154_144502.bib"}
   - { number: "55.", 
     title: "The effect of hydrogen content and yield strength on the distribution of hydrogen in steel: a diffusion coupled micromechanical FEM study",
-    authors: "Abdelrahman Hussein, Alfons H.M.Krom, Poulumi Dey, Gagus K. Sunnardianto, Othonas A.Moultos, and Carey L. Walters",
+    authors: "Abdelrahman Hussein, Alfons H.M.Krom, Poulumi Dey, Gagus K. Sunnardianto, Othonas A. Moultos, and Carey L. Walters",
     venue: "Acta Materialia (2021) 209, 116799", 
     pdf: "assets/publications/55.Hussein_AM_2021_209_116799.pdf",  
     bib: "assets/publications/bib/55.Hussein_AM_2021_209_116799.bib"}
@@ -405,14 +405,14 @@ publications:
     bib: "assets/publications/bib/53.Celebi_MP_2021_119_e1876263.bib"}
   - { number: "52.", 
     title: "Solubility of Carbon Dioxide, Hydrogen Sulfide, Methane, and Nitrogen in Monoethylene Glycol; Experiments and Molecular Simulation",
-    authors: "Noura Dawass, Ricardo R. Wanderley, Mahinder Ramdin, Othonas A. Moultos, Hanna K. KnuutilaHanna K. Knuutila, and Thijs J. H. Vlugt", 
+    authors: "Noura Dawass, Ricardo R. Wanderley, Mahinder Ramdin, Othonas A. Moultos, Hanna K. Knuutila, and Thijs J. H. Vlugt", 
     venue: "Journal of Chemical & Engineering Data (2021) 66, 524", 
     pdf: "assets/publications/52.Dawass_JCED_2021_66_524.pdf", 
     SI: "assets/publications/SI/52.Dawass_JCED_2021_66_524_SI.pdf", 
     bib: "assets/publications/bib/52.Dawass_JCED_2021_66_524.bib"} 
   - { number: "51.", 
     title: "Efficient hydrogen storage in defective graphene and its mechanical stability: A combined density functional theory and molecular dynamics simulation study",
-    authors: "Gagus Ketut Sunnardianto, George Bokas, Abdelrahman Hussein, Carey Walters, Othonas A.Moultos, and Poulumi Dey", 
+    authors: "Gagus Ketut Sunnardianto, George Bokas, Abdelrahman Hussein, Carey Walters, Othonas A. Moultos, and Poulumi Dey", 
     venue: "International Journal of Hydrogen Energy (2021) 46, 5485", 
     pdf: "assets/publications/51.Sunnardianto_IJHE_2021_46_5485.pdf", 
     bib: "assets/publications/bib/51.Sunnardianto_IJHE_2021_46_5485.bib"}  
@@ -442,7 +442,7 @@ publications:
     title: "Multiple linear regression and thermodynamic fluctuations are equivalent for computing thermodynamic derivatives from molecular simulation",
     authors: "Ahmadreza Rahbari, Tyler R. Josephson, Yangzesheng Sun, Othonas A. Moultos, David Dubbeldam, J. Ilja Siepmann, Thijs J. H. Vlugt", 
     venue: "Fluid Phase Equilibria (2020) 523, 112785", 
-    pdf: "assets/publications/47.Rahbari_FPE_2020_523_112785.pdf ", 
+    pdf: "assets/publications/47.Rahbari_FPE_2020_523_112785.pdf", 
     bib: "assets/publications/bib/47.Rahbari_FPE_2020_523_112785.bib"} 
   - { number: "46.", 
     title: "Finite-size effects of diffusion coefficients computed from molecular dynamics: a review of what we have learned so far",
@@ -523,7 +523,7 @@ publications:
   - { number: "35.",
     title: "On the validity of the Stokes–Einstein relation for various water force fields",
     authors: "Ioannis N. Tsimpanogiannis, Seyed Hossein Jamali, Ioannis G. Economou, Thijs J. H. Vlugt, and Othonas A. Moultos", 
-    venue: "Molecular Physics (2019) 118, e1702729", 
+    venue: "Molecular Physics (2020) 118, e1702729", 
     pdf: "assets/publications/35.Tsimpanogiannis_MP_2020_118_e1702729.pdf", 
     bib: "assets/publications/bib/35.Tsimpanogiannis_MP_2020_118_e1702729.bib"}
   - { number: "34.",
@@ -549,7 +549,7 @@ publications:
     bib: "assets/publications/bib/32.Rahbari_JCED_2019_64_4103.bib"}
   - { number: "31.",
     title: "Rayleigh-Brillouin light scattering spectra of CO2 from molecular dynamics",
-    authors: "Seyed Hossein Jamalil, Mariette de Groen, Othonas A. Moultos, Remco Hartkamp, Thijs J. H. Vlugt, Wim Ubachs, Willem van de Water", 
+    authors: "Seyed Hossein Jamali, Mariette de Groen, Othonas A. Moultos, Remco Hartkamp, Thijs J. H. Vlugt, Wim Ubachs, Willem van de Water", 
     venue: "Journal of Chemical Physics (2019) 151, 064201", 
     pdf: "assets/publications/31.Jamali_JCP_2019_151_064201.pdf", 
     bib: "assets/publications/bib/31.Jamali_JCP_2019_151_064201.bib"}
@@ -563,7 +563,7 @@ publications:
   - { number: "29.",
     title: "Computing solubility parameters of deep eutectic solvents from Molecular Dynamics simulations",
     authors: "Hirad S. Salehi, Mahinder Ramdin, Thijs J. H. Vlugt, and Othonas A. Moultos", 
-    venue: "FLuid Phase Equilibria (2019) 497, 10", 
+    venue: "Fluid Phase Equilibria (2019) 497, 10", 
     pdf: "assets/publications/29.Salehi_FPE_2019_497_10.pdf", 
     SI: "assets/publications/SI/29.Salehi_FPE_2019_497_10_SI.pdf", 
     bib: "assets/publications/bib/29.Salehi_FPE_2019_497_10.bib"}
@@ -593,7 +593,7 @@ publications:
   - { number: "25.", 
     title: "Shear Viscosity Computed from the Finite-Size Effects of Self-Diffusivity in Equilibrium Molecular Dynamics",
     authors: "Seyed Hossein Jamali, Remco Hartkamp, Christos Bardas, Jakob Söhl, Thijs J. H. Vlugt, and Othonas A. Moultos", 
-    venue: "Journal of Chemical Theory & computation (2018) 14, 5959", 
+    venue: "Journal of Chemical Theory and Computation (2018) 14, 5959", 
     pdf: "assets/publications/25.Jamali_JCTC_2018_14_5959.pdf", 
     SI: "assets/publications/SI/25.Jamali_JCTC_2018_14_5959_SI.pdf", 
     bib: "assets/publications/bib/25.Jamali_JCTC_2018_14_5959.bib"}
@@ -685,7 +685,7 @@ publications:
     pdf: "assets/publications/13.Michalis_FPE_2016_407_236.pdf", 
     bib: "assets/publications/bib/13.Michalis_FPE_2016_407_236.bib"}
   - { number: "12.", 
-    title: "Self-diffusion coefficients of the binary (H2O + CO2) mixture at high emperatures and pressures",
+    title: "Self-diffusion coefficients of the binary (H2O + CO2) mixture at high temperatures and pressures",
     authors: "Othonas A. Moultos, Ioannis N. Tsimpanogiannis, Athanassios Z. Panagiotopoulos, and Ioannis G. Economou", 
     venue: "The Journal of Chemical Thermodynamics (2016) 93, 424", 
     pdf: "assets/publications/12.Moultos_JCT_2016_93_424.pdf", 
@@ -702,7 +702,7 @@ publications:
     authors: "Hao Jiang, Zoltan Mester, Othonas A. Moultos, Ioannis N. Tsimpanogiannis, and Athanassios Z. Panagiotopoulos", 
     venue: "Journal of Chemical Theory and Computation (2015) 11, 3802", 
     pdf: "assets/publications/10.Jiang_JCTC_2015_11_3802.pdf", 
-    SI:  "assets/publications/SI/10.Jiang_JCTC_2015_11_3802_SI.pdf ", 
+    SI:  "assets/publications/SI/10.Jiang_JCTC_2015_11_3802_SI.pdf", 
     bib: "assets/publications/bib/10.Jiang_JCTC_2015_11_3802.bib"}
   - { number: "9.", 
     title: "Atomistic molecular dynamics simulations of H2O diffusivity in liquid and supercritical CO2",
@@ -735,7 +735,7 @@ publications:
     title: "Atomistic Molecular Dynamics Simulations of CO2 Diffusivity in H2O
       for a Wide Range of Temperatures and Pressures",
     authors: "Othonas A. Moultos, Ioannis N. Tsimpanogiannis, Athanassios Z. Panagiotopoulos, and Ioannis G. Economou", 
-    venue: "Journal of Physical Chemistry B (2014) 118, 5332", 
+    venue: "Journal of Physical Chemistry B (2014) 118, 5532", 
     pdf: "assets/publications/5.Moultos_JPCB_2014_118_5532.pdf", 
     bib: "assets/publications/bib/5.Moultos_JPCB_2014_118_5532.bib"}
   - { number: "4.", 
