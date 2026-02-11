@@ -773,34 +773,28 @@ publications:
 
 <div id="publications-list">
 {% for pub in page.publications %}
-<!-- {% if pub('section')? %}
-<h6><strong>{{pub.title}}</strong></h6>
-{% else %}
- -->&nbsp;
+&nbsp;
 <dl class="row pub-item" data-venue="{{pub.venue}}">
- <dt class="col-sm-3">
-  <h6><span class="badge badge-danger" role="button">{{ pub.label }}</span></h6>
-  <h6><span class="badge badge-success" role="button">{{ pub.number }}</span></h6>
-  <h6><span class="badge badge-danger" role="button">{{ pub.year }}</span></h6>
-  <!-- <h8><span class="badge badge-info" role="button">{{ pub.test }}</span></h8> -->
-  <!-- <br/> -->
-  {% if pub('pdf')? %}<a href="{{ site.url}}/{{ pub.pdf }}" class="badge badge-pill  badge-warning" role="button"><i class="fa fa-download"></i>&nbsp;PDF</a>{% endif %}
-  {% if pub('poster')? %}<a href="{{ site.url}}/{{ pub.poster }}" class="badge badge-pill  badge-info" role="button"><i class="fa fa-download"></i>&nbsp;Poster</a>{% endif %}
-  {% if pub('SI')? %}<a href="{{ site.url}}/{{ pub.SI }}" class="badge badge-pill  badge-danger" role="button"><i class="fa fa-download"></i>&nbsp;SI</a>{% endif %}
-  {% if pub('Data')? %}<a href="{{ site.url}}/{{ pub.Data }}" class="badge badge-pill  badge-info" role="button"><i class="fa fa-download"></i>&nbsp;Data</a>{% endif %}
-  {% if pub('bib')? %}<a href="{{ site.url}}/{{ pub.bib }}" class="badge badge-pill  badge-primary" role="button"><i class="fa fa-download"></i>&nbsp;bib</a>{% endif %}
-  {% if pub('slides')? %}<a href="{{ site.url}}/{{ pub.slides }}" class="badge badge-pill badge-primary" role="button"><i class="fa fa-download"></i>&nbsp;Slides</a>{% endif %}
-  {% if pub('simulGromacs')? %}<a href="{{ site.url}}/{{ pub.simulGromacs }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;GROMACS files</a>{% endif %}
-  {% if pub('simulLammps')? %}<a href="{{ site.url}}/{{ pub.simulLammps }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;LAMMPS files</a>{% endif %}
-  {% if pub('simulBrick')? %}<a href="{{ site.url}}/{{ pub.simulBrick }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;BRICK-CFCMC files</a>{% endif %}
-  {% if pub('simulCaspy')? %}<a href="{{ site.url}}/{{ pub.simulCaspy }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;CasPy source code</a>{% endif %}
-  {% if pub('simulCIF')? %}<a href="{{ site.url}}/{{ pub.simulCIF }}" class="badge badge-pill badge-secondary" role="button"><i class="fa fa-download"></i>&nbsp;CIF files</a>{% endif %}
-	</dt>
-  <dd class="col-sm-9">
-    <strong>{{ pub.title }}</strong> <br> {{ pub.authors }}. <br>  <strong>{{pub.venue}}</strong>. 
+ <dt class="col-sm-1">
+  <div class="pub-number">{{ pub.number | remove: "." }}</div>
+ </dt>
+  <dd class="col-sm-11">
+    <strong>{{ pub.title }}</strong> <br> {{ pub.authors }}. <br> <strong>{{pub.venue}}</strong>.
+    <div class="pub-links">
+    {% if pub('pdf')? %}<a href="{{ site.url}}/{{ pub.pdf }}" class="badge badge-pill badge-warning" role="button"><i class="fa fa-download"></i>&nbsp;PDF</a>{% endif %}
+    {% if pub('poster')? %}<a href="{{ site.url}}/{{ pub.poster }}" class="badge badge-pill badge-info" role="button"><i class="fa fa-download"></i>&nbsp;Poster</a>{% endif %}
+    {% if pub('SI')? %}<a href="{{ site.url}}/{{ pub.SI }}" class="badge badge-pill badge-danger" role="button"><i class="fa fa-download"></i>&nbsp;SI</a>{% endif %}
+    {% if pub('Data')? %}<a href="{{ site.url}}/{{ pub.Data }}" class="badge badge-pill badge-info" role="button"><i class="fa fa-download"></i>&nbsp;Data</a>{% endif %}
+    {% if pub('bib')? %}<a href="{{ site.url}}/{{ pub.bib }}" class="badge badge-pill badge-primary" role="button"><i class="fa fa-download"></i>&nbsp;bib</a>{% endif %}
+    {% if pub('slides')? %}<a href="{{ site.url}}/{{ pub.slides }}" class="badge badge-pill badge-primary" role="button"><i class="fa fa-download"></i>&nbsp;Slides</a>{% endif %}
+    {% if pub('simulGromacs')? %}<a href="{{ site.url}}/{{ pub.simulGromacs }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;GROMACS files</a>{% endif %}
+    {% if pub('simulLammps')? %}<a href="{{ site.url}}/{{ pub.simulLammps }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;LAMMPS files</a>{% endif %}
+    {% if pub('simulBrick')? %}<a href="{{ site.url}}/{{ pub.simulBrick }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;BRICK-CFCMC files</a>{% endif %}
+    {% if pub('simulCaspy')? %}<a href="{{ site.url}}/{{ pub.simulCaspy }}" class="badge badge-pill badge-dark" role="button"><i class="fa fa-download"></i>&nbsp;CasPy source code</a>{% endif %}
+    {% if pub('simulCIF')? %}<a href="{{ site.url}}/{{ pub.simulCIF }}" class="badge badge-pill badge-secondary" role="button"><i class="fa fa-download"></i>&nbsp;CIF files</a>{% endif %}
+    </div>
   </dd>
 </dl>
-{% endif %}
 {% endfor %}
 </div>
 
