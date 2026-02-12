@@ -1,6 +1,6 @@
 all:
-	bundle exec jekyll build
+	eval "$$(rbenv init -)" && bundle exec jekyll build
 preview:
-	bundle exec jekyll serve --watch --baseurl ''
+	eval "$$(rbenv init -)" && bundle exec jekyll serve --watch --baseurl ''
 install:
 	sudo gem install github-pages faraday

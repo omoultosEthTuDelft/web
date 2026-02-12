@@ -102,6 +102,17 @@ body {
   padding-bottom: 4px;
 }
 
+.navbar-logo {
+  height: 32px;
+  width: auto;
+  opacity: 0.85;
+  transition: opacity 0.2s ease;
+}
+
+.navbar-logo:hover {
+  opacity: 1;
+}
+
 /* Active nav item: pill background */
 .nav-item .nav-link.active {
   color: #fff !important;
