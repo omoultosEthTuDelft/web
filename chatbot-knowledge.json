@@ -1,0 +1,35 @@
+---
+layout: null
+permalink: /chatbot-knowledge.json
+---
+{% assign pub_page = site.pages | where: "title", "Publications" | first %}
+{% assign people_page = site.pages | where: "title", "People" | first %}
+{% assign alumni_page = site.pages | where: "title", "Alumni" | first %}
+{% assign teaching_page = site.pages | where: "title", "Teaching" | first %}
+{% assign software_page = site.pages | where: "title", "Scientific software" | first %}
+{% assign projects_page = site.pages | where: "title", "Research projects" | first %}
+{% assign photos_page = site.pages | where: "title", "Photos" | first %}
+{% assign cool_page = site.pages | where: "title", "Cool" | first %}
+{% assign home_page = site.pages | where: "title", "Main page" | first %}
+{
+  "lastUpdated": {{ site.time | date: "%Y-%m-%d" | jsonify }},
+  "siteUrl": {{ site.url | jsonify }},
+  "pages": {
+    "home": {{ home_page.content | strip_html | strip_newlines | normalize_whitespace | jsonify }},
+    "people": {{ people_page.content | strip_html | strip_newlines | normalize_whitespace | jsonify }},
+    "alumni": {{ alumni_page.content | strip_html | strip_newlines | normalize_whitespace | jsonify }},
+    "teaching": {{ teaching_page.content | strip_html | strip_newlines | normalize_whitespace | jsonify }},
+    "software": {{ software_page.content | strip_html | strip_newlines | normalize_whitespace | jsonify }},
+    "projects": {{ projects_page.content | strip_html | strip_newlines | normalize_whitespace | jsonify }},
+    "photos": {{ photos_page.content | strip_html | strip_newlines | normalize_whitespace | jsonify }},
+    "simulations": {{ cool_page.content | strip_html | strip_newlines | normalize_whitespace | jsonify }}
+  },
+  "publications": [{% for pub in pub_page.publications %}
+    {
+      "number": {{ pub.number | jsonify }},
+      "title": {{ pub.title | jsonify }},
+      "authors": {{ pub.authors | jsonify }},
+      "venue": {{ pub.venue | jsonify }}
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
+  ]
+}
