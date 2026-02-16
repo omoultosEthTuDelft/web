@@ -39,20 +39,17 @@ async function getKnowledge() {
 function buildSystemPrompt(knowledge) {
   const siteUrl = knowledge.siteUrl;
 
-  // Build publications text (all of them, with number/title/authors/venue)
-  const pubLines = knowledge.publications.map(
+  // Recent publications (last 25) with full details, rest just counted
+  const recentPubs = knowledge.publications.slice(0, 25);
+  const pubLines = recentPubs.map(
     (p) => `${p.number} "${p.title}" — ${p.authors} — ${p.venue}`
   );
+  const totalPubs = knowledge.publications.length;
 
   return `${INSTRUCTIONS}
 
 Website: ${siteUrl}
 Last updated: ${knowledge.lastUpdated}
-
-## Pages
-
-### Home / About
-${knowledge.pages.home}
 
 ### Current Team (${siteUrl}/people)
 ${knowledge.pages.people}
@@ -75,8 +72,13 @@ ${knowledge.pages.photos}
 ### Simulation Gallery (${siteUrl}/cool/)
 ${knowledge.pages.simulations}
 
-## All Publications (${knowledge.publications.length} total) — full list: ${siteUrl}/publications/
+### About / Home (${siteUrl})
+${knowledge.pages.home.slice(0, 4000)}
+
+## Publications (${totalPubs} total) — full list: ${siteUrl}/publications/
+Most recent ${recentPubs.length} publications:
 ${pubLines.join('\n')}
+Plus ${totalPubs - recentPubs.length} earlier publications (2009-2022) on molecular simulations, polymers, deep eutectic solvents, hydrogen, CO2 capture, transport properties, and more.
 `;
 }
 
@@ -150,6 +152,12 @@ export default {
       if (!groqResponse.ok) {
         const errorText = await groqResponse.text();
         console.error('Groq API error:', errorText);
+        if (groqResponse.status === 429) {
+          return new Response(JSON.stringify({ reply: 'I\'m getting a lot of questions right now! Please wait a moment and try again.' }), {
+            status: 200,
+            headers: { ...corsHeaders(origin), 'Content-Type': 'application/json' },
+          });
+        }
         return new Response(JSON.stringify({ error: 'Failed to get response from AI' }), {
           status: 502,
           headers: { ...corsHeaders(origin), 'Content-Type': 'application/json' },
