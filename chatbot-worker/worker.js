@@ -11,6 +11,21 @@ IMPORTANT RULES:
 - When relevant, include links to specific pages on the website.
 - Only if a question is truly not covered below, say so honestly.`;
 
+const PROVIDERS = [
+  {
+    name: 'cerebras',
+    url: 'https://api.cerebras.ai/v1/chat/completions',
+    model: 'llama-3.3-70b',
+    keyName: 'CEREBRAS_API_KEY',
+  },
+  {
+    name: 'groq',
+    url: 'https://api.groq.com/openai/v1/chat/completions',
+    model: 'llama-3.3-70b-versatile',
+    keyName: 'GROQ_API_KEY',
+  },
+];
+
 const ALLOWED_ORIGIN = 'https://omoultosethtudelft.github.io';
 
 let cachedKnowledge = null;
@@ -27,7 +42,7 @@ async function getKnowledge() {
   });
 
   if (!response.ok) {
-    if (cachedKnowledge) return cachedKnowledge; // use stale cache on error
+    if (cachedKnowledge) return cachedKnowledge;
     throw new Error(`Failed to fetch knowledge base: ${response.status}`);
   }
 
@@ -39,7 +54,6 @@ async function getKnowledge() {
 function buildSystemPrompt(knowledge) {
   const siteUrl = knowledge.siteUrl;
 
-  // Recent publications (last 25) with full details, rest just counted
   const recentPubs = knowledge.publications.slice(0, 25);
   const pubLines = recentPubs.map(
     (p) => `${p.number} "${p.title}" — ${p.authors} — ${p.venue}`
@@ -82,6 +96,33 @@ Plus ${totalPubs - recentPubs.length} earlier publications (2009-2022) on molecu
 `;
 }
 
+async function callProvider(provider, messages, env) {
+  const apiKey = env[provider.keyName];
+  if (!apiKey) return null;
+
+  const response = await fetch(provider.url, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': `Bearer ${apiKey}`,
+    },
+    body: JSON.stringify({
+      model: provider.model,
+      messages,
+      temperature: 0.7,
+      max_tokens: 1024,
+    }),
+  });
+
+  if (!response.ok) {
+    console.error(`${provider.name} error (${response.status}):`, await response.text());
+    return null;
+  }
+
+  const data = await response.json();
+  return data.choices?.[0]?.message?.content || null;
+}
+
 function corsHeaders(origin) {
   const allowedOrigins = [ALLOWED_ORIGIN, 'http://localhost:4000', 'http://127.0.0.1:4000'];
   const effectiveOrigin = allowedOrigins.includes(origin) ? origin : ALLOWED_ORIGIN;
@@ -117,11 +158,9 @@ export default {
         });
       }
 
-      // Fetch knowledge base dynamically
       const knowledge = await getKnowledge();
       const systemPrompt = buildSystemPrompt(knowledge);
 
-      // Build messages array for Groq (OpenAI-compatible format)
       const messages = [{ role: 'system', content: systemPrompt }];
 
       if (Array.isArray(history)) {
@@ -135,37 +174,19 @@ export default {
 
       messages.push({ role: 'user', content: message });
 
-      const groqResponse = await fetch('https://api.groq.com/openai/v1/chat/completions', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-          'Authorization': `Bearer ${env.GROQ_API_KEY}`,
-        },
-        body: JSON.stringify({
-          model: 'llama-3.3-70b-versatile',
-          messages,
-          temperature: 0.7,
-          max_tokens: 1024,
-        }),
-      });
+      // Try providers in order — Cerebras first (higher free-tier limits), Groq as fallback
+      let reply = null;
+      for (const provider of PROVIDERS) {
+        reply = await callProvider(provider, messages, env);
+        if (reply) break;
+      }
 
-      if (!groqResponse.ok) {
-        const errorText = await groqResponse.text();
-        console.error('Groq API error:', errorText);
-        if (groqResponse.status === 429) {
-          return new Response(JSON.stringify({ reply: 'I\'m getting a lot of questions right now! Please wait a moment and try again.' }), {
-            status: 200,
-            headers: { ...corsHeaders(origin), 'Content-Type': 'application/json' },
-          });
-        }
-        return new Response(JSON.stringify({ error: 'Failed to get response from AI' }), {
-          status: 502,
+      if (!reply) {
+        return new Response(JSON.stringify({ reply: 'I\'m getting a lot of questions right now! Please wait a moment and try again.' }), {
+          status: 200,
           headers: { ...corsHeaders(origin), 'Content-Type': 'application/json' },
         });
       }
-
-      const data = await groqResponse.json();
-      const reply = data.choices?.[0]?.message?.content || 'Sorry, I could not generate a response.';
 
       return new Response(JSON.stringify({ reply }), {
         status: 200,
