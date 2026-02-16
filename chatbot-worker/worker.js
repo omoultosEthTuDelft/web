@@ -54,11 +54,9 @@ async function getKnowledge() {
 function buildSystemPrompt(knowledge) {
   const siteUrl = knowledge.siteUrl;
 
-  const recentPubs = knowledge.publications.slice(0, 25);
-  const pubLines = recentPubs.map(
+  const pubLines = knowledge.publications.map(
     (p) => `${p.number} "${p.title}" — ${p.authors} — ${p.venue}`
   );
-  const totalPubs = knowledge.publications.length;
 
   return `${INSTRUCTIONS}
 
@@ -87,12 +85,10 @@ ${knowledge.pages.photos}
 ${knowledge.pages.simulations}
 
 ### About / Home (${siteUrl})
-${knowledge.pages.home.slice(0, 4000)}
+${knowledge.pages.home}
 
-## Publications (${totalPubs} total) — full list: ${siteUrl}/publications/
-Most recent ${recentPubs.length} publications:
+## All ${knowledge.publications.length} Publications — full list: ${siteUrl}/publications/
 ${pubLines.join('\n')}
-Plus ${totalPubs - recentPubs.length} earlier publications (2009-2022) on molecular simulations, polymers, deep eutectic solvents, hydrogen, CO2 capture, transport properties, and more.
 `;
 }
 
