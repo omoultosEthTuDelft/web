@@ -15,7 +15,7 @@ const PROVIDERS = [
   {
     name: 'openrouter',
     url: 'https://openrouter.ai/api/v1/chat/completions',
-    model: 'google/gemma-3-27b-it:free',
+    model: 'meta-llama/llama-3.3-70b-instruct',
     keyName: 'OPENROUTER_API_KEY',
   },
 ];
@@ -45,17 +45,11 @@ async function getKnowledge() {
   return cachedKnowledge;
 }
 
-function truncate(text, maxLen) {
-  if (!text || text.length <= maxLen) return text;
-  return text.substring(0, maxLen) + '...';
-}
-
 function buildSystemPrompt(knowledge) {
   const siteUrl = knowledge.siteUrl;
 
-  // Shorter publication lines: number + title + venue only (drop authors to save tokens)
   const pubLines = knowledge.publications.map(
-    (p) => `${p.number} "${p.title}" — ${p.venue}`
+    (p) => `${p.number} "${p.title}" — ${p.authors} — ${p.venue}`
   );
 
   return `${INSTRUCTIONS}
@@ -64,13 +58,13 @@ Website: ${siteUrl}
 Last updated: ${knowledge.lastUpdated}
 
 ### About / Home (${siteUrl})
-${truncate(knowledge.pages.home, 3000)}
+${knowledge.pages.home}
 
 ### Current Team (${siteUrl}/people)
 ${knowledge.pages.people}
 
 ### Alumni (${siteUrl}/alumni)
-${truncate(knowledge.pages.alumni, 3000)}
+${knowledge.pages.alumni}
 
 ### Teaching (${siteUrl}/teaching/)
 ${knowledge.pages.teaching}
@@ -81,8 +75,11 @@ ${knowledge.pages.software}
 ### Research Projects (${siteUrl}/projects)
 ${knowledge.pages.projects}
 
+### Photos (${siteUrl}/photos/)
+${knowledge.pages.photos}
+
 ### Simulation Gallery (${siteUrl}/cool/)
-${truncate(knowledge.pages.simulations, 1000)}
+${knowledge.pages.simulations}
 
 ## All ${knowledge.publications.length} Publications — full list: ${siteUrl}/publications/
 ${pubLines.join('\n')}
@@ -106,31 +103,6 @@ async function callProvider(provider, messages, env) {
       max_tokens: 1024,
     }),
   });
-
-  if (response.status === 429) {
-    // Rate limited — wait and retry once
-    await new Promise((r) => setTimeout(r, 3000));
-    const retry = await fetch(provider.url, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json',
-        'Authorization': `Bearer ${apiKey}`,
-      },
-      body: JSON.stringify({
-        model: provider.model,
-        messages,
-        temperature: 0.7,
-        max_tokens: 1024,
-      }),
-    });
-    if (!retry.ok) {
-      const errText = await retry.text();
-      console.error(`${provider.name} retry error (${retry.status}):`, errText);
-      return null;
-    }
-    const retryData = await retry.json();
-    return retryData.choices?.[0]?.message?.content || null;
-  }
 
   if (!response.ok) {
     const errText = await response.text();
