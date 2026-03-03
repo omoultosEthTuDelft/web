@@ -13,16 +13,10 @@ IMPORTANT RULES:
 
 const PROVIDERS = [
   {
-    name: 'cerebras',
-    url: 'https://api.cerebras.ai/v1/chat/completions',
-    model: 'llama-3.3-70b',
-    keyName: 'CEREBRAS_API_KEY',
-  },
-  {
-    name: 'groq',
-    url: 'https://api.groq.com/openai/v1/chat/completions',
-    model: 'llama-3.3-70b-versatile',
-    keyName: 'GROQ_API_KEY',
+    name: 'openrouter',
+    url: 'https://openrouter.ai/api/v1/chat/completions',
+    model: 'meta-llama/llama-3.3-70b-instruct:free',
+    keyName: 'OPENROUTER_API_KEY',
   },
 ];
 
@@ -170,7 +164,7 @@ export default {
 
       messages.push({ role: 'user', content: message });
 
-      // Try providers in order — Cerebras first (higher free-tier limits), Groq as fallback
+      // Try providers in order
       let reply = null;
       for (const provider of PROVIDERS) {
         reply = await callProvider(provider, messages, env);
