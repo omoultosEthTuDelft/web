@@ -15,7 +15,7 @@ const PROVIDERS = [
   {
     name: 'openrouter',
     url: 'https://openrouter.ai/api/v1/chat/completions',
-    model: 'meta-llama/llama-3.3-70b-instruct:free',
+    model: 'google/gemma-3-27b-it:free',
     keyName: 'OPENROUTER_API_KEY',
   },
 ];
