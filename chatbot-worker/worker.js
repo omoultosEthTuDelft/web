@@ -114,6 +114,51 @@ async function callProvider(provider, messages, env) {
   return data.choices?.[0]?.message?.content || null;
 }
 
+async function logConversation(env, userMessage, aiReply) {
+  try {
+    if (!env.CHAT_LOGS) return;
+    const key = `log_${Date.now()}_${Math.random().toString(36).slice(2, 8)}`;
+    const entry = {
+      timestamp: new Date().toISOString(),
+      userMessage,
+      aiReply,
+    };
+    // Store for 90 days
+    await env.CHAT_LOGS.put(key, JSON.stringify(entry), { expirationTtl: 90 * 24 * 3600 });
+  } catch (err) {
+    console.error('Logging error:', err);
+  }
+}
+
+async function handleLogsRequest(env, url) {
+  const secret = url.searchParams.get('key');
+  if (!secret || secret !== env.LOGS_SECRET) {
+    return new Response(JSON.stringify({ error: 'Unauthorized' }), {
+      status: 401,
+      headers: { 'Content-Type': 'application/json' },
+    });
+  }
+
+  const logs = [];
+  let cursor = null;
+  do {
+    const result = await env.CHAT_LOGS.list({ cursor, limit: 1000 });
+    for (const key of result.keys) {
+      const value = await env.CHAT_LOGS.get(key.name);
+      if (value) logs.push(JSON.parse(value));
+    }
+    cursor = result.list_complete ? null : result.cursor;
+  } while (cursor);
+
+  // Sort newest first
+  logs.sort((a, b) => b.timestamp.localeCompare(a.timestamp));
+
+  return new Response(JSON.stringify(logs, null, 2), {
+    status: 200,
+    headers: { 'Content-Type': 'application/json' },
+  });
+}
+
 function corsHeaders(origin) {
   const allowedOrigins = [ALLOWED_ORIGIN, 'http://localhost:4000', 'http://127.0.0.1:4000'];
   const effectiveOrigin = allowedOrigins.includes(origin) ? origin : ALLOWED_ORIGIN;
@@ -125,11 +170,17 @@ function corsHeaders(origin) {
 }
 
 export default {
-  async fetch(request, env) {
+  async fetch(request, env, ctx) {
     const origin = request.headers.get('Origin') || '';
 
     if (request.method === 'OPTIONS') {
       return new Response(null, { status: 204, headers: corsHeaders(origin) });
+    }
+
+    // Logs endpoint
+    const url = new URL(request.url);
+    if (request.method === 'GET' && url.pathname === '/logs') {
+      return handleLogsRequest(env, url);
     }
 
     if (request.method !== 'POST') {
@@ -178,6 +229,9 @@ export default {
           headers: { ...corsHeaders(origin), 'Content-Type': 'application/json' },
         });
       }
+
+      // Log the conversation (non-blocking, runs after response is sent)
+      ctx.waitUntil(logConversation(env, message, reply));
 
       return new Response(JSON.stringify({ reply }), {
         status: 200,

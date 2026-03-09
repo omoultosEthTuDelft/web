@@ -4,3 +4,10 @@ compatibility_date = "2024-01-01"
 
 # The OPENROUTER_API_KEY should be set as a secret:
 #   wrangler secret put OPENROUTER_API_KEY
+
+# The LOGS_SECRET should be set as a secret:
+#   wrangler secret put LOGS_SECRET
+
+[[kv_namespaces]]
+binding = "CHAT_LOGS"
+id = "9f2eb60c8e96425bb20a73916c540d2e"
