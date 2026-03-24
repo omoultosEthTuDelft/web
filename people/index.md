@@ -111,10 +111,19 @@ title: "People"
 
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
-      <img src="photos/placeholder.svg" class="rounded-circle" alt="Kasper van Tulder">
+      <img src="photos/Kasper.jpeg" class="rounded-circle" alt="Kasper van Tulder">
       <div class="name">Kasper van Tulder</div>
       <div class="research">Modelling of plasma chemistry for integration in CFD: focus on transport properties</div>
       <div class="collab">w/ Dr. Anna Felden (main supervisor)</div>
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+    <div class="person-card">
+      <img src="photos/Tim.jpeg" class="rounded-circle" alt="Tim Deutman">
+      <div class="name">Tim Deutman</div>
+      <div class="research">Integrating a Physically-Informed Digital Twin for Modular Alkaline Water Electrolysis</div>
+      <div class="collab">w/ <a href="https://xintc.global">XINTC</a></div>
     </div>
   </div>
 </div>
@@ -122,7 +131,7 @@ title: "People"
 <h3>Interns</h3>
 <section markdown="1">
 
-- [Tim Deutman]() <strong>Evaluating and Summarizing Operational and Safety Protocols for Electrolyzer Modules</strong>, w/ [XINTC](https://xintc.global).
+- [Anouk van Giezen]() <strong>Creating a tool for Environmental Cost Indicator (ECI) for objects for Hoogheemraadschap van Rijnland</strong>.
 
 </section>
 
