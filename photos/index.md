@@ -56,6 +56,13 @@ title: "Photos"
 <div class="photo-masonry">
 
 <div class="gallery">
+  <a target="_blank" href="photos/alessia.jpg">
+    <img src="photos/alessia.jpg" alt="Alessia Bisconti" width="600" height="auto">
+  </a>
+  <div class="desc"> With Alessia Bisconti, who joined the group for her MSc thesis in collaboration with the <a href="https://www.psi.ch">Paul Scherrer Institute</a>, Switzerland. (Delft, May 2026)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/wasteWater.jpg">
     <img src="photos/wasteWater.jpg" alt="Waste water treatment plant visit" width="600" height="auto">
   </a>
