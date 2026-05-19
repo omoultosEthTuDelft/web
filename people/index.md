@@ -138,7 +138,7 @@ title: "People"
 
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
-      <img src="photos/placeholder.svg" class="rounded-circle" alt="Arno Soetens">
+      <img src="photos/Arno.jpg" class="rounded-circle" alt="Arno Soetens">
       <div class="name">Arno Soetens</div>
       <div class="research">Generative data for training machine learning algorithms based on molecular simulations</div>
     </div>
