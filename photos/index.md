@@ -59,7 +59,7 @@ title: "Photos"
   <a target="_blank" href="photos/esat2016.JPG">
     <img src="photos/esat2016.JPG" alt="ESAT 2016" width="600" height="auto">
   </a>
-  <div class="desc">At the ESAT 2016 conference. People from left to right: <a href="https://www.qatar.tamu.edu/programs/chemical-engineering/faculty-and-staff/dr.-ioannis-economou">Yannis Economou</a>, Luis Mercer Franco (Campinas), Otto, and Doros Theodorou (NTUA and Academy of Athens) (Lisbon, Portugal, May 2026)</div>
+  <div class="desc">At the ESAT 2026 conference with some great colleagues. People from left to right: Ioannis Economou (TAMUQ and DTU), Luis Mercer Franco (Campinas), Otto, and Doros Theodorou (NTUA and Academy of Athens) (Lisbon, Portugal, May 2026)</div>
 </div>
 
 <div class="gallery">
@@ -527,21 +527,74 @@ title: "Photos"
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  // Distribute gallery items round-robin into columns for chronological order
   var masonry = document.querySelector('.photo-masonry');
   var items = Array.from(masonry.querySelectorAll('.gallery'));
-  var numCols = window.innerWidth <= 480 ? 1 : (window.innerWidth <= 768 ? 2 : 3);
 
-  masonry.innerHTML = '';
-  var cols = [];
-  for (var i = 0; i < numCols; i++) {
-    var col = document.createElement('div');
-    col.className = 'masonry-col';
-    masonry.appendChild(col);
-    cols.push(col);
+  function getNumCols() {
+    return window.innerWidth <= 480 ? 1 : (window.innerWidth <= 768 ? 2 : 3);
   }
-  items.forEach(function(item, index) {
-    cols[index % numCols].appendChild(item);
+
+  function buildColumns(numCols) {
+    masonry.innerHTML = '';
+    var cols = [];
+    for (var i = 0; i < numCols; i++) {
+      var col = document.createElement('div');
+      col.className = 'masonry-col';
+      masonry.appendChild(col);
+      cols.push(col);
+    }
+    return cols;
+  }
+
+  // Initial round-robin placement so something shows up while images load
+  (function initial() {
+    var numCols = getNumCols();
+    var cols = buildColumns(numCols);
+    items.forEach(function(item, index) {
+      cols[index % numCols].appendChild(item);
+    });
+  })();
+
+  // Re-distribute by shortest column so bottoms align
+  function balance() {
+    var numCols = getNumCols();
+    var cols = buildColumns(numCols);
+    var heights = new Array(numCols).fill(0);
+    items.forEach(function(item) {
+      var idx = 0;
+      for (var i = 1; i < heights.length; i++) {
+        if (heights[i] < heights[idx]) idx = i;
+      }
+      cols[idx].appendChild(item);
+      heights[idx] += item.offsetHeight + 14;
+    });
+  }
+
+  // Wait for all images to load (so offsetHeight is accurate) then balance
+  var imgs = items.map(function(item) { return item.querySelector('img'); }).filter(Boolean);
+  var pending = imgs.length;
+  function onReady() {
+    pending--;
+    if (pending <= 0) balance();
+  }
+  if (imgs.length === 0) {
+    balance();
+  } else {
+    imgs.forEach(function(img) {
+      if (img.complete && img.naturalWidth) {
+        onReady();
+      } else {
+        img.addEventListener('load', onReady);
+        img.addEventListener('error', onReady);
+      }
+    });
+  }
+
+  // Re-balance on resize (column count or width may change)
+  var resizeTimeout;
+  window.addEventListener('resize', function() {
+    clearTimeout(resizeTimeout);
+    resizeTimeout = setTimeout(balance, 150);
   });
 
   // Lightbox modal
