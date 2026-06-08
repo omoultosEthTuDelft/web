@@ -56,6 +56,13 @@ title: "Photos"
 <div class="photo-masonry">
 
 <div class="gallery">
+  <a target="_blank" href="photos/esat2016.JPG">
+    <img src="photos/esat2016.JPG" alt="ESAT 2016" width="600" height="auto">
+  </a>
+  <div class="desc">At the ESAT 2016 conference. People from left to right: <a href="https://www.qatar.tamu.edu/programs/chemical-engineering/faculty-and-staff/dr.-ioannis-economou">Yannis Economou</a>, Luis Mercer Franco (Campinas), Otto, and Doros Theodorou (NTUA and Academy of Athens) (Lisbon, Portugal, May 2026)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/wasteWater.jpg">
     <img src="photos/wasteWater.jpg" alt="Waste water treatment plant visit" width="600" height="auto">
   </a>
