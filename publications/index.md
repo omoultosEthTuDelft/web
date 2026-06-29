@@ -3,21 +3,42 @@ layout: default
 title: "Publications"
 
 publications:
-  - { number: "108.", 
-    title: "Electrochemical CO2 Reduction in the Presence of SO2 Impurities on a Nitrogen-Doped Carbon Electrocatalyst",
-    authors: "Shilong Fu, Bowen Sha, Asvin Sajeev, Ming Li, Thijs J.H. Vlugt, Othonas A. Moultos, Wiebren de Jong, and Ruud Kortlever",
-    venue: "Journal of the American Chemical Society (2026), 148, 5976",
-    pdf: "assets/publications/108.Fu_JACS_2026_148_5976.pdf",
-    SI: "assets/publications/SI/108.Fu_JACS_2026_148_5976_SI.pdf",
-    bib: "assets/publications/bib/108.Fu_JACS_2026_148_5976.bib"
+  - { number: "111.",
+    title: "Evaluating Molecular Representations for Predicting Cyclodextrin-PFAS Binding Energy with Machine Learning: Domain Transfer and Data Limitations",
+    authors: "Cole Brzakala, Othonas A. Moultos, Jan Peter van der Hoek, and Riccardo Taormina",
+    venue: "Journal of Chemical Information and Modeling (2026), In Press",
+    pdf: "assets/temp/111_temp.pdf",
+    SI: "assets/temp/111_SI_temp.pdf"
     }
-  - { number: "107.",
+  - { number: "110.",
     title: "Hybrid H2 storage in ZIF-8 and THF-driven Hydrates: A molecular simulation study at the microsecond scale",
     authors: "Fengyi Mi, Hongjuan Sun, Wei Li, Bin Fang, Zhun Zhang, Bowen Sha, Thijs J.H. Vlugt, Othonas A. Moultos, and Fulong Ning",
     venue: "Fuel (2026), 415, 138370", 
-    pdf: "assets/publications/107.Mi_FUEL_2026_415_138370.pdf",
-    SI: "assets/publications/SI/107.Mi_FUEL_2026_415_138370_SI.pdf",
-    bib: "assets/publications/bib/107.Mi_FUEL_2026_415_138370.bib"
+    pdf: "assets/publications/110.Mi_FUEL_2026_415_138370.pdf",
+    SI: "assets/publications/SI/110.Mi_FUEL_2026_415_138370_SI.pdf",
+    bib: "assets/publications/bib/110.Mi_FUEL_2026_415_138370.bib"
+    }
+  - { number: "109.",
+    title: "Nanoscale Insights into Ostwald Ripening of Clathrate Hydrates: A Correlative Atomic Force Microscopy and Molecular Dynamics Study",
+    authors: "Fengyi Mi, Zhengtao Tao, Dongyan Liu, Bin Fang, Othonas A. Moultos, Thijs J.H. Vlugt, and Fulong Ning",
+    venue: "Fundamental Research (2026), In Press",
+    pdf: "assets/temp/109_temp.pdf",
+    SI: "assets/temp/109_SI_temp.pdf"
+    }
+  - { number: "108.",
+    title: "Molecular insights into the effects of representative organic molecules on spontaneous hydrate nucleation in oceanic sediments",
+    authors: "Feng-Yi Mi, Zhong-Jin He, Jiang-Tao Pang, Othonas A. Moultos, Thijs J.H. Vlugt, Guo-Sheng Jiang, and Fu-Long Ning",
+    venue: "Petroleum Science (2026), In Press",
+    pdf: "assets/temp/108_temp.pdf",
+    SI: "assets/temp/108_SI_temp.pdf"
+    }
+  - { number: "107.", 
+    title: "Electrochemical CO2 Reduction in the Presence of SO2 Impurities on a Nitrogen-Doped Carbon Electrocatalyst",
+    authors: "Shilong Fu, Bowen Sha, Asvin Sajeev, Ming Li, Thijs J.H. Vlugt, Othonas A. Moultos, Wiebren de Jong, and Ruud Kortlever",
+    venue: "Journal of the American Chemical Society (2026), 148, 5976",
+    pdf: "assets/publications/107.Fu_JACS_2026_148_5976.pdf",
+    SI: "assets/publications/SI/107.Fu_JACS_2026_148_5976_SI.pdf",
+    bib: "assets/publications/bib/107.Fu_JACS_2026_148_5976.bib"
     }
   - { number: "106.",
     title: "Electrical Conductivity Differences between Experiments and Classical Simulations Reveal Self-Diffusion Coefficients and Ion-Lifetimes of Hydroxide and Hydronium in Aqueous Solutions",
