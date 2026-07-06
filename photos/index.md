@@ -56,6 +56,13 @@ title: "Photos"
 <div class="photo-masonry">
 
 <div class="gallery">
+  <a target="_blank" href="photos/mariaGraziaECTP2026.jpg">
+    <img loading="lazy" src="photos/thumbs/mariaGraziaECTP2026.jpg" alt="With Maria Grazia De Angelis at ECTP 2026" width="600" height="auto">
+  </a>
+  <div class="desc">With <a href="https://www.unibo.it/sitoweb/grazia.deangelis/research">Maria Grazia De Angelis</a> at the 23rd European Conference on Thermophysical Properties (ECTP) (Gouvieux, France, June 2026)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/esat2016.JPG">
     <img loading="lazy" src="photos/thumbs/esat2016.JPG" alt="ESAT 2016" width="600" height="auto">
   </a>
