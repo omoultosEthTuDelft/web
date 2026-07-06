@@ -396,8 +396,9 @@ a:visited { color: #3973ac; }
 #backToTop {
   display: none;
   position: fixed;
-  bottom: 30px;
-  right: 30px;
+  /* sits above the chat bubble (56px tall at bottom/right 24px), centered on it */
+  bottom: 96px;
+  right: 31px;
   width: 42px;
   height: 42px;
   border-radius: 50%;
