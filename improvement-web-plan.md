@@ -15,15 +15,7 @@ done and removed from this list — see git history for details.
   (batch with `Promise.all` per page).
 - `logs.sort` throws if any stored entry lacks a `timestamp`.
 
-## 2. Video poster images — MEDIUM impact
-**File:** `cool/index.md`
-
-The 8 gallery videos already have `preload="none"`; adding a `poster`
-image per video would show a preview frame instead of a blank box before
-play (e.g. extract one frame per video with ffmpeg into
-`cool/videos/posters/`).
-
-## 3. Repo size risk — MEDIUM priority, grows over time
+## 2. Repo size risk — MEDIUM priority, grows over time
 
 Git repo is 1.7 GB; 331 large binaries (theses, publication PDFs, videos)
 are version-tracked. Site source is past GitHub Pages' 1 GB soft limit —
@@ -33,7 +25,7 @@ deploys may eventually fail.
 - [ ] Host theses / large publication PDFs externally (e.g. TU Delft
   repository links), or at minimum stop adding new large binaries.
 
-## 4. Replace temp publication PDFs when finals arrive
+## 3. Replace temp publication PDFs when finals arrive
 
 `assets/temp/*_temp.pdf` are the live download links for in-press papers
 108/109/111 (linked from `publications/index.md`). When the final

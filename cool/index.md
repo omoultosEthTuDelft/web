@@ -86,7 +86,7 @@ title: "Cool"
 <div class="cool-gallery">
 
 <div class="cool-card">
-  <video controls preload="none">
+  <video controls preload="none" poster="videos/posters/clay-h2.jpg">
     <source src="videos/clay-h2.mp4" type="video/mp4">
   </video>
   <div class="cool-body">
@@ -95,7 +95,7 @@ title: "Cool"
 </div>
 
 <div class="cool-card">
-  <video controls preload="none">
+  <video controls preload="none" poster="videos/posters/nafionMD.jpg">
     <source src="videos/nafionMD.mp4" type="video/mp4">
   </video>
   <div class="cool-body">
@@ -107,10 +107,10 @@ title: "Cool"
 </div>
 
 <div class="cool-card">
-  <video controls preload="none">
+  <video controls preload="none" poster="videos/posters/hydrates_organics.jpg">
     <source src="videos/hydrates_organics.mp4" type="video/mp4">
   </video>
-  <video controls preload="none">
+  <video controls preload="none" poster="videos/posters/hydrates_nanotube.jpg">
     <source src="videos/hydrates_nanotube.mp4" type="video/mp4">
   </video>
   <div class="cool-body">
@@ -122,7 +122,7 @@ title: "Cool"
 </div>
 
 <div class="cool-card">
-  <video controls preload="none">
+  <video controls preload="none" poster="videos/posters/martiniFusion.jpg">
     <source src="videos/martiniFusion.mp4" type="video/mp4">
   </video>
   <div class="cool-body">
@@ -134,7 +134,7 @@ title: "Cool"
 </div>
 
 <div class="cool-card">
-  <video controls preload="none">
+  <video controls preload="none" poster="videos/posters/cycloMate.jpg">
     <source src="videos/cycloMate.mp4" type="video/mp4">
   </video>
   <div class="cool-body">
@@ -147,7 +147,7 @@ title: "Cool"
 </div>
 
 <div class="cool-card">
-  <video controls preload="none">
+  <video controls preload="none" poster="videos/posters/np_collagen.jpg">
     <source src="videos/np_collagen.mp4" type="video/mp4">
   </video>
   <div class="cool-body">
@@ -159,7 +159,7 @@ title: "Cool"
 </div>
 
 <div class="cool-card">
-  <video controls preload="none">
+  <video controls preload="none" poster="videos/posters/water_AIMD.jpg">
     <source src="videos/water_AIMD.mp4" type="video/mp4">
   </video>
   <div class="cool-body">
