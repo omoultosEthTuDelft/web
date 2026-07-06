@@ -11,3 +11,11 @@ compatibility_date = "2024-01-01"
 [[kv_namespaces]]
 binding = "CHAT_LOGS"
 id = "9f2eb60c8e96425bb20a73916c540d2e"
+
+# Per-IP rate limit: 10 requests per 60 seconds
+# (Workers rate limiting binding; the worker degrades gracefully if absent)
+[[unsafe.bindings]]
+name = "RATE_LIMITER"
+type = "ratelimit"
+namespace_id = "1001"
+simple = { limit = 10, period = 60 }

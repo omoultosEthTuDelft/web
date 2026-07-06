@@ -1,10 +1,19 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
+    <meta charset="UTF-8">
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    
-    <meta charset="UTF-8">
+    <meta name="description" content="{{ page.description | default: site.description }}">
+    <link rel="icon" type="image/svg+xml" href="{{ site.url }}/assets/favicon.svg">
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+    <meta property="og:title" content="{{ page.title }} — Othonas Moultos">
+    <meta property="og:description" content="{{ page.description | default: site.description }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+    <meta property="og:image" content="{{ site.url }}/assets/photoOtto2.jpg">
+    <meta name="twitter:card" content="summary">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 
@@ -201,7 +210,7 @@
     fetch(WORKER_URL,{
       method:'POST',
       headers:{'Content-Type':'application/json'},
-      body:JSON.stringify({message:text,history:history.slice(0,-1)})
+      body:JSON.stringify({message:text,history:history.slice(0,-1).slice(-20)})
     })
     .then(function(r){return r.json();})
     .then(function(data){

@@ -1,6 +1,10 @@
 const KNOWLEDGE_URL = 'https://omoultosethtudelft.github.io/web/chatbot-knowledge.json';
 const CACHE_TTL = 3600; // 1 hour
 
+const MAX_MESSAGE_LENGTH = 2000;
+const MAX_HISTORY_MESSAGES = 20; // ~10 user/assistant turns
+const MAX_HISTORY_ENTRY_LENGTH = 4000;
+
 const INSTRUCTIONS = `You are Otto's AI assistant embedded on his academic website. You answer questions about Othonas (Otto) A. Moultos and his research group at TU Delft.
 
 IMPORTANT RULES:
@@ -190,6 +194,17 @@ export default {
       });
     }
 
+    if (env.RATE_LIMITER) {
+      const ip = request.headers.get('CF-Connecting-IP') || 'unknown';
+      const { success } = await env.RATE_LIMITER.limit({ key: ip });
+      if (!success) {
+        return new Response(JSON.stringify({ reply: 'You\'re sending messages very quickly! Please wait a minute and try again.' }), {
+          status: 429,
+          headers: { ...corsHeaders(origin), 'Content-Type': 'application/json' },
+        });
+      }
+    }
+
     try {
       const { message, history } = await request.json();
 
@@ -200,16 +215,24 @@ export default {
         });
       }
 
+      if (message.length > MAX_MESSAGE_LENGTH) {
+        return new Response(JSON.stringify({ reply: `That message is a bit too long for me — please keep it under ${MAX_MESSAGE_LENGTH} characters.` }), {
+          status: 200,
+          headers: { ...corsHeaders(origin), 'Content-Type': 'application/json' },
+        });
+      }
+
       const knowledge = await getKnowledge();
       const systemPrompt = buildSystemPrompt(knowledge);
 
       const messages = [{ role: 'system', content: systemPrompt }];
 
       if (Array.isArray(history)) {
-        for (const entry of history) {
+        for (const entry of history.slice(-MAX_HISTORY_MESSAGES)) {
+          if (!entry || typeof entry.text !== 'string') continue;
           messages.push({
             role: entry.role === 'user' ? 'user' : 'assistant',
-            content: entry.text,
+            content: entry.text.slice(0, MAX_HISTORY_ENTRY_LENGTH),
           });
         }
       }

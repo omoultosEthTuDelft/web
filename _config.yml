@@ -1,4 +1,5 @@
 name: Othonas Moultos
+description: "Othonas (Otto) Moultos — Associate Professor of Engineering Thermodynamics at TU Delft. Molecular simulation of hydrogen storage, CO2 capture, and sustainable adsorbents for water treatment."
 markdown: kramdown
 highlighter: rouge
-url: https://omoultosethtudelft.github.io/web/
+url: https://omoultosethtudelft.github.io/web

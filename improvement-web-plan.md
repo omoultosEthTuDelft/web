@@ -33,9 +33,13 @@ link replacement), or build links via `document.createElement` instead of
   long conversations send ever-growing payloads.
 
 **Fix:**
-- [ ] Cap `message` length (~2,000 chars) in the worker; reject otherwise.
-- [ ] Cap `history` to the last ~10 turns (worker AND widget).
-- [ ] Add a Cloudflare rate-limiting rule on the worker route.
+- [x] Cap `message` length (2,000 chars) in the worker. — DONE 2026-07-06
+- [x] Cap `history` to the last 20 messages (~10 turns), worker AND widget,
+  plus per-entry length cap and type validation. — DONE 2026-07-06
+- [x] Per-IP rate limit (10 req/60 s) via the Workers rate-limiting
+  binding in `wrangler.toml`; worker degrades gracefully if the binding
+  is absent. — DONE 2026-07-06. **Requires `wrangler deploy` to take
+  effect.**
 
 ### 1.3 `/logs` endpoint weaknesses — LOW priority
 **File:** `chatbot-worker/worker.js` (~line 135)
@@ -51,18 +55,21 @@ link replacement), or build links via `document.createElement` instead of
 - `url: https://omoultosethtudelft.github.io/web/` + `{{ site.url }}/css/...`
   yields `…/web//css/theme.css` in production. (Local `_site` hides this
   because `jekyll serve` overrides the URL with `localhost:4000`.)
-- **Fix:** drop the trailing slash from `url`.
+- **Fix:** drop the trailing slash from `url`. — DONE 2026-07-06
 - `CNAME` contains `omoultosethtudelft.github.io` — CNAME files are for
   *custom* domains; pointing it at the github.io hostname does nothing.
-  Remove or replace with a real custom domain.
+  Removed. — DONE 2026-07-06
 
 ### 1.5 Layout / head hygiene — MEDIUM priority
 **File:** `_layouts/default.html`
 
-- [ ] Add `lang="en"` to `<html>` (accessibility).
-- [ ] Add `<meta name="description">`, favicon, Open Graph tags (SEO —
-  matters for an academic site).
-- [ ] Move `<meta charset="UTF-8">` to be the first element in `<head>`.
+- [x] Add `lang="en"` to `<html>` (accessibility). — DONE 2026-07-06
+- [x] Add `<meta name="description">` (site-wide default in `_config.yml`,
+  per-page override via front matter `description:`), SVG favicon
+  (`assets/favicon.svg`), canonical link, Open Graph + Twitter card tags.
+  — DONE 2026-07-06
+- [x] Move `<meta charset="UTF-8">` to be the first element in `<head>`.
+  — DONE 2026-07-06
 
 ---
 
