@@ -11,10 +11,8 @@ title: "People"
 <div class="row phd-grid">
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
-      <img src="photos/Kostas.jpg" class="rounded-circle" alt="Konstantinos Psillos">
-      <div class="name"><a href="https://www.linkedin.com/in/kostaspsillos/">Konstantinos Psillos</a></div>
-      <div class="research">Molecular simulation of membranes for electrochemical hydrogen systems</div>
-      <div class="collab">Promotors: Otto Moultos, <a href="https://thijsvlugt.github.io/website/">Thijs Vlugt</a>, Mahinder Ramdin</div>
+      <img src="photos/placeholder.svg" class="rounded-circle" alt="PhD position to open soon">
+      <div class="name">PhD position to open soon</div>
     </div>
   </div>
 
