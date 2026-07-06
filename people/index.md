@@ -13,6 +13,7 @@ title: "People"
     <div class="person-card">
       <img src="photos/placeholder.svg" class="rounded-circle" alt="PhD position to open soon">
       <div class="name">PhD position to open soon</div>
+      <div class="research">Molecular simulation of membranes for electrochemical hydrogen systems</div>
     </div>
   </div>
 
