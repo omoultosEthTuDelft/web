@@ -38,8 +38,9 @@ link replacement), or build links via `document.createElement` instead of
   plus per-entry length cap and type validation. — DONE 2026-07-06
 - [x] Per-IP rate limit (10 req/60 s) via the Workers rate-limiting
   binding in `wrangler.toml`; worker degrades gracefully if the binding
-  is absent. — DONE 2026-07-06. **Requires `wrangler deploy` to take
-  effect.**
+  is absent. — DONE 2026-07-06, deployed and verified live (429 after
+  ~11 rapid requests; note CF counters are per-machine/approximate, so
+  requests spread over many connections may each see a fresh counter).
 
 ### 1.3 `/logs` endpoint weaknesses — LOW priority
 **File:** `chatbot-worker/worker.js` (~line 135)
