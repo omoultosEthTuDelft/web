@@ -86,9 +86,11 @@ the site.
 - [x] Add `loading="lazy"` to every gallery `<img>` (cuts initial load to
   just the viewport). — DONE 2026-07-06 (65 images; lightbox modal img
   excluded on purpose, its src is set dynamically).
-- [ ] Generate ~800px-wide thumbnails (e.g. with `sips` or ImageMagick);
-  link thumbnails to the originals. Takes the page from ~117 MB to ~5 MB
-  even fully scrolled.
+- [x] Generate ~800px-wide thumbnails — DONE 2026-07-06. Thumbs live in
+  `photos/photos/thumbs/` (9.7 MB total vs 117 MB originals, JPEG q80);
+  gallery `<img>` tags point at thumbs, `<a href>` still opens the
+  full-res original. The lightbox modal shows the thumb, which matches
+  its ~800px max width.
 
 ### 2.2 Simulation gallery videos (~300 MB) — HIGH impact
 **File:** `cool/index.md`
@@ -100,11 +102,11 @@ metadata and often buffer ahead for all of them (files up to 54 MB each).
 - [ ] Add a `poster` image per video so nothing downloads until play.
 
 ### 2.3 Oversized images elsewhere — MEDIUM impact
-- Homepage portrait `assets/photoOtto2.jpg`: 706 KB at 1453×1907,
-  displayed at roughly a third of that width → resize.
-- People-page avatars rendered as small circles:
-  `people/photos/Sarvesh.jpg` (2.6 MB), `people/photos/Hicham.png`
-  (1.2 MB), `people/photos/Kostas.jpg` (1.1 MB) → resize to ~400px.
+- [x] Homepage portrait `assets/photoOtto2.jpg`: resized 1453×1907
+  (706 KB) → 800px wide (249 KB). — DONE 2026-07-06
+- [x] People-page avatars: all resized to max 400px wide (dir went
+  8.3 MB → 0.8 MB); `Hicham.png` converted to JPEG (1.2 MB → 40 KB,
+  reference updated in `people/index.md`). — DONE 2026-07-06
 
 ### 2.4 Frontend stack — MEDIUM impact
 **File:** `_layouts/default.html`
@@ -132,14 +134,17 @@ deploys may eventually fail.
 
 Tracked in git but unused — safe to delete:
 
-- [ ] `js/` — jQuery 1.7.1 + plugins; nothing references them (site uses
-  CDN jQuery 3.2.1).
-- [ ] `fonts/` — unreferenced.
-- [ ] `assets/temp/` — ~70 MB of `*_temp.pdf` files.
-- [ ] `Makefile_old`
-- [ ] `_layouts/default_original.html`
-- [ ] `photos/indexOriginal.md`
-- [ ] `software/index_original.md`, `software/index_better.md`
+- [x] `js/` — jQuery 1.7.1 + plugins; nothing references them (site uses
+  CDN jQuery 3.2.1). — DELETED 2026-07-06
+- [x] `fonts/` — unreferenced. — DELETED 2026-07-06
+- ~~`assets/temp/`~~ — **NOT cruft after all**: the `*_temp.pdf` files
+  are linked from `publications/index.md` for the in-press papers
+  108/109/111. Kept. Revisit when the final publisher PDFs replace them.
+- [x] `Makefile_old` — DELETED 2026-07-06
+- [x] `_layouts/default_original.html` — DELETED 2026-07-06
+- [x] `photos/indexOriginal.md` — DELETED 2026-07-06
+- [x] `software/index_original.md`, `software/index_better.md`
+  — DELETED 2026-07-06
 
 ---
 
