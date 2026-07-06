@@ -114,10 +114,17 @@ metadata and often buffer ahead for all of them (files up to 54 MB each).
 - [x] **Delete the Tether script tag** (~line 89) — Bootstrap 4 final does
   not use Tether at all; Popper alone is enough. Pure dead weight.
   — DONE 2026-07-06.
-- [ ] Upgrade Bootstrap 4.0.0 (2018, known CVEs in later-patched
-  components) to 4.6.2.
-- [ ] Font Awesome full `all.min.css` (~100 KB) is loaded for ~10 icons —
-  replace with inline SVGs or a subset build.
+- [x] Upgrade Bootstrap 4.0.0 → 4.6.2 (jsdelivr, SRI hashes verified by
+  downloading and hashing the files). jQuery 3.2.1-slim → 3.7.1-slim;
+  Popper now comes from bootstrap.bundle.min.js (one script fewer).
+  — DONE 2026-07-06, homepage rendering verified via headless Chrome.
+- [x] Font Awesome CDN (~250 KB CSS + webfonts) replaced with
+  `css/fa-icons.css` (~25 KB raw / ~8 KB gzipped): a generated subset of
+  the 19 icons the site actually uses, embedded as SVG masks colored via
+  currentColor. Supports `.fa-solid`, `.fa-brands`, legacy `.fa`, and
+  `.fa-fw`. All 19 verified rendering via headless Chrome. To add a new
+  icon: append a rule with the SVG from @fortawesome/fontawesome-free.
+  — DONE 2026-07-06
 
 ### 2.5 Repo size risk — MEDIUM priority, grows over time
 Git repo is 1.7 GB; 331 large binaries (theses, publication PDFs, videos)
