@@ -29,7 +29,7 @@ title: "Alumni"
 - [Anneke Guluma](https://www.linkedin.com/in/anneke-guluma-24950330a/?originalSubdomain=nl), 2025 <strong>[A Quantum Mechanical Study of Lithium Titanium Oxide for Lithium Recovery](https://repository.tudelft.nl/record/uuid:0f25b6d7-cb2c-43f8-ba5e-d17dbfe87b1a)</strong>. Now at [Eneco](https://www.eneco.nl/over-ons/).
 - [Declan Wee Hong Xiang](https://www.linkedin.com/in/declan-wee-0612a5122/?originalSubdomain=sg), 2024 - 2025 <strong>Evaluation of Machine-Learning Interatomic Potentials for Liquid Water Systems</strong>.
 - [Jordi Vlak](https://www.linkedin.com/in/jordi-vlak-064783184/?originalSubdomain=nl), 2024 - 2025 [<strong>Modeling of a modular water electrolysis system</strong>](
-https://repository.tudelft.nl/record/uuid:2839134b-9631-477c-aafb-3a0fecf49b6c). Now at [Accuselect](https://accuselect.nl).
+https://repository.tudelft.nl/record/uuid:2839134b-9631-477c-aafb-3a0fecf49b6c). Now at [Shell](https://www.shell.com).
 - [Menno Steverink](https://nl.linkedin.com/in/menno-steverink?original_referer=https%3A%2F%2Fwww.google.com%2F), 2024 - 2025 <strong>Design of a food-grade carbon dioxide system for small-scale beer breweries</strong>. Now at [Hoogheemraadschap van Rijnland](https://www.rijnland.net).
 - [Timman van Oeveren](https://nl.linkedin.com/in/timman-van-oeveren-26364a175), 2024 <strong>Life cycle analysis of hydrogen liquefaction</strong>.
 - [Dimitris Mintsis](https://www.linkedin.com/in/dimitris-mintsis-39a158209/?originalSubdomain=gr), 2024. <strong>Modeling of mass and heat transfer in modular alkaline electrolyzers</strong>. Now at [Witteveen & Bos](https://www.witteveenbos.com/nl).
