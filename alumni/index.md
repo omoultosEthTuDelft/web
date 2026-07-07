@@ -75,7 +75,7 @@ https://repository.tudelft.nl/record/uuid:2839134b-9631-477c-aafb-3a0fecf49b6c).
 - [Prof. Keiichi Kuboyama](https://scholar.google.com/citations?hl=en&user=JM6iv9IAAAAJ&view_op=list_works&sortby=pubdate), 2018. <strong> Molecular simulations of PMMA/nanoparticle composites</strong>. Now at [Tokyo Institute of Technology](https://www.titech.ac.jp/english), Japan.
 - [Dr. Ilias Nikolaidis](https://www.linkedin.com/in/ilias-nikolaidis-931554205/?originalSubdomain=gr), 2018. <strong> Equation of state modeling of mixtures of asymetric hydrocarbons</strong>. Now at [Filtercosmos](https://www.filtercosmos.gr), Greece.
 - [Claire Spera](https://www.linkedin.com/in/claire-spera/?trk=public_profile_browsemap&originalSubdomain=fr), 2018. <strong> Mathematical modeling of the evaporation process of gasoline </strong>. Now at [ALTEN](https://www.alten.com), France.
-- [Christos Bardas](https://www.linkedin.com/in/christos-bardas/?originalSubdomain=nl), 2017-2018. <strong> Computation of transport coefficients using molecular simulation</strong>. Now at [Hitachi Construction Machinery](https://www.linkedin.com/company/hitachi-construction-machinery/about/).
+- [Christos Bardas](https://www.linkedin.com/in/christos-bardas/?originalSubdomain=nl), 2017-2018. <strong> Computation of transport coefficients using molecular simulation</strong>. Now at [AB Ludvig Svensson](http://www.ludvigsvensson.com/).
 
 </section>
 
