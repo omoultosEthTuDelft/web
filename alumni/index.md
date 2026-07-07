@@ -57,7 +57,7 @@ https://repository.tudelft.nl/record/uuid:2839134b-9631-477c-aafb-3a0fecf49b6c).
 <h3>Former Postdocs, Visiting Researchers, and Interns</h3>
 <section markdown="1">
 
-- [Ioannis Makropoulos](), 2025. <strong>Advanced end synchronization logic for Product variant change over</strong>, w/ [P&G Services Company NV](https://us.pg.com). Now MSc at TU Delft.
+- [Ioannis Makropoulos](https://www.linkedin.com/in/ioannis-makropoulos-a8a555224/), 2025. <strong>Advanced end synchronization logic for Product variant change over</strong>, w/ [P&G Services Company NV](https://us.pg.com). Now at [GEA Group](http://www.gea.com/).
 - [Nienke van Doorn](https://www.linkedin.com/in/nienke-van-doorn-428b432b6/), 2025. <strong>System integration tool – Developing machine learning algorithms to predict prices in electricity and balancing markets</strong>, w/ [Ventolines](https://www.ventolines.nl). Now at [Stedin](http://www.stedin.net/).
 - [Kyriakos Kokkinos](https://www.linkedin.com/in/kred2304/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=nl), 2024. <strong>Technoeconomic analysis of proton exchange membrane electrolyser</strong>, w/ [XINTC](https://www.xintc.global).
 - [Dr. Fengyi Mi](https://www.researchgate.net/profile/Fengyi_Mi), 2023-2024 <strong>Study of mechanisms of gas hydrate formation in complex sediments at the molecular level</strong>. Now at [Southwest University of Science and Technology](https://www.swust.edu.cn), China.
