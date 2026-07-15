@@ -59,7 +59,7 @@ title: "Photos"
   <a target="_blank" href="photos/Kasper_2026.jpg">
     <img loading="lazy" src="photos/thumbs/Kasper_2026.jpg" alt="MSc defence of Kasper van Tulder" width="600" height="auto">
   </a>
-  <div class="desc"> After the MSc defence of Kasper van Tulder on the transport properties of a weakly coupled, partially ionized argon plasma. People in the photo from left to right: Anna Felden, Kasper, and Otto. (Delft, July 2026)</div>
+  <div class="desc"> Kasper van Tulder has graduated with a grade of 8.5. Super nice project on molecular simulations of plasma. People in the photo from left to right: Anna Felden, Kasper, and Otto. (Delft, July 2026)</div>
 </div>
 
 <div class="gallery">
