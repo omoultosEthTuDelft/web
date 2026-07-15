@@ -110,15 +110,6 @@ title: "People"
 
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
-      <img src="photos/Kasper.jpeg" class="rounded-circle" alt="Kasper van Tulder">
-      <div class="name">Kasper van Tulder</div>
-      <div class="research">Modelling of plasma chemistry for integration in CFD: focus on transport properties</div>
-      <div class="collab">w/ Dr. Anna Felden (main supervisor)</div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
-    <div class="person-card">
       <img src="photos/Tim.jpeg" class="rounded-circle" alt="Tim Deutman">
       <div class="name">Tim Deutman</div>
       <div class="research">Integrating a Physically-Informed Digital Twin for Modular Alkaline Water Electrolysis</div>
