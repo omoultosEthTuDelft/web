@@ -4,6 +4,14 @@ layout: default
 title: "Alumni"
 ---
 
+<style>
+  strong.topic-postdoc { color: #5b87b8; }
+  strong.topic-visitor { color: #5f9e63; }
+  strong.topic-intern { color: #c96b62; }
+  .role-legend { font-size: 0.85rem; color: #777; margin: 4px 0 14px 0; }
+  .role-legend span { font-weight: 600; }
+</style>
+
 <div id="people" class="row">
 <div class="text-justify col-sm-10">
 	<br/><br/>
@@ -56,27 +64,28 @@ https://repository.tudelft.nl/record/uuid:2839134b-9631-477c-aafb-3a0fecf49b6c).
 </section>
 
 <h3>Former Postdocs, Visiting Researchers, and Interns</h3>
+<p class="role-legend">Topic colors: <span style="color:#5b87b8">postdoc</span> &middot; <span style="color:#5f9e63">visiting researcher</span> &middot; <span style="color:#c96b62">intern</span></p>
 <section markdown="1">
 
-- [Ioannis Makropoulos](https://www.linkedin.com/in/ioannis-makropoulos-a8a555224/), 2025. <strong>Advanced end synchronization logic for Product variant change over</strong>, w/ [P&G Services Company NV](https://us.pg.com). Now at [GEA Group](http://www.gea.com/).
-- [Nienke van Doorn](https://www.linkedin.com/in/nienke-van-doorn-428b432b6/), 2025. <strong>System integration tool – Developing machine learning algorithms to predict prices in electricity and balancing markets</strong>, w/ [Ventolines](https://www.ventolines.nl). Now at [Stedin](http://www.stedin.net/).
-- [Kyriakos Kokkinos](https://www.linkedin.com/in/kred2304/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=nl), 2024. <strong>Technoeconomic analysis of proton exchange membrane electrolyser</strong>, w/ [XINTC](https://www.xintc.global). Now at [EnergyIntel](http://www.energyintel.com.cy/).
-- [Dr. Fengyi Mi](https://www.researchgate.net/profile/Fengyi_Mi), 2023-2024 <strong>Study of mechanisms of gas hydrate formation in complex sediments at the molecular level</strong>. Now at [Southwest University of Science and Technology](https://www.swust.edu.cn), China.
-- [Dr. Sebastian Price](https://www.linkedin.com/in/sebastian-nordby-price/), 2021 - 2023. <strong>Modeling the ultrasound mediated transport of nanoparticles in tissue</strong>. Now at [PoreLab NTNU](https://porelab.no).
-- [Dr. Thejas Hulikal Chakrapani](https://multiscaleflowx.github.io/team/thejas-hulikal-chakrapani/), 2022-2024. <strong>Interfacial and thermophysical properties of mixtures relevant to subsurface hydrogen storage</strong>. Now at [University of Edinburgh](https://www.ed.ac.uk).
-- [Timman van Oeveren](https://www.linkedin.com/in/timman-van-oeveren-26364a175/?originalSubdomain=nl), 2023. <strong>Design of a CO2 utilization system for carbonation in small breweries</strong>, w/ <a href="https://brew-right.com">BrewRight</a>.
-- [Dr. Bin Fang](), 2022-2023. <strong>Molecular simulations of methane hydrates</strong>. Now at [Hainan University](https://en.hainanu.edu.cn), China.
-- [Willemijn van Rooijen](https://www.linkedin.com/in/willemijn-van-rooijen-46398a151/?originalSubdomain=nl), 2022-2023. <strong>Interfacial and thermophysical properties of mixtures relevant to subsurface hydrogen storage</strong>. Now at [Gradyent](http://www.gradyent.ai/).
-- [Laya Roustazadeh](https://www.qatar.tamu.edu/news-and-events/news/2020/06/24/texas-a-and-m-at-qatar-names-outstanding-graduates/), 2021-2022. <strong>Adsoprtion of gas mixtures in Metal Organic Frameworks</strong>.
-- [Dr. Ahmadreza Rahbari](https://www.linkedin.com/in/arahbari/?originalSubdomain=nl), 2020-2021. <strong> Molecular simulation of high pressure hydrogen mixtures</strong>. Now at [Stedin](http://www.stedin.net/), The Netherlands.
-- [Dr. Abdelrahman Hussein](https://www.linkedin.com/in/abdelrahman-hussein-3b42b415/?originalSubdomain=nl), 2020-2021. <strong> Multi-scale modeling of hydrogen embrittlement</strong>. Now at [University of Oulu](http://www.oulu.fi/), Finland.
-- [Dr. Olav Galteland ](https://www.linkedin.com/in/olav-galteland?originalSubdomain=no), 2020. <strong> Non Equilibrium Molecular Dynamics simulation of fluids in confinement</strong>. Now at [Litech](https://litech.ai/). 
-- [Dr. Gagus Ketut Sunnardianto](https://www.linkedin.com/in/gagus-ketut-sunnardianto/), 2019-2020. <strong> Ab initio simulations of hydrogen embrittlement</strong>. Now at [BRIN-Q](https://quantumresearch.id), Indonesia.
-- [Dr. Alper Celebi](https://www.linkedin.com/in/alper-tunga-celebi-0375b586/?originalSubdomain=nl), 2019-2021. <strong> Molecular simulation of ionic liquids and deep eutectic solvents</strong>. Now at [TU Wien](https://www.tuwien.at), Austria.
-- [Prof. Keiichi Kuboyama](https://scholar.google.com/citations?hl=en&user=JM6iv9IAAAAJ&view_op=list_works&sortby=pubdate), 2018. <strong> Molecular simulations of PMMA/nanoparticle composites</strong>. Now at [Tokyo Institute of Technology](https://www.titech.ac.jp/english), Japan.
-- [Dr. Ilias Nikolaidis](https://www.linkedin.com/in/ilias-nikolaidis-931554205/?originalSubdomain=gr), 2018. <strong> Equation of state modeling of mixtures of asymetric hydrocarbons</strong>. Now at [Filtercosmos](https://www.filtercosmos.gr), Greece.
-- [Claire Spera](https://www.linkedin.com/in/claire-spera/?trk=public_profile_browsemap&originalSubdomain=fr), 2018. <strong> Mathematical modeling of the evaporation process of gasoline </strong>. Now at [ALTEN](https://www.alten.com), France.
-- [Christos Bardas](https://www.linkedin.com/in/christos-bardas/?originalSubdomain=nl), 2017-2018. <strong> Computation of transport coefficients using molecular simulation</strong>. Now at [AB Ludvig Svensson](http://www.ludvigsvensson.com/).
+- [Ioannis Makropoulos](https://www.linkedin.com/in/ioannis-makropoulos-a8a555224/), 2025. <strong class="topic-intern">Advanced end synchronization logic for Product variant change over</strong>, w/ [P&G Services Company NV](https://us.pg.com). Now at [GEA Group](http://www.gea.com/).
+- [Nienke van Doorn](https://www.linkedin.com/in/nienke-van-doorn-428b432b6/), 2025. <strong class="topic-intern">System integration tool – Developing machine learning algorithms to predict prices in electricity and balancing markets</strong>, w/ [Ventolines](https://www.ventolines.nl). Now at [Stedin](http://www.stedin.net/).
+- [Kyriakos Kokkinos](https://www.linkedin.com/in/kred2304/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=nl), 2024. <strong class="topic-intern">Technoeconomic analysis of proton exchange membrane electrolyser</strong>, w/ [XINTC](https://www.xintc.global). Now at [EnergyIntel](http://www.energyintel.com.cy/).
+- [Dr. Fengyi Mi](https://www.researchgate.net/profile/Fengyi_Mi), 2023-2024 <strong class="topic-visitor">Study of mechanisms of gas hydrate formation in complex sediments at the molecular level</strong>. Now at [Southwest University of Science and Technology](https://www.swust.edu.cn), China.
+- [Dr. Sebastian Price](https://www.linkedin.com/in/sebastian-nordby-price/), 2021 - 2023. <strong class="topic-visitor">Modeling the ultrasound mediated transport of nanoparticles in tissue</strong>. Now at [PoreLab NTNU](https://porelab.no).
+- [Dr. Thejas Hulikal Chakrapani](https://multiscaleflowx.github.io/team/thejas-hulikal-chakrapani/), 2022-2024. <strong class="topic-postdoc">Interfacial and thermophysical properties of mixtures relevant to subsurface hydrogen storage</strong>. Now at [University of Edinburgh](https://www.ed.ac.uk).
+- [Timman van Oeveren](https://www.linkedin.com/in/timman-van-oeveren-26364a175/?originalSubdomain=nl), 2023. <strong class="topic-intern">Design of a CO2 utilization system for carbonation in small breweries</strong>, w/ <a href="https://brew-right.com">BrewRight</a>.
+- [Dr. Bin Fang](), 2022-2023. <strong class="topic-visitor">Molecular simulations of methane hydrates</strong>. Now at [Hainan University](https://en.hainanu.edu.cn), China.
+- [Willemijn van Rooijen](https://www.linkedin.com/in/willemijn-van-rooijen-46398a151/?originalSubdomain=nl), 2022-2023. <strong class="topic-visitor">Interfacial and thermophysical properties of mixtures relevant to subsurface hydrogen storage</strong>. Now at [Gradyent](http://www.gradyent.ai/).
+- [Laya Roustazadeh](https://www.qatar.tamu.edu/news-and-events/news/2020/06/24/texas-a-and-m-at-qatar-names-outstanding-graduates/), 2021-2022. <strong class="topic-visitor">Adsoprtion of gas mixtures in Metal Organic Frameworks</strong>.
+- [Dr. Ahmadreza Rahbari](https://www.linkedin.com/in/arahbari/?originalSubdomain=nl), 2020-2021. <strong class="topic-postdoc"> Molecular simulation of high pressure hydrogen mixtures</strong>. Now at [Stedin](http://www.stedin.net/), The Netherlands.
+- [Dr. Abdelrahman Hussein](https://www.linkedin.com/in/abdelrahman-hussein-3b42b415/?originalSubdomain=nl), 2020-2021. <strong class="topic-postdoc"> Multi-scale modeling of hydrogen embrittlement</strong>. Now at [University of Oulu](http://www.oulu.fi/), Finland.
+- [Dr. Olav Galteland ](https://www.linkedin.com/in/olav-galteland?originalSubdomain=no), 2020. <strong class="topic-visitor"> Non Equilibrium Molecular Dynamics simulation of fluids in confinement</strong>. Now at [Litech](https://litech.ai/). 
+- [Dr. Gagus Ketut Sunnardianto](https://www.linkedin.com/in/gagus-ketut-sunnardianto/), 2019-2020. <strong class="topic-postdoc"> Ab initio simulations of hydrogen embrittlement</strong>. Now at [BRIN-Q](https://quantumresearch.id), Indonesia.
+- [Dr. Alper Celebi](https://www.linkedin.com/in/alper-tunga-celebi-0375b586/?originalSubdomain=nl), 2019-2021. <strong class="topic-postdoc"> Molecular simulation of ionic liquids and deep eutectic solvents</strong>. Now at [TU Wien](https://www.tuwien.at), Austria.
+- [Prof. Keiichi Kuboyama](https://scholar.google.com/citations?hl=en&user=JM6iv9IAAAAJ&view_op=list_works&sortby=pubdate), 2018. <strong class="topic-visitor"> Molecular simulations of PMMA/nanoparticle composites</strong>. Now at [Tokyo Institute of Technology](https://www.titech.ac.jp/english), Japan.
+- [Dr. Ilias Nikolaidis](https://www.linkedin.com/in/ilias-nikolaidis-931554205/?originalSubdomain=gr), 2018. <strong class="topic-visitor"> Equation of state modeling of mixtures of asymetric hydrocarbons</strong>. Now at [Filtercosmos](https://www.filtercosmos.gr), Greece.
+- [Claire Spera](https://www.linkedin.com/in/claire-spera/?trk=public_profile_browsemap&originalSubdomain=fr), 2018. <strong class="topic-intern"> Mathematical modeling of the evaporation process of gasoline </strong>. Now at [ALTEN](https://www.alten.com), France.
+- [Christos Bardas](https://www.linkedin.com/in/christos-bardas/?originalSubdomain=nl), 2017-2018. <strong class="topic-intern"> Computation of transport coefficients using molecular simulation</strong>. Now at [AB Ludvig Svensson](http://www.ludvigsvensson.com/).
 
 </section>
 
