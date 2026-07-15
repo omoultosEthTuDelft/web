@@ -8,8 +8,6 @@ title: "Alumni"
   strong.topic-postdoc { color: #5b87b8; }
   strong.topic-visitor { color: #5f9e63; }
   strong.topic-intern { color: #c96b62; }
-  .role-legend { font-size: 0.85rem; color: #777; margin: 4px 0 14px 0; }
-  .role-legend span { font-weight: 600; }
 </style>
 
 <div id="people" class="row">
@@ -63,8 +61,7 @@ https://repository.tudelft.nl/record/uuid:2839134b-9631-477c-aafb-3a0fecf49b6c).
 - [Zsolt Csaszar](https://www.linkedin.com/in/zsolt-csaszar/?originalSubdomain=nl), 2016-2017. <strong><a href="../assets/publications/26.Nikolaidis_AIChE_2018_65_792.pdf"> Monte Carlo simulations of the phase equilibria of light/heavy hydrocarbon mixtures</a></strong>. Now at [ASML](https://www.asml.com/en).
 </section>
 
-<h3>Former Postdocs, Visiting Researchers, and Interns</h3>
-<p class="role-legend">Topic colors: <span style="color:#5b87b8">postdoc</span> &middot; <span style="color:#5f9e63">visiting researcher</span> &middot; <span style="color:#c96b62">intern</span></p>
+<h3>Former <span style="color:#5b87b8">Postdocs</span>, <span style="color:#5f9e63">Visiting Researchers</span>, and <span style="color:#c96b62">Interns</span></h3>
 <section markdown="1">
 
 - [Ioannis Makropoulos](https://www.linkedin.com/in/ioannis-makropoulos-a8a555224/), 2025. <strong class="topic-intern">Advanced end synchronization logic for Product variant change over</strong>, w/ [P&G Services Company NV](https://us.pg.com). Now at [GEA Group](http://www.gea.com/).
