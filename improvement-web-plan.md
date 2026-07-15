@@ -17,13 +17,22 @@ done and removed from this list — see git history for details.
 
 ## 2. Repo size risk — MEDIUM priority, grows over time
 
-Git repo is 1.7 GB; 331 large binaries (theses, publication PDFs, videos)
-are version-tracked. Site source is past GitHub Pages' 1 GB soft limit —
-deploys may eventually fail.
+Status 2026-07-15: published site is 1.2 GB — already over GitHub Pages'
+documented 1 GB limit (deploys still work, unenforced). Git repo 1.7 GB
+(GitHub intervenes ~5 GB). Hard limit that bites first: 100 MB max per
+file pushed (largest file today is 54 MB).
+
+Decision (2026-07-15): move `cool/videos/` (248 MB) to YouTube embeds —
+planned, not yet done. That alone brings the published site back under
+1 GB.
 
 - [ ] Move `cool/videos/` to YouTube embeds.
-- [ ] Host theses / large publication PDFs externally (e.g. TU Delft
-  repository links), or at minimum stop adding new large binaries.
+- [ ] Host theses (134 MB) / publication PDFs externally: TU Delft
+  repository links or GitHub Release assets (NOT Git LFS — Pages serves
+  LFS pointer files, breaking all links; free LFS quota also too small).
+- [ ] After assets are moved out: rewrite history with git filter-repo
+  + force push to actually reclaim repo size (deleting files alone does
+  not shrink .git).
 
 ## 3. Replace temp publication PDFs when finals arrive
 
