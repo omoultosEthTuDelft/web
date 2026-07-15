@@ -12,8 +12,7 @@ title: "Alumni"
   #people section ul > li {
     list-style: none;
     display: grid;
-    grid-template-columns: 230px 1fr;
-    grid-template-rows: auto auto;
+    grid-template-columns: 200px 1fr 190px;
     column-gap: 18px;
     margin-bottom: 10px;
     padding-bottom: 10px;
@@ -21,13 +20,14 @@ title: "Alumni"
     text-align: left;
   }
   #people section ul > li:last-child { border-bottom: none; }
-  .al-head { grid-column: 1; grid-row: 1 / span 2; }
+  .al-head { grid-column: 1; }
   .al-head a { font-weight: 600; }
   .al-topic { grid-column: 2; }
-  .al-now { grid-column: 2; font-size: 0.9em; color: #6c757d; }
-  @media (max-width: 576px) {
+  .al-now { grid-column: 3; color: #555; }
+  @media (max-width: 768px) {
     #people section ul > li { display: block; }
     .al-head, .al-topic, .al-now { display: block; }
+    .al-now { font-size: 0.9em; color: #6c757d; }
   }
 </style>
 
@@ -38,7 +38,7 @@ title: "Alumni"
 <h3>Former PhD students</h3>
 <section markdown="1">
 
-- <span class="al-head">[Parsa Habibi](https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/parsa-habibi), 2020-2025.</span> <span class="al-topic"><strong><a href="theses/ParsaHabibi.pdf">Computational discovery of hydrogen storage materials</a></strong>.</span> <span class="al-now">Now at [ASML](https://www.asml.com/en).</span>
+- <span class="al-head">[Dr. Parsa Habibi](https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/parsa-habibi), 2020-2025.</span> <span class="al-topic"><strong><a href="theses/ParsaHabibi.pdf">Computational discovery of hydrogen storage materials</a></strong>.</span> <span class="al-now">Now at [ASML](https://www.asml.com/en).</span>
 - <span class="al-head">[Dr. H. Mert Polat](https://www.linkedin.com/in/husamettin-mert-polat/), 2019-2024.</span> <span class="al-topic"><strong><a href="theses/MertPolat.pdf">Molecular Simulations of Acid Gas Absorption into Aqueous Solvents</a></strong>.</span> <span class="al-now">Now at [Canon](https://cpp.canon).</span>
 - <span class="al-head">[Dr. Ir. Máté Erdös](https://www.linkedin.com/in/mateerdos/), 2017-2022.</span> <span class="al-topic"><strong><a href="theses/MateErdos.pdf">Molecular simulation of nanoporous materials: Application to metal organic frameworks, zeolites, and cyclodextrins</a></strong>.</span> <span class="al-now">Now at [Itron](https://na.itron.com).</span>
 - <span class="al-head">[Dr. Ir. Hirad Seyed Salehi](https://www.linkedin.com/in/hiradsalehi/?originalSubdomain=nl), 2017-2022.</span> <span class="al-topic"><strong><a href="theses/HiradSalehi.pdf">Molecular simulation of Deep Eutectic Solvents</a></strong>.</span> <span class="al-now">Now at [ASML](https://www.asml.com/en/careers).</span>
