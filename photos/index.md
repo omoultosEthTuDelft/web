@@ -56,6 +56,13 @@ title: "Photos"
 <div class="photo-masonry">
 
 <div class="gallery">
+  <a target="_blank" href="photos/Kasper_2026.jpg">
+    <img loading="lazy" src="photos/thumbs/Kasper_2026.jpg" alt="MSc defence of Kasper van Tulder" width="600" height="auto">
+  </a>
+  <div class="desc"> After the MSc defence of Kasper van Tulder on the transport properties of a weakly coupled, partially ionized argon plasma. People in the photo from left to right: Anna Felden, Kasper, and Otto. (Delft, July 2026)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/mariaGraziaECTP2026.jpg">
     <img loading="lazy" src="photos/thumbs/mariaGraziaECTP2026.jpg" alt="With Maria Grazia De Angelis at ECTP 2026" width="600" height="auto">
   </a>
