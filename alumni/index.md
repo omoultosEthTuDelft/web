@@ -5,7 +5,6 @@ title: "Alumni"
 ---
 
 <style>
-  strong.topic-postdoc { color: #5b87b8; }
   strong.topic-visitor { color: #5f9e63; }
   strong.topic-intern { color: #c96b62; }
   #people section ul { padding-left: 0; }
@@ -49,6 +48,17 @@ title: "Alumni"
 
 </section>
 
+<h3>Former Postdocs</h3>
+<section markdown="1">
+
+- <span class="al-head">[Dr. Thejas Hulikal Chakrapani](https://multiscaleflowx.github.io/team/thejas-hulikal-chakrapani/)<span class="al-years">2022-2024</span></span> <span class="al-topic"><strong>Interfacial and thermophysical properties of mixtures relevant to subsurface hydrogen storage</strong>.</span> <span class="al-now">Now at [University of Edinburgh](https://www.ed.ac.uk)</span>
+- <span class="al-head">[Dr. Ahmadreza Rahbari](https://www.linkedin.com/in/arahbari/?originalSubdomain=nl)<span class="al-years">2020-2021</span></span> <span class="al-topic"><strong> Molecular simulation of high pressure hydrogen mixtures</strong>.</span> <span class="al-now">Now at [Stedin](http://www.stedin.net/), The Netherlands</span>
+- <span class="al-head">[Dr. Abdelrahman Hussein](https://www.linkedin.com/in/abdelrahman-hussein-3b42b415/?originalSubdomain=nl)<span class="al-years">2020-2021</span></span> <span class="al-topic"><strong> Multi-scale modeling of hydrogen embrittlement</strong>.</span> <span class="al-now">Now at [University of Oulu](http://www.oulu.fi/), Finland</span>
+- <span class="al-head">[Dr. Gagus Ketut Sunnardianto](https://www.linkedin.com/in/gagus-ketut-sunnardianto/)<span class="al-years">2019-2020</span></span> <span class="al-topic"><strong> Ab initio simulations of hydrogen embrittlement</strong>.</span> <span class="al-now">Now at [BRIN-Q](https://quantumresearch.id), Indonesia</span>
+- <span class="al-head">[Dr. Alper Celebi](https://www.linkedin.com/in/alper-tunga-celebi-0375b586/?originalSubdomain=nl)<span class="al-years">2019-2021</span></span> <span class="al-topic"><strong> Molecular simulation of ionic liquids and deep eutectic solvents</strong>.</span> <span class="al-now">Now at [TU Wien](https://www.tuwien.at), Austria</span>
+
+</section>
+
 <h3>Former MSc students</h3>
 <section markdown="1">
 
@@ -81,7 +91,7 @@ title: "Alumni"
 - <span class="al-head">[Zsolt Csaszar](https://www.linkedin.com/in/zsolt-csaszar/?originalSubdomain=nl)<span class="al-years">2016-2017</span></span> <span class="al-topic"><strong><a href="../assets/publications/26.Nikolaidis_AIChE_2018_65_792.pdf"> Monte Carlo simulations of the phase equilibria of light/heavy hydrocarbon mixtures</a></strong>.</span> <span class="al-now">Now at [ASML](https://www.asml.com/en)</span>
 </section>
 
-<h3>Former <span style="color:#5b87b8">Postdocs</span>, <span style="color:#5f9e63">Visiting Researchers</span>, and <span style="color:#c96b62">Interns</span></h3>
+<h3>Former <span style="color:#5f9e63">Visiting Researchers</span> and <span style="color:#c96b62">Interns</span></h3>
 <section markdown="1">
 
 - <span class="al-head">[Konstantinos Psillos](https://www.linkedin.com/in/kostaspsillos/)<span class="al-years">2025-2026</span></span> <span class="al-topic"><strong class="topic-visitor">Molecular simulation of membranes for electrochemical hydrogen systems</strong>.</span> <span class="al-now">Now at [Tesla](https://www.tesla.com/careers)</span>
@@ -90,16 +100,11 @@ title: "Alumni"
 - <span class="al-head">[Kyriakos Kokkinos](https://www.linkedin.com/in/kred2304/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=nl)<span class="al-years">2024</span></span> <span class="al-topic"><strong class="topic-intern">Technoeconomic analysis of proton exchange membrane electrolyser</strong>, w/ [XINTC](https://www.xintc.global).</span> <span class="al-now">Now at [EnergyIntel](http://www.energyintel.com.cy/)</span>
 - <span class="al-head">[Dr. Fengyi Mi](https://www.researchgate.net/profile/Fengyi_Mi)<span class="al-years">2023-2024</span></span> <span class="al-topic"><strong class="topic-visitor">Study of mechanisms of gas hydrate formation in complex sediments at the molecular level</strong>.</span> <span class="al-now">Now at [Southwest University of Science and Technology](https://www.swust.edu.cn), China</span>
 - <span class="al-head">[Dr. Sebastian Price](https://www.linkedin.com/in/sebastian-nordby-price/)<span class="al-years">2021 - 2023</span></span> <span class="al-topic"><strong class="topic-visitor">Modeling the ultrasound mediated transport of nanoparticles in tissue</strong>.</span> <span class="al-now">Now at [PoreLab NTNU](https://porelab.no)</span>
-- <span class="al-head">[Dr. Thejas Hulikal Chakrapani](https://multiscaleflowx.github.io/team/thejas-hulikal-chakrapani/)<span class="al-years">2022-2024</span></span> <span class="al-topic"><strong class="topic-postdoc">Interfacial and thermophysical properties of mixtures relevant to subsurface hydrogen storage</strong>.</span> <span class="al-now">Now at [University of Edinburgh](https://www.ed.ac.uk)</span>
 - <span class="al-head">[Timman van Oeveren](https://www.linkedin.com/in/timman-van-oeveren-26364a175/?originalSubdomain=nl)<span class="al-years">2023</span></span> <span class="al-topic"><strong class="topic-intern">Design of a CO2 utilization system for carbonation in small breweries</strong>, w/ <a href="https://brew-right.com">BrewRight</a>.</span>
 - <span class="al-head">[Dr. Bin Fang]()<span class="al-years">2022-2023</span></span> <span class="al-topic"><strong class="topic-visitor">Molecular simulations of methane hydrates</strong>.</span> <span class="al-now">Now at [Hainan University](https://en.hainanu.edu.cn), China</span>
 - <span class="al-head">[Willemijn van Rooijen](https://www.linkedin.com/in/willemijn-van-rooijen-46398a151/?originalSubdomain=nl)<span class="al-years">2022-2023</span></span> <span class="al-topic"><strong class="topic-visitor">Interfacial and thermophysical properties of mixtures relevant to subsurface hydrogen storage</strong>.</span> <span class="al-now">Now at [Gradyent](http://www.gradyent.ai/)</span>
 - <span class="al-head">[Laya Roustazadeh](https://www.qatar.tamu.edu/news-and-events/news/2020/06/24/texas-a-and-m-at-qatar-names-outstanding-graduates/)<span class="al-years">2021-2022</span></span> <span class="al-topic"><strong class="topic-visitor">Adsoprtion of gas mixtures in Metal Organic Frameworks</strong>.</span>
-- <span class="al-head">[Dr. Ahmadreza Rahbari](https://www.linkedin.com/in/arahbari/?originalSubdomain=nl)<span class="al-years">2020-2021</span></span> <span class="al-topic"><strong class="topic-postdoc"> Molecular simulation of high pressure hydrogen mixtures</strong>.</span> <span class="al-now">Now at [Stedin](http://www.stedin.net/), The Netherlands</span>
-- <span class="al-head">[Dr. Abdelrahman Hussein](https://www.linkedin.com/in/abdelrahman-hussein-3b42b415/?originalSubdomain=nl)<span class="al-years">2020-2021</span></span> <span class="al-topic"><strong class="topic-postdoc"> Multi-scale modeling of hydrogen embrittlement</strong>.</span> <span class="al-now">Now at [University of Oulu](http://www.oulu.fi/), Finland</span>
 - <span class="al-head">[Dr. Olav Galteland ](https://www.linkedin.com/in/olav-galteland?originalSubdomain=no)<span class="al-years">2020</span></span> <span class="al-topic"><strong class="topic-visitor"> Non Equilibrium Molecular Dynamics simulation of fluids in confinement</strong>.</span> <span class="al-now">Now at [Litech](https://litech.ai/)</span>
-- <span class="al-head">[Dr. Gagus Ketut Sunnardianto](https://www.linkedin.com/in/gagus-ketut-sunnardianto/)<span class="al-years">2019-2020</span></span> <span class="al-topic"><strong class="topic-postdoc"> Ab initio simulations of hydrogen embrittlement</strong>.</span> <span class="al-now">Now at [BRIN-Q](https://quantumresearch.id), Indonesia</span>
-- <span class="al-head">[Dr. Alper Celebi](https://www.linkedin.com/in/alper-tunga-celebi-0375b586/?originalSubdomain=nl)<span class="al-years">2019-2021</span></span> <span class="al-topic"><strong class="topic-postdoc"> Molecular simulation of ionic liquids and deep eutectic solvents</strong>.</span> <span class="al-now">Now at [TU Wien](https://www.tuwien.at), Austria</span>
 - <span class="al-head">[Prof. Keiichi Kuboyama](https://scholar.google.com/citations?hl=en&user=JM6iv9IAAAAJ&view_op=list_works&sortby=pubdate)<span class="al-years">2018</span></span> <span class="al-topic"><strong class="topic-visitor"> Molecular simulations of PMMA/nanoparticle composites</strong>.</span> <span class="al-now">Now at [Tokyo Institute of Technology](https://www.titech.ac.jp/english), Japan</span>
 - <span class="al-head">[Dr. Ilias Nikolaidis](https://www.linkedin.com/in/ilias-nikolaidis-931554205/?originalSubdomain=gr)<span class="al-years">2018</span></span> <span class="al-topic"><strong class="topic-visitor"> Equation of state modeling of mixtures of asymetric hydrocarbons</strong>.</span> <span class="al-now">Now at [Filtercosmos](https://www.filtercosmos.gr), Greece</span>
 - <span class="al-head">[Claire Spera](https://www.linkedin.com/in/claire-spera/?trk=public_profile_browsemap&originalSubdomain=fr)<span class="al-years">2018</span></span> <span class="al-topic"><strong class="topic-visitor"> Mathematical modeling of the evaporation process of gasoline </strong>.</span> <span class="al-now">Now at [ALTEN](https://www.alten.com), France</span>
