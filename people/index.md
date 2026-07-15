@@ -40,7 +40,7 @@ title: "People"
       <img src="photos/Cole.JPG" class="rounded-circle" alt="Cole Brzakala">
       <div class="name"><a href="https://www.linkedin.com/in/cole-brzakala/">Cole Brzakala</a></div>
       <div class="research">Artificial Intelligence to accelerate molecular simulations for design of PFAS absorbents</div>
-      <div class="collab">Promotors: Otto Moultos, <a href="https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/universitair-docent-onderwijzer/dr-riccardo-taormina">Riccardo Taormina</a> (<a href="https://www.tudelft.nl/citg">CITG TU Delft</a>)</div>
+      <div class="collab">Promotors: Otto Moultos, <a href="https://www.tudelft.nl/citg/over-faculteit/afdelingen/watermanagement/medewerker/universitair-docent-onderwijzer/dr-riccardo-taormina">Riccardo Taormina</a> (<a href="https://www.tudelft.nl/citg">CITG TU Delft</a>), <a href="https://www.linkedin.com/in/jan-peter-van-der-hoek-770aaba/">Jan Peter van der Hoek</a></div>
     </div>
   </div>
 
