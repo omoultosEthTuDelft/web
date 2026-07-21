@@ -21,7 +21,7 @@ title: "Alumni"
   #people section ul > li:last-child { border-bottom: none; }
   .al-head { grid-column: 1; }
   .al-head a { font-weight: 600; }
-  .al-years { display: block; font-size: 0.88em; color: #888; }
+  .al-years { display: block; font-family: 'Fraunces', Georgia, serif; font-size: 0.95em; color: #888; font-variant-numeric: oldstyle-nums; font-feature-settings: "onum" 1; }
   .al-topic { grid-column: 2; }
   .al-now { grid-column: 3; color: #555; }
   @media (max-width: 768px) {

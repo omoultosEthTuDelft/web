@@ -316,8 +316,11 @@ a:visited { color: #3973ac; }
   color: white;
   padding: 8px 15px;
   margin: 20px 0 10px 0;
-  font-size: 1.1rem;
+  font-family: 'Fraunces', Georgia, serif;
+  font-size: 1.15rem;
   font-weight: 600;
+  font-variant-numeric: oldstyle-nums;
+  font-feature-settings: "onum" 1;
   border-radius: 4px;
   z-index: 10;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -347,8 +350,11 @@ a:visited { color: #3973ac; }
   border: 2px solid #3973ac;
   background: #fff;
   color: #3973ac;
-  font-size: 0.9rem;
+  font-family: 'Fraunces', Georgia, serif;
+  font-size: 1rem;
   font-weight: 600;
+  font-variant-numeric: oldstyle-nums;
+  font-feature-settings: "onum" 1;
 }
 
 .pub-title {
@@ -364,7 +370,10 @@ a:visited { color: #3973ac; }
 }
 
 .pub-venue {
+  font-family: 'Fraunces', Georgia, serif;
   font-weight: 600;
+  font-variant-numeric: oldstyle-nums;
+  font-feature-settings: "onum" 1;
 }
 
 .pub-links {
@@ -398,6 +407,9 @@ a:visited { color: #3973ac; }
 }
 
 .year-nav-link {
+  font-family: 'Fraunces', Georgia, serif;
+  font-variant-numeric: oldstyle-nums;
+  font-feature-settings: "onum" 1;
   display: inline-block;
   padding: 4px 10px;
   font-size: 0.82rem;
