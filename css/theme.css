@@ -2,6 +2,12 @@ body {
   font-size: 100%;
   padding-top: 20px;
   padding-bottom: 10px;
+  background-color: #faf8f5;
+  color: #21201d;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+  font-family: 'Fraunces', Georgia, 'Times New Roman', serif;
 }
 @media (min-width: 992px) {
   body {
@@ -90,6 +96,8 @@ body {
   background-color: #edf2fa;
   color: #3973ac;
 }
+
+.navbar .bg-light { background-color: #f4f1ea !important; }
 
 .navbar {
   min-height: 30px !important;
@@ -440,7 +448,7 @@ a:visited { color: #3973ac; }
 
 /* Footer */
 .site-footer {
-  background-color: #f8f9fa;
+  background-color: #f4f1ea;
   border-top: 2px solid #3973ac;
   padding: 24px 0 18px;
   margin-top: 30px;
