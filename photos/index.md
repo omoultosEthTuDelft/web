@@ -18,7 +18,7 @@ title: "Photos"
   }
 
   div.gallery {
-    border: 1px solid #e8e8e8;
+    border: 1px solid #e7e1d4;
     border-radius: 6px;
     background: #fff;
     overflow: hidden;

@@ -23,7 +23,7 @@ title: "Cool"
 
   .cool-card {
     background: #fff;
-    border: 1px solid #e8e8e8;
+    border: 1px solid #e7e1d4;
     border-radius: 6px;
     overflow: hidden;
     transition: box-shadow 0.2s ease, border-color 0.2s ease;
