@@ -37,6 +37,6 @@ planned, not yet done. That alone brings the published site back under
 ## 3. Replace temp publication PDFs when finals arrive
 
 `assets/temp/*_temp.pdf` are the live download links for in-press papers
-108/109/111 (linked from `publications/index.md`). When the final
+108/109/111/112 (linked from `publications/index.md`). When the final
 publisher PDFs are available, move them to `assets/publications/`, update
 the links, and delete `assets/temp/`.
