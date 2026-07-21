@@ -30,7 +30,7 @@ title: "Cool"
   }
 
   .cool-card:hover {
-    border-color: #3973ac;
+    border-color: #35597a;
     box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   }
 
@@ -61,18 +61,18 @@ title: "Cool"
   .cool-card .cool-links a {
     text-decoration: none;
     color: #fff;
-    background-color: #3973ac;
+    background-color: #35597a;
     padding: 4px 12px;
     border-radius: 4px;
     font-weight: 500;
     font-size: 0.8em;
-    border: 1px solid #2e6699;
+    border: 1px solid #35597a;
     transition: background-color 0.2s ease;
   }
 
   .cool-card .cool-links a:hover {
-    background-color: #1a5276;
-    border-color: #1a5276;
+    background-color: #24405c;
+    border-color: #24405c;
     color: #fff;
   }
 
@@ -99,7 +99,7 @@ title: "Cool"
     <source src="videos/nafionMD.mp4" type="video/mp4">
   </video>
   <div class="cool-body">
-    <p class="cool-desc">MD simulation of the electroosmotic drag of H+ in a nafion membrane (<span style="color: #e74c3c; font-weight: 500;">protons</span>, <span style="color: #3973ac; font-weight: 500;">water</span>). Such membranes are used in electrochemical hydrogen compressors. The simulations were performed by <a href="https://www.linkedin.com/in/arahbari/?originalSubdomain=nl">Dr. Reza Rahbari</a> as a part of our <a href="https://www.rvo.nl">RVO</a> funded project "Hy &amp; Dry", in collaboration with <a href="https://hyethydrogen.com">HyET Hydrogen</a>.</p>
+    <p class="cool-desc">MD simulation of the electroosmotic drag of H+ in a nafion membrane (<span style="color: #e74c3c; font-weight: 500;">protons</span>, <span style="color: #35597a; font-weight: 500;">water</span>). Such membranes are used in electrochemical hydrogen compressors. The simulations were performed by <a href="https://www.linkedin.com/in/arahbari/?originalSubdomain=nl">Dr. Reza Rahbari</a> as a part of our <a href="https://www.rvo.nl">RVO</a> funded project "Hy &amp; Dry", in collaboration with <a href="https://hyethydrogen.com">HyET Hydrogen</a>.</p>
     <div class="cool-links">
       <a href="../assets/publications/65.Rahbari_JPCC_2022_126_8121.pdf"><span class="fa-solid fa-book"></span> Publication</a>
     </div>

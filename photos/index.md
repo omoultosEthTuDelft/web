@@ -26,7 +26,7 @@ title: "Photos"
   }
 
   div.gallery:hover {
-    border-color: #3973ac;
+    border-color: #35597a;
     box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   }
 
