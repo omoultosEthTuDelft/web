@@ -160,9 +160,30 @@ a:visited { color: #3973ac; }
 /* News scrollable container */
 .news-scroll {
   overflow-y: auto;
-  max-height: 250px;
+  max-height: 280px;
   width: 100%;
+  scrollbar-width: thin;
+  scrollbar-color: #b9cade #f2f5f8;
 }
+.news-scroll::-webkit-scrollbar { width: 8px; }
+.news-scroll::-webkit-scrollbar-track { background: #f2f5f8; border-radius: 4px; }
+.news-scroll::-webkit-scrollbar-thumb { background: #b9cade; border-radius: 4px; }
+.news-scroll::-webkit-scrollbar-thumb:hover { background: #3973ac; }
+
+/* Fade at the bottom hints that more news is below; hidden once scrolled to the end */
+.news-wrap { position: relative; width: 100%; }
+.news-wrap::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 10px;
+  bottom: 0;
+  height: 52px;
+  background: linear-gradient(to bottom, rgba(255,255,255,0), #fff 85%);
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+}
+.news-wrap.at-bottom::after { opacity: 0; }
 
 /* Lightbox modal */
 .lightbox-content {

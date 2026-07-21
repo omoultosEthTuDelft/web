@@ -97,6 +97,7 @@ o.lastname@tudelft.nl
 <h5>News</h5>
 <div class="row-fluid">
     <div id="news" class="row">
+    <div class="news-wrap">
     <div class="news-scroll">
     <!-- <div style="text-align: justify;" class="col-sm-11"> -->
 
@@ -167,10 +168,25 @@ o.lastname@tudelft.nl
   <li class="news-item"><span class="news-icon award"><i class="fa-solid fa-trophy"></i></span><span class="news-content"><strong>March 2021:</strong> Our article on <a href="https://pubs.acs.org/doi/10.1021/acs.jced.1c00020?ref=pdf">thermodynamic properties of hydrogen/water mixtures</a> is selected as Editor's Choice!</span></li>
 </ul>
     </div>
+    </div>
 
     </div>
 
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  var ns = document.querySelector('.news-scroll');
+  var wrap = document.querySelector('.news-wrap');
+  if (!ns || !wrap) return;
+  function update() {
+    var atBottom = ns.scrollTop + ns.clientHeight >= ns.scrollHeight - 8;
+    wrap.classList.toggle('at-bottom', atBottom);
+  }
+  ns.addEventListener('scroll', update);
+  update();
+});
+</script>
 
 
 
