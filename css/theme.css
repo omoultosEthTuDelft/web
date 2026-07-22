@@ -10,9 +10,6 @@ body {
   color: #21201d;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Fraunces', Georgia, 'Times New Roman', serif;
-}
 @media (min-width: 992px) {
   body {
     padding-top: 56px;
