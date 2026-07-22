@@ -10,7 +10,7 @@ body {
   color: #21201d;
 }
 
-h1, h2, h3, h4, h5, h6, .navbar-brand {
+h1, h2, h3, h4, h5, h6 {
   font-family: 'Fraunces', Georgia, 'Times New Roman', serif;
 }
 @media (min-width: 992px) {
@@ -365,10 +365,7 @@ a:visited { color: #35597a; }
 }
 
 .pub-venue {
-  font-family: 'Fraunces', Georgia, serif;
   font-weight: 600;
-  font-variant-numeric: oldstyle-nums;
-  font-feature-settings: "onum" 1;
 }
 
 .pub-links {
