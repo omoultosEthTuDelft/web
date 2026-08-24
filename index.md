@@ -34,6 +34,10 @@ My research and teaching activities focus on the application of molecular thermo
   <a href="assets/misc/MScGuide.pdf"><strong>Download here</strong></a> the practical guide for MSc theses that I wrote together with <a href="https://www.linkedin.com/in/carey-walters-44252714b/?originalSubdomain=nl"><strong>Carey Walters</strong></a>. 
 </div> 
 
+<div class="alert alert-success" role="alert" markdown="1">
+  PhD position open: <a href="https://careers.tudelft.nl/job/Delft-PhD-Position-Molecular-Modeling-of-Hydrogen-Production-Processes-2628-CD/1363992057/"><strong>Molecular Modeling of Hydrogen Production Processes</strong></a>. Apply via the TU Delft vacancy portal.
+</div> 
+
 
 
 
