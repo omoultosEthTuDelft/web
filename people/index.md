@@ -52,6 +52,15 @@ title: "People"
       <div class="collab">Promotors: Otto Moultos, <a href="https://thijsvlugt.github.io/website/">Thijs Vlugt</a></div>
     </div>
   </div>
+
+  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+    <div class="person-card">
+      <img src="photos/Gabriele.jpg" class="rounded-circle" alt="Gabriele Blasi">
+      <div class="name">Gabriele Blasi</div>
+      <div class="research">HARMony project</div>
+      <div class="collab">Starting soon. Promotors: Otto Moultos, <a href="https://research.wur.nl/en/persons/costas-nikiforidis/">Costas Nikiforidis</a></div>
+    </div>
+  </div>
 </div>
 
 <h3>MSc students</h3>
