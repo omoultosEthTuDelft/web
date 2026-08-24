@@ -112,13 +112,6 @@ title: "People"
   </div>
 </div>
 
-<h3>Interns</h3>
-<section markdown="1">
-
-- [Anouk van Giezen]() <strong>Creating a tool for Environmental Cost Indicator (ECI) for objects for Hoogheemraadschap van Rijnland</strong>.
-
-</section>
-
 </div>
 </div>
 
