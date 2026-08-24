@@ -11,9 +11,9 @@ title: "People"
 <div class="row phd-grid">
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
-      <img src="photos/placeholder.svg" class="rounded-circle" alt="PhD position to open soon">
-      <div class="name">PhD position to open soon</div>
-      <div class="research">Molecular simulation of membranes for electrochemical hydrogen systems</div>
+      <img src="photos/placeholder.svg" class="rounded-circle" alt="Open PhD position">
+      <div class="name"><a href="https://careers.tudelft.nl/job/Delft-PhD-Position-Molecular-Modeling-of-Hydrogen-Production-Processes-2628-CD/1363992057/">PhD position open &mdash; apply here</a></div>
+      <div class="research">Molecular Modeling of Hydrogen Production Processes</div>
     </div>
   </div>
 
