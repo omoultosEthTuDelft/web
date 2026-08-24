@@ -65,22 +65,7 @@ title: "People"
     </div>
   </div>
 
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
-    <div class="person-card">
-      <img src="photos/Gabriele.jpg" class="rounded-circle" alt="Gabriele Blasi">
-      <div class="name">Gabriele Blasi</div>
-      <div class="research">Molecular Simulation of Nanoporous Materials for PFAS Adsorption</div>
-    </div>
-  </div>
 
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
-    <div class="person-card">
-      <img src="photos/Omkar.jpg" class="rounded-circle" alt="Omkar Dhavale">
-      <div class="name">Omkar Dhavale</div>
-      <div class="research">Thermodynamic modeling and molecular simulation of Molten-Salt Fuel Systems</div>
-      <div class="collab">w/ Dr. Anna Smith (Reactor Institute)</div>
-    </div>
-  </div>
 
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
@@ -99,14 +84,6 @@ title: "People"
     </div>
   </div>
 
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
-    <div class="person-card">
-      <img src="photos/Hicham.jpg" class="rounded-circle" alt="Hicham Hachicho">
-      <div class="name">Hicham Hachicho</div>
-      <div class="research">Hydrogen liquefaction in confined media</div>
-      <div class="collab">w/ Dr. Mahinder Ramdin</div>
-    </div>
-  </div>
 
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
