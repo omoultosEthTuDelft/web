@@ -48,7 +48,7 @@ title: "Research projects"
 <div class="project-card">
   <h4>ENERSIM_TWIN</h4>
   <p>Twinning for ML-Driven Molecular Simulation of Sustainable Energy Fluids and Materials, <strong>HORIZON-WIDERA-2026-02-WIDENING-01</strong>. With the University of Thessaly (coordinator), Centre National de la Recherche Scientifique (CNRS)/Université Montpellier, and Synapsecom S.A. <strong>co-PI</strong></p>
-  <span class="funding">336,000 Euros &middot; starting October 2026</span>
+  <span class="funding">336,000 Euros (total budget: 1,450,000 Euros) &middot; starting October 2026</span>
 </div>
 
 <div class="project-card">
