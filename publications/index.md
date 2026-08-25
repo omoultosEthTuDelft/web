@@ -364,10 +364,10 @@ publications:
   - { number: "62.", 
     title: "Vapor pressures and vapor phase compositions of choline chloride urea and choline chloride ethylene glycol deep eutectic solvents from molecular simulation", 
     authors: "Hirad S. Salehi, H. Mert Polat, Frédérick de Meyer, Céline Houriez, Christophe Coquelet, Thijs J. H. Vlugt,  and Othonas A. Moultos", 
-    venue: "Journal of Chemical Physics (2021) 144, 114504", 
-    pdf: "assets/publications/62.Salehi_JCP_2021_144_114504.pdf", 
-    SI: "assets/publications/SI/62.Salehi_JCP_2021_144_114504_SI.pdf", 
-    bib: "assets/publications/bib/62.Salehi_JCP_2021_144_114504.bib"}
+    venue: "Journal of Chemical Physics (2021) 155, 114504", 
+    pdf: "assets/publications/62.Salehi_JCP_2021_155_114504.pdf", 
+    SI: "assets/publications/SI/62.Salehi_JCP_2021_155_114504_SI.pdf", 
+    bib: "assets/publications/bib/62.Salehi_JCP_2021_155_114504.bib"}
   - { number: "61.", 
     title: "Reversible Hydrogen Storage in Metal-Decorated Honeycomb Borophene Oxide", 
     authors: "Parsa Habibi, Thijs J. H. Vlugt, Poulumi Dey, and Othonas A. Moultos", 
