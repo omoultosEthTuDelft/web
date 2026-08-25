@@ -59,14 +59,14 @@ title: "Photos"
   <a target="_blank" href="photos/defenceGabriele.jpg">
     <img loading="lazy" src="photos/thumbs/defenceGabriele.jpg" alt="MSc defence of Gabriele Blasi" width="600" height="auto">
   </a>
-  <div class="desc"> Gabriele Blasi graduated Cum Laude! MSc thesis on Molecular Simulation of Nanoporous Materials for PFAS Adsorption. He is staying with us for his PhD. (Delft, July 2026)</div>
+  <div class="desc"> Gabriele Blasi graduated Cum Laude! MSc thesis on Molecular Simulation of Nanoporous Materials for PFAS Adsorption. He is staying with us for his PhD. People in the photo from left to right: Luis Cutz, Begum Tanis, Gabriele, and Otto. (Delft, August 2026)</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="photos/defenceOmkar.jpg">
     <img loading="lazy" src="photos/thumbs/defenceOmkar.jpg" alt="MSc defence of Omkar Dhavale" width="600" height="auto">
   </a>
-  <div class="desc"> After the MSc defence of Omkar Dhavale on thermodynamic modeling and molecular simulation of Molten-Salt Fuel Systems. (Delft, July 2026)</div>
+  <div class="desc"> After the MSc defence of Omkar Dhavale on thermodynamic modeling and molecular simulation of Molten-Salt Fuel Systems. People in the photo from left to right: Otto, Omkar, and Burak Eral. (Delft, August 2026)</div>
 </div>
 
 <div class="gallery">
