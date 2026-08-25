@@ -13,7 +13,7 @@ publications:
   - { number: "111.",
     title: "Evaluating Molecular Representations for Predicting Cyclodextrin-PFAS Binding Energy with Machine Learning: Domain Transfer and Data Limitations",
     authors: "Cole Brzakala, Othonas A. Moultos, Jan Peter van der Hoek, and Riccardo Taormina",
-    venue: "Journal of Chemical Information and Modeling (2026), In Press",
+    venue: "Journal of Chemical Information and Modeling (2026), 66, 7360–7376",
     pdf: "assets/temp/111_temp.pdf",
     SI: "assets/temp/111_SI_temp.pdf"
     }
