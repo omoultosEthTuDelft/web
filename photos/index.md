@@ -56,6 +56,20 @@ title: "Photos"
 <div class="photo-masonry">
 
 <div class="gallery">
+  <a target="_blank" href="photos/defenceGabriele.jpg">
+    <img loading="lazy" src="photos/thumbs/defenceGabriele.jpg" alt="MSc defence of Gabriele Blasi" width="600" height="auto">
+  </a>
+  <div class="desc"> Gabriele Blasi graduated Cum Laude! MSc thesis on Molecular Simulation of Nanoporous Materials for PFAS Adsorption. He is staying with us for his PhD. (Delft, July 2026)</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="photos/defenceOmkar.jpg">
+    <img loading="lazy" src="photos/thumbs/defenceOmkar.jpg" alt="MSc defence of Omkar Dhavale" width="600" height="auto">
+  </a>
+  <div class="desc"> After the MSc defence of Omkar Dhavale on thermodynamic modeling and molecular simulation of Molten-Salt Fuel Systems. (Delft, July 2026)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/Kasper_2026.jpg">
     <img loading="lazy" src="photos/thumbs/Kasper_2026.jpg" alt="MSc defence of Kasper van Tulder" width="600" height="auto">
   </a>
