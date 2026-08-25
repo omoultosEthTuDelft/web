@@ -46,6 +46,12 @@ title: "Research projects"
 <h3>Active projects</h3>
 
 <div class="project-card">
+  <h4>ENERSIM_TWIN</h4>
+  <p>Twinning for ML-Driven Molecular Simulation of Sustainable Energy Fluids and Materials, <strong>HORIZON-WIDERA-2026-02-WIDENING-01</strong>.</p>
+  <span class="funding">336,000 Euros &middot; starting October 2026</span>
+</div>
+
+<div class="project-card">
   <h4>HARMOny</h4>
   <p>Harvesting Milk Fat Globules from Oilseeds. For developing coarse-grained molecular models to study and develop plant-based dairy alternatives. <strong>NWO/Open Technology Program AES</strong>. With WUR, Botaneco, and Danone. <strong>co-PI</strong></p>
   <span class="funding">333,000 Euros (total budget: 1,045,000 Euros) &middot; 2025 – ongoing</span>
