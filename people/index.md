@@ -121,6 +121,13 @@ title: "People"
   </div>
 </div>
 
+<h3>Interns</h3>
+<section markdown="1">
+
+- [Alex Collet]() <strong>Development of Equations of State from Machine Learning Potentials</strong>, w/ [Prof. Erich A. Müller](https://www.imperial.ac.uk/people/e.muller), [Imperial College London](https://www.imperial.ac.uk/chemical-engineering).
+
+</section>
+
 </div>
 </div>
 
