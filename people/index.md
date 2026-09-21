@@ -22,7 +22,7 @@ title: "People"
       <img src="photos/Gabriele.jpg" class="rounded-circle" alt="Gabriele Blasi">
       <div class="name">Gabriele Blasi</div>
       <div class="research">HARMony project</div>
-      <div class="collab">Starting soon. Promotors: Otto Moultos, <a href="https://research.wur.nl/en/persons/costas-nikiforidis/">Costas Nikiforidis</a></div>
+      <div class="collab">Promotors: Otto Moultos, <a href="https://research.wur.nl/en/persons/costas-nikiforidis/">Costas Nikiforidis</a></div>
     </div>
   </div>
 
