@@ -6,9 +6,10 @@ publications:
   - { number: "112.",
     title: "Inclusion Complexation of Native and Functionalized α-, β-, and γ-Cyclodextrins with PFAS: An Experimental and Molecular Simulation Study",
     authors: "Bowen Sha, Akhilesh Soodan, Kim Maren Lompe, Gokhan Barin, Thijs J. H. Vlugt, Loukas D. Peristeras, and Othonas A. Moultos",
-    venue: "Journal of Physical Chemistry B (2026), In Press",
-    pdf: "assets/temp/112_temp.pdf",
-    SI: "assets/temp/112_SI_temp.pdf"
+    venue: "Journal of Physical Chemistry B (2026), 130, 7718–7737",
+    pdf: "assets/publications/112.Sha_JPCB_2026_130_7718.pdf",
+    SI: "assets/publications/SI/112.Sha_JPCB_2026_130_7718_SI.pdf",
+    bib: "assets/publications/bib/112.Sha_JPCB_2026_130_7718.bib"
     }
   - { number: "111.",
     title: "Evaluating Molecular Representations for Predicting Cyclodextrin-PFAS Binding Energy with Machine Learning: Domain Transfer and Data Limitations",
