@@ -37,9 +37,10 @@ publications:
   - { number: "108.",
     title: "Molecular insights into the effects of representative organic molecules on spontaneous hydrate nucleation in oceanic sediments",
     authors: "Feng-Yi Mi, Zhong-Jin He, Jiang-Tao Pang, Othonas A. Moultos, Thijs J.H. Vlugt, Guo-Sheng Jiang, and Fu-Long Ning",
-    venue: "Petroleum Science (2026), In Press",
-    pdf: "assets/temp/108_temp.pdf",
-    SI: "assets/temp/108_SI_temp.pdf"
+    venue: "Petroleum Science (2026), 23, 4430–4440",
+    pdf: "assets/publications/108.Mi_PETSCI_2026_23_4430.pdf",
+    SI: "assets/publications/SI/108.Mi_PETSCI_2026_23_4430_SI.pdf",
+    bib: "assets/publications/bib/108.Mi_PETSCI_2026_23_4430.bib"
     }
   - { number: "107.", 
     title: "Electrochemical CO2 Reduction in the Presence of SO2 Impurities on a Nitrogen-Doped Carbon Electrocatalyst",
