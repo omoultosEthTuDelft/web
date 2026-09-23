@@ -9,7 +9,8 @@ publications:
     venue: "Journal of Physical Chemistry B (2026), 130, 7718–7737",
     pdf: "assets/publications/112.Sha_JPCB_2026_130_7718.pdf",
     SI: "assets/publications/SI/112.Sha_JPCB_2026_130_7718_SI.pdf",
-    bib: "assets/publications/bib/112.Sha_JPCB_2026_130_7718.bib"
+    bib: "assets/publications/bib/112.Sha_JPCB_2026_130_7718.bib",
+    simulAmber: "assets/publications/SI/112.Sha_JPCB_2026_130_7718_SI.zip"
     }
   - { number: "111.",
     title: "Evaluating Molecular Representations for Predicting Cyclodextrin-PFAS Binding Energy with Machine Learning: Domain Transfer and Data Limitations",
@@ -822,6 +823,7 @@ publications:
     {% if pub('slides')? %}<a href="{{ site.url}}/{{ pub.slides }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;Slides</a>{% endif %}
     {% if pub('simulGromacs')? %}<a href="{{ site.url}}/{{ pub.simulGromacs }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;GROMACS files</a>{% endif %}
     {% if pub('simulLammps')? %}<a href="{{ site.url}}/{{ pub.simulLammps }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;LAMMPS files</a>{% endif %}
+    {% if pub('simulAmber')? %}<a href="{{ site.url}}/{{ pub.simulAmber }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;AMBER files</a>{% endif %}
     {% if pub('simulBrick')? %}<a href="{{ site.url}}/{{ pub.simulBrick }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;BRICK-CFCMC files</a>{% endif %}
     {% if pub('simulCaspy')? %}<a href="{{ site.url}}/{{ pub.simulCaspy }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;CasPy source code</a>{% endif %}
     {% if pub('simulCIF')? %}<a href="{{ site.url}}/{{ pub.simulCIF }}" class="badge badge-pill badge-pub" role="button"><i class="fa fa-download"></i>&nbsp;CIF files</a>{% endif %}
