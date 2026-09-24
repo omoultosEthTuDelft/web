@@ -1,0 +1,58 @@
+@article{10.1021/acs.jcim.5c03121,
+    author = {Brzakala, Cole and Moultos, Othonas A. and van der Hoek, Jan Peter and Taormina, Riccardo},
+    title = {Evaluating Molecular
+Representations for Predicting
+Cyclodextrin-PFAS Binding Energy with Machine Learning: Domain Transfer
+and Data Limitations},
+    journal = {Journal of Chemical Information and Modeling},
+    volume = {66},
+    number = {13},
+    pages = {7360-7376},
+    year = {2026},
+    month = {07},
+    abstract = {Per- and polyfluoroalkyl substances (PFAS) persist in
+water systems
+and resist conventional removal methods such as activated carbon,
+which shows reduced efficiency with short-chain PFAS and in the presence
+of dissolved organic matter. Cyclodextrin-based polymers (CDPs) have
+emerged as sustainable alternatives, with competitive and selective
+PFAS adsorption capabilities. These polymers consist of glucose-based
+cyclodextrin (CD) units that can form host–guest inclusion
+complexes with PFAS pollutants. However, these binding interactions
+are not fully understood or quantified. We conducted an evaluation
+of machine learning approaches to model these host–guest interactions,
+providing insights into predictive capabilities for later CDP design.
+This study systematically compares molecular representations (Mordred,
+ECFP, ChemBERTa, UniMol2, etc.) across several machine learning architectures
+to predict CD-PFAS binding energies. First, we generated molecular
+embeddings of 3459 experimental host–guest pairs in the OpenCycloDB
+data set and 63 external CD-PFAS pairs. We then compared these embeddings
+via AlignedUMAP visualizations and nearest neighbor analyses. Next,
+we trained and evaluated predictive models using these embeddings
+on the OpenCycloDB data set, exploring the effectiveness of transfer
+learning and finetuning techniques. We finally tested model generalizability
+on two external experimental CD-PFAS binding data sets. All embeddings
+captured relevant chemical features, where UniMol2 differed most from
+other methods in embedding space analysis. Predictive models performed
+variably based on embedding choice and architecture, with the best-performing
+combination achieving moderate accuracy on the OpenCycloDB data set.
+Embeddings pretrained on large molecular data sets and finetuning
+the ChemBERTa embeddings both showed predictive improvements. However,
+external validation revealed limited generalizability to CD-PFAS complexes,
+highlighting domain shift challenges. Notably, leave-one-out cross-validation
+on the external PFAS-specific data indicated that training on in-domain
+data improved predictive performance at the cost of generalizability.
+This work demonstrates that molecular representation choice is critical
+for small-data host–guest binding prediction. However, domain
+shift between general CD data and specialized CD–PFAS applications
+remains a fundamental challenge, for which transfer learning and finetuning
+may offer potential solutions for future data-driven pipelines for
+CDP design and sustainable PFAS removal.},
+    issn = {1549-9596},
+    doi = {10.1021/acs.jcim.5c03121},
+    url = {https://doi.org/10.1021/acs.jcim.5c03121},
+    eprint = {https://pubs.acs.org/jcisd8/article-pdf/66/13/7360/65250369/acs.jcim.5c03121.pdf},
+}
+
+
+
