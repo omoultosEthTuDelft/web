@@ -126,7 +126,7 @@ title: "Cool"
     <source src="videos/martiniFusion.mp4" type="video/mp4">
   </video>
   <div class="cool-body">
-    <p class="cool-desc">MD simulation using the Martini coarse-grained potential showing the merging of an oleosome with a triacylglycerol droplet. The simulations were performed by our intern Benjamin Rosenbaum as part of a collaborative project with the group of Dr. Costas Nikiforidis.</p>
+    <p class="cool-desc">MD simulation using the Martini coarse-grained potential showing the merging of an oleosome with a triacylglycerol droplet. The simulations were performed by Benjamin Rosenbaum as part of a collaborative project with the group of <a href="https://www.wur.nl/en/Persons/Costas-dr.-K-Costas-Nikiforidis.htm">Dr. Costas Nikiforidis</a> from <a href="https://www.wur.nl/en.htm">WUR</a>.</p>
     <div class="cool-links">
       <a href="../assets/publications/81.Ntone_SM_2023_19_6355.pdf"><span class="fa-solid fa-book"></span> Publication</a>
     </div>
