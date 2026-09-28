@@ -56,6 +56,13 @@ title: "Photos"
 <div class="photo-masonry">
 
 <div class="gallery">
+  <a target="_blank" href="photos/defenceTheodoros.jpg">
+    <img loading="lazy" src="photos/thumbs/defenceTheodoros.jpg" alt="MSc defence of Theodoros Benai" width="600" height="auto">
+  </a>
+  <div class="desc"> Theodoros Benai graduated! MSc thesis on Molecular Simulation of Activated Carbons for PFAS capture. People in the photo from left to right: Otto, Loukas Peristeras and Begum Tanis (online), and Theodoros. (Delft, September 2026)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/defenceGabriele.jpg">
     <img loading="lazy" src="photos/thumbs/defenceGabriele.jpg" alt="MSc defence of Gabriele Blasi" width="600" height="auto">
   </a>
