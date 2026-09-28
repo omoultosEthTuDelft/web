@@ -87,9 +87,10 @@ title: "People"
 
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
-      <img src="photos/placeholder.svg" class="rounded-circle" alt="Theodoros Benai">
-      <div class="name">Theodoros Benai</div>
-      <div class="research">Molecular Simulation of Activated Carbons for PFAS capture</div>
+      <img src="photos/Giovanni.jpg" class="rounded-circle" alt="Giovanni Angelucci">
+      <div class="name">Giovanni Angelucci</div>
+      <div class="research">3D blade design for radial inflow turbines</div>
+      <div class="collab">in collaboration with <a href="https://www.epfl.ch/labs/lamd/">EPFL, Laboratory for Applied Mechanical Design (LAMD)</a>, Switzerland</div>
     </div>
   </div>
 
