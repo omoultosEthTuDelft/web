@@ -101,7 +101,7 @@ title: "Photos"
   <a target="_blank" href="photos/esat2016.JPG">
     <img loading="lazy" src="photos/thumbs/esat2016.JPG" alt="ESAT 2016" width="600" height="auto">
   </a>
-  <div class="desc">At the ESAT 2026 conference with some great colleagues. People from left to right: Ioannis Economou (TAMUQ and DTU), Luis Mercer Franco (Campinas), Otto, and Doros Theodorou (NTUA and Academy of Athens) (Lisbon, Portugal, May 2026)</div>
+  <div class="desc">At the ESAT 2026 conference with some great colleagues. People from left to right: Ioannis Economou (TAMUQ and DTU), Luis Mercier Franco (Campinas), Otto, and Doros Theodorou (NTUA and Academy of Athens) (Lisbon, Portugal, May 2026)</div>
 </div>
 
 <div class="gallery">
