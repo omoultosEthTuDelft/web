@@ -56,6 +56,13 @@ title: "Photos"
 <div class="photo-masonry">
 
 <div class="gallery">
+  <a target="_blank" href="photos/thermo2026London.jpg">
+    <img loading="lazy" src="photos/thumbs/thermo2026London.jpg" alt="At the Thermodynamics 2026 conference in London" width="600" height="auto">
+  </a>
+  <div class="desc">At the Thermodynamics 2026 conference with some great colleagues. People from left to right: Luis Mercier Franco (Campinas), Ioannis Economou (TAMUQ and DTU), Otto, and Ioannis Tsimpanogiannis (London, UK, 13-15 September 2026)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/defenceTheodoros.jpg">
     <img loading="lazy" src="photos/thumbs/defenceTheodoros.jpg" alt="MSc defence of Theodoros Benai" width="600" height="auto">
   </a>
