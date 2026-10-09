@@ -9,6 +9,7 @@ title: "People"
 
 <h3>PhD students</h3>
 <div class="row phd-grid">
+  <!-- Open position card: closed for applications; uncomment and update for future openings
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
       <img src="photos/placeholder.svg" class="rounded-circle" alt="Open PhD position">
@@ -16,6 +17,7 @@ title: "People"
       <div class="research">Molecular Modeling of Hydrogen Production Processes</div>
     </div>
   </div>
+  -->
 
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
