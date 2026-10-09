@@ -59,7 +59,7 @@ title: "Photos"
   <a target="_blank" href="photos/thermo2026London.jpg">
     <img loading="lazy" src="photos/thumbs/thermo2026London.jpg" alt="At the Thermodynamics 2026 conference in London" width="600" height="auto">
   </a>
-  <div class="desc">At the Thermodynamics 2026 conference with some great colleagues. People from left to right: Luis Mercier Franco (Campinas), Ioannis Economou (TAMUQ and DTU), Otto, and Ioannis Tsimpanogiannis (<a href="https://www.certh.gr/root.en.aspx">CERTH</a>, <a href="https://www.cperi.certh.gr">CPERI</a>) (London, UK, 13-15 September 2026)</div>
+  <div class="desc">At the Thermodynamics 2026 conference with some great colleagues. People from left to right: Luis Mercier Franco (Campinas), Ioannis Economou (TAMUQ and DTU), Otto, and Ioannis Tsimpanogiannis (<a href="https://www.certh.gr/root.en.aspx">CERTH</a>, <a href="https://www.cperi.certh.gr">CPERI</a>) (London, UK, September 2026)</div>
 </div>
 
 <div class="gallery">
