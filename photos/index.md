@@ -56,6 +56,13 @@ title: "Photos"
 <div class="photo-masonry">
 
 <div class="gallery">
+  <a target="_blank" href="photos/defenceSieds.jpg">
+    <img loading="lazy" src="photos/thumbs/defenceSieds.jpg" alt="MSc defence of Sieds Lykles" width="600" height="auto">
+  </a>
+  <div class="desc"> Sieds Lykles graduated! MSc thesis on Neural Hamiltonian Monte Carlo Surrogates for Molecular Sampling. People in the photo from left to right: <a href="https://searhein.github.io/">Alexander Heinlein</a>, Sieds, and Otto. (Delft, October 2026)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/thermo2026London.jpg">
     <img loading="lazy" src="photos/thumbs/thermo2026London.jpg" alt="At the Thermodynamics 2026 conference in London" width="600" height="auto">
   </a>

@@ -62,6 +62,7 @@ title: "Alumni"
 <h3>Former MSc students</h3>
 <section markdown="1">
 
+- <span class="al-head">Sieds Lykles<span class="al-years">2026</span></span> <span class="al-topic"><strong>Neural Hamiltonian Monte Carlo Surrogates for Molecular Sampling</strong>.</span>
 - <span class="al-head">Theodoros Benai<span class="al-years">2026</span></span> <span class="al-topic"><strong>Molecular Simulation of Activated Carbons for PFAS capture</strong>.</span>
 - <span class="al-head">Gabriele Blasi<span class="al-years">2026</span></span> <span class="al-topic"><strong>[Molecular Simulation of Nanoporous Materials for PFAS Adsorption](https://repository.tudelft.nl/record/uuid:a51d3f33-810a-4c4d-9803-96201b78464f)</strong>.</span> <span class="al-now">Now doing his PhD with us!</span>
 - <span class="al-head">Omkar Dhavale<span class="al-years">2026</span></span> <span class="al-topic"><strong>[Thermodynamic modeling and molecular simulation of Molten-Salt Fuel Systems](https://repository.tudelft.nl/record/uuid:283b2912-7c0c-4137-aed9-db2b95ef119f)</strong>.</span>

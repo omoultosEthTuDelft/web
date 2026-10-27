@@ -80,15 +80,6 @@ title: "People"
 
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
-      <img src="photos/placeholder.svg" class="rounded-circle" alt="Sieds Lykles">
-      <div class="name">Sieds Lykles</div>
-      <div class="research">Boltzmann generators for molecular systems</div>
-      <div class="collab">w/ <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/applied-mathematics/people/dr-a-alexander-heinlein">Dr. Alexander Heinlein</a></div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
-    <div class="person-card">
       <img src="photos/Giovanni.jpg" class="rounded-circle" alt="Giovanni Angelucci">
       <div class="name">Giovanni Angelucci</div>
       <div class="research">3D blade design for radial inflow turbines</div>
