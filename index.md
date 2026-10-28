@@ -108,6 +108,7 @@ o.lastname@tudelft.nl
     <!-- <div style="text-align: justify;" class="col-sm-11"> -->
 
 <ul class="news-list">
+  <li class="news-item"><span class="news-icon graduation"><i class="fa-solid fa-graduation-cap"></i></span><span class="news-content"><strong>October 2026:</strong> Sarvesh Mahadevan defended his MSc thesis on Development of a digital thread of a Liquid Hydrogen tank integrating Thermo-Structural analysis. Congrats Ir. Mahadevan!</span></li>
   <li class="news-item"><span class="news-icon graduation"><i class="fa-solid fa-graduation-cap"></i></span><span class="news-content"><strong>October 2026:</strong> Sieds Lykles defended his MSc thesis on Neural Hamiltonian Monte Carlo Surrogates for Molecular Sampling. Congrats Ir. Lykles!</span></li>
   <li class="news-item"><span class="news-icon graduation"><i class="fa-solid fa-graduation-cap"></i></span><span class="news-content"><strong>September 2026:</strong> Theodoros Benai defended his MSc thesis on Molecular Simulation of Activated Carbons for PFAS capture. Congrats Ir. Benai!</span></li>
   <li class="news-item"><span class="news-icon welcome"><i class="fa-solid fa-user-plus"></i></span><span class="news-content"><strong>September 2026:</strong> Gabriele Blasi has started his PhD with us on the HARMony project. Welcome back Gabriele!</span></li>

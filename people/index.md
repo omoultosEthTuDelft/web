@@ -69,17 +69,6 @@ title: "People"
 <div class="row phd-grid">
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
-      <img src="photos/Sarvesh.jpg" class="rounded-circle" alt="Sarvesh Mahadevan">
-      <div class="name"><a href="https://www.linkedin.com/in/sarvesh-mahadevan-8362491b3/">Sarvesh Mahadevan</a></div>
-      <div class="research">Development of a digital thread of a Liquid Hydrogen tank integrating Thermo-Structural analysis</div>
-      <div class="collab">w/ <a href="https://www.tudelft.nl/en/staff/f.orefice.1/">Dr. Francesco Orefice</a></div>
-    </div>
-  </div>
-
-
-
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
-    <div class="person-card">
       <img src="photos/Giovanni.jpg" class="rounded-circle" alt="Giovanni Angelucci">
       <div class="name">Giovanni Angelucci</div>
       <div class="research">3D blade design for radial inflow turbines</div>
