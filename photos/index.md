@@ -59,7 +59,7 @@ title: "Photos"
   <a target="_blank" href="photos/defenceSarvesh.jpg">
     <img loading="lazy" src="photos/thumbs/defenceSarvesh.jpg" alt="MSc defence of Sarvesh Mahadevan" width="600" height="auto">
   </a>
-  <div class="desc"> Sarvesh Mahadevan graduated! MSc thesis on Development of a digital thread of a Liquid Hydrogen tank integrating Thermo-Structural analysis. People in the photo from left to right: <a href="https://www.tudelft.nl/en/staff/g.kelesidis/">George Kelesidis</a>, Otto, Sarvesh, and <a href="https://www.tudelft.nl/en/staff/f.orefice.1/">Francesco Orefice</a>. (Delft, October 2026)</div>
+  <div class="desc"> Sarvesh Mahadevan graduated! MSc thesis on Digitalized Workflow of a Liquid Hydrogen Tank Integrating Thermo-Structural Analysis. People in the photo from left to right: <a href="https://www.tudelft.nl/en/staff/g.kelesidis/">George Kelesidis</a>, Otto, Sarvesh, and <a href="https://www.tudelft.nl/en/staff/f.orefice.1/">Francesco Orefice</a>. (Delft, October 2026)</div>
 </div>
 
 <div class="gallery">
