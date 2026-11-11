@@ -104,6 +104,27 @@ title: "People"
   </div>
 </div>
 
+<h3>Visiting students</h3>
+<div class="row phd-grid">
+  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+    <div class="person-card">
+      <img src="photos/Kainai.jpg" class="rounded-circle" alt="Kainai Dilare">
+      <div class="name">Kainai Dilare</div>
+      <div class="research">Hydrate growth in micropores</div>
+      <div class="collab">Visiting PhD student from <a href="https://en.cug.edu.cn/">China University of Geosciences (Wuhan)</a>, China</div>
+    </div>
+  </div>
+
+  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+    <div class="person-card">
+      <img src="photos/placeholder.svg" class="rounded-circle" alt="Pamella Cristiny Carneiro da Silva">
+      <div class="name">Pamella Cristiny Carneiro da Silva</div>
+      <div class="research">Transport properties of proteins in ionic liquids</div>
+      <div class="collab">Visiting PhD student from <a href="https://www.iqm.unicamp.br/">Unicamp</a>, Brazil. Supervisor: <a href="https://m3g.github.io/">Leandro Martínez</a></div>
+    </div>
+  </div>
+</div>
+
 <h3>Interns</h3>
 <section markdown="1">
 
