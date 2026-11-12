@@ -70,6 +70,13 @@ title: "Photos"
 </div>
 
 <div class="gallery">
+  <a target="_blank" href="photos/defenceShimaTUe.jpg">
+    <img loading="lazy" src="photos/thumbs/defenceShimaTUe.jpg" alt="PhD defence of Shima Rezaie at TU/e" width="600" height="auto">
+  </a>
+  <div class="desc"> PhD defence of Shima Rezaie (TU/e, Eindhoven, October 2026)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/defenceSarvesh.jpg">
     <img loading="lazy" src="photos/thumbs/defenceSarvesh.jpg" alt="MSc defence of Sarvesh Mahadevan" width="600" height="auto">
   </a>
