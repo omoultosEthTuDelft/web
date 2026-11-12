@@ -9,7 +9,7 @@ title: "Teaching"
 
 <section markdown="1">
 
-- [ME45160 / Q2](https://brightspace.tudelft.nl/d2l/home/864757), <strong>Advcanced Applied Thermodynamics</strong>, EFPT ME Track, 5 ECTS
+- [ME45160 / Q2](https://brightspace.tudelft.nl/d2l/home/864757), <strong>Advanced Applied Thermodynamics</strong>, EFPT ME Track, 5 ECTS
 
 - [ME45211-23 / Q4](https://brightspace.tudelft.nl/d2l/home/596767), <strong>Particle-based Modeling of Fluids</strong>, EFPT ME Track, 5 ECTS
 
@@ -26,7 +26,7 @@ title: "Teaching"
 
 - [WB2543 / Q2](https://brightspace.tudelft.nl/d2l/home/501737), <strong>Process Engineering and Thermodynamics - Design Projects</strong>, BSc Mech. Eng., 6 ECTS
 
-- [ME45160 / Q2](https://brightspace.tudelft.nl/d2l/home/400934), <strong>Advcanced Applied Thermodynamics</strong>, EFPT 3mE Track, 5 ECTS
+- [ME45160 / Q2](https://brightspace.tudelft.nl/d2l/home/400934), <strong>Advanced Applied Thermodynamics</strong>, EFPT 3mE Track, 5 ECTS
 
 </section> -->
 
@@ -39,7 +39,7 @@ title: "Teaching"
 
 - [ME45211 / Q4](https://brightspace.tudelft.nl/d2l/home/400948), <strong>Introduction to Molecular Simulation</strong>, EFPT 3mE Track, 5 ECTS
 
-- [ME45160 / Q2](https://brightspace.tudelft.nl/d2l/home/400934), <strong>Advcanced Applied Thermodynamics</strong>, EFPT 3mE Track, 5 ECTS
+- [ME45160 / Q2](https://brightspace.tudelft.nl/d2l/home/400934), <strong>Advanced Applied Thermodynamics</strong>, EFPT 3mE Track, 5 ECTS
 
 </section>
  -->
