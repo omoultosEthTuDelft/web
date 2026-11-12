@@ -56,10 +56,17 @@ title: "Photos"
 <div class="photo-masonry">
 
 <div class="gallery">
+  <a target="_blank" href="photos/aiche2026MinneapolisDinner.jpg">
+    <img loading="lazy" src="photos/thumbs/aiche2026MinneapolisDinner.jpg" alt="Evening out with colleagues at the AIChE 2026 Annual Meeting in Minneapolis" width="600" height="auto">
+  </a>
+  <div class="desc">Evening out with colleagues at the AIChE 2026 Annual Meeting. People from left to right: <a href="https://research.manchester.ac.uk/en/persons/lev.sarkisov">Lev Sarkisov</a> (Manchester), Jelle Lagerweij, <a href="https://www.uva.nl/en/profile/d/u/d.dubbeldam/d.dubbeldam.html">David Dubbeldam</a> (Amsterdam), <a href="https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/snurr-randall.html">Randy Snurr</a> (Northwestern), <a href="https://chung-research-group.github.io/People.dc.html">Greg Chung</a> (Pusan), Otto, and Luis Mercier Franco (Campinas) (Minneapolis, MN, USA, November 2026)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/aiche2026Minneapolis.jpg">
     <img loading="lazy" src="photos/thumbs/aiche2026Minneapolis.jpg" alt="At the AIChE 2026 Annual Meeting in Minneapolis" width="600" height="auto">
   </a>
-  <div class="desc">At the AIChE 2026 Annual Meeting with some great colleagues. People from left to right: Otto, Luis Mercier Franco (Campinas), and <a href="https://engineering.nd.edu/faculty/edward-maginn/">Ed Maginn</a> (Notre Dame) (Minneapolis, MN, USA, November 2026)</div>
+  <div class="desc">At the University of Notre Dame reception at AIChE 2026 with Luis Mercier Franco (Campinas) and <a href="https://engineering.nd.edu/faculty/edward-maginn/">Ed Maginn</a> (Notre Dame). People from left to right: Otto, Luis, and Ed (Minneapolis, MN, USA, November 2026)</div>
 </div>
 
 <div class="gallery">
