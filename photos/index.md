@@ -66,7 +66,7 @@ title: "Photos"
   <a target="_blank" href="photos/aiche2026Minneapolis.jpg">
     <img loading="lazy" src="photos/thumbs/aiche2026Minneapolis.jpg" alt="At the AIChE 2026 Annual Meeting in Minneapolis" width="600" height="auto">
   </a>
-  <div class="desc">At the University of Notre Dame reception at AIChE 2026 with Luis Mercier Franco (Campinas) and <a href="https://engineering.nd.edu/faculty/edward-maginn/">Ed Maginn</a> (Notre Dame). People from left to right: Otto, Luis, and Ed (Minneapolis, MN, USA, November 2026)</div>
+  <div class="desc">At the University of Notre Dame reception at AIChE 2026 with Luis Mercier Franco (Campinas) and <a href="https://engineering.nd.edu/faculty/edward-maginn/">Ed Maginn</a> (Notre Dame) (Minneapolis, MN, USA, November 2026)</div>
 </div>
 
 <div class="gallery">
