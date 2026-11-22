@@ -102,6 +102,15 @@ title: "People"
       <div class="research">Generative data for training machine learning algorithms based on molecular simulations</div>
     </div>
   </div>
+
+  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+    <div class="person-card">
+      <img src="photos/Anatolii.jpg" class="rounded-circle" alt="Anatolii Salenkov">
+      <div class="name">Anatolii Salenkov</div>
+      <div class="research">Process Design and Techno-Economic Evaluation of Alternative Pygas Upgrading Routes, considering Feedstock Variability and Market Conditions</div>
+      <div class="collab">w/ Dr. Ana Somoza-Tornos (Chemical Engineering, TU Delft) and Valor International Holding, UAE</div>
+    </div>
+  </div>
 </div>
 
 <h3>Visiting students</h3>
