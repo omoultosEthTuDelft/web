@@ -62,7 +62,7 @@ title: "Alumni"
 <h3>Former MSc students</h3>
 <section markdown="1">
 
-- <span class="al-head">Alessia Bisconti<span class="al-years">2026</span></span> <span class="al-topic"><strong>Study of the kinetic limitations in LMFP and LFP batteries using ICI and EIS</strong>.</span>
+- <span class="al-head">Alessia Bisconti<span class="al-years">2026</span></span> <span class="al-topic"><strong>Higher resistance and capacity loss in commercial LMFP–LMO than LFP cathodes: an ICI–EIS comparison</strong>.</span>
 - <span class="al-head">[Sarvesh Mahadevan](https://www.linkedin.com/in/sarvesh-mahadevan-8362491b3/)<span class="al-years">2026</span></span> <span class="al-topic"><strong>Digitalized Workflow of a Liquid Hydrogen Tank Integrating Thermo-Structural Analysis</strong>.</span>
 - <span class="al-head">Sieds Lykles<span class="al-years">2026</span></span> <span class="al-topic"><strong>Neural Hamiltonian Monte Carlo Surrogates for Molecular Sampling</strong>.</span>
 - <span class="al-head">Theodoros Benai<span class="al-years">2026</span></span> <span class="al-topic"><strong>Molecular Simulation of Activated Carbons for PFAS capture</strong>.</span>
