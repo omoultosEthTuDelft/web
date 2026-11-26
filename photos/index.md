@@ -56,6 +56,13 @@ title: "Photos"
 <div class="photo-masonry">
 
 <div class="gallery">
+  <a target="_blank" href="photos/graduationAlessia.jpg">
+    <img loading="lazy" src="photos/thumbs/graduationAlessia.jpg" alt="MSc graduation of Alessia Bisconti" width="600" height="auto">
+  </a>
+  <div class="desc">MSc graduation of Alessia Bisconti, who graduated Cum Laude with a 9.5! (TU Delft, November 2026)</div>
+</div>
+
+<div class="gallery">
   <a target="_blank" href="photos/aiche2026MinneapolisDinner.jpg">
     <img loading="lazy" src="photos/thumbs/aiche2026MinneapolisDinner.jpg" alt="Evening out with colleagues at the AIChE 2026 Annual Meeting in Minneapolis" width="600" height="auto">
   </a>

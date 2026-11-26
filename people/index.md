@@ -86,14 +86,6 @@ title: "People"
     </div>
   </div>
 
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
-    <div class="person-card">
-      <img src="photos/Alessia.jpg" class="rounded-circle" alt="Alessia Bisconti">
-      <div class="name">Alessia Bisconti</div>
-      <div class="research">Study of the kinetic limitations in LMFP and LFP batteries using ICI and EIS</div>
-      <div class="collab">in collaboration with <a href="https://www.psi.ch">Paul Scherrer Institute</a>, Switzerland</div>
-    </div>
-  </div>
 
   <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
     <div class="person-card">
