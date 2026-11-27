@@ -3,46 +3,65 @@ layout: default
 #title: "Othonas (Otto) Moultos | Associate Professor, TU Delft"
 title: "Research projects"
 ---
+{% include project-art/defs.svg %}
 
 
 <section>
 <br/>
 <h3>Active projects</h3>
 
-<div class="project-card">
-  <h4>ENERSIM_TWIN</h4>
-  <p>Twinning for ML-Driven Molecular Simulation of Sustainable Energy Fluids and Materials, <strong>HORIZON-WIDERA-2026-02-WIDENING-01</strong>. With the University of Thessaly (coordinator), Centre National de la Recherche Scientifique (CNRS)/Université Montpellier, and Synapsecom S.A. <strong>co-PI</strong></p>
-  <span class="funding">336,000 Euros (total budget: 1,450,000 Euros) &middot; starting October 2026</span>
+<div class="project-card has-art">
+  <div class="project-art">{% include project-art/enersim.svg %}</div>
+  <div class="project-body">
+    <h4>ENERSIM_TWIN</h4>
+    <p>Twinning for ML-Driven Molecular Simulation of Sustainable Energy Fluids and Materials, <strong>HORIZON-WIDERA-2026-02-WIDENING-01</strong>. With the University of Thessaly (coordinator), Centre National de la Recherche Scientifique (CNRS)/Université Montpellier, and Synapsecom S.A. <strong>co-PI</strong></p>
+    <span class="funding">336,000 Euros (total budget: 1,450,000 Euros) &middot; starting October 2026</span>
+  </div>
 </div>
 
-<div class="project-card">
-  <h4>HARMOny</h4>
-  <p>Harvesting Milk Fat Globules from Oilseeds. For developing coarse-grained molecular models to study and develop plant-based dairy alternatives. <strong>NWO/Open Technology Program AES</strong>. With WUR, Botaneco, and Danone. <strong>co-PI</strong></p>
-  <span class="funding">333,000 Euros (total budget: 1,045,000 Euros) &middot; 2025 – ongoing</span>
+<div class="project-card has-art">
+  <div class="project-art">{% include project-art/harmony.svg %}</div>
+  <div class="project-body">
+    <h4>HARMOny</h4>
+    <p>Harvesting Milk Fat Globules from Oilseeds. For developing coarse-grained molecular models to study and develop plant-based dairy alternatives. <strong>NWO/Open Technology Program AES</strong>. With WUR, Botaneco, and Danone. <strong>co-PI</strong></p>
+    <span class="funding">333,000 Euros (total budget: 1,045,000 Euros) &middot; 2025 – ongoing</span>
+  </div>
 </div>
 
-<div class="project-card">
-  <h4>Revolutionizing Hydrogen Liquefaction using Carbon Nanotubes</h4>
-  <p>Experiments and simulations to investigate if hydrogen liquefaction can be achieved at temperatures way higher than usual (ca. 20 K) by using nanoporous media. <strong>NWO Open Competition Domain Science XS</strong>. <strong>PI</strong></p>
-  <span class="funding">50,000 Euros &middot; 2025 – ongoing</span>
+<div class="project-card has-art">
+  <div class="project-art">{% include project-art/h2cnt.svg %}</div>
+  <div class="project-body">
+    <h4>Revolutionizing Hydrogen Liquefaction using Carbon Nanotubes</h4>
+    <p>Experiments and simulations to investigate if hydrogen liquefaction can be achieved at temperatures way higher than usual (ca. 20 K) by using nanoporous media. <strong>NWO Open Competition Domain Science XS</strong>. <strong>PI</strong></p>
+    <span class="funding">50,000 Euros &middot; 2025 – ongoing</span>
+  </div>
 </div>
 
-<div class="project-card">
-  <h4>HyPRO</h4>
-  <p>Green Hydrogen production, <strong>NWO/Groenvermogen NL, Work Package 1</strong>. 58 parties project to develop the next generation of green and low-carbon hydrogen technologies focusing on Alkaline and PEM Water Electrolysis, High-Temperature Solid Oxide and Protonic Ceramic Electrolysers, and Anion Exchange Membranes. <strong>PI</strong></p>
-  <span class="funding">550,000 Euros (total budget: 45,000,000 Euros) &middot; 2025 – ongoing</span>
+<div class="project-card has-art">
+  <div class="project-art">{% include project-art/hypro.svg %}</div>
+  <div class="project-body">
+    <h4>HyPRO</h4>
+    <p>Green Hydrogen production, <strong>NWO/Groenvermogen NL, Work Package 1</strong>. 58 parties project to develop the next generation of green and low-carbon hydrogen technologies focusing on Alkaline and PEM Water Electrolysis, High-Temperature Solid Oxide and Protonic Ceramic Electrolysers, and Anion Exchange Membranes. <strong>PI</strong></p>
+    <span class="funding">550,000 Euros (total budget: 45,000,000 Euros) &middot; 2025 – ongoing</span>
+  </div>
 </div>
 
-<div class="project-card">
-  <h4>HyTROS</h4>
-  <p>Hydrogen Transport, Offshore and Storage, <strong>NWO/Groenvermogen NL, Work Package 2</strong>. 51 parties (public institutes and private companies) work together towards developing robust solutions for large-scale storage and transport of hydrogen. <strong>co-PI</strong></p>
-  <span class="funding">600,000 Euros (total budget: 18,000,000 Euros) &middot; 2024 – ongoing</span>
+<div class="project-card has-art">
+  <div class="project-art">{% include project-art/hytros.svg %}</div>
+  <div class="project-body">
+    <h4>HyTROS</h4>
+    <p>Hydrogen Transport, Offshore and Storage, <strong>NWO/Groenvermogen NL, Work Package 2</strong>. 51 parties (public institutes and private companies) work together towards developing robust solutions for large-scale storage and transport of hydrogen. <strong>co-PI</strong></p>
+    <span class="funding">600,000 Euros (total budget: 18,000,000 Euros) &middot; 2024 – ongoing</span>
+  </div>
 </div>
 
-<div class="project-card">
-  <h4>SYROP</h4>
-  <p>Intelligent design of sustainable Sugar(cYclodextrin) - based adsorbents for the Removal of PFAS and other Organic microPollutants from water, <strong>NWO/Open Technology Program AES</strong>. 3 industrial partners. <strong>PI</strong></p>
-  <span class="funding">1,026,000 Euros &middot; 2023 – ongoing</span>
+<div class="project-card has-art">
+  <div class="project-art">{% include project-art/syrop.svg %}</div>
+  <div class="project-body">
+    <h4>SYROP</h4>
+    <p>Intelligent design of sustainable Sugar(cYclodextrin) - based adsorbents for the Removal of PFAS and other Organic microPollutants from water, <strong>NWO/Open Technology Program AES</strong>. 3 industrial partners. <strong>PI</strong></p>
+    <span class="funding">1,026,000 Euros &middot; 2023 – ongoing</span>
+  </div>
 </div>
 
 </section>
@@ -53,58 +72,85 @@ title: "Research projects"
 
 <h3>Past projects</h3>
 
-<div class="project-card">
-  <h4>Molecular simulation of vapor liquid equilibria curves of acid-gas absorption in liquids</h4>
-  <p><strong>Private research agreement with TOTALEnergies</strong> (w/ MINES ParisTech, France). <strong>co-PI</strong></p>
-  <span class="funding">140,000 Euros + 1 PhD student &middot; 2020 – 2024</span>
+<div class="project-card has-art">
+  <div class="project-art">{% include project-art/vle.svg %}</div>
+  <div class="project-body">
+    <h4>Molecular simulation of vapor liquid equilibria curves of acid-gas absorption in liquids</h4>
+    <p><strong>Private research agreement with TOTALEnergies</strong> (w/ MINES ParisTech, France). <strong>co-PI</strong></p>
+    <span class="funding">140,000 Euros + 1 PhD student &middot; 2020 – 2024</span>
+  </div>
 </div>
 
-<div class="project-card">
-  <h4>Nano-porous materials for efficient hydrogen storage</h4>
-  <p>State-of-the-art multi-scale simulations and artificial intelligence to identify nano-porous materials for efficient hydrogen storage, <strong>ME Cohesion grant</strong> (with Materials Engineering Dept.). <strong>PI</strong></p>
-  <span class="funding">200,000 Euros &middot; 2020 – 2023</span>
+<div class="project-card has-art">
+  <div class="project-art">{% include project-art/mof.svg %}</div>
+  <div class="project-body">
+    <h4>Nano-porous materials for efficient hydrogen storage</h4>
+    <p>State-of-the-art multi-scale simulations and artificial intelligence to identify nano-porous materials for efficient hydrogen storage, <strong>ME Cohesion grant</strong> (with Materials Engineering Dept.). <strong>PI</strong></p>
+    <span class="funding">200,000 Euros &middot; 2020 – 2023</span>
+  </div>
 </div>
 
-<div class="project-card">
-  <h4>Bio-cel</h4>
-  <p>Integrated biogenic CO2 capture with electrochemical conversion to oxalic acid, <strong>RVO, Model projectplan energie en industrie 2019. Join industry projects (JIP)</strong>. Industrial partners: DMT Environmental Technology, TNO, Mestverwerking Fryslan BV, Tielo-Tech B.V. <strong>PI</strong></p>
-  <span class="funding">188,000 Euros (total budget: 468,000 Euros) &middot; 2020 – 2023</span>
+<div class="project-card has-art">
+  <div class="project-art">{% include project-art/biocel.svg %}</div>
+  <div class="project-body">
+    <h4>Bio-cel</h4>
+    <p>Integrated biogenic CO2 capture with electrochemical conversion to oxalic acid, <strong>RVO, Model projectplan energie en industrie 2019. Join industry projects (JIP)</strong>. Industrial partners: DMT Environmental Technology, TNO, Mestverwerking Fryslan BV, Tielo-Tech B.V. <strong>PI</strong></p>
+    <span class="funding">188,000 Euros (total budget: 468,000 Euros) &middot; 2020 – 2023</span>
+  </div>
 </div>
 
-<div class="project-card">
-  <h4>Hy &amp; Dry</h4>
-  <p>High pressure, high purity, dry hydrogen, <strong>RVO, Model projectplan Waterstof tender 2019. Programmalijn: Toepassing van waterstof</strong>. Industrial partners: HyET Hydrogen, Tielo-Tech B.V. <strong>co-PI</strong></p>
-  <span class="funding">251,000 Euros (total budget: 500,000 Euros) &middot; 2019 – 2022</span>
+<div class="project-card has-art">
+  <div class="project-art">{% include project-art/hydry.svg %}</div>
+  <div class="project-body">
+    <h4>Hy &amp; Dry</h4>
+    <p>High pressure, high purity, dry hydrogen, <strong>RVO, Model projectplan Waterstof tender 2019. Programmalijn: Toepassing van waterstof</strong>. Industrial partners: HyET Hydrogen, Tielo-Tech B.V. <strong>co-PI</strong></p>
+    <span class="funding">251,000 Euros (total budget: 500,000 Euros) &middot; 2019 – 2022</span>
+  </div>
 </div>
 
-<div class="project-card">
-  <h4>Hydrogen embrittlement modelling</h4>
-  <p>Towards light and eco-friendly steels: Multi-scale modelling of hydrogen embrittlement, <strong>ME Cohesion grant</strong> (with Materials Engineering and Maritime Technology Depts.). <strong>co-PI</strong></p>
-  <span class="funding">120,000 Euros &middot; 2019 – 2021</span>
+<div class="project-card has-art">
+  <div class="project-art">{% include project-art/embrittle.svg %}</div>
+  <div class="project-body">
+    <h4>Hydrogen embrittlement modelling</h4>
+    <p>Towards light and eco-friendly steels: Multi-scale modelling of hydrogen embrittlement, <strong>ME Cohesion grant</strong> (with Materials Engineering and Maritime Technology Depts.). <strong>co-PI</strong></p>
+    <span class="funding">120,000 Euros &middot; 2019 – 2021</span>
+  </div>
 </div>
 
-<div class="project-card">
-  <h4>Electrochemical conversion of CO2</h4>
-  <p>Multi-scale approach for the electrochemical conversion of carbon dioxide to value-added product, <strong>CATO – TKI (CCUS-TKI-toeslag-2013)</strong>. Industrial partner: Coval Energy. <strong>co-PI</strong></p>
-  <span class="funding">50,000 Euros (total budget: 100,000 Euros) &middot; 2017 – 2019</span>
+<div class="project-card has-art">
+  <div class="project-art">{% include project-art/eco2.svg %}</div>
+  <div class="project-body">
+    <h4>Electrochemical conversion of CO2</h4>
+    <p>Multi-scale approach for the electrochemical conversion of carbon dioxide to value-added product, <strong>CATO – TKI (CCUS-TKI-toeslag-2013)</strong>. Industrial partner: Coval Energy. <strong>co-PI</strong></p>
+    <span class="funding">50,000 Euros (total budget: 100,000 Euros) &middot; 2017 – 2019</span>
+  </div>
 </div>
 
-<div class="project-card">
-  <h4>Molecular simulation of porous materials</h4>
-  <p>Molecular simulation of porous materials and their building blocks, <strong>Process &amp; Energy startup grant</strong>. <strong>PI</strong></p>
-  <span class="funding">250,000 Euros &middot; 2017 – 2022</span>
+<div class="project-card has-art">
+  <div class="project-art">{% include project-art/porous.svg %}</div>
+  <div class="project-body">
+    <h4>Molecular simulation of porous materials</h4>
+    <p>Molecular simulation of porous materials and their building blocks, <strong>Process &amp; Energy startup grant</strong>. <strong>PI</strong></p>
+    <span class="funding">250,000 Euros &middot; 2017 – 2022</span>
+  </div>
 </div>
 
-<div class="project-card">
-  <h4>Cyclodextrin-based polymers on GPUs</h4>
-  <p>Molecular simulation of cyclodextrin-based polymers on GPUs, <strong>NVIDIA GPU Grant Program</strong></p>
-  <span class="funding">NVIDIA TITAN V GPU (3,500 Euros)</span>
+<div class="project-card has-art">
+  <div class="project-art">{% include project-art/gpu.svg %}</div>
+  <div class="project-body">
+    <h4>Cyclodextrin-based polymers on GPUs</h4>
+    <p>Molecular simulation of cyclodextrin-based polymers on GPUs, <strong>NVIDIA GPU Grant Program</strong></p>
+    <span class="funding">NVIDIA TITAN V GPU (3,500 Euros)</span>
+  </div>
 </div>
 
-<div class="project-card">
-  <h4>Research excellence travel grant</h4>
-  <p><strong>TAMUQ Advanced Scientific Computing (TASC)</strong></p>
-  <span class="funding">2,000 Euros</span>
+<div class="project-card has-art">
+  <div class="project-art">{% include project-art/travel.svg %}</div>
+  <div class="project-body">
+    <h4>Research excellence travel grant</h4>
+    <p><strong>TAMUQ Advanced Scientific Computing (TASC)</strong></p>
+    <span class="funding">2,000 Euros</span>
+  </div>
 </div>
 
 </section>

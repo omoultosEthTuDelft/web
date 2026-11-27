@@ -623,3 +623,28 @@ hr { border-color: var(--line); }
    (base styles live inline in _layouts/default.html) */
 body #chat-bubble { box-shadow: 0 0 0 3px rgba(20,184,166,.45), 0 8px 24px rgba(15,34,53,.3); }
 body #chat-bubble:hover { background: var(--accent); }
+
+/* Project cards with an illustration on the left (graphics in _includes/project-art/) */
+.project-card.has-art {
+  display: grid;
+  grid-template-columns: 120px minmax(0, 1fr);
+  column-gap: 26px;
+  align-items: start;
+  padding: 20px 26px 20px 24px;
+}
+.project-art {
+  width: 120px;
+  height: 120px;
+  border-radius: 12px;
+  overflow: hidden;
+  background:
+    radial-gradient(120px 90px at 85% 10%, rgba(20,184,166,.25), transparent 70%),
+    linear-gradient(160deg, #0b1a2a 0%, var(--ink) 55%, #12304a 100%);
+  box-shadow: inset 0 0 0 1px rgba(255,255,255,.05);
+}
+.project-art svg { display: block; width: 100%; height: 100%; transition: transform .4s ease; }
+.project-card.has-art:hover .project-art svg { transform: scale(1.06); }
+@media (max-width: 575.98px) {
+  .project-card.has-art { grid-template-columns: 76px minmax(0, 1fr); column-gap: 16px; padding: 16px; }
+  .project-art { width: 76px; height: 76px; border-radius: 10px; }
+}
