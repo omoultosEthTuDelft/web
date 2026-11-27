@@ -283,12 +283,13 @@
   }
   function renderList() {
     var list, title, scope = '';
-    if (!selected) { list = papers; title = 'All papers'; }
-    else if (selected.type === 'area') { list = selected.area.papers; title = selected.area.title; scope = selected.area.scope; }
+    var section = document.getElementById('areas-list');
+    section.hidden = !selected;          // papers appear only for a selection
+    if (!selected) { listEl.innerHTML = ''; return; }
+    if (selected.type === 'area') { list = selected.area.papers; title = selected.area.title; scope = selected.area.scope; }
     else { list = selected.bond.papers; title = selected.bond.a.title + ' + ' + selected.bond.b.title; scope = 'Papers that span both areas'; }
     listTitle.innerHTML = esc(title) + ' <span class="areas-count">' + list.length + ' paper' + (list.length === 1 ? '' : 's') + '</span>';
     listScope.textContent = scope;
-    resetBtn.hidden = !selected;
     listEl.innerHTML = list.map(function (p) {
       var tags = p.topics.map(function (t) {
         var a = byKey[t];
