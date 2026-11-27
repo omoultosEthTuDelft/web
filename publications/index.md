@@ -178,7 +178,7 @@ publications:
     pdf: "assets/publications/91.Habibi_JPCL_2024_15_4477.pdf",
     SI: "assets/publications/SI/91.Habibi_JPCL_2024_15_4477_SI.pdf",
     bib: "assets/publications/bib/91.Habibi_JPCL_2024_15_4477.bib"}
-  - { number: "90.", topics: [polymers],
+  - { number: "90.", topics: [polymers, water],
     title: "Ultrasound enhanced diffusion in hydrogels: An experimental and non-equilibrium molecular dynamics study",
     authors: "Sebastian E. N. Price, Caroline Einen, Othonas A. Moultos, Thijs J. H. Vlugt, Catharina de Lange Davies, Erika Eiser, and Anders Lervik", 
     venue: "Journal of Chemical Physics (2024) 160, 154906",
@@ -267,7 +267,7 @@ publications:
     bib: "assets/publications/bib/78.Habibi_IECR_2023_62_11992.bib",
     simulLammps: "assets/publications/SI/78.Habibi_IECR_2023_62_11992_SI_2.zip",
     simulBrick: "assets/publications/SI/78.Habibi_IECR_2023_62_11992_SI_3.zip"}
-  - { number: "77.", topics: [polymers],
+  - { number: "77.", topics: [polymers, water],
     title: "Chemical Feedback in Templated Reaction-Assembly of Polyelectrolyte Complex Micelles: A Molecular Simulation Study of the Kinetics and Clustering",
     authors: "Christos Gioldasis, Apostolos Gkamas, Othonas A. Moultos, and Costas Vlahos", 
     venue: "Polymers (2023) 15, 3024", 
@@ -350,7 +350,7 @@ publications:
     pdf: "assets/publications/66.Dawass_JPCB_2022_126_3572.pdf", 
     SI: "assets/publications/SI/66.Dawass_JPCB_2022_126_3572_SI.pdf", 
     bib: "assets/publications/bib/66.Dawass_JPCB_2022_126_3572.bib"}
-  - { number: "65.", topics: [hydrogen, water],
+  - { number: "65.", topics: [hydrogen, water, polymers],
     title: "Electro-osmotic Drag and Thermodynamic Properties of Water in Hydrated Nafion Membranes from Molecular Dynamics",
     authors: "Ahmadreza Rahbari, Remco Hartkamp, Othonas A. Moultos, Albert Bos, Leo J. P. van den Broeke, Mahinder Ramdin, David Dubbeldam, Alexey V. Lyulin, and Thijs J. H. Vlugt", 
     venue: "Journal of Physical Chemistry C (2022) 126, 8121", 
@@ -703,7 +703,7 @@ publications:
     SI: "assets/publications/SI/16.Jiang_JPCB_2016_120_12358_SI.pdf",
     simulLammps: "assets/publications/SI/16.Jiang_JPCB_2016_120_12358_SI.zip",
     bib: "assets/publications/bib/16.Jiang_JPCB_2016_120_12358.bib"}  
-  - { number: "15.", topics: [co2, methods], 
+  - { number: "15.", topics: [co2, methods, polymers], 
     title: "System-size corrections for self-diffusion coefficients calculated from molecular dynamics simulations: The case of CO2, n-alkanes, and poly(ethylene glycol) dimethyl ethers",
     authors: "Othonas A. Moultos, Yong Zhang, Ioannis N. Tsimpanogiannis, Ioannis G. Economou, Edward J. Maginn",
     venue: "Journal of Chemical Physics (2016) 145, 074109", 
