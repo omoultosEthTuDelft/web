@@ -15,7 +15,7 @@
 
   // ---------- data ----------
   var areas = DATA.areas.map(function (a) {
-    return { key: a.key, title: a.title, scope: a.scope, color: a.color, papers: [] };
+    return { key: a.key, title: a.title, scope: a.scope, color: a.color, image: a.image, papers: [] };
   });
   var byKey = {};
   areas.forEach(function (a) { byKey[a.key] = a; });
@@ -154,7 +154,15 @@
       el('stop', { offset: '0', 'stop-color': shade(a.color, 1.75) }, g);
       el('stop', { offset: '.42', 'stop-color': a.color }, g);
       el('stop', { offset: '1', 'stop-color': shade(a.color, 0.38) }, g);
+      var cp = el('clipPath', { id: 'ac-' + a.key }, defs);
+      el('circle', { r: a.r }, cp);
     });
+    // glassy highlight + darker rim laid over each picture so it reads as a sphere
+    var sh = el('radialGradient', { id: 'ar-shine', cx: '34%', cy: '28%', r: '75%' }, defs);
+    el('stop', { offset: '0', 'stop-color': '#ffffff', 'stop-opacity': '.38' }, sh);
+    el('stop', { offset: '.35', 'stop-color': '#ffffff', 'stop-opacity': '0' }, sh);
+    el('stop', { offset: '.78', 'stop-color': '#0b1a2a', 'stop-opacity': '.12' }, sh);
+    el('stop', { offset: '1', 'stop-color': '#0b1a2a', 'stop-opacity': '.6' }, sh);
     gBonds = el('g', { class: 'ar-bonds' }, svg);
     gAtoms = el('g', { class: 'ar-atoms' }, svg);
 
@@ -171,8 +179,17 @@
       var g = el('g', { class: 'ar-atom', tabindex: '0', role: 'button',
         'aria-label': a.title + ': ' + a.papers.length + ' papers' }, gAtoms);
       el('circle', { class: 'ar-halo', r: a.r + 7 }, g);
-      el('circle', { class: 'ar-sphere', r: a.r, fill: 'url(#ag-' + a.key + ')' }, g);
-      var n = el('text', { class: 'ar-count', y: FONT * 0.42, 'font-size': Math.max(FONT, a.r * 0.52),
+      el('circle', { class: 'ar-sphere', r: a.r, fill: 'url(#ag-' + a.key + ')' }, g);   // colour fallback + shadow
+      if (a.image) {
+        el('image', { href: DATA.base + '/' + a.image, x: -a.r, y: -a.r, width: 2 * a.r, height: 2 * a.r,
+          preserveAspectRatio: 'xMidYMid slice', 'clip-path': 'url(#ac-' + a.key + ')' }, g);
+        el('circle', { r: a.r, fill: 'url(#ar-shine)', 'pointer-events': 'none' }, g);
+      }
+      el('circle', { class: 'ar-ring', r: a.r - 1.5, stroke: a.color }, g);
+      // paper count in a small badge on the sphere's lower right, in the area colour
+      var br = Math.max(FONT * 0.95, a.r * 0.3), bx = a.r * 0.72, by = a.r * 0.62;
+      el('circle', { class: 'ar-badge', cx: bx, cy: by, r: br, fill: a.color }, g);
+      var n = el('text', { class: 'ar-count', x: bx, y: by + br * 0.36, 'font-size': br * 1.02,
         fill: isLight(a.color) ? '#0f2235' : '#ffffff' }, g);
       n.textContent = a.papers.length;
       var lines = wrap(a.title, 18);
