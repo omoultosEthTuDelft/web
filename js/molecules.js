@@ -1,84 +1,204 @@
-/* Hero background: a small 2-D "molecular dynamics" toy.
-   Particles drift with thermal noise, repel softly at short range, and
-   draw bonds to close neighbours. Pauses when off-screen; static frame
-   when the user prefers reduced motion. */
+/* Hero background: tumbling ball-and-stick molecules (H2, CO2, H2O, CH4,
+   N2, NH3, PFOA and beta-cyclodextrin) in CPK colours, drawn in 3-D with depth shading. Pauses when
+   off-screen; shows a still frame when the user prefers reduced motion. */
 (function () {
   var canvas = document.querySelector('.hero-canvas');
   if (!canvas || !canvas.getContext) return;
   var ctx = canvas.getContext('2d');
   var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   var dpr = Math.min(window.devicePixelRatio || 1, 2);
-  var W = 0, H = 0, parts = [], running = true, mouse = { x: -1e4, y: -1e4 };
-  var BOND = 110, R_REP = 26;
+  var W = 0, H = 0, mols = [], running = true, mouse = { x: -1e4, y: -1e4 };
+
+  // element: [base colour, display radius in Å]
+  var EL = {
+    H: ['#eef3f6', 0.31],
+    C: ['#5d6872', 0.48],
+    O: ['#e4434b', 0.46],
+    N: ['#4a7fe0', 0.47],
+    F: ['#8fdc5a', 0.42]
+  };
+
+  // geometries in Å; bonds as index pairs
+  var t = 0.63;
+  var SPECIES = [
+    { w: 5, atoms: [['H', -0.37, 0, 0], ['H', 0.37, 0, 0]], bonds: [[0, 1]] },
+    { w: 4, atoms: [['C', 0, 0, 0], ['O', -1.16, 0, 0], ['O', 1.16, 0, 0]], bonds: [[0, 1, 2], [0, 2, 2]] },
+    { w: 4, atoms: [['O', 0, -0.12, 0], ['H', 0.757, 0.47, 0], ['H', -0.757, 0.47, 0]], bonds: [[0, 1], [0, 2]] },
+    { w: 2, atoms: [['C', 0, 0, 0], ['H', t, t, t], ['H', t, -t, -t], ['H', -t, t, -t], ['H', -t, -t, t]], bonds: [[0, 1], [0, 2], [0, 3], [0, 4]] },
+    { w: 2, atoms: [['N', -0.55, 0, 0], ['N', 0.55, 0, 0]], bonds: [[0, 1, 2]] },
+    { w: 1, atoms: [['N', 0, 0, 0.12], ['H', 0.94, 0, -0.27], ['H', -0.47, 0.81, -0.27], ['H', -0.47, -0.81, -0.27]], bonds: [[0, 1], [0, 2], [0, 3]] }
+  ];
+  SPECIES.push(pfoa(), cyclodextrin());
+  SPECIES.forEach(centre);
+  var bag = [];
+  SPECIES.forEach(function (s, i) { for (var k = 0; k < s.w; k++) bag.push(i); });
+
+  // PFOA: CF3(CF2)6COOH, planar zig-zag backbone, heavy atoms only
+  function pfoa() {
+    var A = [], B = [], i, sg, c, prev = -1;
+    for (i = 0; i < 8; i++) {
+      sg = i % 2 ? 1 : -1;
+      c = A.length; A.push(['C', i * 1.27, sg * 0.42, 0]);
+      if (prev >= 0) B.push([prev, c]);
+      prev = c;
+      if (i < 7) {                                   // two F per CF2 (three on CF3)
+        A.push(['F', i * 1.27, sg * 1.05, 1.1]); B.push([c, A.length - 1]);
+        A.push(['F', i * 1.27, sg * 1.05, -1.1]); B.push([c, A.length - 1]);
+        if (i === 0) { A.push(['F', -1.3, -0.1, 0]); B.push([c, A.length - 1]); }
+      } else {                                       // carboxylic acid head
+        A.push(['O', i * 1.27 + 0.55, sg * 1.5, 0]); B.push([c, A.length - 1, 2]);
+        A.push(['O', i * 1.27 + 1.25, -0.25, 0]);   B.push([c, A.length - 1]);
+      }
+    }
+    return { w: 2, k: 0.62, atoms: A, bonds: B };
+  }
+
+  // beta-cyclodextrin: 7 glucopyranose rings on a truncated cone, joined by
+  // glycosidic oxygens; hydroxyl oxygens on both rims (heavy atoms only)
+  function cyclodextrin() {
+    var A = [], B = [], n = 7, R = 5.4, u, k, firstC4 = [], lastC1 = [];
+    function add(e, p) { A.push([e, p[0], p[1], p[2]]); return A.length - 1; }
+    function comb(c, v, s) { return [c[0] + v[0] * s, c[1] + v[1] * s, c[2] + v[2] * s]; }
+    function norm(v) { var l = Math.sqrt(v[0] * v[0] + v[1] * v[1] + v[2] * v[2]); return [v[0] / l, v[1] / l, v[2] / l]; }
+    for (u = 0; u < n; u++) {
+      var th = u * 2 * Math.PI / n,
+          r = [Math.cos(th), Math.sin(th), 0], t = [-Math.sin(th), Math.cos(th), 0],
+          a = norm([-0.28 * r[0], -0.28 * r[1], 1]),          // tilt: narrow (primary) rim on top
+          c = [R * r[0], R * r[1], 0], ring = [];
+      // ring order C1, C2, C3, C4, C5, O5 at hexagon angles 0, -60, -120, 180, 120, 60
+      var ang = [0, -60, -120, 180, 120, 60], el = ['C', 'C', 'C', 'C', 'C', 'O'];
+      for (k = 0; k < 6; k++) {
+        var f = ang[k] * Math.PI / 180;
+        ring.push(add(el[k], comb(comb(c, t, 1.45 * Math.cos(f)), a, 1.45 * Math.sin(f))));
+      }
+      for (k = 0; k < 6; k++) B.push([ring[k], ring[(k + 1) % 6]]);
+      var P = function (i) { return A[i].slice(1); };
+      var down = norm([r[0] * 0.6 - a[0] * 0.8, r[1] * 0.6 - a[1] * 0.8, -a[2] * 0.8]);
+      B.push([ring[1], add('O', comb(P(ring[1]), down, 1.43))]);   // O2 (wide rim)
+      B.push([ring[2], add('O', comb(P(ring[2]), down, 1.43))]);   // O3 (wide rim)
+      var c6 = add('C', comb(P(ring[4]), norm([a[0] + 0.3 * r[0], a[1] + 0.3 * r[1], a[2]]), 1.5));
+      B.push([ring[4], c6]);
+      B.push([c6, add('O', comb(P(c6), a, 1.43))]);                 // O6 (narrow rim)
+      firstC4.push(ring[3]); lastC1.push(ring[0]);
+    }
+    for (u = 0; u < n; u++) {                                       // glycosidic O4 bridges
+      var p1 = A[lastC1[u]], p2 = A[firstC4[(u + 1) % n]];
+      var mid = [(p1[1] + p2[1]) / 2, (p1[2] + p2[2]) / 2, (p1[3] + p2[3]) / 2];
+      var ml = Math.sqrt(mid[0] * mid[0] + mid[1] * mid[1]);
+      mid[0] += mid[0] / ml * 0.5; mid[1] += mid[1] / ml * 0.5;
+      var o = add('O', mid);
+      B.push([lastC1[u], o], [o, firstC4[(u + 1) % n]]);
+    }
+    return { w: 1, k: 0.4, atoms: A, bonds: B, big: true };
+  }
+
+  function centre(sp) {
+    var cx = 0, cy = 0, cz = 0, n = sp.atoms.length, i;
+    for (i = 0; i < n; i++) { cx += sp.atoms[i][1]; cy += sp.atoms[i][2]; cz += sp.atoms[i][3]; }
+    for (i = 0; i < n; i++) { sp.atoms[i][1] -= cx / n; sp.atoms[i][2] -= cy / n; sp.atoms[i][3] -= cz / n; }
+    sp.k = sp.k || 1;
+  }
+
+  // pre-rendered shaded spheres, one per element
+  var SPR = 64, sprites = {};
+  Object.keys(EL).forEach(function (e) {
+    var c = document.createElement('canvas'); c.width = c.height = SPR;
+    var g = c.getContext('2d'), r = SPR / 2;
+    var grad = g.createRadialGradient(r * 0.7, r * 0.65, r * 0.08, r, r, r);
+    grad.addColorStop(0, '#ffffff');
+    grad.addColorStop(0.25, EL[e][0]);
+    grad.addColorStop(1, shade(EL[e][0], 0.35));
+    g.fillStyle = grad; g.beginPath(); g.arc(r, r, r - 0.5, 0, 6.2832); g.fill();
+    sprites[e] = c;
+  });
+  function shade(hex, f) {
+    var n = parseInt(hex.slice(1), 16);
+    return 'rgb(' + Math.round((n >> 16) * f) + ',' + Math.round(((n >> 8) & 255) * f) + ',' + Math.round((n & 255) * f) + ')';
+  }
+
+  function spawn(anywhere) {
+    var sp = SPECIES[bag[(Math.random() * bag.length) | 0]];
+    var z = Math.random() * (sp.k < 1 ? 0.7 : 1);   // 0 = far, 1 = near; big molecules stay back
+    return {
+      sp: sp,
+      x: Math.random() * W, y: anywhere ? Math.random() * H : H + 140,
+      z: z,
+      scale: 16 + z * 30,                     // px per Å
+      vx: (Math.random() - 0.5) * 0.25, vy: -(0.08 + Math.random() * 0.22) * (0.6 + z),
+      ax: Math.random() * 6.28, ay: Math.random() * 6.28, az: Math.random() * 6.28,
+      wx: (Math.random() - 0.5) * 0.012, wy: (Math.random() - 0.5) * 0.014, wz: (Math.random() - 0.5) * 0.008
+    };
+  }
 
   function resize() {
     var r = canvas.getBoundingClientRect();
     W = r.width; H = r.height;
     canvas.width = W * dpr; canvas.height = H * dpr;
     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-    var n = Math.round(Math.min(110, Math.max(35, (W * H) / 11000)));
-    while (parts.length < n) parts.push(spawn());
-    parts.length = n;
-  }
-
-  function spawn() {
-    var big = Math.random() < 0.18;               // a few "heavy atoms"
-    return {
-      x: Math.random() * W, y: Math.random() * H,
-      vx: (Math.random() - 0.5) * 0.5, vy: (Math.random() - 0.5) * 0.5,
-      r: big ? 2.6 + Math.random() * 1.4 : 1.2 + Math.random() * 1.0,
-      hot: Math.random() < 0.12                     // accent-coloured species
-    };
+    var n = Math.round(Math.min(32, Math.max(10, (W * H) / 24000)));
+    while (mols.length < n) mols.push(spawn(true));
+    mols.length = n;
   }
 
   function step() {
-    var i, j, a, b, dx, dy, d2, d, f;
-    for (i = 0; i < parts.length; i++) {
-      a = parts[i];
-      for (j = i + 1; j < parts.length; j++) {
-        b = parts[j];
-        dx = a.x - b.x; dy = a.y - b.y; d2 = dx * dx + dy * dy;
-        if (d2 < R_REP * R_REP && d2 > 0.01) {
-          d = Math.sqrt(d2); f = (R_REP - d) / R_REP * 0.03;
-          dx /= d; dy /= d;
-          a.vx += dx * f; a.vy += dy * f; b.vx -= dx * f; b.vy -= dy * f;
-        }
-      }
-      // pointer pushes particles away gently
-      dx = a.x - mouse.x; dy = a.y - mouse.y; d2 = dx * dx + dy * dy;
-      if (d2 < 120 * 120) { d = Math.sqrt(d2) || 1; a.vx += dx / d * 0.08; a.vy += dy / d * 0.08; }
-      // thermostat-ish: noise + damping
-      a.vx = a.vx * 0.985 + (Math.random() - 0.5) * 0.04;
-      a.vy = a.vy * 0.985 + (Math.random() - 0.5) * 0.04;
-      a.x += a.vx; a.y += a.vy;
-      // periodic boundary conditions, naturally
-      if (a.x < -10) a.x += W + 20; else if (a.x > W + 10) a.x -= W + 20;
-      if (a.y < -10) a.y += H + 20; else if (a.y > H + 10) a.y -= H + 20;
+    for (var i = 0; i < mols.length; i++) {
+      var m = mols[i];
+      var dx = m.x - mouse.x, dy = m.y - mouse.y, d2 = dx * dx + dy * dy;
+      if (d2 < 140 * 140) { var d = Math.sqrt(d2) || 1; m.vx += dx / d * 0.05; m.vy += dy / d * 0.05; m.wy += 0.0008; }
+      m.vx *= 0.99; m.vy = m.vy * 0.99 - 0.002 * (0.6 + m.z);
+      m.x += m.vx; m.y += m.vy;
+      m.ax += m.wx; m.ay += m.wy; m.az += m.wz;
+      if (m.y < -160 || m.x < -160 || m.x > W + 160) { mols[i] = spawn(false); mols[i].y = H + 140; }
     }
+  }
+
+  function project(m) {
+    var cx = Math.cos(m.ax), sx = Math.sin(m.ax), cy = Math.cos(m.ay), sy = Math.sin(m.ay),
+        cz = Math.cos(m.az), sz = Math.sin(m.az), out = [], sc = m.scale * m.sp.k;
+    for (var k = 0; k < m.sp.atoms.length; k++) {
+      var a = m.sp.atoms[k], x = a[1], y = a[2], z = a[3], t1;
+      t1 = y * cx - z * sx; z = y * sx + z * cx; y = t1;     // rotate X
+      t1 = x * cy + z * sy; z = -x * sy + z * cy; x = t1;    // rotate Y
+      t1 = x * cz - y * sz; y = x * sz + y * cz; x = t1;     // rotate Z
+      out.push({ e: a[0], x: m.x + x * sc, y: m.y + y * sc, z: z, r: EL[a[0]][1] * sc });
+    }
+    return out;
   }
 
   function draw() {
     ctx.clearRect(0, 0, W, H);
-    var i, j, a, b, dx, dy, d2, al;
-    ctx.lineWidth = 1;
-    for (i = 0; i < parts.length; i++) {
-      a = parts[i];
-      for (j = i + 1; j < parts.length; j++) {
-        b = parts[j];
-        dx = a.x - b.x; dy = a.y - b.y; d2 = dx * dx + dy * dy;
-        if (d2 < BOND * BOND) {
-          al = (1 - Math.sqrt(d2) / BOND) * 0.35;
-          ctx.strokeStyle = 'rgba(125, 211, 200,' + al.toFixed(3) + ')';
-          ctx.beginPath(); ctx.moveTo(a.x, a.y); ctx.lineTo(b.x, b.y); ctx.stroke();
+    mols.sort(function (a, b) { return a.z - b.z; });     // far first
+    for (var i = 0; i < mols.length; i++) {
+      var m = mols[i], at = project(m);
+      // fade molecules behind the text column (left side) so it stays readable
+      var fx = Math.min(1, Math.max(0, (m.x / W - 0.3) / 0.4));
+      ctx.globalAlpha = (0.35 + 0.6 * m.z) * (0.3 + 0.7 * fx);
+      // bonds
+      ctx.lineCap = 'round';
+      for (var b = 0; b < m.sp.bonds.length; b++) {
+        var p = at[m.sp.bonds[b][0]], q = at[m.sp.bonds[b][1]];
+        ctx.strokeStyle = 'rgba(190, 205, 215, 0.85)';
+        var es = m.scale * m.sp.k;
+        if (m.sp.bonds[b][2] === 2) {
+          var nx = -(q.y - p.y), ny = q.x - p.x, nl = Math.sqrt(nx * nx + ny * ny) || 1, o = es * 0.09;
+          nx = nx / nl * o; ny = ny / nl * o;
+          ctx.lineWidth = Math.max(1, es * 0.08);
+          line(p.x + nx, p.y + ny, q.x + nx, q.y + ny); line(p.x - nx, p.y - ny, q.x - nx, q.y - ny);
+        } else {
+          ctx.lineWidth = Math.max(1.2, es * 0.13);
+          line(p.x, p.y, q.x, q.y);
         }
       }
+      // atoms, back to front
+      at.sort(function (a, b) { return a.z - b.z; });
+      for (var k = 0; k < at.length; k++) {
+        var A = at[k];
+        ctx.drawImage(sprites[A.e], A.x - A.r, A.y - A.r, A.r * 2, A.r * 2);
+      }
     }
-    for (i = 0; i < parts.length; i++) {
-      a = parts[i];
-      ctx.fillStyle = a.hot ? 'rgba(251, 146, 60, 0.9)' : 'rgba(204, 251, 241, 0.75)';
-      ctx.beginPath(); ctx.arc(a.x, a.y, a.r, 0, 6.2832); ctx.fill();
-    }
+    ctx.globalAlpha = 1;
   }
+  function line(x1, y1, x2, y2) { ctx.beginPath(); ctx.moveTo(x1, y1); ctx.lineTo(x2, y2); ctx.stroke(); }
 
   function loop() {
     if (running) { step(); draw(); }
@@ -93,7 +213,7 @@
   });
   host.addEventListener('pointerleave', function () { mouse.x = mouse.y = -1e4; });
 
-  if (reduce) { for (var k = 0; k < 200; k++) step(); draw(); return; }
+  if (reduce) { draw(); return; }
   if ('IntersectionObserver' in window) {
     new IntersectionObserver(function (es) { running = es[0].isIntersecting; }).observe(canvas);
   }

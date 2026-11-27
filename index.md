@@ -10,7 +10,6 @@ title: "Main page"
   <canvas class="hero-canvas" aria-hidden="true"></canvas>
   <div class="hero-inner">
     <div class="hero-text">
-      <p class="eyebrow">Molecular thermodynamics &middot; Energy transition</p>
       <h1 class="hero-name">Othonas <span class="hero-nick">(Otto)</span> A.&nbsp;Moultos</h1>
       <p class="hero-role">
         Associate Professor, <a href="https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/">Engineering Thermodynamics</a><br>
