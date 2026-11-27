@@ -1,6 +1,6 @@
 /* Hero background: tumbling ball-and-stick molecules (H2, CO2, H2O, CH4,
    N2, NH3, PFOA and beta-cyclodextrin) in CPK colours, mixed with
-   floating vulnerable code snippets, CWE tags and a few crawling bugs, drawn in 3-D with depth shading. Pauses when
+   floating vulnerable code snippets and CWE tags, drawn in 3-D with depth shading. Pauses when
    off-screen; shows a still frame when the user prefers reduced motion. */
 (function () {
   var canvas = document.querySelector('.hero-canvas');
@@ -118,12 +118,12 @@
   function pick(a) { return a[(Math.random() * a.length) | 0]; }
 
   function spawnGlyph(anywhere) {
-    var r = Math.random(), kind = r < 0.4 ? 'code' : r < 0.7 ? 'cwe' : 'bug', z = Math.random() * 0.85;
+    var kind = Math.random() < 0.55 ? 'code' : 'cwe', z = Math.random() * 0.85;
     return {
-      kind: kind, text: kind === 'code' ? pick(CODE) : kind === 'cwe' ? pick(CWES) : '',
+      kind: kind, text: kind === 'code' ? pick(CODE) : pick(CWES),
       x: Math.random() * W, y: anywhere ? Math.random() * H : H + 60, z: z,
       vx: (Math.random() - 0.5) * 0.2, vy: -(0.06 + Math.random() * 0.18) * (0.6 + z),
-      rot: (Math.random() - 0.5) * 0.16, wr: (Math.random() - 0.5) * 0.001, t: Math.random() * 100
+      rot: (Math.random() - 0.5) * 0.16, wr: (Math.random() - 0.5) * 0.001
     };
   }
 
@@ -131,15 +131,10 @@
     for (var i = 0; i < glyphs.length; i++) {
       var g = glyphs[i];
       var dx = g.x - mouse.x, dy = g.y - mouse.y, d2 = dx * dx + dy * dy;
-      if (d2 < 140 * 140) { var d = Math.sqrt(d2) || 1, f = g.kind === 'bug' ? 0.25 : 0.05; g.vx += dx / d * f; g.vy += dy / d * f; }
-      if (g.kind === 'bug') {                       // bugs wander and crawl
-        g.vx += (Math.random() - 0.5) * 0.06;
-        g.vx *= 0.96; g.vy = g.vy * 0.96 - 0.012;
-      } else {
-        g.vx *= 0.99; g.vy = g.vy * 0.99 - 0.002 * (0.6 + g.z);
-        g.rot += g.wr; if (Math.abs(g.rot) > 0.12) g.wr = -g.wr;
-      }
-      g.x += g.vx; g.y += g.vy; g.t++;
+      if (d2 < 140 * 140) { var d = Math.sqrt(d2) || 1; g.vx += dx / d * 0.05; g.vy += dy / d * 0.05; }
+      g.vx *= 0.99; g.vy = g.vy * 0.99 - 0.002 * (0.6 + g.z);
+      g.rot += g.wr; if (Math.abs(g.rot) > 0.12) g.wr = -g.wr;
+      g.x += g.vx; g.y += g.vy;
       if (g.y < -60 || g.x < -220 || g.x > W + 220) glyphs[i] = spawnGlyph(false);
     }
   }
@@ -166,7 +161,7 @@
       ctx.beginPath();
       for (var x = -w / 2, k = 0; x <= w / 2; x += 2, k++) ctx.lineTo(x, fs * 0.8 + (k % 2 ? 1.6 : -0.4));
       ctx.stroke();
-    } else if (g.kind === 'cwe') {
+    } else {
       var f2 = 10 + g.z * 5, pw, ph = f2 + 10;
       ctx.rotate(g.rot);
       ctx.font = '600 ' + f2 + 'px ' + MONO;
@@ -176,26 +171,6 @@
       ctx.strokeStyle = 'rgba(240, 138, 60, 0.85)'; ctx.lineWidth = 1; ctx.stroke();
       ctx.fillStyle = '#ffb27a';
       ctx.fillText(g.text, 0, 0.5);
-    } else {
-      var sz = 7 + g.z * 9, wig = Math.sin(g.t * 0.35) * 0.35, side, j;
-      ctx.rotate(Math.atan2(g.vy, g.vx) + Math.PI / 2);
-      ctx.strokeStyle = 'rgba(255, 140, 90, 0.9)'; ctx.lineWidth = Math.max(1, sz * 0.12); ctx.lineCap = 'round';
-      for (side = -1; side <= 1; side += 2) {      // six legs
-        for (j = -1; j <= 1; j++) {
-          var a = side * (Math.PI / 2 + j * 0.55 + (j === 0 ? wig : -wig) * side);
-          ctx.beginPath(); ctx.moveTo(side * sz * 0.3, j * sz * 0.35);
-          ctx.lineTo(side * sz * 0.3 + Math.sin(a) * sz * 0.75 * side * side, j * sz * 0.35 - Math.cos(a) * sz * 0.75);
-          ctx.stroke();
-        }
-        ctx.beginPath(); ctx.moveTo(side * sz * 0.12, -sz * 0.85);   // antennae
-        ctx.lineTo(side * sz * 0.45, -sz * 1.35); ctx.stroke();
-      }
-      ctx.fillStyle = '#e8573a';
-      ctx.beginPath(); ctx.ellipse(0, sz * 0.1, sz * 0.42, sz * 0.62, 0, 0, 6.2832); ctx.fill();
-      ctx.fillStyle = '#7a2414';
-      ctx.beginPath(); ctx.arc(0, -sz * 0.68, sz * 0.26, 0, 6.2832); ctx.fill();
-      ctx.strokeStyle = 'rgba(122, 36, 20, 0.8)'; ctx.lineWidth = Math.max(0.8, sz * 0.07);
-      ctx.beginPath(); ctx.moveTo(0, -sz * 0.45); ctx.lineTo(0, sz * 0.7); ctx.stroke();   // wing split
     }
     ctx.restore();
   }
@@ -209,7 +184,7 @@
     textBox = { l: a.left - c.left - 30, r: a.right - c.left + 30, t: a.top - c.top - 20, b: a.bottom - c.top + 20 };
   }
   function textFade(g) {
-    if (!textBox || g.kind === 'bug') return 1;
+    if (!textBox) return 1;
     var dx = Math.max(textBox.l - g.x, 0, g.x - textBox.r), dy = Math.max(textBox.t - g.y, 0, g.y - textBox.b);
     return Math.min(1, 0.08 + Math.max(dx, dy) / 90);
   }
