@@ -1,6 +1,5 @@
 /* Research areas page (/areas/) — the "molecule" of research areas + paper list */
 
-.areas-intro p { max-width: 46em; color: var(--muted); }
 
 .areas-stage {
   position: relative;
