@@ -45,7 +45,18 @@
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-    <a class="navbar-brand" href="{{ site.url }}">Othonas (Otto) A. Moultos</a>
+    <a class="navbar-brand brand-molecule" href="{{ site.url }}" title="Home — Othonas Moultos" aria-label="Home">
+      <svg viewBox="0 0 48 40" width="44" height="37" aria-hidden="true">
+        <defs>
+          <radialGradient id="bmO" cx="38%" cy="34%" r="70%"><stop offset="0" stop-color="#ffb0b3"/><stop offset=".35" stop-color="#e4434b"/><stop offset="1" stop-color="#8e1f26"/></radialGradient>
+          <radialGradient id="bmH" cx="38%" cy="34%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset=".45" stop-color="#e6ecf0"/><stop offset="1" stop-color="#93a3af"/></radialGradient>
+        </defs>
+        <g stroke="#6b7b88" stroke-width="2.6" stroke-linecap="round"><line x1="24" y1="13" x2="6.5" y2="31.5"/><line x1="24" y1="13" x2="41.5" y2="31.5"/></g>
+        <circle cx="6.5" cy="31.5" r="5.8" fill="url(#bmH)"/>
+        <circle cx="41.5" cy="31.5" r="5.8" fill="url(#bmH)"/>
+        <circle cx="24" cy="13" r="9.5" fill="url(#bmO)"/>
+      </svg>
+    </a>
     <div class="collapse navbar-collapse w-100" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item dropdown">
