@@ -3,7 +3,7 @@
 
 .areas-stage {
   position: relative;
-  margin: 18px 0 30px;
+  margin: 28px 0 30px;
   border-radius: 20px;
   overflow: hidden;
   background:
@@ -13,6 +13,12 @@
   box-shadow: var(--shadow-md);
 }
 .areas-stage svg { display: block; width: 100%; height: auto; }
+.areas-stage-title {
+  margin: 0; padding: 26px 32px 0;
+  font-family: var(--font-display); font-size: clamp(1.5rem, 3vw, 2.1rem); font-weight: 700;
+  color: #fff; letter-spacing: -0.02em;
+}
+.areas-stage-title::before { display: none; }   /* no accent bar inside the dark panel */
 
 /* bonds */
 .ar-bond { cursor: pointer; outline: none; }
