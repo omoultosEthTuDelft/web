@@ -14,9 +14,9 @@ title: "Scientific software"
   .sw-card {
     padding: 20px;
     background: #fff;
-    border: 1px solid #e8e8e8;
-    border-top: 3px solid #3973ac;
-    border-radius: 6px;
+    border: 1px solid var(--line);
+    border-top: 3px solid var(--accent);
+    border-radius: var(--radius);
     transition: box-shadow 0.3s ease;
     text-align: center;
   }
@@ -26,7 +26,7 @@ title: "Scientific software"
   }
 
   .sw-card h4 {
-    color: #2c3e50;
+    color: var(--ink);
     margin-bottom: 15px;
     font-size: 1.05rem;
     font-weight: 600;
@@ -45,18 +45,18 @@ title: "Scientific software"
   .sw-links a {
     text-decoration: none;
     color: #fff;
-    background-color: #3973ac;
+    background-color: var(--accent);
     padding: 6px 14px;
     border-radius: 5px;
     font-weight: 500;
     font-size: 0.85em;
-    border: 1px solid #2e6699;
+    border: 1px solid var(--accent);
     transition: background-color 0.2s ease;
   }
 
   .sw-links a:hover {
-    background-color: #1a5276;
-    border-color: #1a5276;
+    background-color: var(--accent-ink);
+    border-color: var(--accent-ink);
     color: #fff;
   }
 
@@ -67,7 +67,7 @@ title: "Scientific software"
   .sw-card .gallery img {
     width: 100%;
     height: auto;
-    border-radius: 6px;
+    border-radius: var(--radius);
     margin-top: 15px;
     transition: transform 0.2s ease;
   }

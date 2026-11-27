@@ -15,7 +15,7 @@ title: "Alumni"
     column-gap: 18px;
     margin-bottom: 10px;
     padding-bottom: 10px;
-    border-bottom: 1px solid #e7e1d4;
+    border-bottom: 1px solid var(--line);
     text-align: left;
   }
   #people section ul > li:last-child { border-bottom: none; }

@@ -6,15 +6,36 @@ title: "Main page"
 <!-- - - - - - - - - - - - - - - - -->
 
 
-<div id="top" class="row">
-<div class="col-sm-8">
-<!-- <h3> Othonas Moultos </h3> -->
-<br/>
-<p class="lead" style="font-size: 130%"><strong>
-Associate Professor, <a href="https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/">Engineering Thermodynamics</a> <br/>Department of <a href="https://www.tudelft.nl/me/over/afdelingen/process-energy">Process & Energy</a>,<br/> Faculty of <a href="https://www.tudelft.nl/3me/">Mechanical Engineering</a>, <br/><a href="http://www.tudelft.nl/">Delft University of Technology</a>
-<br>& <br>AI Engineer, <a href="https://www.endorlabs.com">Endor Labs</a>.</strong>
-</p>
+<section class="hero" aria-label="Introduction">
+  <canvas class="hero-canvas" aria-hidden="true"></canvas>
+  <div class="hero-inner">
+    <div class="hero-text">
+      <p class="eyebrow">Molecular thermodynamics &middot; Energy transition</p>
+      <h1 class="hero-name">Othonas <span class="hero-nick">(Otto)</span> A.&nbsp;Moultos</h1>
+      <p class="hero-role">
+        Associate Professor, <a href="https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/">Engineering Thermodynamics</a><br>
+        Department of <a href="https://www.tudelft.nl/me/over/afdelingen/process-energy">Process &amp; Energy</a>, Faculty of <a href="https://www.tudelft.nl/3me/">Mechanical Engineering</a>,
+        <a href="http://www.tudelft.nl/">Delft University of Technology</a>
+      </p>
+      <p class="hero-role hero-role-alt">&amp; AI Engineer at <a href="https://www.endorlabs.com">Endor Labs</a></p>
+      <div class="hero-links">
+        <a href="https://github.com/omoultosEthTuDelft" title="GitHub"><i class="fa-brands fa-github"></i><span>GitHub</span></a>
+        <a href="https://scholar.google.ca/citations?user=r6fFwkQAAAAJ&hl=en" title="Google Scholar"><i class="fa-solid fa-graduation-cap"></i><span>Scholar</span></a>
+        <a href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge" title="LinkedIn"><i class="fa-brands fa-linkedin-in"></i><span>LinkedIn</span></a>
+        <a href="https://www.researchgate.net/profile/Othon-Moultos" title="ResearchGate"><i class="fa-brands fa-researchgate"></i><span>ResearchGate</span></a>
+        <a href="https://orcid.org/my-orcid?orcid=0000-0001-7477-9684" title="ORCID"><i class="fa-brands fa-orcid"></i><span>ORCID</span></a>
+      </div>
+    </div>
+    <div class="hero-photo">
+      <img src="assets/photoOtto2.jpg" alt="Othonas Moultos - Όθωνας Μούλτος">
+    </div>
+  </div>
+</section>
 
+<div id="top" class="row about">
+<div class="col-md-8">
+
+<h2 class="section-title">About</h2>
 <p class="text-justify">
 
 <!-- Before joining TU Delft, I was a research scientist at the <a href="https://www.qatar.tamu.edu/programs/chemical-engineering">Chemical Engineering Program</a> of Texas A&M University at Qatar in the group of <a href="https://www.qatar.tamu.edu/programs/chemical-engineering/faculty-and-staff/dr.-ioannis-economou">Prof. Ioannis Economou</a> working on molecular modeling of chemical mixtures relevant to CCUS proccesses. In 2014, I spent time as a postdoc in the group of <a href="https://cbe.princeton.edu/people/athanassios-panagiotopoulos">Prof. Athanassios Panagiotopoulos</a> at <a href="https://cbe.princeton.edu">Princeton University</a>. In 2013, I obtained a PhD in Physical Chemistry of Polymers from the <a href="https://www.uoi.gr/en/">University of Ioannina</a> supervised by <a href="https://chem.uoi.gr/en/meli-dep/vlachos-konstantinos/">Prof. Costas Vlahos</a>. In 2008, I graduated with an Engineering Diploma in <a href="http://www.materials.uoi.gr/en/">Materials Engineering</a> from the same university. -->
@@ -40,67 +61,22 @@ My research and teaching activities focus on the application of molecular thermo
 </div>
 -->
 
+</div>
 
-
-
+<aside class="col-md-4">
+<div class="contact-card">
+  <h6><span class="fa-solid fa-location-dot"></span> Address</h6>
+  <p>Building 34K - Office 0.250<br>Leeghwaterstraat 39<br>2628CB Delft<br>The Netherlands</p>
+  <h6><span class="fa-solid fa-phone"></span> Phone</h6>
+  <p>+ 31 (0) 15 27 81 307</p>
+  <h6><span class="fa-solid fa-envelope"></span> e-mail</h6>
+  <p>o.lastname@tudelft.nl</p>
+</div>
+</aside>
 
 </div>
 
-<div class="col-md-4">
-<br/>
-      <img src="assets/photoOtto2.jpg" class="img-thumbnail" alt="Othonas Moultos - Όθωνας Μούλτος">
-<br/><br/>
-<br/>
-<!-- <div class="col-sm-3"> -->
-
-<h6> <span class="fa-solid fa-location-dot"></span> Address</h6>
-Building 34K - Office 0.250<br/>
-Leeghwaterstraat 39<br/>
-2628CB Delft<br/>
-The Netherlands
-
-<br/><br/>
-<h6> <span class="fa-solid fa-phone"></span> Phone</h6>
-+ 31 (0) 15 27 81 307
-<br/><br/>
-<h6> <span class="fa-solid fa-envelope"></span> e-mail</h6>
-o.lastname@tudelft.nl
-
-<br/><br/>
-<h6>
-  <span class="fa-brands fa-github fa-fw"></span>
-  <a href="https://github.com/omoultosEthTuDelft">GitHub</a>
-</h6>
-
-<h6>
-  <span class="fa-solid fa-graduation-cap fa-fw"></span>
-  <a href="https://scholar.google.ca/citations?user=r6fFwkQAAAAJ&hl=en">Google Scholar</a>
-</h6>
-
-<h6>
-  <span class="fa-brands fa-linkedin fa-fw"></span>
-  <a href="https://nl.linkedin.com/in/othonas-moultos-498585a9?trk=profile-badge">LinkedIn</a>
-</h6>
-
-<h6>
-  <span class="fa-brands fa-researchgate fa-fw"></span>
-  <a href="https://www.researchgate.net/profile/Othon-Moultos">ResearchGate</a>
-</h6>
-
-<h6>
-  <span class="fa-brands fa-orcid fa-fw"></span>
-  <a href="https://orcid.org/my-orcid?orcid=0000-0001-7477-9684">ORCID</a>
-</h6>
-
-<br/><br/>
-
-</div>
-
-</div>
-
-<br/>
-<!-- - - - - - - - - - - - - - - - -->
-<h5>News</h5>
+<h2 class="section-title">News</h2>
 <div class="row-fluid">
     <div id="news" class="row">
     <div class="news-wrap">

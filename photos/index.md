@@ -18,15 +18,15 @@ title: "Photos"
   }
 
   div.gallery {
-    border: 1px solid #e7e1d4;
-    border-radius: 6px;
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
     background: #fff;
     overflow: hidden;
     transition: box-shadow 0.2s ease, border-color 0.2s ease;
   }
 
   div.gallery:hover {
-    border-color: #35597a;
+    border-color: var(--accent);
     box-shadow: 0 3px 10px rgba(0,0,0,0.1);
   }
 
