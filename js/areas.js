@@ -267,8 +267,7 @@
   var listTitle = document.getElementById('areas-list-title'),
       listScope = document.getElementById('areas-list-scope'),
       listEl = document.getElementById('areas-papers'),
-      resetBtn = document.getElementById('areas-reset'),
-      chipsEl = document.getElementById('areas-chips');
+      resetBtn = document.getElementById('areas-reset');
   resetBtn.addEventListener('click', function () { select(null); });
 
   function esc(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;'); }
@@ -277,9 +276,6 @@
     // shareable link: /areas/#hydrogen or /areas/#hydrogen+water
     var h = !s ? '' : s.type === 'area' ? s.area.key : s.bond.a.key + '+' + s.bond.b.key;
     if (history.replaceState) history.replaceState(null, '', h ? '#' + h : location.pathname);
-    Array.prototype.forEach.call(chipsEl.children, function (c) {
-      c.setAttribute('aria-pressed', s && s.type === 'area' && s.area.key === c.dataset.key ? 'true' : 'false');
-    });
   }
   function renderList() {
     var list, title, scope = '';
@@ -307,16 +303,6 @@
   listEl.addEventListener('click', function (e) {
     var b = e.target.closest('.paper-tag');
     if (b) { select({ type: 'area', area: byKey[b.dataset.key] }); stage.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'start' }); }
-  });
-
-  chipsEl.innerHTML = areas.map(function (a) {
-    return '<button type="button" class="area-chip" data-key="' + a.key + '" aria-pressed="false"><i style="background:' + a.color + '"></i>' +
-      esc(a.title) + ' <span>' + a.papers.length + '</span></button>';
-  }).join('');
-  chipsEl.addEventListener('click', function (e) {
-    var c = e.target.closest('.area-chip'); if (!c) return;
-    var a = byKey[c.dataset.key];
-    select(selected && selected.type === 'area' && selected.area === a ? null : { type: 'area', area: a });
   });
 
   // ---------- go ----------
