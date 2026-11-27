@@ -127,7 +127,7 @@ title: "People"
 
   <div class="col-12 mb-3">
     <div class="person-card">
-      <img src="photos/placeholder.svg" class="rounded-circle" alt="Pamella Cristiny Carneiro da Silva">
+      <img src="photos/Pamella.jpg" class="rounded-circle" alt="Pamella Cristiny Carneiro da Silva">
       <div class="name">Pamella Cristiny Carneiro da Silva</div>
       <div class="research">Transport properties of proteins in ionic liquids</div>
       <div class="collab">Visiting PhD student from <a href="https://www.iqm.unicamp.br/">Unicamp</a>, Brazil. Supervisor: <a href="https://m3g.github.io/main/people.html">Leandro Martínez</a></div>
