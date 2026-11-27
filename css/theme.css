@@ -259,8 +259,15 @@ hr { border-color: var(--line); }
 }
 .hero-name::before { display: none; }
 .hero-nick { font-weight: 500; color: #8fe3d8; }
-.hero-role { font-size: 1.05rem; line-height: 1.65; margin: 0 0 .5rem; color: #c3d3de; max-width: 40em; }
-.hero-role-alt { color: #9fb2c1; }
+.hero-role { font-size: 1.15rem; line-height: 1.7; margin: 0 0 .5rem; color: #e3edf3; max-width: 40em; }
+.hero-role-alt { color: #e3edf3; }
+/* keep "Delft University of Technology" on the 3rd line: the 2nd line never wraps on tablet/desktop */
+@media (min-width: 768px) { .hero-line { white-space: nowrap; } }
+@media (min-width: 768px) and (max-width: 999.98px) {
+  .hero-inner { grid-template-columns: minmax(0, 1fr) 200px; gap: 32px; }
+  .hero-photo img { width: 190px; height: 190px; }
+  .hero-role { font-size: .95rem; }
+}
 .hero a, .hero a:visited { color: #fff; background-image: linear-gradient(rgba(143,227,216,.6), rgba(143,227,216,.6)); background-size: 100% 1px; }
 .hero a:hover { color: #8fe3d8; }
 

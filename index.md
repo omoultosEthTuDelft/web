@@ -13,7 +13,7 @@ title: "Main page"
       <h1 class="hero-name">Othonas <span class="hero-nick">(Otto)</span> A.&nbsp;Moultos</h1>
       <p class="hero-role">
         Associate Professor, <a href="https://www.tudelft.nl/3me/over/afdelingen/process-energy/people/engineering-thermodynamics/">Engineering Thermodynamics</a><br>
-        Department of <a href="https://www.tudelft.nl/me/over/afdelingen/process-energy">Process &amp; Energy</a>, Faculty of <a href="https://www.tudelft.nl/3me/">Mechanical Engineering</a>,
+        <span class="hero-line">Department of <a href="https://www.tudelft.nl/me/over/afdelingen/process-energy">Process &amp; Energy</a>, Faculty of <a href="https://www.tudelft.nl/3me/">Mechanical Engineering</a>,</span><br>
         <a href="http://www.tudelft.nl/">Delft University of Technology</a>
       </p>
       <p class="hero-role hero-role-alt">&amp; AI Engineer at <a href="https://www.endorlabs.com">Endor Labs</a></p>
