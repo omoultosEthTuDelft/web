@@ -1,5 +1,6 @@
 /* Hero background: tumbling ball-and-stick molecules (H2, CO2, H2O, CH4,
-   N2, NH3, PFOA and beta-cyclodextrin) in CPK colours, drawn in 3-D with depth shading. Pauses when
+   N2, NH3, PFOA and beta-cyclodextrin) in CPK colours, mixed with
+   floating vulnerable code snippets, CWE tags and a few crawling bugs, drawn in 3-D with depth shading. Pauses when
    off-screen; shows a still frame when the user prefers reduced motion. */
 (function () {
   var canvas = document.querySelector('.hero-canvas');
@@ -7,7 +8,7 @@
   var ctx = canvas.getContext('2d');
   var reduce = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   var dpr = Math.min(window.devicePixelRatio || 1, 2);
-  var W = 0, H = 0, mols = [], running = true, mouse = { x: -1e4, y: -1e4 };
+  var W = 0, H = 0, mols = [], glyphs = [], tick = 0, running = true, mouse = { x: -1e4, y: -1e4 };
 
   // element: [base colour, display radius in Å]
   var EL = {
@@ -99,6 +100,125 @@
     sp.k = sp.k || 1;
   }
 
+  // ---- software-security flotsam ----
+  var CODE = [
+    'eval(user_input)', 'strcpy(buf, argv[1]);', '"SELECT * FROM t WHERE id=" + id',
+    'pickle.loads(data)', 'os.system("ping " + host)', 'open("../../etc/passwd")',
+    'el.innerHTML = msg;', 'free(p); free(p);', 'hashlib.md5(password)',
+    'yaml.load(f)', 'requests.get(url, verify=False)', '${jndi:ldap://x/a}',
+    'merge({}, req.body)', 'gets(line);', 'exec(code, globals())'
+  ];
+  var CWES = [
+    'CWE-79 · XSS', 'CWE-89 · SQLi', 'CWE-787 · OOB write', 'CWE-416 · Use-after-free',
+    'CWE-502 · Deserialization', 'CWE-22 · Path traversal', 'CWE-78 · OS cmd injection',
+    'CWE-94 · Code injection', 'CWE-918 · SSRF', 'CWE-1321 · Prototype pollution',
+    'CWE-327 · Weak crypto', 'CWE-120 · Buffer overflow', 'CWE-295 · Cert validation'
+  ];
+  var MONO = 'ui-monospace, SFMono-Regular, Menlo, Consolas, monospace';
+  function pick(a) { return a[(Math.random() * a.length) | 0]; }
+
+  function spawnGlyph(anywhere) {
+    var r = Math.random(), kind = r < 0.4 ? 'code' : r < 0.7 ? 'cwe' : 'bug', z = Math.random() * 0.85;
+    return {
+      kind: kind, text: kind === 'code' ? pick(CODE) : kind === 'cwe' ? pick(CWES) : '',
+      x: Math.random() * W, y: anywhere ? Math.random() * H : H + 60, z: z,
+      vx: (Math.random() - 0.5) * 0.2, vy: -(0.06 + Math.random() * 0.18) * (0.6 + z),
+      rot: (Math.random() - 0.5) * 0.16, wr: (Math.random() - 0.5) * 0.001, t: Math.random() * 100
+    };
+  }
+
+  function stepGlyphs() {
+    for (var i = 0; i < glyphs.length; i++) {
+      var g = glyphs[i];
+      var dx = g.x - mouse.x, dy = g.y - mouse.y, d2 = dx * dx + dy * dy;
+      if (d2 < 140 * 140) { var d = Math.sqrt(d2) || 1, f = g.kind === 'bug' ? 0.25 : 0.05; g.vx += dx / d * f; g.vy += dy / d * f; }
+      if (g.kind === 'bug') {                       // bugs wander and crawl
+        g.vx += (Math.random() - 0.5) * 0.06;
+        g.vx *= 0.96; g.vy = g.vy * 0.96 - 0.012;
+      } else {
+        g.vx *= 0.99; g.vy = g.vy * 0.99 - 0.002 * (0.6 + g.z);
+        g.rot += g.wr; if (Math.abs(g.rot) > 0.12) g.wr = -g.wr;
+      }
+      g.x += g.vx; g.y += g.vy; g.t++;
+      if (g.y < -60 || g.x < -220 || g.x > W + 220) glyphs[i] = spawnGlyph(false);
+    }
+  }
+
+  function roundRect(x, y, w, h, r) {
+    ctx.beginPath(); ctx.moveTo(x + r, y); ctx.arcTo(x + w, y, x + w, y + h, r); ctx.arcTo(x + w, y + h, x, y + h, r);
+    ctx.arcTo(x, y + h, x, y, r); ctx.arcTo(x, y, x + w, y, r); ctx.closePath();
+  }
+
+  function drawGlyph(g, alpha) {
+    ctx.save();
+    ctx.globalAlpha = alpha;
+    ctx.translate(g.x, g.y);
+    ctx.textAlign = 'center'; ctx.textBaseline = 'middle';
+    if (g.kind === 'code') {
+      var fs = 11 + g.z * 6, w;
+      ctx.rotate(g.rot);
+      ctx.font = fs + 'px ' + MONO;
+      ctx.fillStyle = 'rgba(178, 230, 222, 0.95)';
+      ctx.fillText(g.text, 0, 0);
+      w = ctx.measureText(g.text).width;
+      // red linter squiggle under the offending line
+      ctx.strokeStyle = 'rgba(255, 99, 88, 0.95)'; ctx.lineWidth = 1.2;
+      ctx.beginPath();
+      for (var x = -w / 2, k = 0; x <= w / 2; x += 2, k++) ctx.lineTo(x, fs * 0.8 + (k % 2 ? 1.6 : -0.4));
+      ctx.stroke();
+    } else if (g.kind === 'cwe') {
+      var f2 = 10 + g.z * 5, pw, ph = f2 + 10;
+      ctx.rotate(g.rot);
+      ctx.font = '600 ' + f2 + 'px ' + MONO;
+      pw = ctx.measureText(g.text).width + 18;
+      roundRect(-pw / 2, -ph / 2, pw, ph, ph / 2);
+      ctx.fillStyle = 'rgba(240, 138, 60, 0.14)'; ctx.fill();
+      ctx.strokeStyle = 'rgba(240, 138, 60, 0.85)'; ctx.lineWidth = 1; ctx.stroke();
+      ctx.fillStyle = '#ffb27a';
+      ctx.fillText(g.text, 0, 0.5);
+    } else {
+      var sz = 7 + g.z * 9, wig = Math.sin(g.t * 0.35) * 0.35, side, j;
+      ctx.rotate(Math.atan2(g.vy, g.vx) + Math.PI / 2);
+      ctx.strokeStyle = 'rgba(255, 140, 90, 0.9)'; ctx.lineWidth = Math.max(1, sz * 0.12); ctx.lineCap = 'round';
+      for (side = -1; side <= 1; side += 2) {      // six legs
+        for (j = -1; j <= 1; j++) {
+          var a = side * (Math.PI / 2 + j * 0.55 + (j === 0 ? wig : -wig) * side);
+          ctx.beginPath(); ctx.moveTo(side * sz * 0.3, j * sz * 0.35);
+          ctx.lineTo(side * sz * 0.3 + Math.sin(a) * sz * 0.75 * side * side, j * sz * 0.35 - Math.cos(a) * sz * 0.75);
+          ctx.stroke();
+        }
+        ctx.beginPath(); ctx.moveTo(side * sz * 0.12, -sz * 0.85);   // antennae
+        ctx.lineTo(side * sz * 0.45, -sz * 1.35); ctx.stroke();
+      }
+      ctx.fillStyle = '#e8573a';
+      ctx.beginPath(); ctx.ellipse(0, sz * 0.1, sz * 0.42, sz * 0.62, 0, 0, 6.2832); ctx.fill();
+      ctx.fillStyle = '#7a2414';
+      ctx.beginPath(); ctx.arc(0, -sz * 0.68, sz * 0.26, 0, 6.2832); ctx.fill();
+      ctx.strokeStyle = 'rgba(122, 36, 20, 0.8)'; ctx.lineWidth = Math.max(0.8, sz * 0.07);
+      ctx.beginPath(); ctx.moveTo(0, -sz * 0.45); ctx.lineTo(0, sz * 0.7); ctx.stroke();   // wing split
+    }
+    ctx.restore();
+  }
+
+  // text glyphs nearly vanish while passing behind the hero text block
+  var textBox = null;
+  function measureText() {
+    var el = document.querySelector('.hero-text');
+    if (!el) return;
+    var a = el.getBoundingClientRect(), c = canvas.getBoundingClientRect();
+    textBox = { l: a.left - c.left - 30, r: a.right - c.left + 30, t: a.top - c.top - 20, b: a.bottom - c.top + 20 };
+  }
+  function textFade(g) {
+    if (!textBox || g.kind === 'bug') return 1;
+    var dx = Math.max(textBox.l - g.x, 0, g.x - textBox.r), dy = Math.max(textBox.t - g.y, 0, g.y - textBox.b);
+    return Math.min(1, 0.08 + Math.max(dx, dy) / 90);
+  }
+
+  function fade(o) {   // dim things behind the text column so it stays readable
+    var fx = Math.min(1, Math.max(0, (o.x / W - 0.3) / 0.4));
+    return (0.35 + 0.6 * o.z) * (0.3 + 0.7 * fx);
+  }
+
   // pre-rendered shaded spheres, one per element
   var SPR = 64, sprites = {};
   Object.keys(EL).forEach(function (e) {
@@ -138,6 +258,10 @@
     var n = Math.round(Math.min(32, Math.max(10, (W * H) / 24000)));
     while (mols.length < n) mols.push(spawn(true));
     mols.length = n;
+    var ng = Math.round(n * 0.3);
+    measureText();
+    while (glyphs.length < ng) glyphs.push(spawnGlyph(true));
+    glyphs.length = ng;
   }
 
   function step() {
@@ -167,12 +291,13 @@
 
   function draw() {
     ctx.clearRect(0, 0, W, H);
-    mols.sort(function (a, b) { return a.z - b.z; });     // far first
-    for (var i = 0; i < mols.length; i++) {
-      var m = mols[i], at = project(m);
-      // fade molecules behind the text column (left side) so it stays readable
-      var fx = Math.min(1, Math.max(0, (m.x / W - 0.3) / 0.4));
-      ctx.globalAlpha = (0.35 + 0.6 * m.z) * (0.3 + 0.7 * fx);
+    var all = mols.concat(glyphs);
+    all.sort(function (a, b) { return a.z - b.z; });      // far first
+    for (var i = 0; i < all.length; i++) {
+      var m = all[i];
+      if (m.kind) { drawGlyph(m, fade(m) * textFade(m)); continue; }
+      var at = project(m);
+      ctx.globalAlpha = fade(m);
       // bonds
       ctx.lineCap = 'round';
       for (var b = 0; b < m.sp.bonds.length; b++) {
@@ -201,7 +326,7 @@
   function line(x1, y1, x2, y2) { ctx.beginPath(); ctx.moveTo(x1, y1); ctx.lineTo(x2, y2); ctx.stroke(); }
 
   function loop() {
-    if (running) { step(); draw(); }
+    if (running) { step(); stepGlyphs(); draw(); }
     requestAnimationFrame(loop);
   }
 
