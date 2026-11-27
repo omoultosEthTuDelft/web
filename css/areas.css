@@ -1,0 +1,82 @@
+/* Research areas page (/areas/) — the "molecule" of research areas + paper list */
+
+.areas-intro p { max-width: 46em; color: var(--muted); }
+
+.areas-stage {
+  position: relative;
+  margin: 18px 0 14px;
+  border-radius: 20px;
+  overflow: hidden;
+  background:
+    radial-gradient(700px 360px at 85% 0%, rgba(20,184,166,.20), transparent 65%),
+    radial-gradient(500px 300px at 0% 100%, rgba(240,138,60,.08), transparent 60%),
+    linear-gradient(160deg, #0b1a2a 0%, var(--ink) 55%, #12304a 100%);
+  box-shadow: var(--shadow-md);
+}
+.areas-stage svg { display: block; width: 100%; height: auto; }
+
+/* bonds */
+.ar-bond { cursor: pointer; outline: none; }
+.ar-bond-line { stroke: rgba(190, 205, 215, .45); stroke-linecap: round; transition: stroke .25s ease, opacity .25s ease; }
+.ar-bond-hit { stroke: transparent; stroke-linecap: round; }
+.ar-bond.is-lit .ar-bond-line { stroke: rgba(143, 227, 216, .95); }
+.ar-bond.is-selected .ar-bond-line { stroke: #8fe3d8; }
+
+/* spheres */
+.ar-atom { cursor: pointer; outline: none; }
+.ar-sphere { filter: drop-shadow(0 8px 18px rgba(0,0,0,.45)); transition: opacity .25s ease; }
+.ar-halo { fill: none; stroke: rgba(143,227,216,0); stroke-width: 3; transition: stroke .25s ease; }
+.ar-atom:hover .ar-halo, .ar-atom:focus-visible .ar-halo, .ar-atom.is-main .ar-halo { stroke: rgba(143,227,216,.55); }
+.ar-atom.is-selected .ar-halo { stroke: #8fe3d8; stroke-dasharray: 5 4; }
+.ar-count { font-family: var(--font-display); font-weight: 800; text-anchor: middle; pointer-events: none; }
+.ar-label { font-family: var(--font-display); font-weight: 600; fill: #e6f1f5; text-anchor: middle; pointer-events: none;
+            paint-order: stroke; stroke: rgba(11,26,42,.85); stroke-width: 4px; stroke-linejoin: round; }
+
+/* dim everything that isn't related to the hovered / selected item */
+.areas-stage.has-focus .ar-atom:not(.is-lit) { opacity: .28; }
+.areas-stage.has-focus .ar-bond:not(.is-lit) .ar-bond-line { opacity: .12; }
+.ar-atom, .ar-bond { transition: opacity .25s ease; }
+
+.areas-tip {
+  position: absolute; z-index: 2; pointer-events: none;
+  padding: 8px 12px; border-radius: 10px; max-width: 220px;
+  background: rgba(255,255,255,.96); color: var(--ink); box-shadow: var(--shadow-md);
+  font-size: .85rem; line-height: 1.35;
+  opacity: 0; transform: translateY(4px); transition: opacity .15s ease, transform .15s ease;
+}
+.areas-tip.show { opacity: 1; transform: none; }
+.areas-tip strong { display: block; font-family: var(--font-display); }
+.areas-tip span { color: var(--muted); }
+
+/* area chips (also the keyboard / screen-reader friendly way to filter) */
+.areas-chips { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 28px; }
+.area-chip, .paper-tag {
+  display: inline-flex; align-items: center; gap: 7px;
+  border: 1px solid var(--line); background: var(--card); color: var(--ink);
+  border-radius: 999px; padding: 5px 12px; font-size: .85rem; cursor: pointer;
+  transition: border-color .2s ease, background-color .2s ease;
+}
+.area-chip i, .paper-tag i { width: 10px; height: 10px; border-radius: 50%; box-shadow: inset 0 0 0 1px rgba(15,34,53,.2); }
+.area-chip span { color: var(--muted); font-size: .78rem; }
+.area-chip:hover, .paper-tag:hover { border-color: var(--line-2); background: var(--paper-2); }
+.area-chip[aria-pressed="true"] { border-color: var(--ink); background: var(--ink); color: #fff; }
+.area-chip[aria-pressed="true"] span { color: #9fb2c1; }
+
+/* paper list */
+.areas-list-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 16px; border-bottom: 1px solid var(--line-2); padding-bottom: 8px; margin-bottom: 6px; }
+.areas-list-head h3 { margin: 0; }
+.areas-count { font-family: var(--font-text); font-size: .9rem; font-weight: 500; color: var(--muted); margin-left: 6px; }
+.areas-list-scope { margin: 2px 0 0; color: var(--muted); font-size: .92rem; }
+.areas-reset { flex-shrink: 0; border: 1px solid var(--line-2); background: var(--card); color: var(--ink); border-radius: 999px; padding: 6px 14px; font-size: .85rem; cursor: pointer; }
+.areas-reset:hover { background: var(--ink); color: #fff; border-color: var(--ink); }
+
+.paper { display: grid; grid-template-columns: 52px minmax(0, 1fr); gap: 16px; padding: 16px 12px; margin: 0 -12px; border-bottom: 1px solid var(--line); border-radius: 10px; }
+.paper:hover { background: rgba(255,255,255,.75); }
+.paper .pub-number { margin-top: 2px; }
+.paper-meta { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; align-items: center; }
+.paper-tag { padding: 2px 10px; font-size: .75rem; }
+
+@media (max-width: 575.98px) {
+  .paper { grid-template-columns: 1fr; gap: 6px; }
+  .areas-list-head { flex-direction: column; align-items: flex-start; }
+}

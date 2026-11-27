@@ -1,0 +1,39 @@
+---
+layout: default
+title: "Research areas"
+description: "Othonas Moultos's research areas — hydrogen, CO2, water, porous materials, PFAS, deep eutectic solvents, gas hydrates, polymers and simulation methods — and how they connect through shared publications."
+---
+{% assign pubpage = site.pages | where: "url", "/publications/" | first %}
+<link href="{{ site.url }}/css/areas.css" rel="stylesheet">
+
+<section class="areas-intro">
+  <h2>Research areas</h2>
+  <p>Each sphere is a research area, sized by its number of papers. Bonds join areas that share papers, and thicker bonds mean more shared work. Click a sphere or a bond to see those papers.</p>
+</section>
+
+<div class="areas-stage" id="areas-stage">
+  <svg id="areas-svg" role="img" aria-labelledby="areas-svg-title">
+    <title id="areas-svg-title">Network of research areas connected by shared publications</title>
+  </svg>
+  <div class="areas-tip" id="areas-tip" role="status" aria-live="polite"></div>
+</div>
+
+<div class="areas-chips" id="areas-chips" aria-label="Filter papers by research area"></div>
+
+<section class="areas-list">
+  <div class="areas-list-head">
+    <div>
+      <h3 id="areas-list-title">All papers</h3>
+      <p id="areas-list-scope" class="areas-list-scope"></p>
+    </div>
+    <button type="button" class="areas-reset" id="areas-reset" hidden>Show all papers</button>
+  </div>
+  <div id="areas-papers"></div>
+</section>
+
+<script id="areas-data" type="application/json">
+{ "base": {{ site.url | jsonify }},
+  "areas": {{ site.data.research_areas | jsonify }},
+  "papers": {{ pubpage.publications | jsonify }} }
+</script>
+<script src="{{ site.url }}/js/areas.js" defer></script>

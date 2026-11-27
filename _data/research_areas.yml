@@ -1,0 +1,39 @@
+# Research areas used to group publications. Each paper in publications/index.md
+# lists one or more of these keys in its `topics` field. `color` is the sphere
+# colour on the Research areas page (/areas/).
+- key: hydrogen
+  color: "#e9eef2"
+  title: "Hydrogen"
+  scope: "Production, storage, transport and properties of hydrogen"
+- key: co2
+  color: "#8a96a0"
+  title: "CO₂"
+  scope: "Capture, conversion, storage and properties of carbon dioxide"
+- key: water
+  color: "#3b82f6"
+  title: "Water & aqueous electrolytes"
+  scope: "Structure, thermodynamics and transport of water and aqueous solutions"
+- key: porous
+  color: "#d4a72c"
+  title: "Porous materials & adsorption"
+  scope: "Zeolites, MOFs, COFs, clays and fluids in confinement"
+- key: pfas
+  color: "#8fdc5a"
+  title: "PFAS & micropollutants"
+  scope: "Removing PFAS and other organic micropollutants from water"
+- key: des
+  color: "#a78bfa"
+  title: "Deep eutectic solvents"
+  scope: "Thermodynamic and transport properties of deep eutectic solvents"
+- key: hydrates
+  color: "#7dd3fc"
+  title: "Gas hydrates"
+  scope: "Nucleation, growth and dissociation of clathrate hydrates"
+- key: polymers
+  color: "#f08a3c"
+  title: "Polymers"
+  scope: "Self-assembly of copolymers, micelles and polymer networks"
+- key: methods
+  color: "#14b8a6"
+  title: "Methods & software"
+  scope: "Simulation methods, finite-size effects, force fields and open-source software"
