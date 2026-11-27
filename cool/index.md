@@ -86,11 +86,20 @@ title: "Cool"
 <div class="cool-gallery">
 
 <div class="cool-card">
+  <video controls preload="none" poster="videos/posters/pfhxs_bea.jpg">
+    <source src="videos/pfhxs_bea.mp4" type="video/mp4">
+  </video>
+  <div class="cool-body">
+    <p class="cool-desc">Exploring zeolites for PFAS removal: a PFHxS molecule adsorbs into all-silica BEA from a solution of water and calcium chloride. Simulations by Gabriele Blasi.</p>
+  </div>
+</div>
+
+<div class="cool-card">
   <video controls preload="none" poster="videos/posters/clay-h2.jpg">
     <source src="videos/clay-h2.mp4" type="video/mp4">
   </video>
   <div class="cool-body">
-    <p class="cool-desc">MD simulation of a bulk hydrogen phase in contact pseudo-hexagonal montmorillonite nanoparticles.</p>
+    <p class="cool-desc">MD simulation of a bulk hydrogen phase in contact pseudo-hexagonal montmorillonite nanoparticles. Simulations performed by Fengyi Mi.</p>
   </div>
 </div>
 
