@@ -10,7 +10,7 @@ title: "People"
 <h3>PhD students</h3>
 <div class="row phd-grid">
   <!-- Open position card: closed for applications; uncomment and update for future openings
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+  <div class="col-12 mb-3">
     <div class="person-card">
       <img src="photos/placeholder.svg" class="rounded-circle" alt="Open PhD position">
       <div class="name"><a href="https://careers.tudelft.nl/job/Delft-PhD-Position-Molecular-Modeling-of-Hydrogen-Production-Processes-2628-CD/1363992057/">PhD position open &mdash; apply here</a></div>
@@ -19,7 +19,16 @@ title: "People"
   </div>
   -->
 
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+  <div class="col-12 mb-3">
+    <div class="person-card">
+      <img src="photos/placeholder.svg" class="rounded-circle" alt="Silvia Zironi">
+      <div class="name">Silvia Zironi</div>
+      <div class="research">Molecular simulation of membranes for electrochemical hydrogen systems</div>
+      <div class="collab">Promotors: Otto Moultos, <a href="https://thijsvlugt.github.io/website/">Thijs Vlugt</a>, Mahinder Ramdin</div>
+    </div>
+  </div>
+
+  <div class="col-12 mb-3">
     <div class="person-card">
       <img src="photos/Gabriele.jpg" class="rounded-circle" alt="Gabriele Blasi">
       <div class="name">Gabriele Blasi</div>
@@ -28,7 +37,7 @@ title: "People"
     </div>
   </div>
 
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+  <div class="col-12 mb-3">
     <div class="person-card">
       <img src="photos/Paula.jpeg" class="rounded-circle" alt="Paula De Barros Barreto">
       <div class="name">Paula De Barros Barreto</div>
@@ -37,16 +46,7 @@ title: "People"
     </div>
   </div>
 
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
-    <div class="person-card">
-      <img src="photos/Bowen.jpg" class="rounded-circle" alt="Bowen Sha">
-      <div class="name"><a href="https://www.linkedin.com/in/bowen-sha-5223982a5/">Bowen Sha</a></div>
-      <div class="research">Molecular modeling of PFAS removal with novel cyclodextrin-based adsorbents</div>
-      <div class="collab">Promotors: Otto Moultos, <a href="https://thijsvlugt.github.io/website/">Thijs Vlugt</a></div>
-    </div>
-  </div>
-
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+  <div class="col-12 mb-3">
     <div class="person-card">
       <img src="photos/Cole.JPG" class="rounded-circle" alt="Cole Brzakala">
       <div class="name"><a href="https://www.linkedin.com/in/cole-brzakala/">Cole Brzakala</a></div>
@@ -55,7 +55,16 @@ title: "People"
     </div>
   </div>
 
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+  <div class="col-12 mb-3">
+    <div class="person-card">
+      <img src="photos/Bowen.jpg" class="rounded-circle" alt="Bowen Sha">
+      <div class="name"><a href="https://www.linkedin.com/in/bowen-sha-5223982a5/">Bowen Sha</a></div>
+      <div class="research">Molecular modeling of PFAS removal with novel cyclodextrin-based adsorbents</div>
+      <div class="collab">Promotors: Otto Moultos, <a href="https://thijsvlugt.github.io/website/">Thijs Vlugt</a></div>
+    </div>
+  </div>
+
+  <div class="col-12 mb-3">
     <div class="person-card">
       <img src="photos/Jelle.jpeg" class="rounded-circle" alt="Vladimir Jelle Lagerweij">
       <div class="name"><a href="https://www.linkedin.com/in/vladimir-jelle-lagerweij-21654021b/?originalSubdomain=nl">Vladimir Jelle Lagerweij</a></div>
@@ -67,7 +76,7 @@ title: "People"
 
 <h3>MSc students</h3>
 <div class="row phd-grid">
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+  <div class="col-12 mb-3">
     <div class="person-card">
       <img src="photos/Giovanni.jpg" class="rounded-circle" alt="Giovanni Angelucci">
       <div class="name">Giovanni Angelucci</div>
@@ -77,7 +86,7 @@ title: "People"
   </div>
 
 
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+  <div class="col-12 mb-3">
     <div class="person-card">
       <img src="photos/Tim.jpeg" class="rounded-circle" alt="Tim Deutman">
       <div class="name">Tim Deutman</div>
@@ -87,7 +96,7 @@ title: "People"
   </div>
 
 
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+  <div class="col-12 mb-3">
     <div class="person-card">
       <img src="photos/Arno.jpg" class="rounded-circle" alt="Arno Soetens">
       <div class="name">Arno Soetens</div>
@@ -95,7 +104,7 @@ title: "People"
     </div>
   </div>
 
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+  <div class="col-12 mb-3">
     <div class="person-card">
       <img src="photos/Anatolii.jpg" class="rounded-circle" alt="Anatolii Salenkov">
       <div class="name">Anatolii Salenkov</div>
@@ -107,7 +116,7 @@ title: "People"
 
 <h3>Visiting students</h3>
 <div class="row phd-grid">
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+  <div class="col-12 mb-3">
     <div class="person-card">
       <img src="photos/Kainai.jpg" class="rounded-circle" alt="Kainai Dilare">
       <div class="name">Kainai Dilare</div>
@@ -116,7 +125,7 @@ title: "People"
     </div>
   </div>
 
-  <div class="col-lg-4 col-md-6 col-sm-6 mb-4">
+  <div class="col-12 mb-3">
     <div class="person-card">
       <img src="photos/placeholder.svg" class="rounded-circle" alt="Pamella Cristiny Carneiro da Silva">
       <div class="name">Pamella Cristiny Carneiro da Silva</div>
